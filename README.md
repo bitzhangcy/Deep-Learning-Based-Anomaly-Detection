@@ -28,8 +28,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
-
 ## [Survey papers](#content)
 
 1. **Deep learning for anomaly detection: A review.** ACM Computing Surveys, 2022. [paper](https://dl.acm.org/doi/10.1145/3439950)
@@ -75,6 +73,8 @@ Contributed by Chunyang Zhang.
 1. **A survey of network anomaly detection techniques.** Journal of Network and Computer Applications, 2016. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804515002891)
 
    *Mohiuddin Ahmed, Abdun Naser Mahmood, and JiankunHu.* 
+
+
 
 ## [Methods](#content) 
 
