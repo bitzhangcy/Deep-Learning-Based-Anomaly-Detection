@@ -22,8 +22,12 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#reinforcement-learning">2.6 Reinforcement Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#graph-network">2.7 Graph Network</a></td>
-    <td>&ensp;<a href="#lstm">2.8 LSTM</a></td>
+    <td>&ensp;<a href="#diffusion-model">2.7 Diffusion Model</a></td>
+    <td>&ensp;<a href="#graph-network">2.8 Graph Network</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#lstm">2.9 LSTM</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
 <tr>
@@ -254,6 +258,15 @@ Contributed by Chunyang Zhang.
 1. **Meta-AAD: Active anomaly detection with deep reinforcement learning.** ICDM, 2020. [paper](https://ieeexplore.ieee.org/document/9338270)
 
    *Daochen Zha, Kwei-Herng Lai, Mingyang Wan, and Xia Hu.* 
+
+### [Diffusion Model](#content)
+1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
+
+   *Julian Wyatt, Adam Leach, Sebastian M. Schmon, and Chris G. Willcocks.* 
+
+1. **Diffusion models for medical anomaly detection.** MICCAI, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_4)
+
+   *Julia Wolleb, Florentin Bieder, Robin Sandkühler, and Philippe C. Cattin.* 
 
 ### [Graph Network](#content)
 1. **Decoupling representation learning and classification for GNN-based anomaly detection.** SIGIR, 2021. [paper](https://dl.acm.org/doi/10.1145/3404835.3462944)
