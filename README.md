@@ -172,7 +172,7 @@ Contributed by Chunyang Zhang.
 
    *Ahmed Ghorbel, Ahmed Aldahdooh, Shadi Albarqouni, and Wassim Hamidouche.* 
 
-1. **HaloAE:: an HaloNet based local transformer auto-encoder for anomaly detection and localization.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.03486)
+1. **HaloAE: an HaloNet based local transformer auto-encoder for anomaly detection and localization.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.03486)
 
    *E. Mathian, H. Liu, L. Fernandez-Cuesta, D. Samaras, M. Foll, and L. Chen.* 
 
@@ -183,10 +183,6 @@ Contributed by Chunyang Zhang.
 1. **AnoViT: Unsupervised anomaly detection and localization with vision Transformer-based encoder-decoder.** IEEE Access, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9765986)
 
    *Yunseung Lee and Pilsung Kang.* 
-
-1. **HaloAE:: an HaloNet based local transformer auto-encoder for anomaly detection and localization.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.03486)
-
-   *E. Mathian, H. Liu, L. Fernandez-Cuesta, D. Samaras, M. Foll, and L. Chen.* 
 
 ### [GAN](#content)
 1. **GAN ensemble for anomaly detection.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16530)
