@@ -127,6 +127,10 @@ Contributed by Chunyang Zhang.
 
    *Shashanka Venkataramanan, Kuan-Chuan Peng, Rajat Vikram Singh, and Abhijit Mahalanobis.* 
 
+1. **A multimodal anomaly detector for robot-assisted feeding using an LSTM-based variational autoencoder.** ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8279425)
+
+   *Daehyung Park, Yuuna Hoshi, and Charles C. Kemp.* 
+
 1. **Anomaly detection using autoencoders in high performance computing systems.** AAAI, 2020. [paper](https://dl.acm.org/doi/10.1609/aaai.v33i01.33019428)
 
    *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
@@ -234,6 +238,10 @@ Contributed by Chunyang Zhang.
 
    *Vitjan Zavrtanik, Matej Kristan, and Danijel Skočaj.* 
 
+1. **Self-supervised sparse representation for video anomaly detection.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
+
+   *Jhihciang Wu, Heyen Hsieh, Dingjie Chen, Chioushann Fuh, and Tyngluh Liu.* 
+
 1. **Glancing at the patch: Anomaly localization with global and local feature comparison.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Glancing_at_the_Patch_Anomaly_Localization_With_Global_and_Local_CVPR_2021_paper.html)
 
    *Shenzhi Wang, Liwei Wu, Lei Cui, and Yujun Shen.* 
@@ -282,9 +290,27 @@ Contributed by Chunyang Zhang.
 
    *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
 
+1. **Unsupervised anomaly detection with LSTM neural networks.** IEEE Transactions on Neural Networks and Learning Systems, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8836638)
+
+   *Tolga Ergen and Suleyman Serdar Kozat.* 
+
+### [SVD](#content)
+1. **Deep one-class classification.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/ruff18a.html)
+
+   *Lukas Ruff, Robert Vandermeulen, Nico Goernitz, Lucas Deecke, Shoaib Ahmed Siddiqui, Alexander Binder, Emmanuel Müller, and Marius Kloft.* 
+
+
 
 ## [Mechanism](#content) 
 ### [Dataset](#content)
+1. **DoTA: Unsupervised detection of traffic anomaly in driving videos.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9712446)
+
+   *Yu Yao, Xizi Wang, Mingze Xu, Zelin Pu, Yuchen Wang, Ella Atkins, and David Crandall.* 
+
+1. **Not only look, but also listen: Learning multimodal violence detection under weak supervision.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58577-8_20)
+
+   *Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, and Zhiwei Yang .* 
+
 1. **A revisit of sparse coding based anomaly detection in stacked RNN framework.** ICCV, 2017. [paper](https://openaccess.thecvf.com/content_iccv_2017/html/Luo_A_Revisit_of_ICCV_2017_paper.html)
 
    *Weixin Luo, Wen Liu, and Shenghua Gao.* 
@@ -305,7 +331,7 @@ Contributed by Chunyang Zhang.
 
    *Yibin Huang, Congying Qiu, and Kui Yuan .* 
 
-### [Student–Teacher](#content)
+### [Student Teacher](#content)
 1. **Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.html)
 
    *Paul Bergmann, Michael Fauser, David Sattlegger, and Carsten Steger.* 
@@ -324,3 +350,8 @@ Contributed by Chunyang Zhang.
 1. **Deep semi-supervised anomaly detection.** ICLR, 2020. [paper](https://openreview.net/forum?id=HkgH0TEYwH)
 
    *Lukas Ruff, Robert A. Vandermeulen, Nico Görnitz, Alexander Binder, Emmanuel Müller, Klaus-Robert Müller, and Marius Kloft.* 
+
+### [Density Estimation](#content)
+1. **A discriminative framework for anomaly detection in large videos.** ECCV, 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_21)
+
+   *Allison Del Giorno, J. Andrew Bagnell, and Martial Hebert.* 
