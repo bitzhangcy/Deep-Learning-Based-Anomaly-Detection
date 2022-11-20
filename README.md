@@ -150,6 +150,10 @@ Contributed by Chunyang Zhang.
 
    *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
 
+1. **Deep autoencoding Gaussian mixture model for unsupervised anomaly detection.** ICLR, 2018. [paper](https://openreview.net/forum?id=BJJLHbb0-)
+
+   *Bo Zongy, Qi Songz, Martin Renqiang Miny, Wei Chengy, Cristian Lumezanuy, Daeki Choy, and Haifeng Chen.* 
+
 1. **Unsupervised anomaly detection via variational auto-encoder for seasonal KPIs in web applications.** WWW, 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3178876.3185996)
 
    *Haowen Xu, Wenxiao Chen, Nengwen Zhao,Zeyan Li, Jiahao Bu, Zhihan Li, Ying Liu, Youjian Zhao, Dan Pei, Yang Feng, Jie Chen, Zhaogang Wang, and Honglin Qiao.* 
@@ -372,6 +376,11 @@ Contributed by Chunyang Zhang.
 
    *Mengyang Zhao, Yang Liu, Jing Liu, Di Li, and  Xinhua Zeng.* 
 
+### [Domain Adaptation](#content)
+1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
+
+   *Jianpo Su, Hui Shen, Limin Peng, and Dewen Hu.* 
+
 ### [Loss Function](#content)
 1. **Convex formulation for learning from positive and unlabeled data.** ICML, 2015. [paper](https://dl.acm.org/doi/10.5555/3045118.3045266)
 
@@ -423,6 +432,11 @@ Contributed by Chunyang Zhang.
 1. **Reconstructed student-teacher and discriminative networks for anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.07548)
 
    *Shinji Yamada, Satoshi Kamiya, and Kazuhiro Hotta.* 
+
+### [Gaussian Process](#content)
+1. **Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression.** CVPR, 2015. [paper](https://ieeexplore.ieee.org/document/7298909)
+
+   *Kai-Wen Cheng and Yie-Tarng Chen, and Wen-Hsien Fang.* 
 
 ### [Meta Learning](#content)
 1. **Learning unsupervised metaformer for anomaly detection.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.html)
