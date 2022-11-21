@@ -102,6 +102,11 @@ Contributed by Chunyang Zhang.
 
    *Mohiuddin Ahmed, Abdun Naser Mahmood, and JiankunHu.* 
 
+1. **Domain anomaly detection in machine perception: A system architecture and
+taxonomy.** TPAMI, 2014. [paper](https://ieeexplore.ieee.org/document/6636290)
+
+   *Josef Kittler, William Christmas, Teófilo de Campos, David Windridge, Fei Yan, and  John Illingworth; Magda Osman.* 
+
 
 ## [Methods](#content) 
 ### [CNN](#content)
@@ -228,6 +233,10 @@ Contributed by Chunyang Zhang.
    *Yunseung Lee and Pilsung Kang.* 
 
 ### [GAN](#content)
+1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
+
+   *Muhammad Zaigham Zaheer, Jin-Ha Lee, Arif Mahmood, Marcella Astri, and Seung-Ik Lee.* 
+
 1. **GAN ensemble for anomaly detection.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16530)
 
    *Han, Xu, Xiaohui Chen, and Li-Ping Liu.* 
@@ -267,6 +276,26 @@ Contributed by Chunyang Zhang.
 1. **f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks.** Medical Image Analysis, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518302640)
 
    *Thomas Schlegl , Philipp Seeböck, Sebastian M. Waldstein, Georg Langs, and Ursula Schmidt-Erfurth.* 
+
+### [Flow](#content)
+1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
+
+   *Lukasz Maziarka , Marek Smieja , Marcin Sendera , Lukasz Struski, Jacek Tabor, and Przemyslaw Spurek.* 
+
+### [Weak Supervise](#content)
+1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
+
+   *Hui Lv, Chuanwei Zhou, Zhen Cui, Chunyan Xu, Yong Li, and Jian Yang.* 
+
+### [Prediction](#content)
+1. **Future frame prediction network for video anomaly detection.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9622181/)
+
+   *Weixin Luo, Wen Liu, Dongze Lian, and Shenghua Gao.* 
+
+### [Manifold Learning](#content)
+1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
+
+   *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
 
 ### [Representation Learning](#content)
 1. **AnomalyHop: An SSL-based image anomaly localization method.** International Conference on Visual Communications and Image Processing, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9675385)
@@ -342,6 +371,11 @@ Contributed by Chunyang Zhang.
 
    *Wenchao Yu, Wei Cheng, Charu C. Aggarwal, Kai Zhang, Haifeng Chen, and Wei Wang.* 
 
+### [Support Vector](#content)
+1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
+
+   *Jihun Yi and Sungroh Yoon.* 
+
 ### [LSTM](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -412,9 +446,13 @@ Contributed by Chunyang Zhang.
 
    *Yu Yao, Xizi Wang, Mingze Xu, Zelin Pu, Yuchen Wang, Ella Atkins, and David Crandall.* 
 
+1. **Street Scene: A new dataset and evaluation protocol for video anomaly detection.** WACV, 2020. [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Ramachandra_Street_Scene_A_new_dataset_and_evaluation_protocol_for_video_WACV_2020_paper.pdf)
+
+   *Bharathkumar Ramachandra and Michael J. Jones.*
+
 1. **Not only look, but also listen: Learning multimodal violence detection under weak supervision.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58577-8_20)
 
-   *Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, and Zhiwei Yang .* 
+   *Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, and Zhiwei Yang.* 
 
 1. **A revisit of sparse coding based anomaly detection in stacked RNN framework.** ICCV, 2017. [paper](https://openaccess.thecvf.com/content_iccv_2017/html/Luo_A_Revisit_of_ICCV_2017_paper.html)
 
