@@ -215,13 +215,17 @@ Contributed by Chunyang Zhang.
    *Yunpeng Chang, Zhigang Tu, Wei Xie, and Junsong Yuan .*
 
 ### [Transformer](#content)
-1. **TranAD: deep transformer networks for anomaly detection in multivariate time series data.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3514061.3514067)
+1. **TranAD: Deep transformer networks for anomaly detection in multivariate time series data.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3514061.3514067)
 
    *Shreshth Tuli, Giuliano Casale, and Nicholas R. Jennings.* 
 
 1. **Anomaly transformer: Time series anomaly detection with association discrepancy.** ICLR, 2022. [paper](https://openreview.net/pdf?id=LzQQ89U1qm)
 
    *Jiehui Xu, Haixu Wu, Jianmin Wang, and Mingsheng Long.* 
+
+1. **Exploring the limits of out-of-distribution detection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
+
+   *Stanislav Fort, Jie Ren, and Balaji Lakshminarayanan.* 
 
 1. **Deep anomaly detection using geometric transformations.** NIPS, 2018. [paper](https://papers.nips.cc/paper/2018/hash/5e62d03aec0d17facfc5355dd90d441c-Abstract.html)
 
@@ -372,7 +376,7 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 
    *Shenzhi Wang, Liwei Wu, Lei Cui, and Yujun Shen.* 
 
-### [Sparse Representation](#content)
+### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
    *Weixin Luo, Wen Liu, Dongze Lian, Jinhui Tang, Lixin Duan, Xi Peng, and Shenghua Gao.* 
@@ -437,10 +441,18 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 
    *Adam Goodge, Bryan Hooi, See-Kiong Ng, and Wee Siong Ng.* 
 
+1. **Graph embedded pose clustering for anomaly detection.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Markovitz_Graph_Embedded_Pose_Clustering_for_Anomaly_Detection_CVPR_2020_paper.html)
+
+   *Amir Markovitz, Gilad Sharir, Itamar Friedman, Lihi Zelnik-Manor, and Shai Avidan.* 
+
 ### [Support Vector](#content)
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
 
    *Jihun Yi and Sungroh Yoon.* 
+
+1. **Timeseries anomaly detection using temporal hierarchical one-class network.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html)
+
+   *Lifeng Shen, Zhuocong Li, and James Kwok.* 
 
 ### [LSTM](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -506,7 +518,7 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 
    *Yibin Huang, Congying Qiu, and Kui Yuan .* 
 
-### [library](#content)
+### [Library](#content)
 1. **PyOD: A python toolbox for scalable outlier detection.** JMLR, 2019. [paper](https://www.jmlr.org/papers/v20/19-011.html)
 
    *Yue Zhao, Zain Nasrullah, and Zheng Li.* 
@@ -516,6 +528,10 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
    *Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du,Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, and Ziwei Liu.* 
 
 ### [Analysis](#content)
+1. **Is out-of-distribution detection learnable?.** ICLR 2022. [paper](https://openreview.net/forum?id=sde_7ZzGXOE)
+
+   *Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, and Feng Liu.* 
+
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
 
    *Alessandro Flaborea , Bardh Prenkaj , Bharti Munjal , Marco Aurelio Sterpa , Dario Aragona, Luca Podo, and Fabio Galasso.* 
@@ -523,6 +539,14 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 1. **Learning causal temporal relation and feature discrimination for anomaly detection.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9369126)
 
    *Peng Wu and Jing Liu.* 
+
+1. **Understanding anomaly detection with deep invertible networks through hierarchies of distributions and features.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f106b7f99d2cb30c3db1c3cc0fde9ccb-Abstract.html)
+
+   *Robin Schirrmeister, Yuxuan Zhou, Tonio Ball, and Dan Zhang.* 
+
+1. **Further analysis of outlier detection with deep generative models.** NIPS, 2018. [paper](http://proceedings.mlr.press/v137/wang20a.html)
+
+   *Ziyu Wang, Bin Dai, David Wipf, and Jun Zhu.* 
 
 1. **Anomaly detection requires better representations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.10773)
 
@@ -579,11 +603,31 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
    *Yiru Zhao, Bing Deng, Chen Shen, Yao Liu, Hongtao Lu, and Xian-Sheng Hua.* 
 
 ### [Lifelong Learning](#content)
+1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
+
+   *Tal Reiss, Niv Cohen, Liron Bergman, and Yedid Hoshen.* 
+
+1. **Continual learning for anomaly detection in surveillance videos.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w15/Doshi_Continual_Learning_for_Anomaly_Detection_in_Surveillance_Videos_CVPRW_2020_paper.html)
+
+   *Keval Doshi and Yasin Yilmaz.* 
+
+1. **Rethinking video anomaly detection-a continual learning approach.** WACV, 2022. [paper](https://openaccess.thecvf.com/content/WACV2022/html/Doshi_Rethinking_Video_Anomaly_Detection_-_A_Continual_Learning_Approach_WACV_2022_paper.html)
+
+   *Keval Doshi and Yasin Yilmaz.* 
+
+1. **Continual learning for anomaly detection with variational autoencoder.** ICASSP, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8682702)
+
+   *Felix Wiewel and Bin Yang.* 
+
 1. **Lifelong anomaly detection through unlearning.** CCS, 2019. [paper](https://dl.acm.org/doi/10.1145/3319535.3363226)
 
    *Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, and Dawn Song.* 
 
-### [Student Teacher](#content)
+### [Knowledge Distillation](#content)
+1. **Multiresolution knowledge distillation for anomaly detection.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html)
+
+   *Mohammadreza Salehi, Niousha Sadjadi, Soroosh Baselizadeh, Mohammad H. Rohban, and Hamid R. Rabiee.* 
+
 1. **Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.html)
 
    *Paul Bergmann, Michael Fauser, David Sattlegger, and Carsten Steger.* 
@@ -593,6 +637,10 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
    *Shinji Yamada, Satoshi Kamiya, and Kazuhiro Hotta.* 
 
 ### [Data Augmentation](#content)
+1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
+
+   *John Sipple.* 
+
 1. **Doping: Generative data augmentation for unsupervised anomaly detection with GAN.** ICDM, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8594955)
 
    *Swee Kiat Lim, Yi Loo, Ngoc-Trung Tran, Ngai-Man Cheung, Gemma Roig, and Yuval Elovici.* 
@@ -623,6 +671,11 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 
    *Kai-Wen Cheng, Yie-Tarng Chen, and Wen-Hsien Fang.* 
 
+### [Multi Task](#content)
+1. **Anomaly detection in video via self-supervised and multi-task learning.** CVPR, 2021. [paper](http://openaccess.thecvf.com/content/CVPR2021/html/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.html)
+
+   *Mariana-Iuliana Georgescu, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, and Mubarak Shah.*
+
 ### [Meta Learning](#content)
 1. **Learning unsupervised metaformer for anomaly detection.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.html)
 
@@ -640,7 +693,15 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 ### [Outlier Exposure](#content)
 1. **Deep anomaly detection with outlier exposure.** ICLR, 2019. [paper](https://openreview.net/forum?id=HyxCxhRcY7)
 
-   *Dan Hendrycks, Mantas Mazeika, and Thomas Dietterich.* 
+   *Dan Hendrycks, Mantas Mazeika, and Thomas Dietterich.*
+
+1. **A simple and effective baseline for out-of-distribution detection using abstention.** ICLR, 2021. [paper](https://openreview.net/forum?id=q_Q9MMGwSQu)
+
+   *Sunil Thulasidasan, Sushil Thapa, Sayera Dhaubhadel, Gopinath Chennupati, Tanmoy Bhattacharya, and Jeff Bilmes.*
+
+1. **Does your dermatology classifier know what it doesn’t know? Detecting the long-tail of unseen conditions.** Medical Image Analysis, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003194)
+
+   *Abhijit Guha Roy, Jie Ren, Shekoofeh Azizi, Aaron Loh, Vivek Natarajan, Basil Mustafa, Nick Pawlowski, Jan Freyberg, Yuan Liu, Zach Beaver, Nam Vo, Peggy Bui, Samantha Winter, Patricia MacWilliams, Greg S. Corrado, Umesh Telang, Yun Liu, Taylan Cemgil, Alan Karthikesalingam, Balaji Lakshminarayanan, and  Jim Winkens.*
 
 ### [Nearest Neighbor](#content)
 1. **Online learning and sequential anomaly
