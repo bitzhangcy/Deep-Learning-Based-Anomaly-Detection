@@ -94,7 +94,7 @@ Contributed by Chunyang Zhang.
 
 1. **A unifying review of deep and shallow anomaly detection.** Proceedings of the IEEE, 2020. [paper](https://ieeexplore.ieee.org/document/9347460)
 
-   *Ruff, Lukas and Kauffmann, Jacob R. and Vandermeulen, Robert A. and Montavon, Grégoire and Samek, Wojciech and Kloft, Marius and Dietterich, Thomas G., and Müller, and Klaus-Robert.*
+   *Lukas Ruff , Jacob R. Kauffmann, Robert A. Vandermeulen, GrÉgoire Montavon, Wojciech Samek, Marius Kloft, Thomas G. Dietterich, and Klaus-robert MÜller.*
 
 1. **A review on outlier/anomaly detection in time series data.** ACM Computing Surveys, 2022. [paper](https://dl.acm.org/doi/10.1145/3444690)
 
@@ -102,7 +102,7 @@ Contributed by Chunyang Zhang.
 
 1. **A comprehensive survey on graph anomaly detection with deep learning.** TKDE, 2021. [paper](https://ieeexplore.ieee.org/document/9565320)
 
-   *Ma, Xiaoxiao and Wu, Jia and Xue, Shan and Yang, Jian and Zhou, Chuan and Sheng, Quan Z. and Xiong, Hui, and Akoglu, Leman.* 
+   *Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, and Hui Xiong, and Leman Akoglu.* 
 
 1. **Transformers in time series: A survey.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.07125)
 
@@ -142,7 +142,7 @@ Contributed by Chunyang Zhang.
 
     **Domain anomaly detection in machine perception: A system architecture and taxonomy.** TPAMI, 2014. [paper](https://ieeexplore.ieee.org/document/6636290)
 
-    *Josef Kittler, William Christmas, Teófilo de Campos, David Windridge, Fei Yan, and  John Illingworth; Magda Osman.* 
+    *Josef Kittler, William Christmas, Teófilo de Campos, David Windridge, Fei Yan,  John Illingworth, and Magda Osman.* 
 
 
 ## [Methods](#content) 
@@ -254,7 +254,7 @@ Contributed by Chunyang Zhang.
 
 1. **Clustering driven deep autoencoder for video anomaly detection.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_20)
 
-   *Yunpeng Chang, Zhigang Tu, Wei Xie, and Junsong Yuan .*
+   *Yunpeng Chang, Zhigang Tu, Wei Xie, and Junsong Yuan.*
 
 ### [Transformer](#content)
 1. **TranAD: Deep transformer networks for anomaly detection in multivariate time series data.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3514061.3514067)
@@ -402,7 +402,7 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
    *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
 
 ### [Representation Learning](#content)
-1. **AnomalyHop: An SSL-based image anomaly localization method.** International Conference on Visual Communications and Image Processing, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9675385)
+1. **AnomalyHop: An SSL-based image anomaly localization method.** ICVCIP, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9675385)
 
    *Kaitai Zhang, Bin Wang, Wei Wang, Fahad Sohrab, Moncef Gabbouj, and C.-C. Jay Kuo.* 
 
@@ -410,7 +410,7 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 
    *Guansong Pang, Longbing Cao, Ling Chen, and Huan Liu.* 
 
-1. **Federated disentangled representation learning for unsupervised brain anomaly detection.** Nature Machine Intelligence, 2022. [paper](https://www.nature.com/articles/s42256-022-00515-2)
+1. **Federated disentangled representation learning for unsupervised brain anomaly detection.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00515-2)
 
    *Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Shadi Albarqouni.* 
 
@@ -583,13 +583,13 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
    *Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du,Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, and Ziwei Liu.* 
 
 ### [Analysis](#content)
-1. **Is out-of-distribution detection learnable?.** ICLR 2022. [paper](https://openreview.net/forum?id=sde_7ZzGXOE)
+1. **Is out-of-distribution detection learnable?* ICLR 2022. [paper](https://openreview.net/forum?id=sde_7ZzGXOE)
 
    *Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, and Feng Liu.* 
 
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
 
-   *Alessandro Flaborea , Bardh Prenkaj , Bharti Munjal , Marco Aurelio Sterpa , Dario Aragona, Luca Podo, and Fabio Galasso.* 
+   *Alessandro Flaborea, Bardh Prenkaj, Bharti Munjal, Marco Aurelio Sterpa, Dario Aragona, Luca Podo, and Fabio Galasso.* 
 
 1. **Learning causal temporal relation and feature discrimination for anomaly detection.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9369126)
 
