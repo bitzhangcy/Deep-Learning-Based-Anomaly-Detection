@@ -116,6 +116,10 @@ Contributed by Chunyang Zhang.
 
    *Yuan Luo, Ya Xiao, Long Cheng, Guojun Peng, and Danfeng (Daphne) Yao.* 
 
+1. **GAN-based anomaly detection: A review.** Neurocomputing, 2022. [paper](https://dl.acm.org/doi/10.1145/3453155)
+
+   *Xuan Xia, Xizhou Pan, Nan Lia, Xing He, Lin Ma, Xiaoguang Zhang, and Ning Ding.* 
+
 1. **Deep learning for time series anomaly detection: A survey.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05244)
 
    *Zahra Zamanzadeh Darban, Geoffrey I. Webb, Shirui Pan, Charu C. Aggarwal, and Mahsa Salehi.* 
@@ -602,6 +606,10 @@ representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVP
 1. **Further analysis of outlier detection with deep generative models.** NIPS, 2018. [paper](http://proceedings.mlr.press/v137/wang20a.html)
 
    *Ziyu Wang, Bin Dai, David Wipf, and Jun Zhu.* 
+
+1. **Anomaly detection in time series: A comprehensive evaluation.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3538598.3538602)
+
+   *Sebastian Schmidl, Phillip Wenig, and Thorsten Papenbrock.* 
 
 1. **Anomaly detection requires better representations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.10773)
 
