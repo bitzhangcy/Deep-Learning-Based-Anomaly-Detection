@@ -306,6 +306,10 @@ Contributed by Chunyang Zhang.
 
    *Xingtai Gui, Di Wu, Yang Chang, and Shicai Fan.* 
 
+1. **Beyond outlier detection: Outlier interpretation by attention-guided triplet deviation network.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449868)
+
+   *Hongzuo Xu, Yijie Wang, Songlei Jian, Zhenyu Huang, Yongjun Wang, Ning Liu, and Fei Li.* 
+
 1. **Exploring the limits of out-of-distribution detection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
 
    *Stanislav Fort, Jie Ren, and Balaji Lakshminarayanan.* 
