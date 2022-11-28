@@ -213,6 +213,10 @@ Contributed by Chunyang Zhang.
 
    *Imtiaz Ahmed, Travis Galoppo, Xia Hu, and Yu Ding.* 
 
+1. **Innovations autoencoder and its application in one-class anomalous sequence detection.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/21-0735/21-0735.pdf)
+
+   *Xinyi Wang and Lang Tong.* 
+
 1. **Attention guided anomaly localization in images.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58520-4_29)
 
    *Shashanka Venkataramanan, Kuan-Chuan Peng, Rajat Vikram Singh, and Abhijit Mahalanobis.* 
@@ -470,6 +474,10 @@ Contributed by Chunyang Zhang.
 
    *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
 
+1. **Neighborhood structure assisted non-negative matrix factorization and its application in unsupervised point anomaly detection.** JMLR, 2021. [paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546292)
+
+   *Imtiaz Ahmed, Xia Ben Hu, Mithun P. Acharya, and Yu Ding.* 
+
 1. **Bayesian nonparametric submodular video partition for robust anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.html)
 
    *Hitesh Sapkota and Qi Yu.* 
@@ -610,6 +618,10 @@ Contributed by Chunyang Zhang.
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
 
    *Jihun Yi and Sungroh Yoon.* 
+
+1. **Multiclass anomaly detector: The CS++ support vector machine.** JMLR, 2020. [paper](https://dl.acm.org/doi/10.5555/3455716.3455929)
+
+   *Alistair Shilton, Sutharshan Rajasegarar, and Marimuthu Palaniswami.* 
 
 1. **Timeseries anomaly detection using temporal hierarchical one-class network.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html)
 
@@ -946,6 +958,10 @@ Contributed by Chunyang Zhang.
    *Abhijit Guha Roy, Jie Ren, Shekoofeh Azizi, Aaron Loh, Vivek Natarajan, Basil Mustafa, Nick Pawlowski, Jan Freyberg, Yuan Liu, Zach Beaver, Nam Vo, Peggy Bui, Samantha Winter, Patricia MacWilliams, Greg S. Corrado, Umesh Telang, Yun Liu, Taylan Cemgil, Alan Karthikesalingam, Balaji Lakshminarayanan, and Jim Winkens.*
 
 ### [Statistics](#content)
+1. **(1+ε)-class Classification: an Anomaly Detection Method for Highly Imbalanced or Incomplete Data Sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
+
+   *Maxim Borisyak, Artem Ryzhikov, Andrey Ustyuzhanin, Denis Derkach, Fedor Ratnikov, and Olga Mineeva.* 
+
 1. **Deep semi-supervised anomaly detection.** ICLR, 2020. [paper](https://openreview.net/forum?id=HkgH0TEYwH)
 
    *Lukas Ruff, Robert A. Vandermeulen, Nico Görnitz, Alexander Binder, Emmanuel Müller, Klaus-Robert Müller, and Marius Kloft.* 
