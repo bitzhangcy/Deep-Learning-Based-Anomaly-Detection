@@ -443,6 +443,10 @@ Contributed by Chunyang Zhang.
 1. **Cloze test helps: Effective video anomaly detection via learning to complete video events.** MM, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413973)
 
    *Guang Yu, Siqi Wang, Zhiping Cai, En Zhu, Chuanfu Xu, Jianping Yin, and Marius Kloft.* 
+   
+1. **A modular and unified framework for detecting and localizing video anomalies.** WACV, 2022. [paper](https://openaccess.thecvf.com/content/WACV2022/html/Doshi_A_Modular_and_Unified_Framework_for_Detecting_and_Localizing_Video_WACV_2022_paper.html)
+
+   *Keval Doshi and Yasin Yilmaz.* 
 
 1. **Video anomaly detection with compact feature sets for online performance.** TIP, 2017. [paper](https://ieeexplore.ieee.org/abstract/document/7903693)
 
@@ -468,6 +472,10 @@ Contributed by Chunyang Zhang.
 1. **PAC-Wrap: Semi-supervised PAC anomaly detection.** KDD, 2022. [paper](https://arxiv.org/abs/2205.10798)
 
    *Shuo Li, Xiayan Ji, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
+
+1. **Effective end-to-end unsupervised outlier detection via inlier priority of discriminative network.** NIPS, 2019. [paper](https://proceedings.neurips.cc/paper/2019/hash/6c4bb406b3e7cd5447f7a76fd7008806-Abstract.html)
+
+   *Siqi Wang, Yijie Zeng, Xinwang Liu, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft.* 
 
 ### [Manifold Learning](#content)
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
@@ -513,8 +521,15 @@ Contributed by Chunyang Zhang.
 
 1. **SPot-the-difference self-supervised pre-training for anomaly detection and segmentation.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_23)
 
-   *ang Zou, Jongheon Jeong, Latha Pemula, Dongqing Zhang, and Onkar Dabeer.* 
+   *Yang Zou, Jongheon Jeong, Latha Pemula, Dongqing Zhang, and Onkar Dabeer.* 
 
+1. **SSD: A unified framework for self-supervised outlier detection.** ICLR, 2021. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
+
+   *Vikash Sehwag, Mung Chiang, and Prateek Mittal.* 
+
+1. **NETS: Extremely fast outlier detection from a data stream via set-based processing.** Proceedings of the VLDB Endowment, 2019. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
+
+   *Susik Yoon, Jae-Gil Lee, and Byung Suk Lee.* 
 
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
@@ -671,6 +686,10 @@ Contributed by Chunyang Zhang.
 
    *Yu Yao, Xizi Wang, Mingze Xu, Zelin Pu, Yuchen Wang, Ella Atkins, and David Crandall.* 
 
+1. **Revisiting time series outlier detection: Definitions and benchmarks.** NIPS, 2021. [paper](https://openreview.net/forum?id=r8IvOsnHchr)
+
+   *Kwei-Herng Lai, Daochen Zha, Junjie Xu, Yue Zhao, Guanchu Wang, and Xia Hu.* 
+
 1. **Street Scene: A new dataset and evaluation protocol for video anomaly detection.** WACV, 2020. [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Ramachandra_Street_Scene_A_new_dataset_and_evaluation_protocol_for_video_WACV_2020_paper.pdf)
 
    *Bharathkumar Ramachandra and Michael J. Jones.*
@@ -719,6 +738,10 @@ Contributed by Chunyang Zhang.
 1. **OpenOOD: Benchmarking generalized out-of-distribution detection.** NIPS, 2022. [paper](https://arxiv.org/pdf/2210.07242.pdf)
 
    *Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du,Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, and Ziwei Liu.* 
+
+1. **Towards a rigorous evaluation of rime-series anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20680)
+
+   *Siwon Kim, Kukjin Choi, Hyun-Soo Choi, Byunghan Lee, and Sungroh Yoon.* 
 
 1. **AnomalyKiTS: Anomaly detection toolkit for time series.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21730)
 
@@ -840,6 +863,9 @@ Contributed by Chunyang Zhang.
 
    *Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, and Dawn Song.* 
 
+1. **xStream: Outlier detection in feature-evolving data streams.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220107)
+
+   *Emaad Manzoor, Hemank Lamba, and Leman Akoglu.* 
 
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
@@ -979,6 +1005,10 @@ Contributed by Chunyang Zhang.
 
    *Zhisheng Xiao, and Tian Han.* 
 
+1. **Ultrafast local outlier detection from a data stream with stationary region skipping.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403171)
+
+   *Susik Yoon, Jae-Gil Lee, and Byung Suk Lee.* 
+
 1. **A discriminative framework for anomaly detection in large videos.** ECCV, 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_21)
 
    *Allison Del Giorno, J. Andrew Bagnell, and Martial Hebert.* 
@@ -991,6 +1021,20 @@ Contributed by Chunyang Zhang.
 1. **DADMoE: Anomaly Detection with Mixture-of-Experts from Noisy Labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
 
    *Yue Zhao, Guoqing Zheng, Subhabrata Mukherjee, Robert McCann, and Ahmed Awadallah.* 
+
+### [Cluster](#content)
+1. **MIDAS: Microcluster-based detector of anomalies in edge streams.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5724)
+
+   *Siddharth Bhatia, Bryan Hooi, Minji Yoon, Kijung Shin, and Christos Faloutsos.* 
+
+1. **Multiple dynamic outlier-detection from a data stream by exploiting duality of data and queries.** SIGMOD, 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3448016.3452810)
+
+   *Susik Yoon, Yooju Shin, Jae-Gil Lee, and Byung Suk Lee.* 
+
+### [Isolation](#content)
+1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
+
+   *Kai Ming Ting, Bi-Cun Xu, Takashi Washio, and Zhi-Hua Zhou.* 
 
 
 ## [Application](#content)
