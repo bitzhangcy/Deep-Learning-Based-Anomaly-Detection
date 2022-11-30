@@ -227,7 +227,11 @@ Contributed by Chunyang Zhang.
 
 1. **Latent space autoregression for novelty detection.** CVPR, 2018. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Abati_Latent_Space_Autoregression_for_Novelty_Detection_CVPR_2019_paper.html)
 
-   *Davide Abati, Angelo Porrello, Simone Calderara, and Rita Cucchiara.* 
+   *Davide Abati, Angelo Porrello, Simone Calderara, and Rita Cucchiara.*
+
+1. **Anomaly detection in time series with robust variational quasi-recurrent autoencoders.** ICDM, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/9835268)
+
+   *Tung Kieu1, Bin Yang, Chenjuan Guo, Razvan-Gabriel Cirstea, Yan Zhao, Yale Song, and Christian S. Jensen.*
 
 1. **A multimodal anomaly detector for robot-assisted feeding using an LSTM-based variational autoencoder.** ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8279425)
 
@@ -294,7 +298,7 @@ Contributed by Chunyang Zhang.
 
    *Guodong Shen, Yuqi Ouyang, and Victor Sanchez.* 
 
-1. **TranAD: Deep transformer networks for anomaly detection in multivariate time series data.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3514061.3514067)
+1. **TranAD: Deep transformer networks for anomaly detection in multivariate time series data.** VLDB, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3514061.3514067)
 
    *Shreshth Tuli, Giuliano Casale, and Nicholas R. Jennings.* 
 
@@ -309,6 +313,10 @@ Contributed by Chunyang Zhang.
 1. **Constrained adaptive projection with pretrained features for anomaly detection.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0286.pdf)
 
    *Xingtai Gui, Di Wu, Yang Chang, and Shicai Fan.* 
+
+1. **Self-training multi-sequence learning with transformer for weakly supervised video anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20028)
+
+   *Shuo Li, Fang Liu, and Licheng Jiao.* 
 
 1. **Beyond outlier detection: Outlier interpretation by attention-guided triplet deviation network.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449868)
 
@@ -527,7 +535,7 @@ Contributed by Chunyang Zhang.
 
    *Vikash Sehwag, Mung Chiang, and Prateek Mittal.* 
 
-1. **NETS: Extremely fast outlier detection from a data stream via set-based processing.** Proceedings of the VLDB Endowment, 2019. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
+1. **NETS: Extremely fast outlier detection from a data stream via set-based processing.** VLDB, 2019. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
 
    *Susik Yoon, Jae-Gil Lee, and Byung Suk Lee.* 
 
@@ -544,9 +552,8 @@ Contributed by Chunyang Zhang.
 
    *Weixin Luo, Wen Liu, and Shenghua Gao.* 
 
-1. **HashNWalk: Hash and random walk based anomaly detection in hyperedge
-   streams.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0296.pdf)
-
+1. **HashNWalk: Hash and random walk based anomaly detection in hyperedge streams.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0296.pdf)
+   
    *Geon Lee , Minyoung Choe, and Kijung Shin.* 
 
 ### [Reinforcement Learning](#content)
@@ -608,7 +615,7 @@ Contributed by Chunyang Zhang.
 
    *Adam Goodge, Bryan Hooi, See-Kiong Ng, and Wee Siong Ng.* 
 
-1. **Series2Graph: Graph-based subsequence anomaly detection for time series.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/10.14778/3407790.3407792)
+1. **Series2Graph: Graph-based subsequence anomaly detection for time series.** VLDB, 2022. [paper](https://dl.acm.org/doi/10.14778/3407790.3407792)
 
    *Paul Boniol and Themis Palpanas.* 
 
@@ -651,7 +658,7 @@ Contributed by Chunyang Zhang.
 
    *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
    
-1. **Robust anomaly detection for multivariate time series through stochastic recurrent neuralnetwork.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330672)
+1. **Robust anomaly detection for multivariate time series through stochastic recurrent neural network.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330672)
 
    *Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun, and Dan Pei.* 
 
@@ -727,7 +734,7 @@ Contributed by Chunyang Zhang.
 
    *Songqiao Han, Xiyang Hu, Hailiang Huang, Minqi Jiang, and Yue Zhao.* 
 
-1. **TSB-UAD: An end-to-end benchmark suite for univariate time-series anomaly detection.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3529337.3529354)
+1. **TSB-UAD: An end-to-end benchmark suite for univariate time-series anomaly detection.** VLDB, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3529337.3529354)
 
    *John Paparrizos, Yuhao Kang, Paul Boniol, Ruey S. Tsay, Themis Palpanas, and Michael J. Franklin.* 
 
@@ -780,7 +787,7 @@ Contributed by Chunyang Zhang.
 
    *Susik Yoon, Youngjun Lee, Jae-Gil Lee, and Byung Suk Lee.* 
 
-1. **Anomaly detection in time series: A comprehensive evaluation.** Proceedings of the VLDB Endowment, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3538598.3538602)
+1. **Anomaly detection in time series: A comprehensive evaluation.** VLDB, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3538598.3538602)
 
    *Sebastian Schmidl, Phillip Wenig, and Thorsten Papenbrock.* 
 
@@ -800,7 +807,7 @@ Contributed by Chunyang Zhang.
 
    *Mengyang Zhao, Yang Liu, Jing Liu, Di Li, and Xinhua Zeng.* 
 
-1. **Detecting data errors: Where are we and what needs to be done?** Proceedings of the VLDB Endowment, 2016. [paper](https://dl.acm.org/doi/10.14778/2994509.2994518)
+1. **Detecting data errors: Where are we and what needs to be done?** VLDB, 2016. [paper](https://dl.acm.org/doi/10.14778/2994509.2994518)
 
    *Ziawasch Abedjan, Xu Chu, Dong Deng, Raul Castro Fernandez, Ihab F. Ilyas, Mourad Ouzzani, Paolo Papotti, Michael Stonebraker, and Nan Tang.* 
 
@@ -984,7 +991,7 @@ Contributed by Chunyang Zhang.
    *Abhijit Guha Roy, Jie Ren, Shekoofeh Azizi, Aaron Loh, Vivek Natarajan, Basil Mustafa, Nick Pawlowski, Jan Freyberg, Yuan Liu, Zach Beaver, Nam Vo, Peggy Bui, Samantha Winter, Patricia MacWilliams, Greg S. Corrado, Umesh Telang, Yun Liu, Taylan Cemgil, Alan Karthikesalingam, Balaji Lakshminarayanan, and Jim Winkens.*
 
 ### [Statistics](#content)
-1. **(1+ε)-class Classification: an Anomaly Detection Method for Highly Imbalanced or Incomplete Data Sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
+1. **(1+ε)-class Classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
 
    *Maxim Borisyak, Artem Ryzhikov, Andrey Ustyuzhanin, Denis Derkach, Fedor Ratnikov, and Olga Mineeva.* 
 
@@ -1018,7 +1025,7 @@ Contributed by Chunyang Zhang.
    *Ricardo J. G. B. Campello, Davoud Moulavi, Arthur Zimek, and Jörg Sander.* 
 
 ### [Human in Loop](#content)
-1. **DADMoE: Anomaly Detection with Mixture-of-Experts from Noisy Labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
+1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
 
    *Yue Zhao, Guoqing Zheng, Subhabrata Mukherjee, Robert McCann, and Ahmed Awadallah.* 
 
