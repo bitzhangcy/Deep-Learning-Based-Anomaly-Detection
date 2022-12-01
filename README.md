@@ -439,6 +439,10 @@ Contributed by Chunyang Zhang.
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
 
    *Lukasz Maziarka , Marek Smieja , Marcin Sendera , Lukasz Struski, Jacek Tabor, and Przemyslaw Spurek.* 
+
+1. **Comprehensive regularization in a bi-directional predictive network for video anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/19898)
+
+   *Chengwei Chen, Yuan Xie, Shaohui Lin, Angela Yao, Guannan Jiang, Wei Zhang, Yanyun Qu, Ruizhi Qiao, Bo Ren, and Lizhuang Ma.* 
    
 1. **Future frame prediction network for video anomaly detection.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9622181/)
 
@@ -555,6 +559,10 @@ Contributed by Chunyang Zhang.
 1. **HashNWalk: Hash and random walk based anomaly detection in hyperedge streams.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0296.pdf)
    
    *Geon Lee , Minyoung Choe, and Kijung Shin.* 
+
+1. **Fast abnormal event detection.** IJCV, 2019. [paper](https://link.springer.com/article/10.1007/s11263-018-1129-8)
+   
+   *Cewu Lu, Jianping Shi, Weiming Wang, and Jiaya Jia.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
@@ -712,6 +720,10 @@ Contributed by Chunyang Zhang.
 1. **A revisit of sparse coding based anomaly detection in stacked RNN framework.** ICCV, 2017. [paper](https://openaccess.thecvf.com/content_iccv_2017/html/Luo_A_Revisit_of_ICCV_2017_paper.html)
 
    *Weixin Luo, Wen Liu, and Shenghua Gao.* 
+
+1. **The MVTec anomaly detection dataset: A comprehensive real-world dataset for unsupervised anomaly detection.** IJCV, 2021. [paper](https://link.springer.com/article/10.1007/s11263-020-01400-4)
+
+   *Paul Bergmann, Kilian Batzner, Michael Fauser, David Sattlegger, and Carsten Steger.* 
 
 1. **MVTec AD-A comprehensive real-world dataset for unsupervised anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.html)
 
@@ -948,6 +960,10 @@ Contributed by Chunyang Zhang.
    *Kai-Wen Cheng, Yie-Tarng Chen, and Wen-Hsien Fang.* 
 
 ### [Multi Task](#content)
+1. **Beyond dents and scratches: Logical constraints in unsupervised anomaly detection and localization.** IJCV, 2022. [paper](https://link.springer.com/article/10.1007/s11263-022-01578-9)
+
+   *Paul Bergmann, Kilian Batzner, Michael Fauser, David Sattlegger, and Carsten Steger.*
+
 1. **Anomaly detection in video via self-supervised and multi-task learning.** CVPR, 2021. [paper](http://openaccess.thecvf.com/content/CVPR2021/html/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.html)
 
    *Mariana-Iuliana Georgescu, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, and Mubarak Shah.*
