@@ -95,7 +95,7 @@ Contributed by Chunyang Zhang.
 
 1. **A unifying review of deep and shallow anomaly detection.** Proceedings of the IEEE, 2020. [paper](https://ieeexplore.ieee.org/document/9347460)
 
-   *Lukas Ruff , Jacob R. Kauffmann, Robert A. Vandermeulen, GrÉgoire Montavon, Wojciech Samek, Marius Kloft, Thomas G. Dietterich, and Klaus-robert MÜller.*
+   *Lukas Ruff, Jacob R. Kauffmann, Robert A. Vandermeulen, GrÉgoire Montavon, Wojciech Samek, Marius Kloft, Thomas G. Dietterich, and Klaus-robert MÜller.*
 
 1. **A review on outlier/anomaly detection in time series data.** ACM Computing Surveys, 2022. [paper](https://dl.acm.org/doi/10.1145/3444690)
 
@@ -417,7 +417,7 @@ Contributed by Chunyang Zhang.
 
 1. **f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks.** Medical Image Analysis, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518302640)
 
-   *Thomas Schlegl , Philipp Seeböck, Sebastian M. Waldstein, Georg Langs, and Ursula Schmidt-Erfurth.* 
+   *Thomas Schlegl, Philipp Seeböck, Sebastian M. Waldstein, Georg Langs, and Ursula Schmidt-Erfurth.* 
 
 1. **OCGAN: One-class novelty detection using GANs with constrained latent representations.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_OCGAN_One-Class_Novelty_Detection_Using_GANs_With_Constrained_Latent_Representations_CVPR_2019_paper.pdf)
 
@@ -438,7 +438,7 @@ Contributed by Chunyang Zhang.
 ### [Flow](#content)
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
 
-   *Lukasz Maziarka , Marek Smieja , Marcin Sendera , Lukasz Struski, Jacek Tabor, and Przemyslaw Spurek.* 
+   *Lukasz Maziarka, Marek Smieja, Marcin Sendera, Lukasz Struski, Jacek Tabor, and Przemyslaw Spurek.* 
 
 1. **Comprehensive regularization in a bi-directional predictive network for video anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/19898)
 
@@ -558,7 +558,7 @@ Contributed by Chunyang Zhang.
 
 1. **HashNWalk: Hash and random walk based anomaly detection in hyperedge streams.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0296.pdf)
    
-   *Geon Lee , Minyoung Choe, and Kijung Shin.* 
+   *Geon Lee, Minyoung Choe, and Kijung Shin.* 
 
 1. **Fast abnormal event detection.** IJCV, 2019. [paper](https://link.springer.com/article/10.1007/s11263-018-1129-8)
    
@@ -607,6 +607,10 @@ Contributed by Chunyang Zhang.
 
    *Yanling Wan,, Jing Zhang, Shasha Guo, Hongzhi Yin, Cuiping Li, and Hong Chen.* 
 
+1. **Crowd-level abnormal behavior detection via multi-scale motion consistency learning.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
+
+   *Linbo Luo, Yuanjing Li, Haiyan Yin, Shangwei Xie, Ruimin Hu, and Wentong Cai.* 
+
 1. **Rethinking graph neural networks for anomaly detection.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf)
 
    *Jianheng Tang, Jiajin Li, Ziqi Gao, and Jia Li.* 
@@ -640,9 +644,17 @@ Contributed by Chunyang Zhang.
    *Chen Qiu, Marius Kloft, Stephan Mandt, and Maja Rudolph.* 
 
 ### [Contrastive Learning ](#content)
+1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
+
+   *Jingcan Duan, Siwei Wang, Pei Zhang, En Zhu, Jingtao Hu, Hu Jin, Yue Liu, and Zhibin Dong.* 
+
 1. **Partial and asymmetric contrastive learning for out-of-distribution detection in long-tailed recognition.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/wang22aq.html)
 
    *Haotao Wang, Aston Zhang, Yi Zhu, Shuai Zheng, Mu Li, Alex Smola, and Zhangyang Wang.* 
+
+1. **MGFN: Magnitude-contrastive glance-and-focus network for weakly-supervised video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2211.15098)
+
+   *Yingxian Chen, Zhengzhe Liu, Baoheng Zhang, Wilton Fok, Xiaojuan Qi, and Yik-Chung Wu.* 
 
 ### [Support Vector](#content)
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
