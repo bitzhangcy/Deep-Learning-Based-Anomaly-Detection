@@ -615,6 +615,10 @@ Contributed by Chunyang Zhang.
 
    *Jianheng Tang, Jiajin Li, Ziqi Gao, and Jia Li.* 
 
+1. **Cross-domain graph anomaly detection via anomaly-aware contrastive alignment.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.01096)
+
+   *Qizhou Wang, Guansong Pang, Mahsa Salehi, Wray Buntine, and Christopher Leckie.* 
+
 1. **A causal inference look at unsupervised video anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20053)
 
    *Xiangru Lin, Yuyang Chen, Guanbin Li, and Yizhou Yu.* 
