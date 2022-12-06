@@ -737,7 +737,7 @@ Contributed by Chunyang Zhang.
 
    *Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, and Feng Liu.* 
 
-1. **Out-of-distribution detection is not all you need .** NIPS, 2022. [paper](https://openreview.net/forum?id=hxFth8JGGR4)
+1. **Out-of-distribution detection is not all you need.** NIPS, 2022. [paper](https://openreview.net/forum?id=hxFth8JGGR4)
 
    *Joris Guerin, Kevin Delmas, Raul Sena Ferreira, and Jérémie Guiochet.* 
 
