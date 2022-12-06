@@ -37,6 +37,10 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#support-vector">2.13 Support Vector</a></td>
     <td>&ensp;<a href="#lstm">2.14 LSTM</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#ood">2.15 OOD</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
 <tr>
     <td>&ensp;<a href="#dataset">3.1 Dataset</a></td>
@@ -80,6 +84,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#intrusion">4.4 Intrusion</a></td>
 </tr>
 </table>
+
 
 
 
@@ -322,10 +327,6 @@ Contributed by Chunyang Zhang.
 
    *Hongzuo Xu, Yijie Wang, Songlei Jian, Zhenyu Huang, Yongjun Wang, Ning Liu, and Fei Li.* 
 
-1. **Exploring the limits of out-of-distribution detection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
-
-   *Stanislav Fort, Jie Ren, and Balaji Lakshminarayanan.* 
-
 1. **Framing algorithmic recourse for anomaly detection.** KDD, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539344)
 
    *Debanjan Datta, Feng Chen, and Naren Ramakrishnan.* 
@@ -527,6 +528,7 @@ Contributed by Chunyang Zhang.
 
    *Vitjan Zavrtanik, Matej Kristan, and Danijel Skočaj.* 
 
+
 1. **Glancing at the patch: Anomaly localization with global and local feature comparison.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Glancing_at_the_Patch_Anomaly_Localization_With_Global_and_Local_CVPR_2021_paper.html)
 
    *Shenzhi Wang, Liwei Wu, Lei Cui, and Yujun Shen.* 
@@ -656,6 +658,10 @@ Contributed by Chunyang Zhang.
 
    *Haotao Wang, Aston Zhang, Yi Zhu, Shuai Zheng, Mu Li, Alex Smola, and Zhangyang Wang.* 
 
+1. **Focus your distribution: Coarse-to-fine non-contrastive learning for anomaly detection and localization.** ICME, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9859925)
+
+   *Ye Zheng, Xiang Wang, Rui Deng, Tianpeng Bao, Rui Zhao, and Liwei Wu.* 
+
 1. **MGFN: Magnitude-contrastive glance-and-focus network for weakly-supervised video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2211.15098)
 
    *Yingxian Chen, Zhengzhe Liu, Baoheng Zhang, Wilton Fok, Xiaojuan Qi, and Yik-Chung Wu.* 
@@ -709,6 +715,31 @@ Contributed by Chunyang Zhang.
 1. **LSTM-based encoder-decoder for multi-sensor anomaly detection.** arXiv, 2016. [paper](https://arxiv.org/abs/1607.00148)
 
    *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
+
+### [OOD](#content)
+1. **Exploiting mixed unlabeled data for detecting samples of seen and unseen out-of-distribution classes.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20814)
+
+   *Yi-Xuan Sun and Wei Wang.* 
+
+1. **Detect, distill and update: Learned DB systems facing out of distribution data.** SIGMOD, 2023. [paper](https://arxiv.org/abs/2210.05508)
+
+   *Meghdad Kurmanji and Peter Triantafillou.* 
+
+1. **Beyond mahalanobis distance for textual OOD detection.** NIPS, 2022. [paper](https://openreview.net/forum?id=ReB7CCByD6U)
+
+   *Pierre Colombo, Eduardo Dadalto Câmara Gomes, Guillaume Staerman, Nathan Noiry, and Pablo Piantanida.* 
+
+1. **Exploring the limits of out-of-distribution detection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
+
+   *Stanislav Fort, Jie Ren, and Balaji Lakshminarayanan.* 
+
+1. **Is out-of-distribution detection learnable?** ICLR, 2022. [paper](https://openreview.net/forum?id=sde_7ZzGXOE)
+
+   *Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, and Feng Liu.* 
+
+1. **Out-of-distribution detection is not all you need .** NIPS, 2022. [paper](https://openreview.net/forum?id=hxFth8JGGR4)
+
+   *Joris Guerin, Kevin Delmas, Raul Sena Ferreira, and Jérémie Guiochet.* 
 
 
 ## [Mechanism](#content)
@@ -778,15 +809,15 @@ Contributed by Chunyang Zhang.
 
    *Siwon Kim, Kukjin Choi, Hyun-Soo Choi, Byunghan Lee, and Sungroh Yoon.* 
 
+1. **Volume under the surface: A new accuracy evaluation measure for time-series anomaly detection.** VLDB, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3551793.3551830)
+
+   *John Paparrizos, Paul Boniol, Themis Palpanas, Ruey S. Tsa, Aaron Elmore, and Michael J. Franklin.* 
+
 1. **AnomalyKiTS: Anomaly detection toolkit for time series.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21730)
 
    *Dhaval Patel, Giridhar Ganapavarapu, Srideepika Jayaraman, Shuxin Lin, Anuradha Bhamidipaty, and Jayant Kalagnanam.* 
 
 ### [Analysis](#content)
-1. **Is out-of-distribution detection learnable?** ICLR, 2022. [paper](https://openreview.net/forum?id=sde_7ZzGXOE)
-
-   *Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, and Feng Liu.* 
-
 1. **Ideo anomaly detection by solving decoupled spatio-temporal Jigsaw puzzles.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_29)
 
    *uodong Wang, Yunhong Wang, Jie Qin, Dongming Zhang, Xiuguo Bao, and Di Huang.* 
@@ -993,6 +1024,10 @@ Contributed by Chunyang Zhang.
    *Weixuan Xiong and Xiaochen Sun.*
 
 ### [Meta Learning](#content)
+1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
+
+   *Yue Zhao, Ryan Rossi, and Leman Akoglu.*
+
 1. **Registration based few-shot anomaly detection.** ECCV, 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_18)
 
    *Chaoqin Huang, Haoyan Guan, Aofan Jiang, Ya Zhang, Michael Spratling, and Yan-Feng Wang.*
@@ -1000,6 +1035,10 @@ Contributed by Chunyang Zhang.
 1. **Learning unsupervised metaformer for anomaly detection.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.html)
 
    *Jhih-Ciang Wu, Ding-Jie Chen, Chiou-Shann Fuh, and Tyng-Luh Liu.*
+
+1. **Toward unsupervised outlier model selection.** ICDM, 2022. [paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-icdm-elect.pdf)
+
+   *Yue Zhao, Sean Zhang, and Leman Akoglu.*
 
 1. **Generic and scalable framework for automated time-series anomaly detection.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/2783258.2788611)
 
