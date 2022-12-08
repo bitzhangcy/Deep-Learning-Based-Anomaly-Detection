@@ -1118,6 +1118,10 @@ Contributed by Chunyang Zhang.
 
    *Kai Ming Ting, Bi-Cun Xu, Takashi Washio, and Zhi-Hua Zhou.* 
 
+1. **AIDA: Analytic isolation and distance-based anomaly detection algorithm.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.02645)
+
+   *Luis Antonio Souto Arias, Cornelis W. Oosterlee, and Pasquale Cirillo.* 
+
 
 ## [Application](#content)
 ### [Finance](#content)
