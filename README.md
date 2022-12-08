@@ -134,6 +134,10 @@ Contributed by Chunyang Zhang.
 
    *Xuan Xia, Xizhou Pan, Nan Lia, Xing He, Lin Ma, Xiaoguang Zhang, and Ning Ding.* 
 
+1. **Unsupervised anomaly detection in time-series: An extensive evaluation and analysis of state-of-the-art methods.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.03637)
+
+   *Nesryne Mejri, Laura Lopez-Fuentes, Kankana Roy, Pavel Chernakov, Enjie Ghorbel, and Djamila Aouada.* 
+
 1. **Deep learning for time series anomaly detection: A survey.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05244)
 
    *Zahra Zamanzadeh Darban, Geoffrey I. Webb, Shirui Pan, Charu C. Aggarwal, and Mahsa Salehi.* 
