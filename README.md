@@ -250,14 +250,6 @@ Contributed by Chunyang Zhang.
 
    *Daehyung Park, Yuuna Hoshi, and Charles C. Kemp.* 
 
-1. **Anomaly detection using autoencoders in high performance computing systems.** AAAI, 2023. [paper](https://dl.acm.org/doi/10.1609/aaai.v33i01.33019428)
-
-   *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
-
-1. **Anomaly detection using autoencoders in high performance computing systems.** AAAI, 2020. [paper](https://dl.acm.org/doi/10.1609/aaai.v33i01.33019428)
-
-   *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
-
 1. **Deep autoencoding Gaussian mixture model for unsupervised anomaly detection.** ICLR, 2018. [paper](https://openreview.net/forum?id=BJJLHbb0-)
 
    *Bo Zongy, Qi Songz, Martin Renqiang Miny, Wei Chengy, Cristian Lumezanuy, Daeki Choy, and Haifeng Chen.* 
@@ -315,11 +307,15 @@ Contributed by Chunyang Zhang.
 
    *Shreshth Tuli, Giuliano Casale, and Nicholas R. Jennings.* 
 
+1. **Pixel-level anomaly detection via uncertainty-aware prototypical transformer.** MM, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548082)
+
+   *Chao Huang, Chengliang Liu, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, and Yong Xu.* 
+
    **AddGraph: Anomaly detection in dynamic graph using attention-based temporal GCN.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/614)
 
    *Li Zheng, Zhenpeng Li, Jian Li, Zhao Li, and Jun Gao.* 
 
-1. **Anomaly transformer: Time series anomaly detection with association discrepancy.** ICLR, 2022. [paper](https://openreview.net/pdf?id=LzQQ89U1qm)
+1. **Anomaly transformer: Time series anomaly detection with association discrepancy.** ICLR, 2022. [paper](https://openreview.net/pdf?id=LzQQ89U1qm_)
 
    *Jiehui Xu, Haixu Wu, Jianmin Wang, and Mingsheng Long.* 
 
@@ -482,14 +478,6 @@ Contributed by Chunyang Zhang.
 
    *Hui Lv, Chuanwei Zhou, Zhen Cui, Chunyan Xu, Yong Li, and Jian Yang.* 
 
-1. **Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.** ECCV, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-030-01237-3_34)
-
-   *Apoorv Vyas, Nataraj Jammalamadaka, Xia Zhu, Dipankar Das, Bharat Kaul, and Theodore L. Willke.* 
-
-1. **Self-supervised learning for generalizable out-of-distribution detection.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5966)
-
-   *Sina Mohseni, Mandar Pitale, JBS Yadawa, and Zhangyang ang.* 
-
 1. **PAC-Wrap: Semi-supervised PAC anomaly detection.** KDD, 2022. [paper](https://arxiv.org/abs/2205.10798)
 
    *Shuo Li, Xiayan Ji, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
@@ -527,10 +515,6 @@ Contributed by Chunyang Zhang.
 1. **Federated disentangled representation learning for unsupervised brain anomaly detection.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00515-2)
 
    *Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Shadi Albarqouni.* 
-
-1. **iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20670)
-
-   *Ramneet Kaur, Susmit Jha, Anirban Roy, Sangdon Park, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
 
 1. **DSR–A dual subspace re-projection network for surface anomaly detection.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_31)
 
@@ -657,7 +641,7 @@ Contributed by Chunyang Zhang.
 
    *Chen Qiu, Marius Kloft, Stephan Mandt, and Maja Rudolph.* 
 
-### [Contrastive Learning ](#content)
+### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
    *Jingcan Duan, Siwei Wang, Pei Zhang, En Zhu, Jingtao Hu, Hu Jin, Yue Liu, and Zhibin Dong.* 
@@ -749,6 +733,18 @@ Contributed by Chunyang Zhang.
 
    *Joris Guerin, Kevin Delmas, Raul Sena Ferreira, and Jérémie Guiochet.* 
 
+1. **iDECODe: In-distribution equivariance for conformal out-of-distribution detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20670)
+
+   *Ramneet Kaur, Susmit Jha, Anirban Roy, Sangdon Park, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
+
+
+1. **Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.** ECCV, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-030-01237-3_34)
+
+   *Apoorv Vyas, Nataraj Jammalamadaka, Xia Zhu, Dipankar Das, Bharat Kaul, and Theodore L. Willke.* 
+
+1. **Self-supervised learning for generalizable out-of-distribution detection.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5966)
+
+   *Sina Mohseni, Mandar Pitale, JBS Yadawa, and Zhangyang ang.* 
 
 ## [Mechanism](#content)
 ### [Dataset](#content)
@@ -912,10 +908,6 @@ Contributed by Chunyang Zhang.
 
    *Marthinus Christoffel Du Plessis, Gang Niu, and Masashi Sugiyama.* 
 
-1. **Spatio-temporal autoencoder for video anomaly detection.** MM, 2017. [paper](https://dl.acm.org/doi/abs/10.1145/3123266.3123451)
-
-   *Yiru Zhao, Bing Deng, Chen Shen, Yao Liu, Hongtao Lu, and Xian-Sheng Hua.* 
-
 ### [Lifelong Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
 
@@ -1051,6 +1043,10 @@ Contributed by Chunyang Zhang.
 1. **Generic and scalable framework for automated time-series anomaly detection.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/2783258.2788611)
 
    *Nikolay Laptev, Saeed Amizadeh, and Ian Flint.* 
+
+1. **Transfer learning for anomaly detection through localized and unsupervised instance selection.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/6068)
+
+   *Vincent Vercruyssen, Wannes Meert, and Jesse Davis.* 
 
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
