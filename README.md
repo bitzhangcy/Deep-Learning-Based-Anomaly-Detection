@@ -856,6 +856,10 @@ Contributed by Chunyang Zhang.
 
    *Tal Reiss, Niv Cohen, Eliahu Horwitz, Ron Abutbul, and Yedid Hoshen.* 
 
+1. **Is it worth it? An experimental comparison of six deep and classical machine learning methods for unsupervised anomaly detection in time series.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.11080)
+
+   *Ferdinand Rewicki, Joachim Denzler, and Julia Niebling.* 
+
 1. **FAPM: Fast adaptive patch memory for real-time industrial anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.07548)
 
    *Shinji Yamada, Satoshi Kamiya, and Kazuhiro Hotta.* 
@@ -946,6 +950,10 @@ Contributed by Chunyang Zhang.
 1. **xStream: Outlier detection in feature-evolving data streams.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220107)
 
    *Emaad Manzoor, Hemank Lamba, and Leman Akoglu.* 
+
+1. **Continual learning approaches for anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.11192)
+
+   *Davide Dalle Pezze, Eugenia Anello, Chiara Masiero, and Gian Antonio Susto.* 
 
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
