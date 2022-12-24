@@ -703,9 +703,17 @@ Contributed by Chunyang Zhang.
    *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
 
 ### [OOD](#content)
+1. **Your out-of-distribution detection method is not robust!** NIPS , 2022. [paper](https://arxiv.org/abs/2209.15246)
+
+   *Mohammad Azizmalayeri, Arshia Soltani Moakhar, Arman Zarei, Reihaneh Zohrabi, Mohammad Taghi Manzuri, and Mohammad Hossein Rohban.* 
+
 1. **Exploiting mixed unlabeled data for detecting samples of seen and unseen out-of-distribution classes.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20814)
 
    *Yi-Xuan Sun and Wei Wang.* 
+
+1. **RankFeat: Rank-1 feature removal for out-of-distribution detection.** AAAI, 2022. [paper](https://arxiv.org/abs/2209.08590)
+
+   *Yue Song, Nicu Sebe, and Wei Wang.* 
 
 1. **Detect, distill and update: Learned DB systems facing out of distribution data.** SIGMOD, 2023. [paper](https://arxiv.org/abs/2210.05508)
 
@@ -731,7 +739,6 @@ Contributed by Chunyang Zhang.
 
    *Ramneet Kaur, Susmit Jha, Anirban Roy, Sangdon Park, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
 
-
 1. **Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.** ECCV, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-030-01237-3_34)
 
    *Apoorv Vyas, Nataraj Jammalamadaka, Xia Zhu, Dipankar Das, Bharat Kaul, and Theodore L. Willke.* 
@@ -743,6 +750,11 @@ Contributed by Chunyang Zhang.
 1. **Energy-based out-of-distribution detection.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
 
    *Weitang Liu, Xiaoyun Wang, John Owens, and Yixuan Li.* 
+
+1. **Augmenting softmax information for selective classification with out-of-distribution data.** ACCV, 2022. [paper](https://openaccess.thecvf.com/content/ACCV2022/html/Xia_Augmenting_Softmax_Information_for_Selective_Classification_with_Out-of-Distribution_Data_ACCV_2022_paper.html)
+
+   *Guoxuan Xia and Christos-Savvas Bouganis.* 
+
 
 ## [Mechanism](#content)
 ### [Dataset](#content)
@@ -1172,6 +1184,10 @@ Contributed by Chunyang Zhang.
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
 
    *Jianjian Qin, Chunzhi Gu, Jun Yu, and Chao Zhang.* 
+
+1. **A benchmark for out of distribution detection in point cloud 3D semantic segmentation.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.06241)
+
+   *Lokesh Veeramacheneni and Matias Valdenegro-Toro.* 
 
 ### [High Performance Computing](#content)
 1. **Anomaly detection using autoencoders in high performance computing systems.** IAAI, 2019. [paper](https://dl.acm.org/doi/10.1609/aaai.v33i01.33019428)
