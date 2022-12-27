@@ -194,6 +194,10 @@ Contributed by Chunyang Zhang.
 
    *Tung Kieu, Bin Yang, Chenjuan Guo, Christian S. Jensen, Yan Zhao, Feiteng Huang, and Kai Zheng.*
 
+1. **Latent feature learning via autoencoder training for automatic classification configuration recommendation.** KBS, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0950705122013144)
+
+   *Liping Deng and MingQing Xiao.*
+
 1. **A multimodal anomaly detector for robot-assisted feeding using an LSTM-based variational autoencoder.** ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8279425)
 
    *Daehyung Park, Yuuna Hoshi, and Charles C. Kemp.* 
@@ -1013,6 +1017,10 @@ Contributed by Chunyang Zhang.
 1. **DAGAD: Data augmentation for graph anomaly detection.** ICDM, 2022. [paper](https://arxiv.org/abs/2210.09766)
 
    *Fanzhen Liu, Xiaoxiao Ma, Jia Wu, Jian Yang, Shan Xue†, Amin Beheshti, Chuan Zhou, Hao Peng, Quan Z. Sheng, and Charu C. Aggarwal.*
+
+1. **Unsupervised dimension-contribution-aware embeddings transformation for anomaly detection.** KBS, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0950705122013053)
+
+   *Liang Xi, Chenchen Liang, Han Liu, and Ao Li.*
 
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
