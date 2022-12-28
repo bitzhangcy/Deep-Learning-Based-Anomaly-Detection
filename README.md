@@ -34,8 +34,12 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#support-vector">2.12 Support Vector</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#lstm">2.13 LSTM</a></td>
-    <td>&ensp;<a href="#ood">2.14 OOD</a></td>
+    <td>&ensp;<a href="#ood">2.13 OOD</a></td>
+    <td>&ensp;<a href="#novelty-detection">2.14 Novelty Detection</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#lstm">2.15 LSTM</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
 <tr>
@@ -88,6 +92,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 
@@ -673,39 +678,6 @@ Contributed by Chunyang Zhang.
 
    *Raghavendra Chalapathy, Aditya Krishna Menon, and Sanjay Chawla.* 
 
-### [LSTM](#content)
-1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
-
-   *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
-   
-1. **Robust anomaly detection for multivariate time series through stochastic recurrent neural network.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330672)
-
-   *Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun, and Dan Pei.* 
-
-1. **DeepLog: Anomaly detection and diagnosis from system logs through deep learning.** CCS, 2017. [paper](https://dl.acm.org/doi/10.1145/3133956.3134015)
-
-   *Min Du, Feifei Li, Guineng Zheng, and Vivek Srikumar.* 
-
-1. **Unsupervised anomaly detection with LSTM neural networks.** TNNLS, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8836638)
-
-   *Tolga Ergen and Suleyman Serdar Kozat.* 
-   
-1. **LogAnomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/658)
-
-   *Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, and Rong Zhou.* 
-
-1. **Outlier detection for time series with recurrent autoencoder ensembles.** IJCAI, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
-
-   *Tung Kieu, Bin Yang, Chenjuan Guo, and Christian S. Jensen.* 
-
-1. **Learning regularity in skeleton trajectories for anomaly detection in videos.** CVPR, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
-
-   *Romero Morais, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, and Svetha Venkatesh.* 
-
-1. **LSTM-based encoder-decoder for multi-sensor anomaly detection.** arXiv, 2016. [paper](https://arxiv.org/abs/1607.00148)
-
-   *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
-
 ### [OOD](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS , 2022. [paper](https://arxiv.org/abs/2209.15246)
 
@@ -759,6 +731,43 @@ Contributed by Chunyang Zhang.
 
    *Guoxuan Xia and Christos-Savvas Bouganis.* 
 
+### [Novelty Detection](#content)
+1. **Semi-supervised novelty detection.** JMLR, 2010. [paper](https://www.jmlr.org/papers/v11/blanchard10a.html)
+
+   *Gilles Blanchard, Gyemin Lee, and Clayton Scott.* 
+
+### [LSTM](#content)
+1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
+
+   *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
+   
+1. **Robust anomaly detection for multivariate time series through stochastic recurrent neural network.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330672)
+
+   *Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun, and Dan Pei.* 
+
+1. **DeepLog: Anomaly detection and diagnosis from system logs through deep learning.** CCS, 2017. [paper](https://dl.acm.org/doi/10.1145/3133956.3134015)
+
+   *Min Du, Feifei Li, Guineng Zheng, and Vivek Srikumar.* 
+
+1. **Unsupervised anomaly detection with LSTM neural networks.** TNNLS, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8836638)
+
+   *Tolga Ergen and Suleyman Serdar Kozat.* 
+   
+1. **LogAnomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/658)
+
+   *Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, and Rong Zhou.* 
+
+1. **Outlier detection for time series with recurrent autoencoder ensembles.** IJCAI, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
+
+   *Tung Kieu, Bin Yang, Chenjuan Guo, and Christian S. Jensen.* 
+
+1. **Learning regularity in skeleton trajectories for anomaly detection in videos.** CVPR, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
+
+   *Romero Morais, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, and Svetha Venkatesh.* 
+
+1. **LSTM-based encoder-decoder for multi-sensor anomaly detection.** arXiv, 2016. [paper](https://arxiv.org/abs/1607.00148)
+
+   *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
 
 ## [Mechanism](#content)
 ### [Dataset](#content)
