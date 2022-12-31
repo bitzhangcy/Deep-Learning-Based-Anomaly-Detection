@@ -674,6 +674,10 @@ Contributed by Chunyang Zhang.
 
    *Lifeng Shen, Zhuocong Li, and James Kwok.* 
 
+1. **LOSDD: Leave-out support vector data description for outlier detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.13626)
+
+   *Daniel Boiar, Thomas Liebig, and Erich Schubert.* 
+
 1. **Anomaly detection using one-class neural networks.** arXiv, 2018. [paper](https://arxiv.org/abs/1802.06360)
 
    *Raghavendra Chalapathy, Aditya Krishna Menon, and Sanjay Chawla.* 
