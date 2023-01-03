@@ -1006,6 +1006,10 @@ Contributed by Chunyang Zhang.
 
    *Xuan Zhang, Shiyu Li, Xi Li, Ping Huang, Jiulong Shan, and Ting Chen.* 
 
+1. **Asymmetric student-teacher networks for industrial anomaly detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Rudolph_Asymmetric_Student-Teacher_Networks_for_Industrial_Anomaly_Detection_WACV_2023_paper.html)
+
+   *Marco Rudolph, Tom Wehrbein, Bodo Rosenhahn, and Bastian Wandt.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
@@ -1034,6 +1038,10 @@ Contributed by Chunyang Zhang.
 1. **Unsupervised dimension-contribution-aware embeddings transformation for anomaly detection.** KBS, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0950705122013053)
 
    *Liang Xi, Chenchen Liang, Han Liu, and Ao Li.*
+
+1. **No shifted augmentations (NSA): Compact distributions for robust self-supervised Anomaly Detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Yousef_No_Shifted_Augmentations_NSA_Compact_Distributions_for_Robust_Self-Supervised_Anomaly_WACV_2023_paper.html)
+
+   *Mohamed Yousef, Marcel Ackermann, Unmesh Kurup, and Tom Bishop.*
 
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
@@ -1206,7 +1214,11 @@ Contributed by Chunyang Zhang.
 
    *Jianjian Qin, Chunzhi Gu, Jun Yu, and Chao Zhang.* 
 
-1. **A benchmark for out of distribution detection in point cloud 3D semantic segmentation.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.06241)
+1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Bergmann_Anomaly_Detection_in_3D_Point_Clouds_Using_Deep_Geometric_Descriptors_WACV_2023_paper.html)
+
+   *Paul Bergmann and David Sattlegger.* 
+
+1. **Anomaly Detection in 3D Point Clouds Using Deep Geometric Descriptors.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Bergmann_Anomaly_Detection_in_3D_Point_Clouds_Using_Deep_Geometric_Descriptors_WACV_2023_paper.html)
 
    *Lokesh Veeramacheneni and Matias Valdenegro-Toro.* 
 
