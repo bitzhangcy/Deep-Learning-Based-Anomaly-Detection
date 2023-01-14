@@ -920,6 +920,10 @@ Contributed by Chunyang Zhang.
 1. **Look at adjacent frames: Video anomaly detection without offline training.** ECCV, 2022. [paper](https://arxiv.org/abs/2207.13798)
 
    *Yuqi Ouyang, Guodong Shen, and Victor Sanchez.* 
+   
+1. **How to allocate your label budget? Choosing between active learning and learning to reject in anomaly detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.02909)
+
+   *Lorenzo Perini, Daniele Giannuzzi, and Jesse Davis.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
