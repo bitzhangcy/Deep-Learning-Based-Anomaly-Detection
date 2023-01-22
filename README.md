@@ -950,6 +950,11 @@ Contributed by Chunyang Zhang.
 
    *Vincent Vercruyssen, Wannes Meert, and Jesse Davis.* 
 
+1. **FewSOME: Few shot anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.06957)
+
+   *Niamh Belton, Misgina Tsighe Hagos, Aonghus Lawlor, and Kathleen M. Curran.* 
+
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
