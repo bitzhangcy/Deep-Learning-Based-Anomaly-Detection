@@ -361,6 +361,10 @@ Contributed by Chunyang Zhang.
 
    *Matías Tailanian, Álvaro Pardo, and Pablo Musé.* 
 
+1. **Bi-directional frame interpolation for unsupervised video anomaly detection.** WACV, 2023. [paper](https://arxiv.org/abs/2211.12353)
+
+   *Hanqiu Deng, Zhaoxiang Zhang, Shihao Zou, and Xingyu Li.* 
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -582,6 +586,10 @@ Contributed by Chunyang Zhang.
 1. **Deep-cascade: Cascading 3D deep neural networks for fast anomaly detection and localization in crowded scenes.** TIP, 2017. [paper](https://ieeexplore.ieee.org/abstract/document/7858798)
 
    *Mohammad Sabokrou, Mohsen Fayyaz, Mahmood Fathy, and Reinhard Klette.* 
+
+1. **Towards interpretable video anomaly detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Doshi_Towards_Interpretable_Video_Anomaly_Detection_WACV_2023_paper.html)
+
+   *Keval Doshi and Yasin Yilmaz.* 
 
 ### [Graph Network](#content)
 1. **Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
@@ -954,6 +962,9 @@ Contributed by Chunyang Zhang.
 
    *Niamh Belton, Misgina Tsighe Hagos, Aonghus Lawlor, and Kathleen M. Curran.* 
 
+1. **Cross-domain video anomaly detection without target domain adaptation.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Aich_Cross-Domain_Video_Anomaly_Detection_Without_Target_Domain_Adaptation_WACV_2023_paper.html)
+
+   *Abhishek Aich, Kuan-Chuan Peng, and Amit K. Roy-Chowdhury.* 
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
@@ -1153,6 +1164,10 @@ Contributed by Chunyang Zhang.
 1. **ECOD: Unsupervised outlier detection using empirical cumulative distribution functions.** TKDE, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9737003)
 
    *Zheng Li, Yue Zhao, Xiyang Hu, Nicola Botta, Cezar Ionescu, and George Chen.* 
+
+1. **GLAD: A global-to-local anomaly detector.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Artola_GLAD_A_Global-to-Local_Anomaly_Detector_WACV_2023_paper.html)
+
+   *Aitor Artola, Yannis Kolodziej, Jean-Michel Morel, and Thibaud Ehret.* 
 
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
