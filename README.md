@@ -168,6 +168,9 @@ Contributed by Chunyang Zhang.
 
    *Josef Kittler, William Christmas, Teófilo de Campos, David Windridge, Fei Yan, John Illingworth, and Magda Osman.* 
 
+1. **Graph-based time-series anomaly detection: A Survey.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.00058)
+
+   *Thi Kieu Khanh Ho, Ali Karami, and Narges Armanfard.* 
 
 ## [Methods](#content) 
 ### [AutoEncoder](#content)
