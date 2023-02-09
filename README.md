@@ -746,6 +746,10 @@ Contributed by Chunyang Zhang.
 
    *Guoxuan Xia and Christos-Savvas Bouganis.* 
 
+1. **Robustness to spurious correlations improves semantic out-of-distribution detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2302.04132)
+
+   *Lily H. Zhang and Rajesh Ranganath.* 
+
 ### [Novelty Detection](#content)
 1. **Semi-supervised novelty detection.** JMLR, 2010. [paper](https://www.jmlr.org/papers/v11/blanchard10a.html)
 
