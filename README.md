@@ -172,6 +172,11 @@ Contributed by Chunyang Zhang.
 
    *Thi Kieu Khanh Ho, Ali Karami, and Narges Armanfard.* 
 
+1. **Weakly supervised anomaly detection: A survey.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.04549)
+
+   *Minqi Jiang, Chaochuan Hou, Ao Zheng, Xiyang Hu, Songqiao Han, Hailiang Huang, Xiangnan He, Philip S. Yu, and Yue Zhao.* 
+
+
 ## [Methods](#content) 
 ### [AutoEncoder](#content)
 1. **Graph regularized autoencoder and its application in unsupervised anomaly detection.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9380495)
