@@ -944,6 +944,10 @@ Contributed by Chunyang Zhang.
 1. **How to allocate your label budget? Choosing between active learning and learning to reject in anomaly detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.02909)
 
    *Lorenzo Perini, Daniele Giannuzzi, and Jesse Davis.* 
+   
+1. **Deep anomaly detection under labeling budget constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07832)
+
+   *Aodong Li, Chen Qiu, Padhraic Smyth, Marius Kloft, Stephan Mandt, and Maja Rudolph.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
