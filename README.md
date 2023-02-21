@@ -982,6 +982,10 @@ Contributed by Chunyang Zhang.
 
    *Abhishek Aich, Kuan-Chuan Peng, and Amit K. Roy-Chowdhury.* 
 
+1. **Zero-shot anomaly detection without foundation models.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07849)
+
+   *Aodong Li, Chen Qiu, Marius Kloft, Padhraic Smyth, Maja Rudolph, and Stephan Mandt.* 
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
