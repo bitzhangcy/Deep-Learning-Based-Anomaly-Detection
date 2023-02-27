@@ -1,6 +1,6 @@
-# Anomaly Detection and Localization
+# Deep-Learning-Based-Anomaly-Detection
 
-Anomaly: Samples that significantly deviate from the majority of data instances.
+***Anomaly Detection***: The process of detectingdata instances that ***significantly deviate*** from the majority of the whole dataset.
 
 Contributed by Chunyang Zhang.
 
@@ -8,7 +8,7 @@ Contributed by Chunyang Zhang.
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#methods">2. Methods</a></td></tr>
+<tr><td colspan="2"><a href="#methods">2. Method</a></td></tr>
 <tr>
     <td>&ensp;<a href="#autoencoder">2.1 AutoenEoder</a></td>
     <td>&ensp;<a href="#gan">2.2 GAN</a></td>
@@ -27,7 +27,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#cnn">2.9 CNN</a></td>
-    <td>&ensp;<a href="#graph-network">2.10 Graph Network</a></td>
+    <td>&ensp;<a href="#graph-network">2.10 Graph Neural Network</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#sparse-coding">2.11 Sparse Coding</a></td>
@@ -72,7 +72,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#memory-bank">3.15 Memory Bank</a></td>
-    <td>&ensp;<a href="#human-in-loop">3.16 Human in Loop</a></td>
+    <td>&ensp;<a href="#active-learning">3.16 Active Learning</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#cluster">3.17 Cluster</a></td>
@@ -84,7 +84,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#point-cloud">4.2 Point Cloud</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#high-performance-computing">4.3 High Performance Computing</a></td>
+    <td>&ensp;<a href="#hpc">4.3 HPC</a></td>
     <td>&ensp;<a href="#intrusion">4.4 Intrusion</a></td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ Contributed by Chunyang Zhang.
    *Minqi Jiang, Chaochuan Hou, Ao Zheng, Xiyang Hu, Songqiao Han, Hailiang Huang, Xiangnan He, Philip S. Yu, and Yue Zhao.* 
 
 
-## [Methods](#content) 
+## [Method](#content) 
 ### [AutoEncoder](#content)
 1. **Graph regularized autoencoder and its application in unsupervised anomaly detection.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9380495)
 
@@ -623,7 +623,7 @@ Contributed by Chunyang Zhang.
 
    *Keval Doshi and Yasin Yilmaz.* 
 
-### [Graph Network](#content)
+### [Graph Neural Network](#content)
 1. **Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 
    *Jiaxing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, and Ge Li.* 
@@ -1251,7 +1251,7 @@ Contributed by Chunyang Zhang.
 
    *Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, and Anton van den Hengel.* 
 
-### [Human in Loop](#content)
+### [Active Learning](#content)
 1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
 
    *Yue Zhao, Guoqing Zheng, Subhabrata Mukherjee, Robert McCann, and Ahmed Awadallah.* 
@@ -1298,7 +1298,7 @@ Contributed by Chunyang Zhang.
 
    *Lokesh Veeramacheneni and Matias Valdenegro-Toro.* 
 
-### [High Performance Computing](#content)
+### [HPC](#content)
 1. **Anomaly detection using autoencoders in high performance computing systems.** IAAI, 2019. [paper](https://dl.acm.org/doi/10.1609/aaai.v33i01.33019428)
 
    *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
