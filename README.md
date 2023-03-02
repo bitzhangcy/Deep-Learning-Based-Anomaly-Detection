@@ -78,6 +78,10 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#cluster">3.17 Cluster</a></td>
     <td>&ensp;<a href="#isolation">3.18 Isolation</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#multimodal ">3.19 Multimodal </a></td>
+    <td>&ensp;<a href=""></a></td>
+</tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
     <td>&ensp;<a href="#finance">4.1 Finance</a></td>
@@ -92,6 +96,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 
@@ -1276,7 +1281,12 @@ Contributed by Chunyang Zhang.
 
 1. **AIDA: Analytic isolation and distance-based anomaly detection algorithm.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.02645)
 
-   *Luis Antonio Souto Arias, Cornelis W. Oosterlee, and Pasquale Cirillo.* 
+   *Luis Antonio Souto Arias, Cornelis W. Oosterlee, and Pasquale Cirillo.*
+
+### [Multimodal](#content)
+1. **Multimodal industrial anomaly detection via hybrid fusion.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.00601)
+
+   *Yue Wang, Jinlong Peng, Jiangning Zhang, Ran Yi, Yabiao Wang, and Chengjie Wang.*
 
 
 ## [Application](#content)
