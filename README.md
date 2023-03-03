@@ -731,6 +731,10 @@ Contributed by Chunyang Zhang.
 
    *Raghavendra Chalapathy, Aditya Krishna Menon, and Sanjay Chawla.* 
 
+1. **Deep graph stream SVDD: Anomaly detection in cyber-physical systems.** PAKDD, 2023. [paper](https://arxiv.org/pdf/2302.12918)
+
+   *Ehtesamul Azim, Dongjie Wang, and Yanjie Fu.* 
+
 ### [OOD](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
 
