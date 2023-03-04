@@ -689,6 +689,10 @@ Contributed by Chunyang Zhang.
 
    *Jingcan Duan, Siwei Wang, Pei Zhang, En Zhu, Jingtao Hu, Hu Jin, Yue Liu, and Zhibin Dong.* 
 
+1. **Counterfactual graph learning for anomaly detection on attributed networks.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10056298)
+
+   *Chunjing Xiao, Xovee Xu, Yue Lei, Kunpeng Zhang, Siyuan Liu, and Fan Zhou.* 
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
