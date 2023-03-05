@@ -8,7 +8,7 @@ Contributed by Chunyang Zhang.
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#methods">2. Method</a></td></tr>
+<tr><td colspan="2"><a href="#methodology">2. Methodology</a></td></tr>
 <tr>
     <td>&ensp;<a href="#autoencoder">2.1 AutoenEoder</a></td>
     <td>&ensp;<a href="#gan">2.2 GAN</a></td>
@@ -19,7 +19,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#transformer">2.5 Transformer</a></td>
-    <td>&ensp;<a href="#representation-learning">2.6 Representation Learninge</a></td>
+    <td>&ensp;<a href="#representation-learning">2.6 Representation Learning</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#nonparametric-approach">2.7 Nonparametric Approach</a></td>
@@ -38,7 +38,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#novelty-detection">2.14 Novelty Detection</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#lstm">2.15 LSTM</a></td>
+    <td>&ensp;<a href="#rnns">2.15 RNNs</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
@@ -79,8 +79,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#isolation">3.18 Isolation</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#multimodal ">3.19 Multimodal </a></td>
-    <td>&ensp;<a href=""></a></td>
+    <td>&ensp;<a href="#multimodal">3.19 Multimodal</a></td>
+    <td>&ensp;<a href="#energy-model">3.20 Energy Model</a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
@@ -96,9 +96,6 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
-
-
-
 
 
 
@@ -182,7 +179,7 @@ Contributed by Chunyang Zhang.
    *Minqi Jiang, Chaochuan Hou, Ao Zheng, Xiyang Hu, Songqiao Han, Hailiang Huang, Xiangnan He, Philip S. Yu, and Yue Zhao.* 
 
 
-## [Method](#content) 
+## [Methodology](#content) 
 ### [AutoEncoder](#content)
 1. **Graph regularized autoencoder and its application in unsupervised anomaly detection.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9380495)
 
@@ -195,10 +192,6 @@ Contributed by Chunyang Zhang.
 1. **Attention guided anomaly localization in images.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58520-4_29)
 
    *Shashanka Venkataramanan, Kuan-Chuan Peng, Rajat Vikram Singh, and Abhijit Mahalanobis.* 
-
-1. **Dynamic local aggregation network with adaptive clusterer for anomaly detection.** ECCV, 2022. [paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-19772-7_24)
-
-   *Zhiwei Yang, Peng Wu, Jing Liu, and Xiaotao Liu.* 
 
 1. **Latent space autoregression for novelty detection.** CVPR, 2018. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Abati_Latent_Space_Autoregression_for_Novelty_Detection_CVPR_2019_paper.html)
 
@@ -216,10 +209,6 @@ Contributed by Chunyang Zhang.
 
    *Liping Deng and MingQing Xiao.*
 
-1. **A multimodal anomaly detector for robot-assisted feeding using an LSTM-based variational autoencoder.** ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8279425)
-
-   *Daehyung Park, Yuuna Hoshi, and Charles C. Kemp.* 
-
 1. **Deep autoencoding Gaussian mixture model for unsupervised anomaly detection.** ICLR, 2018. [paper](https://openreview.net/forum?id=BJJLHbb0-)
 
    *Bo Zongy, Qi Songz, Martin Renqiang Miny, Wei Chengy, Cristian Lumezanuy, Daeki Choy, and Haifeng Chen.* 
@@ -236,10 +225,6 @@ Contributed by Chunyang Zhang.
 
    *Yiru Zhao, Bing Deng, Chen Shen, Yao Liu, Hongtao Lu, and Xiansheng Hua.* 
 
-1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
-
-   *Shuangfei Zhai, Yu Cheng, Weining Lu, and Zhongfei Zhang.* 
-
 1. **Learning discriminative reconstructions for unsupervised outlier removal.** ICCV, 2015. [paper](https://ieeexplore.ieee.org/document/7410534)
 
    *Yan Xia, Xudong Cao, Fang Wen, Gang Hua, and Jian Sun.* 
@@ -252,21 +237,9 @@ Contributed by Chunyang Zhang.
 
    *Manassés Ribeiro, AndréEugênio Lazzaretti, and Heitor Silvério Lopes.*
 
-1. **Clustering and unsupervised anomaly detection with L2 normalized deep auto-encoder representations.** IJCNN, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8489068)
-
-   *Caglar Aytekin, Xingyang Ni, Francesco Cricri, and Emre Aksu.*
-
 1. **Classification-reconstruction learning for open-set recognition.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoshihashi_Classification-Reconstruction_Learning_for_Open-Set_Recognition_CVPR_2019_paper.pdf)
 
    *Ryota Yoshihashi, Shaodi You, Wen Shao, Makoto Iida, Rei Kawakami, and Takeshi Naemura.*
-
-1. **Learning temporal regularity in video sequences.** CVPR, 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.html)
-
-   *Mahmudul Hasan, Jonghyun Choi, Jan Neumann, Amit K. Roy-Chowdhury, and Larry S. Davis.*
-
-1. **Clustering driven deep autoencoder for video anomaly detection.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_20)
-
-   *Yunpeng Chang, Zhigang Tu, Wei Xie, and Junsong Yuan.*
 
 1. **Making reconstruction-based method great again for video anomaly detection.** ICDM, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/10027694/)
 
@@ -283,7 +256,7 @@ Contributed by Chunyang Zhang.
 
 1. **GAN ensemble for anomaly detection.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16530)
 
-   *Han, Xu, Xiaohui Chen, and Li-Ping Liu.* 
+   *Han, Xu, Xiaohui Chen, and Liping Liu.* 
 
 1. **Generative cooperative learning for unsupervised video anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.html)
 
@@ -293,7 +266,7 @@ Contributed by Chunyang Zhang.
 
    *Junbong Kim, Kwanghee Jeong, Hyomin Choi, and Kisung Seo.* 
 
-1. **Old is Gold: Redefining the adversarially learned one-class classifier training paradigm.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.html)
+1. **Old is gold: Redefining the adversarially learned one-class classifier training paradigm.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.html)
 
    *Muhammad Zaigham Zaheer, Jin-ha Lee, Marcella Astrid, and Seung-Ik Lee.* 
 
@@ -325,7 +298,7 @@ Contributed by Chunyang Zhang.
 
    *Houssam Zenati, Chuan Sheng Foo, Bruno Lecouat, Gaurav Manek, and Vijay Ramaseshan Chandrasekhar.* 
 
-1. **GANomaly: Semi-supervised Anomaly Detection via Adversarial Training.** ACCV, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-20893-6_39)
+1. **GANomaly: Semi-supervised anomaly detection via adversarial training.** ACCV, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-20893-6_39)
 
    *Akcay, Samet, Amir Atapour-Abarghouei, and Toby P. Breckon.* 
 
@@ -416,7 +389,7 @@ Contributed by Chunyang Zhang.
 
    *Chao Huang, Chengliang Liu, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, and Yong Xu.* 
 
-   **AddGraph: Anomaly detection in dynamic graph using attention-based temporal GCN.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/614)
+1. **AddGraph: Anomaly detection in dynamic graph using attention-based temporal GCN.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/614)
 
    *Li Zheng, Zhenpeng Li, Jian Li, Zhao Li, and Jun Gao.* 
 
@@ -782,11 +755,7 @@ Contributed by Chunyang Zhang.
 
 1. **Self-supervised learning for generalizable out-of-distribution detection.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5966)
 
-   *Sina Mohseni, Mandar Pitale, JBS Yadawa, and Zhangyang ang.* 
-
-1. **Energy-based out-of-distribution detection.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
-
-   *Weitang Liu, Xiaoyun Wang, John Owens, and Yixuan Li.* 
+   *Sina Mohseni, Mandar Pitale, JBS Yadawa, and Zhangyang Wang.* 
 
 1. **Augmenting softmax information for selective classification with out-of-distribution data.** ACCV, 2022. [paper](https://openaccess.thecvf.com/content/ACCV2022/html/Xia_Augmenting_Softmax_Information_for_Selective_Classification_with_Out-of-Distribution_Data_ACCV_2022_paper.html)
 
@@ -801,7 +770,7 @@ Contributed by Chunyang Zhang.
 
    *Gilles Blanchard, Gyemin Lee, and Clayton Scott.* 
 
-### [LSTM](#content)
+### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
    *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
@@ -865,10 +834,6 @@ Contributed by Chunyang Zhang.
 
    *Paul Bergmann, Kilian Batzner, Michael Fauser, David Sattlegger, and Carsten Steger.* 
 
-1. **MVTec AD-A comprehensive real-world dataset for unsupervised anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.html)
-
-   *Paul Bergmann, Michael Fauser, David Sattlegger, and Carsten Steger.* 
-
 1. **Anomaly detection in crowded scenes.** CVPR, 2010. [paper](https://ieeexplore.ieee.org/abstract/document/5539872/)
 
    *Vijay Mahadevan, Weixin Li, Viral Bhalodia, and Nuno Vasconcelos.* 
@@ -896,7 +861,7 @@ Contributed by Chunyang Zhang.
 
 1. **OpenOOD: Benchmarking generalized out-of-distribution detection.** NIPS, 2022. [paper](https://arxiv.org/pdf/2210.07242.pdf)
 
-   *Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du,Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, and Ziwei Liu.* 
+   *Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, and Ziwei Liu.* 
 
 1. **Towards a rigorous evaluation of rime-series anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20680)
 
@@ -930,6 +895,10 @@ Contributed by Chunyang Zhang.
 1. **Further analysis of outlier detection with deep generative models.** NIPS, 2018. [paper](http://proceedings.mlr.press/v137/wang20a.html)
 
    *Ziyu Wang, Bin Dai, David Wipf, and Jun Zhu.* 
+
+1. **Learning temporal regularity in video sequences.** CVPR, 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.html)
+
+   *Mahmudul Hasan, Jonghyun Choi, Jan Neumann, Amit K. Roy-Chowdhury, and Larry S. Davis.*
 
 1. **Local evaluation of time series anomaly detection algorithms.** KDD, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539339)
 
@@ -1024,7 +993,7 @@ Contributed by Chunyang Zhang.
 
    *Aodong Li, Chen Qiu, Marius Kloft, Padhraic Smyth, Maja Rudolph, and Stephan Mandt.* 
 
-1. **Pushing the limits of fewshot anomaly detection in industry vision:  A Graphcore.** ICLR, 2023. [paper](https://openreview.net/forum?id=xzmqxHdZAwO)
+1. **Pushing the limits of fewshot anomaly detection in industry vision:  A graphcore.** ICLR, 2023. [paper](https://openreview.net/forum?id=xzmqxHdZAwO)
 
    *Guoyang Xie, Jinbao Wang, Jiaqi Liu, Yaochu Jin, and Feng Zheng.* 
 
@@ -1282,6 +1251,18 @@ Contributed by Chunyang Zhang.
 
    *Susik Yoon, Yooju Shin, Jae-Gil Lee, and Byung Suk Lee.* 
 
+1. **Dynamic local aggregation network with adaptive clusterer for anomaly detection.** ECCV, 2022. [paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-19772-7_24)
+
+   *Zhiwei Yang, Peng Wu, Jing Liu, and Xiaotao Liu.* 
+
+1. **Clustering and unsupervised anomaly detection with L2 normalized deep auto-encoder representations.** IJCNN, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8489068)
+
+   *Caglar Aytekin, Xingyang Ni, Francesco Cricri, and Emre Aksu.*
+
+1. **Clustering driven deep autoencoder for video anomaly detection.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_20)
+
+   *Yunpeng Chang, Zhigang Tu, Wei Xie, and Junsong Yuan.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
@@ -1296,6 +1277,22 @@ Contributed by Chunyang Zhang.
 
    *Yue Wang, Jinlong Peng, Jiangning Zhang, Ran Yi, Yabiao Wang, and Chengjie Wang.*
 
+1. **A multimodal anomaly detector for robot-assisted feeding using an LSTM-based variational autoencoder.** ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8279425)
+
+   *Daehyung Park, Yuuna Hoshi, and Charles C. Kemp.* 
+
+### [Energy Model](#content)
+1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
+
+   *Shuangfei Zhai, Yu Cheng, Weining Lu, and Zhongfei Zhang.* 
+
+1. **Energy-based out-of-distribution detection.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
+
+   *Weitang Liu, Xiaoyun Wang, John Owens, and Yixuan Li.* 
+
+1. **Learning neural set functions under the optimal subset oracle .** NIPS, 2022. [paper](https://openreview.net/forum?id=GXOC0zL0ZI)
+
+   *Zijing Ou, Tingyang Xu, Qinliang Su, Yingzhen Li, Peilin Zhao, and Yatao Bian.* 
 
 ## [Application](#content)
 ### [Finance](#content)
