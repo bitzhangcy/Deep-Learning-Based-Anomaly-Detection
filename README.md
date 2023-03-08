@@ -601,6 +601,10 @@ Contributed by Chunyang Zhang.
 
    *Keval Doshi and Yasin Yilmaz.* 
 
+1. **Lossy compression for robust unsupervised time-series anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2212.02303)
+
+   *Christopher P. Ley and  Jorge F. Silva.* 
+
 ### [Graph Neural Network](#content)
 1. **Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 
@@ -764,6 +768,26 @@ Contributed by Chunyang Zhang.
 1. **Robustness to spurious correlations improves semantic out-of-distribution detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2302.04132)
 
    *Lily H. Zhang and Rajesh Ranganath.* 
+
+1. **Non-parametric outlier synthesis .** ICLR, 2023. [paper](https://openreview.net/forum?id=JHklpEZqduQ)
+
+   *Leitian Tao, Xuefeng Du, Jerry Zhu, and Yixuan Li.* 
+
+1. **Out-of-distribution detection with implicit outlier transformation .** ICLR, 2023. [paper](https://openreview.net/forum?id=hdghx6wbGuD)
+
+   *Qizhou Wang,  Junjie Ye, Feng Liu, Quanyu Dai, Marcus Kalander, Tongliang Liu, Jianye Hao, and Bo Han.* 
+
+1. **Out-of-distribution representation learning for time series classification ** ICLR, 2023. [paper](https://openreview.net/forum?id=gUZWOE42l6Q)
+
+   *Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, and Xing Xie.* 
+
+1. **Out-of-distribution detection based on in-distribution data patterns memorization with modern Hopfield energy.** ICLR, 2023. [paper](https://openreview.net/forum?id=KkazG4lgKL)
+
+   *Jinsong Zhang, Qiang Fu, Xu Chen, Lun Du, Zelin Li, Gang Wang, xiaoguang Liu, Shi Han, and Dongmei Zhang.* 
+
+1. **Diversify and disambiguate: Out-of-distribution robustness via disagreement.** ICLR, 2023. [paper](https://openreview.net/forum?id=RVTOp3MwT3n)
+
+   *Yoonho Lee, Huaxiu Yao, and Chelsea Finn.* 
 
 ### [Novelty Detection](#content)
 1. **Semi-supervised novelty detection.** JMLR, 2010. [paper](https://www.jmlr.org/papers/v11/blanchard10a.html)
@@ -1113,6 +1137,10 @@ Contributed by Chunyang Zhang.
 1. **MGFN: Magnitude-contrastive glance-and-focus network for weakly-supervised video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2211.15098)
 
    *Yingxian Chen, Zhengzhe Liu, Baoheng Zhang, Wilton Fok, Xiaojuan Qi, and Yik-Chung Wu.* 
+
+1. **On the effectiveness of out-of-distribution data in self-supervised long-tail learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=v8JIQdiN9Sh)
+
+   *Jianhong Bai, Zuozhu Liu, Hualiang Wang, Jin Hao, Yang Feng, Huanpeng Chu, and Haoji Hu.* 
 
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
