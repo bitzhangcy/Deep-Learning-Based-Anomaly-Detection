@@ -27,7 +27,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#cnn">2.9 CNN</a></td>
-    <td>&ensp;<a href="#graph-network">2.10 Graph Neural Network</a></td>
+    <td>&ensp;<a href="#graph-neural-network">2.10 Graph Neural Network</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#sparse-coding">2.11 Sparse Coding</a></td>
@@ -96,6 +96,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 
@@ -777,7 +778,7 @@ Contributed by Chunyang Zhang.
 
    *Qizhou Wang,  Junjie Ye, Feng Liu, Quanyu Dai, Marcus Kalander, Tongliang Liu, Jianye Hao, and Bo Han.* 
 
-1. **Out-of-distribution representation learning for time series classification ** ICLR, 2023. [paper](https://openreview.net/forum?id=gUZWOE42l6Q)
+1. **Out-of-distribution representation learning for time series classification.** ICLR, 2023. [paper](https://openreview.net/forum?id=gUZWOE42l6Q)
 
    *Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, and Xing Xie.* 
 
