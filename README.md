@@ -60,7 +60,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
 	<td>&ensp;<a href="#contrastive-learning">3.9 Contrastive Learning</a></td>
-    <td>&ensp;<a href="#model-selection">3.10 Model-Selection</a></td>
+    <td>&ensp;<a href="#model-selection">3.10 Model Selection</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#gaussian-process">3.11 Gaussian Process</a></td>
