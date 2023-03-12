@@ -250,6 +250,10 @@ Contributed by Chunyang Zhang.
 
    *Chaewon Park, Minhyeok Lee, Suhwan Cho, Donghyeong Kim, and Sangyoun Lee.*
 
+1. **Synthetic pseudo anomalies for unsupervised video anomaly detection: A simple yet efficient framework based on masked autoencoder.** ICASSP, 2023. [paper](https://arxiv.org/abs/2303.05112)
+
+   *Xiangyu Huang, Caidan Zhao, Chenxing Gao, Lvdong Chen, and Zhiqiang Wu.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -984,6 +988,10 @@ Contributed by Chunyang Zhang.
 1. **Deep anomaly detection under labeling budget constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07832)
 
    *Aodong Li, Chen Qiu, Padhraic Smyth, Marius Kloft, Stephan Mandt, and Maja Rudolph.* 
+
+1. **Diversity-measurable anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.05047)
+
+   *Wenrui Liu, Hong Chang, Bingpeng Ma, Shiguang Shan, and Xilin Chen.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
