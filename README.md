@@ -774,11 +774,11 @@ Contributed by Chunyang Zhang.
 
    *Lily H. Zhang and Rajesh Ranganath.* 
 
-1. **Non-parametric outlier synthesis .** ICLR, 2023. [paper](https://openreview.net/forum?id=JHklpEZqduQ)
+1. **Non-parametric outlier synthesis.** ICLR, 2023. [paper](https://openreview.net/forum?id=JHklpEZqduQ)
 
    *Leitian Tao, Xuefeng Du, Jerry Zhu, and Yixuan Li.* 
 
-1. **Out-of-distribution detection with implicit outlier transformation .** ICLR, 2023. [paper](https://openreview.net/forum?id=hdghx6wbGuD)
+1. **Out-of-distribution detection with implicit outlier transformation.** ICLR, 2023. [paper](https://openreview.net/forum?id=hdghx6wbGuD)
 
    *Qizhou Wang,  Junjie Ye, Feng Liu, Quanyu Dai, Marcus Kalander, Tongliang Liu, Jianye Hao, and Bo Han.* 
 
@@ -1327,7 +1327,7 @@ Contributed by Chunyang Zhang.
 
    *Weitang Liu, Xiaoyun Wang, John Owens, and Yixuan Li.* 
 
-1. **Learning neural set functions under the optimal subset oracle .** NIPS, 2022. [paper](https://openreview.net/forum?id=GXOC0zL0ZI)
+1. **Learning neural set functions under the optimal subset oracle.** NIPS, 2022. [paper](https://openreview.net/forum?id=GXOC0zL0ZI)
 
    *Zijing Ou, Tingyang Xu, Qinliang Su, Yingzhen Li, Peilin Zhao, and Yatao Bian.* 
 
