@@ -372,6 +372,10 @@ Contributed by Chunyang Zhang.
 
    *Yuzhong Zhao, Qiaoqiao Ding, and Xiaoqun Zhang.*
 
+1. **A video anomaly detection framework based on appearance-motion semantics representation consistency.** ICASSP, 2023. [paper](https://arxiv.org/abs/2303.05109)
+
+   *Xiangyu Huang, Caidan Zhao, and Zhiqiang Wu.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
