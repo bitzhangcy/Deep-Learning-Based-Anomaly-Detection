@@ -35,10 +35,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#ood">2.13 OOD</a></td>
-    <td>&ensp;<a href="#novelty-detection">2.14 Novelty Detection</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#rnns">2.15 RNNs</a></td>
+    <td>&ensp;<a href="#rnns">2.14 RNNs</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
@@ -96,6 +93,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 
@@ -797,11 +795,6 @@ Contributed by Chunyang Zhang.
 1. **Diversify and disambiguate: Out-of-distribution robustness via disagreement.** ICLR, 2023. [paper](https://openreview.net/forum?id=RVTOp3MwT3n)
 
    *Yoonho Lee, Huaxiu Yao, and Chelsea Finn.* 
-
-### [Novelty Detection](#content)
-1. **Semi-supervised novelty detection.** JMLR, 2010. [paper](https://www.jmlr.org/papers/v11/blanchard10a.html)
-
-   *Gilles Blanchard, Gyemin Lee, and Clayton Scott.* 
 
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
