@@ -1098,6 +1098,10 @@ Contributed by Chunyang Zhang.
 
    *Marco Rudolph, Tom Wehrbein, Bodo Rosenhahn, and Bastian Wandt.* 
 
+1. **In-painting radiography images for unsupervised anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2111.13495)
+
+   *Tiange Xiang, Yongyi Lu, Alan L. Yuille, Chaoyi Zhang, Weidong Cai, and Zongwei Zhou.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
