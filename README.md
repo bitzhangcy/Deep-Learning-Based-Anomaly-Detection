@@ -383,6 +383,10 @@ Contributed by Chunyang Zhang.
 
    *Julia Wolleb, Florentin Bieder, Robin Sandkühler, and Philippe C. Cattin.* 
 
+1. **DiffusionAD: Denoising diffusion for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.08730)
+
+   *Hui Zhang, Zheng Wang, Zuxuan Wu, Yugang Jiang.* 
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
