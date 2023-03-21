@@ -994,6 +994,10 @@ Contributed by Chunyang Zhang.
 
    *Wenrui Liu, Hong Chang, Bingpeng Ma, Shiguang Shan, and Xilin Chen.* 
 
+1. **Transferring the contamination factor between anomaly detection domains by shape similarity.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20331)
+
+   *Lorenzo Perini, Vincent Vercruyssen, and Jesse Davis.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
@@ -1265,6 +1269,10 @@ Contributed by Chunyang Zhang.
 1. **Hierarchical density estimates for data clustering, visualization, and outlier detection.** ACM Transactions on Knowledge Discovery from Data, 2015. [paper](https://dl.acm.org/doi/10.1145/2733381)
 
    *Ricardo J. G. B. Campello, Davoud Moulavi, Arthur Zimek, and Jörg Sander.* 
+
+1. **Unsupervised anomaly detection by robust density estimation.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20328)
+
+   *Boyang Liu, Pangning Tan, and Jiayu Zhou.* 
 
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
