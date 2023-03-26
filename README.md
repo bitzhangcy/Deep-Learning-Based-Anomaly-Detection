@@ -1158,7 +1158,11 @@ Contributed by Chunyang Zhang.
 
 1. **On the effectiveness of out-of-distribution data in self-supervised long-tail learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=v8JIQdiN9Sh)
 
-   *Jianhong Bai, Zuozhu Liu, Hualiang Wang, Jin Hao, Yang Feng, Huanpeng Chu, and Haoji Hu.* 
+   *Jianhong Bai, Zuozhu Liu, Hualiang Wang, Jin Hao, Yang Feng, Huanpeng Chu, and Haoji Hu.*
+
+1. **Hierarchical semantic contrast for scene-aware video anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.13051)
+
+   *Shengyang Sun and Xiaojin Gong.*
 
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
