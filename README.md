@@ -188,6 +188,10 @@ Contributed by Chunyang Zhang.
 
    *Xinyi Wang and Lang Tong.* 
 
+1. **Autoencoders-A comparative analysis in the realm of anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/WiCV/html/Schneider_Autoencoders_-_A_Comparative_Analysis_in_the_Realm_of_Anomaly_CVPRW_2022_paper.html)
+
+   *Sarah Schneider, Doris Antensteiner, Daniel Soukup, and Matthias Scheutz.* 
+
 1. **Attention guided anomaly localization in images.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58520-4_29)
 
    *Shashanka Venkataramanan, Kuan-Chuan Peng, Rajat Vikram Singh, and Abhijit Mahalanobis.* 
@@ -616,6 +620,10 @@ Contributed by Chunyang Zhang.
 
    *Christopher P. Ley and  Jorge F. Silva.* 
 
+1. **Learning second order local anomaly for general face forgery detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.html)
+
+   *Jianwei Fei, Yunshu Dai, Peipeng Yu, Tianrun Shen, Zhihua Xia, and Jian Weng.* 
+
 ### [Graph Neural Network](#content)
 1. **Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 
@@ -913,6 +921,10 @@ Contributed by Chunyang Zhang.
 
    *Kay Liu, Yingtong Dou, Yue Zhao, Xueying Ding, Xiyang Hu, Ruitong Zhang, Kaize Ding, Canyu Chen, Hao Peng, Kai Shu, Lichao Sun, Jundong Li, George H. Chen, Zhihao Jia, and Philip S. Yu.* 
 
+1. **Ubnormal: New benchmark for supervised open-set video anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.html)
+
+   *Andra Acsintoae, Andrei Florescu, Mariana-Iuliana Georgescu, Tudor Mare, Paul Sumedrea, Radu Tudor Ionescu, Fahad Shahbaz Khan, and Mubarak Shah.* 
+
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
 
@@ -1187,7 +1199,7 @@ Contributed by Chunyang Zhang.
    *Kai-Wen Cheng and Yie-Tarng Chen, and Wen-Hsien Fang.* 
 
 1. **Multidimensional time series anomaly detection: A GRU-based Gaussian mixture variational autoencoder approach.** ACCV, 2018. [paper](http://proceedings.mlr.press/v95/guo18a.html)
-
+   
    *Yifan Guo, Weixian Liao, Qianlong Wang, Lixing Yu, Tianxi Ji, and Pan Li.* 
 
 1. **Gaussian process regression-based video anomaly detection and localization with hierarchical feature representation.** TIP, 2015. [paper](https://ieeexplore.ieee.org/abstract/document/7271067)
@@ -1229,7 +1241,7 @@ Contributed by Chunyang Zhang.
    *Abhijit Guha Roy, Jie Ren, Shekoofeh Azizi, Aaron Loh, Vivek Natarajan, Basil Mustafa, Nick Pawlowski, Jan Freyberg, Yuan Liu, Zach Beaver, Nam Vo, Peggy Bui, Samantha Winter, Patricia MacWilliams, Greg S. Corrado, Umesh Telang, Yun Liu, Taylan Cemgil, Alan Karthikesalingam, Balaji Lakshminarayanan, and Jim Winkens.*
 
 ### [Statistics](#content)
-1. **(1+ε)-class Classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
+1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
 
    *Maxim Borisyak, Artem Ryzhikov, Andrey Ustyuzhanin, Denis Derkach, Fedor Ratnikov, and Olga Mineeva.* 
 
@@ -1352,7 +1364,11 @@ Contributed by Chunyang Zhang.
 ### [Finance](#content)
 1. **Antibenford subgraphs: Unsupervised anomaly detection in financial networks.** KDD, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539100)
 
-   *Tianyi Chen and E. Tsourakakis* 
+   *Tianyi Chen and E. Tsourakakis.* 
+
+1. **Adversarial machine learning attacks against video anomaly detection systems.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Mumcu_Adversarial_Machine_Learning_Attacks_Against_Video_Anomaly_Detection_Systems_CVPRW_2022_paper.html)
+
+   *Furkan Mumcu, Keval Doshi,  and Yasin Yilmaz.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
