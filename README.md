@@ -687,7 +687,11 @@ Contributed by Chunyang Zhang.
 
 1. **Counterfactual graph learning for anomaly detection on attributed networks.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10056298)
 
-   *Chunjing Xiao, Xovee Xu, Yue Lei, Kunpeng Zhang, Siyuan Liu, and Fan Zhou.* 
+   *Chunjing Xiao, Xovee Xu, Yue Lei, Kunpeng Zhang, Siyuan Liu, and Fan Zhou.*
+
+1. **Deep variational graph convolutional recurrent network for multivariate time series anomaly detection.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/chen22x.html)
+
+   *Wenchao Chen, Long Tian, Bo Chen, Liang Dai, Zhibin Duan, and Mingyuan Zhou.*
 
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
@@ -1175,6 +1179,10 @@ Contributed by Chunyang Zhang.
 1. **Hierarchical semantic contrast for scene-aware video anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.13051)
 
    *Shengyang Sun and Xiaojin Gong.*
+
+1. **Hierarchical semi-supervised contrastive learning for contamination-resistant anomaly detection.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_7)
+
+   *Gaoang Wang, Yibing Zhan, Xinchao Wang, Mingli Song, and Klara Nahrstedt.*
 
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
