@@ -378,6 +378,18 @@ Contributed by Chunyang Zhang.
 
    *Xiangyu Huang, Caidan Zhao, and Zhiqiang Wu.*
 
+1. **Fully convolutional cross-scale-flows for image-based defect detection.** WACV, 2022. [paper](https://openaccess.thecvf.com/content/WACV2022/html/Rudolph_Fully_Convolutional_Cross-Scale-Flows_for_Image-Based_Defect_Detection_WACV_2022_paper.html)
+
+   *Marco Rudolph, Tom Wehrbein, Bodo Rosenhahn, and Bastian Wandt.*
+
+1. **CFLOW-AD: Real-time unsupervised anomaly detection with localization via conditional normalizing flows.** WACV, 2022. [paper](https://openaccess.thecvf.com/content/WACV2022/html/Gudovskiy_CFLOW-AD_Real-Time_Unsupervised_Anomaly_Detection_With_Localization_via_Conditional_Normalizing_WACV_2022_paper.html)
+
+   *Denis Gudovskiy, Shun Ishizaka, and Kazuki Kozuka.*
+
+1. **Same same but DifferNet: Semi-supervised defect detection with normalizing flows.** WACV, 2021. [paper](https://openaccess.thecvf.com/content/WACV2021/html/Rudolph_Same_Same_but_DifferNet_Semi-Supervised_Defect_Detection_With_Normalizing_Flows_WACV_2021_paper.html)
+
+   *Marco Rudolph, Bastian Wandt, and Bodo Rosenhahn.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -520,6 +532,10 @@ Contributed by Chunyang Zhang.
 1. **TimesNet: Temporal 2D-variation modeling for general time series analysis.** ICLR, 2023. [paper](https://openreview.net/forum?id=ju_Uqw384Oq)
 
    *Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, and Mingsheng Long.* 
+
+1. **SimpleNet: A simple network for image anomaly detection and localization.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15140)
+
+   *Zhikang Liu, Yiming Zhou, Yuansheng Xu, and Zilei Wang.* 
 
 ### [Nonparametric Approach](#content)
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
