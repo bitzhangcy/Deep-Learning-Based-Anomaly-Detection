@@ -1030,6 +1030,10 @@ Contributed by Chunyang Zhang.
 
    *Lorenzo Perini, Vincent Vercruyssen, and Jesse Davis.* 
 
+1. **Are transformers effective for time series forecasting?.** AAAI, 2023. [paper](https://arxiv.org/abs/2205.13504)
+
+   *Ailing Zeng, Muxi Chen, Lei Zhang, and Qiang Xu.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
