@@ -1204,6 +1204,10 @@ Contributed by Chunyang Zhang.
 
    *Gaoang Wang, Yibing Zhan, Xinchao Wang, Mingli Song, and Klara Nahrstedt.*
 
+1. **Reconstruction enhanced multi-view contrastive learning for anomaly detection on attributed networks.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0330)
+
+   *Jiaqiang Zhang, Senzhang Wang, and Songcan Chen.*
+
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
 
@@ -1317,6 +1321,10 @@ Contributed by Chunyang Zhang.
 1. **Unsupervised anomaly detection by robust density estimation.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20328)
 
    *Boyang Liu, Pangning Tan, and Jiayu Zhou.* 
+
+1. **Understanding and mitigating data contamination in deep anomaly detection: A kernel-based approach.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/322)
+
+   *Shuang Wu, Jingyu Zhao, and Guangjian Tian.* 
 
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
