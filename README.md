@@ -1297,6 +1297,10 @@ Contributed by Chunyang Zhang.
 
    *Aitor Artola, Yannis Kolodziej, Jean-Michel Morel, and Thibaud Ehret.* 
 
+1. **Anomaly dtection via Gumbel noise score matching.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.03220v1)
+
+   *Ahsan Mahmood, Junier Oliva, and Martin Styner.* 
+
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
 
