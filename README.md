@@ -1339,6 +1339,10 @@ Contributed by Chunyang Zhang.
 
    *Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, and Anton van den Hengel.* 
 
+1. **SQUID: Deep feature in-painting for unsupervised anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2111.13495)
+
+   *Tiange Xiang, Yixiao Zhang, Yongyi Lu, Alan L. Yuille, Chaoyi Zhang, Weidong Cai, and Zongwei Zhou.* 
+
 ### [Active Learning](#content)
 1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
 
