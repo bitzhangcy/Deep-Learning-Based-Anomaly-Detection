@@ -90,9 +90,15 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#diagnosis">4.5 Diagnosis</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#autonomous-driving">4.6 Autonomous Driving</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#physics">4.7 Physics</a></td>
+    <td>&ensp;<a href="#robotics">4.8 Robotics</a></td>
 </tr>
 </table>
+
+
 
 
 
@@ -1418,6 +1424,10 @@ Contributed by Chunyang Zhang.
 
    *Furkan Mumcu, Keval Doshi,  and Yasin Yilmaz.* 
 
+1. **Financial time series forecasting using CNN and Transformer.** AAAI, 2023. [paper](https://arxiv.org/abs/2304.04912)
+
+   *Zhen Zeng, Rachneet Kaur, Suchetha Siddagangappa, Saba Rahimi, Tucker Balch, and Manuela Veloso.* 
+
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
 
@@ -1445,3 +1455,15 @@ Contributed by Chunyang Zhang.
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
 
    *Pedro F Da Costa, Jessica Dafflon, Sergio Leonardo Mendes, João Ricardo Sato, M. Jorge Cardoso, Robert Leech, Emily JH Jones, and Walter H.L. Pinaya.* 
+
+### [Autonomous Driving](#content)
+1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
+
+   *Armstrong Aboah, Ulas Bagci, Abdul Rashid Mussah, Neema Jakisa Owor, and Yaw Adu-Gyamfi.* 
+
+### [Physics](#content)
+1. **Anomaly detection under coordinate transformations.** Physical Review D, 2023. [paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
+
+   *Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.* 
+
+### [Robotics](#content)
