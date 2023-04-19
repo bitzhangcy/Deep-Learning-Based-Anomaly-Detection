@@ -79,6 +79,10 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#multimodal">3.19 Multimodal</a></td>
     <td>&ensp;<a href="#energy-model">3.20 Energy Model</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#neural-process">3.21 Neural Process</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
     <td>&ensp;<a href="#finance">4.1 Finance</a></td>
@@ -97,6 +101,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#robotics">4.8 Robotics</a></td>
 </tr>
 </table>
+
 
 
 
@@ -1413,6 +1418,12 @@ Contributed by Chunyang Zhang.
 1. **Learning neural set functions under the optimal subset oracle.** NIPS, 2022. [paper](https://openreview.net/forum?id=GXOC0zL0ZI)
 
    *Zijing Ou, Tingyang Xu, Qinliang Su, Yingzhen Li, Peilin Zhao, and Yatao Bian.* 
+
+### [Neural Process](#content)
+1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
+
+   *Fan Zhou, Guanyu Wang, Kunpeng Zhang, Siyuan Liu, and Ting Zhong.* 
+
 
 ## [Application](#content)
 ### [Finance](#content)
