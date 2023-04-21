@@ -1086,6 +1086,10 @@ Contributed by Chunyang Zhang.
 
    *Guoyang Xie, Jinbao Wang, Jiaqi Liu, Yaochu Jin, and Feng Zheng.* 
 
+1. **Meta-learning for robust anomaly detection.** AISTATS, 2023. [paper](https://proceedings.mlr.press/v206/kumagai23a.html)
+
+   *Atsutoshi Kumagai, Tomoharu Iwata, Hiroshi Takahashi, and Yasuhiro Fujiwara.* 
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
