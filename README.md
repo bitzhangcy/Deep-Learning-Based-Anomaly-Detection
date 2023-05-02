@@ -1090,6 +1090,14 @@ Contributed by Chunyang Zhang.
 
    *Atsutoshi Kumagai, Tomoharu Iwata, Hiroshi Takahashi, and Yasuhiro Fujiwara.* 
 
+1. **OneShotSTL: One-shot seasonal-trend decomposition for online time series anomaly detection and forecasting.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.01506)
+
+   *Xiao He, Ye Li, Jian Tan, Bin Wu, and Feifei Li.* 
+
+1. **Context-aware domain adaptation for time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.07453)
+
+   *Kwei-Herng Lai, Lan Wang, Huiyuan Chen, Kaixiong Zhou, Fei Wang, Hao Yang, and Xia Hu.* 
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
@@ -1226,6 +1234,10 @@ Contributed by Chunyang Zhang.
 1. **Reconstruction enhanced multi-view contrastive learning for anomaly detection on attributed networks.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0330)
 
    *Jiaqiang Zhang, Senzhang Wang, and Songcan Chen.*
+
+1. **SimTS: Rethinking contrastive representation learning for time series forecasting.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.18205)
+
+   *Xiaochen Zheng, Xingyu Chen, Manuel Schürch, Amina Mollaysa, Ahmed Allam, and Michael Krauthammer.*
 
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
