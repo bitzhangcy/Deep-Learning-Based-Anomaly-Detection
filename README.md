@@ -100,7 +100,13 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#physics">4.7 Physics</a></td>
     <td>&ensp;<a href="#robotics">4.8 Robotics</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#industry-process">4.9 Industry Process</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 </table>
+
+
 
 
 
@@ -1494,3 +1500,11 @@ Contributed by Chunyang Zhang.
    *Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.* 
 
 ### [Robotics](#content)
+1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** R-AL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
+
+   *Tianchen Ji, Arun Narenthiran Sivakumar, Girish Chowdhary, and Katherine Driggs-Campbell.* 
+
+### [Industry Process](#content)
+1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
+
+   *Sebastian Larsen and Paul A. Hooper.* 
