@@ -273,6 +273,10 @@ Contributed by Chunyang Zhang.
 
    *Xiangyu Huang, Caidan Zhao, Chenxing Gao, Lvdong Chen, and Zhiqiang Wu.*
 
+1. **Deep autoencoding one-class time series anomaly detection.** ICASSP, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10095724)
+
+   *Xudong Mou, Rui Wang, Tiejun Wang, Jie Sun, Bo Li, Tianyu Wo, and Xudong Liu.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
