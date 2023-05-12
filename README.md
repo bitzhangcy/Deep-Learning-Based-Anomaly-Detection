@@ -1487,6 +1487,10 @@ Contributed by Chunyang Zhang.
 
    *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
 
+1. **MoniLog: An automated log-based anomaly detection system for cloud computing infrastructures.** ICDE, 2023. [paper](https://ieeexplore.ieee.org/document/9458872)
+
+   *Arthur Vervaet.* 
+
 ### [Intrusion](#content)
 1. **Intrusion detection using convolutional neural networks for representation learning.** ICONIP, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_87)
 
