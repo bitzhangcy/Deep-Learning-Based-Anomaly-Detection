@@ -411,6 +411,10 @@ Contributed by Chunyang Zhang.
 
    *Marco Rudolph, Bastian Wandt, and Bodo Rosenhahn.*
 
+1. **Normalizing flow based feature synthesis for outlier-aware object detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2302.07106v2)
+
+   *Nishant Kumar, Siniša Šegvić, Abouzar Eslami, and Stefan Gumhold.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -856,6 +860,10 @@ Contributed by Chunyang Zhang.
 1. **Diversify and disambiguate: Out-of-distribution robustness via disagreement.** ICLR, 2023. [paper](https://openreview.net/forum?id=RVTOp3MwT3n)
 
    *Yoonho Lee, Huaxiu Yao, and Chelsea Finn.* 
+
+1. **Rethinking out-of-distribution (OOD) detection: Masked image nodeling is all you need.** CVPR, 2023. [paper](https://arxiv.org/abs/2302.02615v2)
+
+   *Jingyao Li, Pengguang Chen, Shaozuo Yu, Zexin He, Shu Liu, and Jiaya Jia.* 
 
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
