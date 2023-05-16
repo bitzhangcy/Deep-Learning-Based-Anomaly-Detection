@@ -1063,7 +1063,7 @@ Contributed by Chunyang Zhang.
 
    *Aodong Li, Chen Qiu, Padhraic Smyth, Marius Kloft, Stephan Mandt, and Maja Rudolph.* 
 
-1. **Diversity-measurable anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.05047)
+1. **Diversity-measurable anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
    *Wenrui Liu, Hong Chang, Bingpeng Ma, Shiguang Shan, and Xilin Chen.* 
 
@@ -1123,6 +1123,10 @@ Contributed by Chunyang Zhang.
 1. **Context-aware domain adaptation for time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.07453)
 
    *Kwei-Herng Lai, Lan Wang, Huiyuan Chen, Kaixiong Zhou, Fei Wang, Hao Yang, and Xia Hu.* 
+
+1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
+
+   *Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, and Onkar Dabeer.* 
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
