@@ -1448,6 +1448,10 @@ Contributed by Chunyang Zhang.
 
    *Daehyung Park, Yuuna Hoshi, and Charles C. Kemp.* 
 
+1. **Deep isolation forest for anomaly detection.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10108034)
+
+   *Hongzuo Xu, Guansong Pang, Yijie Wang, and Yongjun Wang.* 
+
 ### [Energy Model](#content)
 1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
 
