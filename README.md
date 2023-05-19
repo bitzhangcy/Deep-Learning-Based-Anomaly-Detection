@@ -277,6 +277,10 @@ Contributed by Chunyang Zhang.
 
    *Xudong Mou, Rui Wang, Tiejun Wang, Jie Sun, Bo Li, Tianyu Wo, and Xudong Liu.*
 
+1. **Reconstruction error-based anomaly detection with few outlying examples.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.10464)
+
+   *Fabrizio Angiulli, Fabio Fassetti, and Luca Ferragina.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -1127,6 +1131,10 @@ Contributed by Chunyang Zhang.
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
    *Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, and Onkar Dabeer.* 
+
+1. **MetaGAD: Learning to meta transfer for few-shot graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.10668)
+
+   *Xiongxiao Xu, Kaize Ding, Canyu Chen, and Kai Shu.* 
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
