@@ -419,6 +419,10 @@ Contributed by Chunyang Zhang.
 
    *Nishant Kumar, Siniša Šegvić, Abouzar Eslami, and Stefan Gumhold.*
 
+1. **DyAnNet: A scene dynamicity guided self-trained video anomaly detection network.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Thakare_DyAnNet_A_Scene_Dynamicity_Guided_Self-Trained_Video_Anomaly_Detection_Network_WACV_2023_paper.html)
+
+   *Kamalakar Vijay Thakare, Yash Raghuwanshi, Debi Prosad Dogra, Heeseung Choi, and Ig-Jae Kim.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -1366,7 +1370,7 @@ Contributed by Chunyang Zhang.
 
    *Aitor Artola, Yannis Kolodziej, Jean-Michel Morel, and Thibaud Ehret.* 
 
-1. **Anomaly dtection via Gumbel noise score matching.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.03220v1)
+1. **Anomaly dtection via Gumbel noise score matching.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.03220)
 
    *Ahsan Mahmood, Junier Oliva, and Martin Styner.* 
 
