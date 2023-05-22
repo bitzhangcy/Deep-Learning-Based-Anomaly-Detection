@@ -36,6 +36,9 @@ Contributed by Chunyang Zhang.
 <tr>
     <td>&ensp;<a href="#ood">2.13 OOD</a></td>
     <td>&ensp;<a href="#rnns">2.14 RNNs</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#large-model">2.15 Large Model</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
@@ -105,6 +108,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
+
 
 
 
@@ -909,6 +914,11 @@ Contributed by Chunyang Zhang.
 1. **LSTM-based encoder-decoder for multi-sensor anomaly detection.** arXiv, 2016. [paper](https://arxiv.org/abs/1607.00148)
 
    *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
+
+### [Large Model](#content)
+1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
+
+   *Amine Elhafsi, Rohan Sinha, Christopher Agia, Edward Schmerling, Issa Nesnas, and Marco Pavone.* 
 
 
 ## [Mechanism](#content)
