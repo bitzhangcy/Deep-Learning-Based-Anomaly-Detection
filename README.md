@@ -1089,9 +1089,13 @@ Contributed by Chunyang Zhang.
 
    *Lorenzo Perini, Vincent Vercruyssen, and Jesse Davis.* 
 
-1. **Are transformers effective for time series forecasting?.** AAAI, 2023. [paper](https://arxiv.org/abs/2205.13504)
+1. **Are transformers effective for time series forecasting?** AAAI, 2023. [paper](https://arxiv.org/abs/2205.13504)
 
    *Ailing Zeng, Muxi Chen, Lei Zhang, and Qiang Xu.* 
+
+1. **Do physics-informed neural networks satisfy local and global mass balance?** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13920)
+
+   *Md Lal Mamud, Maruti K. Mudunuru, Satish Karra, and Bulbul Ahmmed.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
