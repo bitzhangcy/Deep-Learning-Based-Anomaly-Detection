@@ -759,6 +759,10 @@ Contributed by Chunyang Zhang.
 
    *Wenchao Chen, Long Tian, Bo Chen, Liang Dai, Zhibin Duan, and Mingyuan Zhou.*
 
+1. **SAD: Semi-supervised anomaly detection on dynamic graphs.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13573)
+
+   *Sheng Tian, Jihai Dong, Jintang Li, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, and Liang Chen.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
@@ -1003,6 +1007,10 @@ Contributed by Chunyang Zhang.
 1. **Ubnormal: New benchmark for supervised open-set video anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.html)
 
    *Andra Acsintoae, Andrei Florescu, Mariana-Iuliana Georgescu, Tudor Mare, Paul Sumedrea, Radu Tudor Ionescu, Fahad Shahbaz Khan, and Mubarak Shah.* 
+
+1. **A new comprehensive benchmark for semi-supervised video anomaly detection and anticipation.** CVPR, 2023. [paper](https://arxiv.org/abs/2305.13611)
+
+   *Congqi Cao, Yue Lu, Peng Wang, and Yanning Zhang.* 
 
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
@@ -1387,6 +1395,10 @@ Contributed by Chunyang Zhang.
 1. **Anomaly dtection via Gumbel noise score matching.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.03220)
 
    *Ahsan Mahmood, Junier Oliva, and Martin Styner.* 
+
+1. **Unsupervised anomaly detection with rejection.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13189)
+
+   *Lorenzo Perini and Jesse Davis.* 
 
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
