@@ -39,7 +39,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#large-model">2.15 Large Model</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#tabular "></a>2.16 Tabular</td>
 </tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
 <tr>
@@ -108,6 +108,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 
@@ -923,6 +924,11 @@ Contributed by Chunyang Zhang.
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
    *Amine Elhafsi, Rohan Sinha, Christopher Agia, Edward Schmerling, Issa Nesnas, and Marco Pavone.* 
+
+### [Tabular](#content)
+1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
+
+   *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
 
 
 ## [Mechanism](#content)
