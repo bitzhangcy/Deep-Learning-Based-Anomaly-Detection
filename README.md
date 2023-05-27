@@ -39,7 +39,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#large-model">2.15 Large Model</a></td>
-    <td>&ensp;<a href="#tabular "></a>2.16 Tabular</td>
+    <td>&ensp;<a href="#tabular ">2.16 Tabular</a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
 <tr>
@@ -84,7 +84,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#neural-process">3.21 Neural Process</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#online-learning">3.22 Online Learning</a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
@@ -108,6 +108,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
+
 
 
 
@@ -441,6 +443,10 @@ Contributed by Chunyang Zhang.
 1. **DiffusionAD: Denoising diffusion for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.08730)
 
    *Hui Zhang, Zheng Wang, Zuxuan Wu, Yugang Jiang.* 
+
+1. **Anomaly detection with conditioned denoising diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15956)
+
+   *Arian Mousakhan, Thomas Brox, and  Jawad Tayyub.* 
 
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
@@ -930,6 +936,10 @@ Contributed by Chunyang Zhang.
 
    *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
 
+1. **Fascinating supervisory signals and where to find them: Deep anomaly detection with scale learning.** ICML, 2023. [paper](https://arxiv.org/abs/2305.16114)
+
+   *Hongzuo Xu, Yijie Wang, Juhui Wei, Songlei Jian, Yizhou Li, and Ning Liu.* 
+
 
 ## [Mechanism](#content)
 ### [Dataset](#content)
@@ -972,6 +982,10 @@ Contributed by Chunyang Zhang.
 1. **Surface defect saliency of magnetic tile.** The Visual Computer, 2020. [paper](https://link.springer.com/article/10.1007/s00371-018-1588-5)
 
    *Yibin Huang, Congying Qiu, and Kui Yuan.* 
+
+1. **Audio-visual dataset and method for anomaly detection in traffic videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15084)
+
+   *Błażej Leporowski, Arian Bakhtiarnia, Nicole Bonnici, Adrian Muscat, Luca Zanella, Yiming Wang, and Alexandros Iosifidis.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
@@ -1516,8 +1530,12 @@ Contributed by Chunyang Zhang.
 ### [Neural Process](#content)
 1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
 
-   *Fan Zhou, Guanyu Wang, Kunpeng Zhang, Siyuan Liu, and Ting Zhong.* 
+   *Fan Zhou, Guanyu Wang, Kunpeng Zhang, Siyuan Liu, and Ting Zhong.*
 
+### [Online Learning](#content)
+1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15652)
+
+   *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
 ## [Application](#content)
 ### [Finance](#content)
