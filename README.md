@@ -448,6 +448,10 @@ Contributed by Chunyang Zhang.
 
    *Arian Mousakhan, Thomas Brox, and  Jawad Tayyub.* 
 
+1. **Unsupervised out-of-distribution detection with diffusion inpainting.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10326)
+
+   *Zhenzhen Liu, Jin Peng Zhou, Yufan Wang, and Kilian Q. Weinberger.* 
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -893,6 +897,18 @@ Contributed by Chunyang Zhang.
 
    *Jingyao Li, Pengguang Chen, Shaozuo Yu, Zexin He, Shu Liu, and Jiaya Jia.* 
 
+1. **LINe: Out-of-distribution detection by leveraging important neurons.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.13995)
+
+   *Yong Hyun Ahn, Gyeong-Moon Park, and Seong Tae Kim.* 
+
+1. **Block selection method for using feature norm in out-of-distribution detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2212.02295)
+
+   *Yeonguk Yu, Sungho Shin, Seongju Lee, Changhyun Jun, and Kyoobin Lee.* 
+
+1. **Devil is in the queries: Advancing mask transformers for real-world medical image segmentation and out-of-distribution localization.** CVPR, 2023. [paper](https://arxiv.org/abs/2304.00212)
+
+   *Mingze Yuan, Yingda Xia, Hexin Dong, Zifan Chen, Jiawen Yao, Mingyan Qiu, Ke Yan, Xiaoli Yin, Yu Shi, Xin Chen, Zaiyi Liu, Bin Dong, Jingren Zhou, Le Lu, Ling Zhang, and Li Zhang.* 
+
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1031,6 +1047,10 @@ Contributed by Chunyang Zhang.
 1. **A new comprehensive benchmark for semi-supervised video anomaly detection and anticipation.** CVPR, 2023. [paper](https://arxiv.org/abs/2305.13611)
 
    *Congqi Cao, Yue Lu, Peng Wang, and Yanning Zhang.* 
+
+1. **A framework for benchmarking class-out-of-distribution detection and its application to ImageNet.** ICLR, 2023. [paper](https://openreview.net/forum?id=Iuubb9W6Jtk)
+
+   *Ido Galil, Mohammed Dabbah, and Ran El-Yaniv.* 
 
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
@@ -1387,6 +1407,10 @@ Contributed by Chunyang Zhang.
 
    *Abhijit Guha Roy, Jie Ren, Shekoofeh Azizi, Aaron Loh, Vivek Natarajan, Basil Mustafa, Nick Pawlowski, Jan Freyberg, Yuan Liu, Zach Beaver, Nam Vo, Peggy Bui, Samantha Winter, Patricia MacWilliams, Greg S. Corrado, Umesh Telang, Yun Liu, Taylan Cemgil, Alan Karthikesalingam, Balaji Lakshminarayanan, and Jim Winkens.*
 
+1. **OpenMix: Exploring outlier samples for misclassification detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.17093)
+
+   *Fei Zhu, Zhen Cheng, Xuyao Zhang, and Chenglin Liu.*
+
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
 
@@ -1526,6 +1550,10 @@ Contributed by Chunyang Zhang.
 1. **Learning neural set functions under the optimal subset oracle.** NIPS, 2022. [paper](https://openreview.net/forum?id=GXOC0zL0ZI)
 
    *Zijing Ou, Tingyang Xu, Qinliang Su, Yingzhen Li, Peilin Zhao, and Yatao Bian.* 
+
+1. **Energy-based out-of-distribution detection for graph neural networks.** ICLR, 2023. [paper](https://openreview.net/forum?id=zoz7Ze4STUL)
+
+   *Qitian Wu, Yiting Chen, Chenxiao Yang, and Junchi Yan.* 
 
 ### [Neural Process](#content)
 1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
