@@ -1202,6 +1202,10 @@ Contributed by Chunyang Zhang.
 
    *Xiongxiao Xu, Kaize Ding, Canyu Chen, and Kai Shu.* 
 
+1. **A zero-/few-shot anomaly classification and segmentation method for CVPR 2023 VAND workshop challenge tracks 1&2: 1st place on zero-shot AD and 4th place on few-shot AD.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.17382)
+
+   *Xuhai Chen, Yue Han, and  Jiangning Zhang.* 
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
