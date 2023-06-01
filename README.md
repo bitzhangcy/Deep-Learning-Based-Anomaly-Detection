@@ -452,6 +452,22 @@ Contributed by Chunyang Zhang.
 
    *Zhenzhen Liu, Jin Peng Zhou, Yufan Wang, and Kilian Q. Weinberger.* 
 
+1. **On diffusion modeling for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18593)
+
+   *Victor Livernoche, Vineet Jain, Yashar Hezaveh, and Siamak Ravanbakhsh.* 
+
+1. **Mask, stitch, and re-sample: Enhancing robustness and generalizability in anomaly detection through automatic diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.19643)
+
+   *Cosmin I. Bercea, Michael Neumayr, Daniel Rueckert, and Julia A. Schnabel.* 
+
+1. **Unsupervised anomaly detection in medical images using masked diffusion model.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.19867)
+
+   *Hasan Iqbal, Umar Khalid, Jing Hua, and Chen Chen.* 
+
+1. **Unsupervised anomaly detection in medical images using masked diffusion model.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.19867)
+
+   *Hasan Iqbal, Umar Khalid, Jing Hua, and Chen Chen.* 
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -1144,6 +1160,14 @@ Contributed by Chunyang Zhang.
 1. **Do physics-informed neural networks satisfy local and global mass balance?** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13920)
 
    *Md Lal Mamud, Maruti K. Mudunuru, Satish Karra, and Bulbul Ahmmed.* 
+
+1. **AnoRand: A semi supervised deep learning anomaly detection method by random labeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18389)
+
+   *Mansour Zoubeirou A Mayaki and Michel Riveill.* 
+
+1. **AnoOnly: Semi-supervised anomaly detection without loss on normal data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18798)
+
+   *Yixuan Zhou, Peiyu Yang, Yi Qu, Xing Xu, Fumin Shen, and Heng Tao Shen.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
