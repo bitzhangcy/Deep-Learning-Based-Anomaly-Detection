@@ -366,6 +366,10 @@ Contributed by Chunyang Zhang.
 
    *Shancong Mou, Xiaoyi Gu, Meng Cao, Haoping Bai, Ping Huang, Jiulong Shan, and Jianjun Shi.*
 
+1. **Truncated affinity maximization: One-class homophily modeling for graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00006)
+
+   *Qiao Hezhe and Pang Guansong.*
+
 ### [Flow](#content)
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
 
@@ -1500,6 +1504,10 @@ Contributed by Chunyang Zhang.
 1. **Understanding and mitigating data contamination in deep anomaly detection: A kernel-based approach.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/322)
 
    *Shuang Wu, Jingyu Zhao, and Guangjian Tian.* 
+
+1. **Anomaly detection with variance stabilized density estimation.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00582)
+
+   *Amit Rozner, Barak Battash, Henry Li, Lior Wolf, and Ofir Lindenbaum.* 
 
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
