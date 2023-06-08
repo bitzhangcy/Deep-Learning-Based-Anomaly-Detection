@@ -1476,6 +1476,10 @@ Contributed by Chunyang Zhang.
 
    *Lorenzo Perini and Jesse Davis.* 
 
+1. **A robust likelihood model for novelty detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.03331v1)
+
+   *Ranya Almohsen, Shivang Patel, Donald A. Adjeroh, and Gianfranco Doretto.* 
+
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
 
