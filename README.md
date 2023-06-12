@@ -929,6 +929,14 @@ Contributed by Chunyang Zhang.
 
    *Mingze Yuan, Yingda Xia, Hexin Dong, Zifan Chen, Jiawen Yao, Mingyan Qiu, Ke Yan, Xiaoli Yin, Yu Shi, Xin Chen, Zaiyi Liu, Bin Dong, Jingren Zhou, Le Lu, Ling Zhang, and Li Zhang.* 
 
+1. **Unleashing mask: Explore the intrinsic out-of-distribution detection capability.** ICML, 2023. [paper](https://arxiv.org/abs/2306.03715)
+
+   *Jianing Zhu, Hengzhuang Li, Jiangchao Yao, Tongliang Liu, Jianliang Xu, and Bo Han.* 
+
+1. **DOS: Diverse outlier sampling for out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.02031)
+
+   *Wenyu Jiang, Hao Cheng, Mingcai Chen, Chongjun Wang, and Hongxin Wei.* 
+
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
