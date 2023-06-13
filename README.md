@@ -1181,6 +1181,10 @@ Contributed by Chunyang Zhang.
 
    *Yixuan Zhou, Peiyu Yang, Yi Qu, Xing Xu, Fumin Shen, and Heng Tao Shen.* 
 
+1. **No free lunch: The Hazards of over-expressive representations in anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.07284)
+
+   *Tal Reiss, Niv Cohen, and Yedid Hoshen.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
