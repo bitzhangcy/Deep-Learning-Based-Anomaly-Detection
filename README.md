@@ -937,6 +937,10 @@ Contributed by Chunyang Zhang.
 
    *Wenyu Jiang, Hao Cheng, Mingcai Chen, Chongjun Wang, and Hongxin Wei.* 
 
+1. **POEM: Out-of-distribution detection with posterior sampling.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/ming22a.html)
+
+   *Yifei Ming, Ying Fan, and Yixuan Li.* 
+
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1455,6 +1459,10 @@ Contributed by Chunyang Zhang.
 
    *Fei Zhu, Zhen Cheng, Xuyao Zhang, and Chenglin Liu.*
 
+1. **VOS: Learning what you don't know by virtual outlier synthesis.** ICLR, 2023. [paper](https://openreview.net/forum?id=TW7d65uYu5M)
+
+   *Xuefeng Du, Zhaoning Wang, Mu Cai, and Yixuan Li.*
+
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
 
@@ -1491,6 +1499,10 @@ Contributed by Chunyang Zhang.
 1. **A robust likelihood model for novelty detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.03331v1)
 
    *Ranya Almohsen, Shivang Patel, Donald A. Adjeroh, and Gianfranco Doretto.* 
+
+1. **Spatially smoothed robust covariance estimation for local outlier detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.05371)
+
+   *Patricia Puchhammer and Peter Filzmoser.* 
 
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
