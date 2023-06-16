@@ -5,12 +5,11 @@
 Contributed by Chunyang Zhang.
 
 ## [Content](#content)
-
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#methodology">2. Methodology</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#autoencoder">2.1 AutoenEoder</a></td>
+    <td>&ensp;<a href="#autoencoder">2.1 AutoEncoder</a></td>
     <td>&ensp;<a href="#gan">2.2 GAN</a></td>
 </tr>
 <tr>
@@ -41,7 +40,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#large-model">2.15 Large Model</a></td>
     <td>&ensp;<a href="#tabular ">2.16 Tabular</a></td>
 </tr>
-<tr><td colspan="2"><a href="#methods">3. Mechanism</a></td></tr>
+<tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
     <td>&ensp;<a href="#dataset">3.1 Dataset</a></td>
     <td>&ensp;<a href="#library">3.2 Library</a></td>
@@ -108,21 +107,6 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## [Survey Papers](#content)
@@ -235,7 +219,7 @@ Contributed by Chunyang Zhang.
 
 1. **Latent feature learning via autoencoder training for automatic classification configuration recommendation.** KBS, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0950705122013144)
 
-   *Liping Deng and MingQing Xiao.*
+   *Liping Deng and Mingqing Xiao.*
 
 1. **Deep autoencoding Gaussian mixture model for unsupervised anomaly detection.** ICLR, 2018. [paper](https://openreview.net/forum?id=BJJLHbb0-)
 
@@ -999,7 +983,7 @@ Contributed by Chunyang Zhang.
 
    *Kwei-Herng Lai, Daochen Zha, Junjie Xu, Yue Zhao, Guanchu Wang, and Xia Hu.* 
 
-1. **Street Scene: A new dataset and evaluation protocol for video anomaly detection.** WACV, 2020. [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Ramachandra_Street_Scene_A_new_dataset_and_evaluation_protocol_for_video_WACV_2020_paper.pdf)
+1. **Street scene: A new dataset and evaluation protocol for video anomaly detection.** WACV, 2020. [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Ramachandra_Street_Scene_A_new_dataset_and_evaluation_protocol_for_video_WACV_2020_paper.pdf)
 
    *Bharathkumar Ramachandra and Michael J. Jones.*
 
@@ -1173,10 +1157,6 @@ Contributed by Chunyang Zhang.
 
    *Ailing Zeng, Muxi Chen, Lei Zhang, and Qiang Xu.* 
 
-1. **Do physics-informed neural networks satisfy local and global mass balance?** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13920)
-
-   *Md Lal Mamud, Maruti K. Mudunuru, Satish Karra, and Bulbul Ahmmed.* 
-
 1. **AnoRand: A semi supervised deep learning anomaly detection method by random labeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18389)
 
    *Mansour Zoubeirou A Mayaki and Michel Riveill.* 
@@ -1249,6 +1229,14 @@ Contributed by Chunyang Zhang.
 1. **A zero-/few-shot anomaly classification and segmentation method for CVPR 2023 VAND workshop challenge tracks 1&2: 1st place on zero-shot AD and 4th place on few-shot AD.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.17382)
 
    *Xuhai Chen, Yue Han, and  Jiangning Zhang.* 
+
+1. **Winning solution for the CVPR2023 visual anomaly and novelty detection challenge: Multimodal prompting for data-centric anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.09067)
+
+   *Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, and Weiming Shen.* 
+
+1. **Zero-shot anomaly detection with pre-trained segmentation models.** VAND, 2023. [paper](https://arxiv.org/abs/2306.09269)
+
+   *Matthew Baugh, James Batten, Johanna P. Müller, and Bernhard Kainz.* 
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
@@ -1350,7 +1338,7 @@ Contributed by Chunyang Zhang.
 
    *Liang Xi, Chenchen Liang, Han Liu, and Ao Li.*
 
-1. **No shifted augmentations (NSA): Compact distributions for robust self-supervised Anomaly Detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Yousef_No_Shifted_Augmentations_NSA_Compact_Distributions_for_Robust_Self-Supervised_Anomaly_WACV_2023_paper.html)
+1. **No shifted augmentations (NSA): Compact distributions for robust self-supervised anomaly detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Yousef_No_Shifted_Augmentations_NSA_Compact_Distributions_for_Robust_Self-Supervised_Anomaly_WACV_2023_paper.html)
 
    *Mohamed Yousef, Marcel Ackermann, Unmesh Kurup, and Tom Bishop.*
 
@@ -1652,7 +1640,7 @@ Contributed by Chunyang Zhang.
 
    *Paul Bergmann and David Sattlegger.* 
 
-1. **Anomaly Detection in 3D Point Clouds Using Deep Geometric Descriptors.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Bergmann_Anomaly_Detection_in_3D_Point_Clouds_Using_Deep_Geometric_Descriptors_WACV_2023_paper.html)
+1. **Anomaly detection in 3D point clouds using deep geometric descriptors.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Bergmann_Anomaly_Detection_in_3D_Point_Clouds_Using_Deep_Geometric_Descriptors_WACV_2023_paper.html)
 
    *Lokesh Veeramacheneni and Matias Valdenegro-Toro.* 
 
@@ -1686,7 +1674,7 @@ Contributed by Chunyang Zhang.
    *Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.* 
 
 ### [Robotics](#content)
-1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** R-AL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
+1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
 
    *Tianchen Ji, Arun Narenthiran Sivakumar, Girish Chowdhary, and Katherine Driggs-Campbell.* 
 
