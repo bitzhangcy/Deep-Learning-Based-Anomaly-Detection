@@ -602,6 +602,10 @@ Contributed by Chunyang Zhang.
 
    *Zhikang Liu, Yiming Zhou, Yuansheng Xu, and Zilei Wang.* 
 
+1. **Unsupervised anomaly detection via nonlinear manifold learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09441)
+
+   *Amin Yousefpour, Mehdi Shishehbor, Zahra Zanjani Foumani, and Ramin Bostanabad.* 
+
 ### [Nonparametric Approach](#content)
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
 
@@ -1018,6 +1022,10 @@ Contributed by Chunyang Zhang.
 1. **Audio-visual dataset and method for anomaly detection in traffic videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15084)
 
    *Błażej Leporowski, Arian Bakhtiarnia, Nicole Bonnici, Adrian Muscat, Luca Zanella, Yiming Wang, and Alexandros Iosifidis.* 
+
+1. **Flow-Bench: A dataset for computational workflow anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09930)
+
+   *George Papadimitriou, Hongwei Jin, Cong Wang, Krishnan Raghavan, Anirban Mandal, Prasanna Balaprakash, and Ewa Deelman.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
