@@ -419,6 +419,10 @@ Contributed by Chunyang Zhang.
 
    *Kamalakar Vijay Thakare, Yash Raghuwanshi, Debi Prosad Dogra, Heeseung Choi, and Ig-Jae Kim.*
 
+1. **Multi-scale spatial-temporal interaction network for video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.10239)
+
+   *Zhiyuan Ning, Zhangxun Li, and Liang Song.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -536,6 +540,10 @@ Contributed by Chunyang Zhang.
 1. **HAN-CAD: Hierarchical attention network for context anomaly detection in multivariate time series.** WWW, 2023. [paper](https://link.springer.com/article/10.1007/s11280-023-01171-1)
 
    *Haicheng Tao, Jiawei Miao, Lin Zhao, Zhenyu Zhang, Shuming Feng, Shu Wang, and Jie Cao.* 
+
+1. **DCdetector: Dual attention contrastive representation learning for time series anomaly detection.** KDD, 2023. [paper](https://arxiv.org/abs/2306.10347)
+
+   *Yiyuan Yang, Chaoli Zhang, Tian Zhou, Qingsong Wen, and Liang Sun.* 
 
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
@@ -781,6 +789,10 @@ Contributed by Chunyang Zhang.
 1. **SAD: Semi-supervised anomaly detection on dynamic graphs.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13573)
 
    *Sheng Tian, Jihai Dong, Jintang Li, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, and Liang Chen.*
+
+1. **Improving generalizability of graph anomaly detection models via data augmentation.** TKDE, 2023. [paper](https://arxiv.org/abs/2306.10534)
+
+   *Shuang Zhou, Xiao Huang, Ninghao Liu, Huachi Zhou, Fu-Lai Chung, and Long-Kai Huang.*
 
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
