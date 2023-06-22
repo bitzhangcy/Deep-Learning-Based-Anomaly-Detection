@@ -1088,6 +1088,14 @@ Contributed by Chunyang Zhang.
 
    *Ido Galil, Mohammed Dabbah, and Ran El-Yaniv.* 
 
+1. **BMAD: Benchmarks for medical anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.11876)
+
+   *Jinan Bao, Hanshi Sun, Hanqiu Deng, Yinsheng He, Zhaoxiang Zhang, and Xingyu Li.* 
+
+1. **GADBench: Revisiting and benchmarking supervised Graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12251)
+
+   *Jianheng Tang, Fengrui Hua, Ziqi Gao, Peilin Zhao, and Jia Li.* 
+
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
 
@@ -1329,6 +1337,10 @@ Contributed by Chunyang Zhang.
 
    *Tiange Xiang, Yongyi Lu, Alan L. Yuille, Chaoyi Zhang, Weidong Cai, and Zongwei Zhou.* 
 
+1. **Self-distilled masked auto-encoders are efficient video anomaly detectors.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12041)
+
+   *Nicolae-Catalin Ristea, Florinel-Alin Croitoru, Radu Tudor Ionescu, Marius Popescu, Fahad Shahbaz Khan, and Mubarak Shah.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
@@ -1361,6 +1373,10 @@ Contributed by Chunyang Zhang.
 1. **No shifted augmentations (NSA): Compact distributions for robust self-supervised anomaly detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Yousef_No_Shifted_Augmentations_NSA_Compact_Distributions_for_Robust_Self-Supervised_Anomaly_WACV_2023_paper.html)
 
    *Mohamed Yousef, Marcel Ackermann, Unmesh Kurup, and Tom Bishop.*
+
+1. **End-to-end augmentation hyperparameter tuning for self-supervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12033)
+
+   *Jaemin Yoo, Lingxiao Zhao, and Leman Akoglu.*
 
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
