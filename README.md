@@ -1613,6 +1613,10 @@ Contributed by Chunyang Zhang.
 
    *Luis Antonio Souto Arias, Cornelis W. Oosterlee, and Pasquale Cirillo.*
 
+1. **OptIForest: Optimal isolation forest for anomaly detection.** IJCAI, 2023. [paper](https://arxiv.org/abs/2306.12703)
+
+   *Haolong Xiang, Xuyun Zhang, Hongsheng Hu, Lianyong Qi, Wanchun Dou, Mark Dras, Amin Beheshti, and Xiaolong Xu.*
+
 ### [Multimodal](#content)
 1. **Multimodal industrial anomaly detection via hybrid fusion.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.00601)
 
