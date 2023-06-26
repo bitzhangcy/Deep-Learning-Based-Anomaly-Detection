@@ -941,6 +941,10 @@ Contributed by Chunyang Zhang.
 
    *Yifei Ming, Ying Fan, and Yixuan Li.* 
 
+1. **Balanced energy regularization loss for out-of-distribution detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10485)
+
+   *Hyunjun Choi, Hawook Jeong, and Jin Young Choi.* 
+
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
