@@ -1279,6 +1279,10 @@ Contributed by Chunyang Zhang.
 
    *Marthinus Christoffel Du Plessis, Gang Niu, and Masashi Sugiyama.* 
 
+1. **Anomaly detection with score distribution discrimination.** KDD, 2023. [paper](https://arxiv.org/abs/2306.14403)
+
+   *Minqi Jiang, Songqiao Han, and Hailiang Huang.* 
+
 ### [Lifelong Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
 
