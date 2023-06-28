@@ -794,6 +794,10 @@ Contributed by Chunyang Zhang.
 
    *Shuang Zhou, Xiao Huang, Ninghao Liu, Huachi Zhou, Fu-Lai Chung, and Long-Kai Huang.*
 
+1. **Anomaly detection in networks via score-based generative models.** ICML, 2023. [paper](https://arxiv.org/abs/2306.15324)
+
+   *Dmitrii Gavrilev and Evgeny Burnaev.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
@@ -1659,6 +1663,10 @@ Contributed by Chunyang Zhang.
 1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
 
    *Fan Zhou, Guanyu Wang, Kunpeng Zhang, Siyuan Liu, and Ting Zhong.*
+
+1. **Precursor-of-anomaly detection for irregular time series.** KDD, 2023. [paper](https://arxiv.org/abs/2306.15489)
+
+   *Sheo Yon Jhin, Jaehoon Lee, and Noseong Park.*
 
 ### [Online Learning](#content)
 1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15652)
