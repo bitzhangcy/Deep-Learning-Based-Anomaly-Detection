@@ -873,7 +873,7 @@ Contributed by Chunyang Zhang.
 
    *Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, and Feng Liu.* 
 
-1. **Out-of-distribution detection is not all you need.** NIPS, 2022. [paper](https://openreview.net/forum?id=hxFth8JGGR4)
+1. **Out-of-distribution detection is not all you need.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.16158)
 
    *Joris Guerin, Kevin Delmas, Raul Sena Ferreira, and Jérémie Guiochet.* 
 
@@ -948,6 +948,34 @@ Contributed by Chunyang Zhang.
 1. **Balanced energy regularization loss for out-of-distribution detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10485)
 
    *Hyunjun Choi, Hawook Jeong, and Jin Young Choi.* 
+
+1. **A cosine similarity-based method for out-of-distribution detection.** ICML, 2023. [paper](https://arxiv.org/abs/2306.14920)
+
+   *Nguyen Ngoc-Hieu, Nguyen Hung-Quang, The-Anh Ta, Thanh Nguyen-Tang, Khoa D Doan, and Hoang Thanh-Tung.* 
+
+1. **Beyond AUROC & co. for evaluating out-of-distribution detection performance.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.14658)
+
+   *Galadrielle Humblot-Renaux, Sergio Escalera, and Thomas B. Moeslund.* 
+
+1. **Feed two birds with one scone: Exploiting wild data for both out-of-distribution generalization and detection.** ICML, 2023. [paper](https://arxiv.org/abs/2306.09158)
+
+   *Haoyue Bai, Gregory Canal, Xuefeng Du, Jeongyeol Kwon, Robert Nowak, and Yixuan Li.* 
+
+1. **Key feature replacement of in-distribution samples for out-of-distribution detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.13012)
+
+   *Jaeyoung Kim, Seo Taek Kong, Dongbin Na, and Kyu-Hwan Jung.* 
+
+1. **Heatmap-based out-of-distribution detection.** AAAI, 2023. [paper](https://ieeexplore.ieee.org/document/10030868/)
+
+   *Julia Hornauer and Vasileios Belagiannis.* 
+
+1. **RankFeat: Rank-1 feature removal for out-of-distribution detection.** NIPS, 2022. [paper](https://openreview.net/forum?id=-deKNiSOXLG)
+
+   *Yue Song, Nicu Sebe, and Wei Wang.* 
+
+1. **Delving into out-of-distribution detection with vision-language representations.** NIPS, 2022. [paper](https://openreview.net/forum?id=KnCS9390Va)
+
+   *Yifei Ming, Ziyang Cai, Jiuxiang Gu, Yiyou Sun, Wei Li, and Yixuan Li.* 
 
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -1047,6 +1075,14 @@ Contributed by Chunyang Zhang.
 
    *George Papadimitriou, Hongwei Jin, Cong Wang, Krishnan Raghavan, Anirban Mandal, Prasanna Balaprakash, and Ewa Deelman.* 
 
+1. **Flow-Bench: A dataset for computational workflow anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09930)
+
+   *George Papadimitriou, Hongwei Jin, Cong Wang, Krishnan Raghavan, Anirban Mandal, Prasanna Balaprakash, and Ewa Deelman.* 
+
+1. **In or Out? Fixing ImageNet out-of-distribution detection evaluation.** ICML, 2023. [paper](https://arxiv.org/abs/2306.00826)
+
+   *Julian Bitterwolf, Maximilian Müller, and Matthias Hein.* 
+
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
 
@@ -1103,6 +1139,10 @@ Contributed by Chunyang Zhang.
 1. **GADBench: Revisiting and benchmarking supervised Graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12251)
 
    *Jianheng Tang, Fengrui Hua, Ziqi Gao, Peilin Zhao, and Jia Li.* 
+
+1. **A framework for benchmarking class-out-of-distribution detection and its application to ImageNet.** ICLR, 2023. [paper](https://arxiv.org/abs/2302.11893)
+
+   *Ido Galil, Mohammed Dabbah, and Ran El-Yaniv.* 
 
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
@@ -1286,6 +1326,10 @@ Contributed by Chunyang Zhang.
 1. **Anomaly detection with score distribution discrimination.** KDD, 2023. [paper](https://arxiv.org/abs/2306.14403)
 
    *Minqi Jiang, Songqiao Han, and Hailiang Huang.* 
+
+1. **AdaFocal: Calibration-aware adaptive focal loss** NIPS, 2022. [paper](https://openreview.net/forum?id=CoMOKHYWf2)
+
+   *Arindam Ghosh, Arindam_Ghosh, and Thomas Schaaf, Matthew R. Gormley.* 
 
 ### [Lifelong Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
