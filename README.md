@@ -1576,7 +1576,7 @@ Contributed by Chunyang Zhang.
 
    *Lorenzo Perini and Jesse Davis.* 
 
-1. **A robust likelihood model for novelty detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.03331v1)
+1. **A robust likelihood model for novelty detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.03331v1)
 
    *Ranya Almohsen, Shivang Patel, Donald A. Adjeroh, and Gianfranco Doretto.* 
 
@@ -1659,6 +1659,10 @@ Contributed by Chunyang Zhang.
 1. **Clustering driven deep autoencoder for video anomaly detection.** ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_20)
 
    *Yunpeng Chang, Zhigang Tu, Wei Xie, and Junsong Yuan.*
+
+1. **Cluster purging: Efficient outlier detection based on rate-distortion theory.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/document/9511218)
+
+   *Maximilian B. Toller, Bernhard C. Geiger, and Roman Kern.*
 
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
