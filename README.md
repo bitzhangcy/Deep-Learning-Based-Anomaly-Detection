@@ -85,6 +85,10 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#neural-process">3.21 Neural Process</a></td>
     <td>&ensp;<a href="#online-learning">3.22 Online Learning</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#optimal-transport">3.23 Optimal Transport</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
     <td>&ensp;<a href="#finance">4.1 Finance</a></td>
@@ -107,6 +111,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 ## [Survey Papers](#content)
@@ -440,7 +445,7 @@ Contributed by Chunyang Zhang.
 
    *Arian Mousakhan, Thomas Brox, and  Jawad Tayyub.* 
 
-1. **Unsupervised out-of-distribution detection with diffusion inpainting.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10326)
+1. **Unsupervised out-of-distribution detection with diffusion inpainting.** ICML, 2023. [paper](https://openreview.net/forum?id=HiX1ybkFMl)
 
    *Zhenzhen Liu, Jin Peng Zhou, Yufan Wang, and Kilian Q. Weinberger.* 
 
@@ -798,6 +803,10 @@ Contributed by Chunyang Zhang.
 
    *Dmitrii Gavrilev and Evgeny Burnaev.*
 
+1. **Generated graph detection.** ICML, 2023. [paper](https://openreview.net/forum?id=OoTa4H6Bnz)
+
+   *Yihan Ma, Zhikun Zhang, Ning Yu, Xinlei He, Michael Backes, Yun Shen, and Yang Zhang.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
@@ -976,6 +985,10 @@ Contributed by Chunyang Zhang.
 1. **Delving into out-of-distribution detection with vision-language representations.** NIPS, 2022. [paper](https://openreview.net/forum?id=KnCS9390Va)
 
    *Yifei Ming, Ziyang Cai, Jiuxiang Gu, Yiyou Sun, Wei Li, and Yixuan Li.* 
+
+1. **Detecting out-of-distribution data through in-distribution class prior.** ICML, 2023. [paper](https://openreview.net/forum?id=charggEv8v)
+
+   *Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, and Bo Han.* 
 
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -1543,6 +1556,14 @@ Contributed by Chunyang Zhang.
 
    *Xuefeng Du, Zhaoning Wang, Mu Cai, and Yixuan Li.*
 
+1. **Deep anomaly detection under labeling budget constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=VjopP4ejwB)
+
+   *Aodong Li, Chen Qiu, Marius Kloft, Padhraic Smyth, Stephan Mandt, and Maja Rudolph.*
+
+1. **Estimating the contamination factor's distribution in unsupervised anomaly detection.** ICML, 2023. [paper](https://openreview.net/forum?id=pf3NihScj1)
+
+   *Lorenzo Perini, Paul-Christian Bürkner, and Arto Klami.*
+
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
 
@@ -1629,6 +1650,10 @@ Contributed by Chunyang Zhang.
 1. **SQUID: Deep feature in-painting for unsupervised anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2111.13495)
 
    *Tiange Xiang, Yixiao Zhang, Yongyi Lu, Alan L. Yuille, Chaoyi Zhang, Weidong Cai, and Zongwei Zhou.* 
+
+1. **Shape-guided dual-memory learning for 3D anomaly detection.** ICML, 2023. [paper](https://openreview.net/forum?id=IkSGn9fcPz)
+
+   *Yumin Chu, Liu Chieh, Ting-I Hsieh, Hwann-Tzong Chen, and Tyng-Luh Liu.* 
 
 ### [Active Learning](#content)
 1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
@@ -1721,6 +1746,12 @@ Contributed by Chunyang Zhang.
 
    *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
+### [Optimal Transport](#content)
+1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
+
+   *Yuxin Li, Wenchao Chen, Bo Chen, Dongsheng Wang, Long Tian, and Mingyuan Zhou.*
+
+
 ## [Application](#content)
 ### [Finance](#content)
 1. **Antibenford subgraphs: Unsupervised anomaly detection in financial networks.** KDD, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539100)
@@ -1761,6 +1792,10 @@ Contributed by Chunyang Zhang.
 1. **Intrusion detection using convolutional neural networks for representation learning.** ICONIP, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_87)
 
    *Hipeng Li, Zheng Qin, Kai Huang, Xiao Yang, and Shuxiong Ye.* 
+
+1. **UMD: Unsupervised model detection for x2x backdoor attacks.** ICML, 2023. [paper](https://openreview.net/forum?id=t0ozPUGnBs)
+
+   *Zhen Xiang, Zidi Xiong, and Bo Li.* 
 
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
