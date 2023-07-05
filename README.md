@@ -465,6 +465,10 @@ Contributed by Chunyang Zhang.
 
    *Hasan Iqbal, Umar Khalid, Jing Hua, and Chen Chen.* 
 
+1. **ImDiffusion: Imputed diffusion models for multivariate time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00754)
+
+   *Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, Ruomeng Ding, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, and Dongmei Zhang.* 
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -806,6 +810,10 @@ Contributed by Chunyang Zhang.
 1. **Generated graph detection.** ICML, 2023. [paper](https://openreview.net/forum?id=OoTa4H6Bnz)
 
    *Yihan Ma, Zhikun Zhang, Ning Yu, Xinlei He, Michael Backes, Yun Shen, and Yang Zhang.*
+
+1. **Graph-level anomaly detection via hierarchical memory networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00755)
+
+   *Chaoxi Niu, Guansong Pang, and Ling Chen.*
 
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
