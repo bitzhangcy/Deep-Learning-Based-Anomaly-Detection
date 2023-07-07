@@ -1418,6 +1418,10 @@ Contributed by Chunyang Zhang.
 
    *Nicolae-Catalin Ristea, Florinel-Alin Croitoru, Radu Tudor Ionescu, Marius Popescu, Fahad Shahbaz Khan, and Mubarak Shah.* 
 
+1. **Contextual affinity distillation for image anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03101)
+
+   *Jie Zhang, Masanori Suganuma, and Takayuki Okatani.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
