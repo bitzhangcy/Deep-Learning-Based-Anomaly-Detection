@@ -815,6 +815,10 @@ Contributed by Chunyang Zhang.
 
    *Chaoxi Niu, Guansong Pang, and Ling Chen.*
 
+1. **CSCLog: A component subsequence correlation-aware log anomaly detection method.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03359)
+
+   *Ling Chen, Chaodu Song, Xu Wang, Dachao Fu, and Feifei Li.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
@@ -1667,6 +1671,10 @@ Contributed by Chunyang Zhang.
 
    *Yumin Chu, Liu Chieh, Ting-I Hsieh, Hwann-Tzong Chen, and Tyng-Luh Liu.* 
 
+1. **That's BAD: Blind anomaly detection by implicit local feature clustering.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03243)
+
+   *Jie Zhang, Masanori Suganuma, and Takayuki Okatani.* 
+
 ### [Active Learning](#content)
 1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
 
@@ -1675,6 +1683,10 @@ Contributed by Chunyang Zhang.
 1. **Incorporating expert feedback into active anomaly discovery.** ICDM, 2016. [paper](https://ieeexplore.ieee.org/document/7837915)
 
    *Shubhomoy Das, Weng-Keen Wong, Thomas Dietterich, Alan Fern, and Andrew Emmott.* 
+
+1. **Training ensembles with inliers and outliers for semi-supervised active learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03741)
+
+   *Vladan Stojnić, Zakaria Laskar, and Giorgos Tolias.* 
 
 ### [Cluster](#content)
 1. **MIDAS: Microcluster-based detector of anomalies in edge streams.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5724)
