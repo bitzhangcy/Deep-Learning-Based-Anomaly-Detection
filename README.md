@@ -1104,13 +1104,17 @@ Contributed by Chunyang Zhang.
 
    *George Papadimitriou, Hongwei Jin, Cong Wang, Krishnan Raghavan, Anirban Mandal, Prasanna Balaprakash, and Ewa Deelman.* 
 
-1. **Flow-Bench: A dataset for computational workflow anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09930)
-
-   *George Papadimitriou, Hongwei Jin, Cong Wang, Krishnan Raghavan, Anirban Mandal, Prasanna Balaprakash, and Ewa Deelman.* 
-
 1. **In or Out? Fixing ImageNet out-of-distribution detection evaluation.** ICML, 2023. [paper](https://arxiv.org/abs/2306.00826)
 
    *Julian Bitterwolf, Maximilian Müller, and Matthias Hein.* 
+
+1. **Temporal graphs anomaly emergence detection: Benchmarking for social media interactions.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.05268)
+
+   *Teddy Lazebnik and Or Iny.* 
+
+1. **PKU-GoodsAD: A supermarket goods dataset for unsupervised anomaly detection and segmentation.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09930)
+
+   *Jian Zhang, Ge Yang, Miaoju Ban, and Runwei Ding.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
