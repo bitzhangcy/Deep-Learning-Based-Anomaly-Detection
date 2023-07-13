@@ -191,6 +191,10 @@ Contributed by Chunyang Zhang.
 
    *Minqi Jiang, Chaochuan Hou, Ao Zheng, Xiyang Hu, Songqiao Han, Hailiang Huang, Xiangnan He, Philip S. Yu, and Yue Zhao.* 
 
+1. **A comprehensive survey of deep transfer learning for anomaly detection in industrial time series: Methods, applications, and directions.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.05638)
+
+   *Peng Yan, Ahmed Abdulkadir, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
