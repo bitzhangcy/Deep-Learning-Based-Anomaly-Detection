@@ -1364,9 +1364,13 @@ Contributed by Chunyang Zhang.
 
    *Minqi Jiang, Songqiao Han, and Hailiang Huang.* 
 
-1. **AdaFocal: Calibration-aware adaptive focal loss** NIPS, 2022. [paper](https://openreview.net/forum?id=CoMOKHYWf2)
+1. **AdaFocal: Calibration-aware adaptive focal loss.** NIPS, 2022. [paper](https://openreview.net/forum?id=CoMOKHYWf2)
 
    *Arindam Ghosh, Arindam_Ghosh, and Thomas Schaaf, Matthew R. Gormley.* 
+
+1. **DSV: An alignment validation loss for self-supervised outlier model selection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.06534)
+
+   *Jaemin Yoo, Yue Zhao, Lingxiao Zhao, and Leman Akoglu.* 
 
 ### [Lifelong Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
