@@ -473,6 +473,11 @@ Contributed by Chunyang Zhang.
 
    *Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, Ruomeng Ding, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, and Dongmei Zhang.* 
 
+1. **Multimodal motion conditioned diffusion model for skeleton-based video
+anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07205)
+
+   *Alessandro Flaborea, Luca Collorone, Guido Maria D’Amely di Melendugno, Stefano D’Arrigo, Bardh Prenkaj, and Fabio Galasso.* 
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
