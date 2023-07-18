@@ -474,9 +474,13 @@ Contributed by Chunyang Zhang.
    *Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, Ruomeng Ding, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, and Dongmei Zhang.* 
 
 1. **Multimodal motion conditioned diffusion model for skeleton-based video
-anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07205)
+   anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07205)
 
    *Alessandro Flaborea, Luca Collorone, Guido Maria D’Amely di Melendugno, Stefano D’Arrigo, Bardh Prenkaj, and Fabio Galasso.* 
+
+1. **LafitE: Latent diffusion model with feature editing for unsupervised multi-class anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.08059)
+
+   *Haonan Yin, Guanlong Jiao, Qianhui Wu, Borje F. Karlsson, Biqing Huang, and Chin Yew Lin.* 
 
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
@@ -831,6 +835,10 @@ anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07205)
 1. **A survey on graph neural networks for time series: Forecasting, classification, imputation, and anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03759)
 
    *Ming Jin, Huan Yee Koh, Qingsong Wen, Daniele Zambon, Cesare Alippi, Geoffrey I. Webb, Irwin King, and Shirui Pan.*
+
+1. **Correlation-aware spatial-temporal graph learning for multivariate time-series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.08390)
+
+   *Yu Zheng, Huan Yee Koh, Ming Jin, Lianhua Chi, Khoa T. Phan, Shirui Pan, Yi-Ping Phoebe Chen, and Wei Xiang.*
 
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
