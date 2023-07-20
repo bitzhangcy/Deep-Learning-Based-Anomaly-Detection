@@ -1605,9 +1605,9 @@ Contributed by Chunyang Zhang.
 
    *Aodong Li, Chen Qiu, Marius Kloft, Padhraic Smyth, Stephan Mandt, and Maja Rudolph.*
 
-1. **Estimating the contamination factor's distribution in unsupervised anomaly detection.** ICML, 2023. [paper](https://openreview.net/forum?id=pf3NihScj1)
+1. **Pseudo outlier exposure for out-of-distribution detection using pretrained Transformers.** ACL, 2023. [paper](https://aclanthology.org/2023.findings-acl.95/)
 
-   *Lorenzo Perini, Paul-Christian Bürkner, and Arto Klami.*
+   *Jaeyoung Kim, Kyuheon Jung, Dongbin Na, Sion Jang, Eunbin Park, and Sungchul Choi.*
 
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
