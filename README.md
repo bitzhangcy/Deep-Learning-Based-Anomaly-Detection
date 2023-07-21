@@ -636,6 +636,10 @@ Contributed by Chunyang Zhang.
 
    *Amin Yousefpour, Mehdi Shishehbor, Zahra Zanjani Foumani, and Ramin Bostanabad.* 
 
+1. **Representation learning in anomaly detection: Successes, limits and a grand challenge.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11085v1)
+
+   *Yedid Hoshen.* 
+
 ### [Nonparametric Approach](#content)
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
 
@@ -1295,6 +1299,10 @@ Contributed by Chunyang Zhang.
 
    *Tal Reiss, Niv Cohen, and Yedid Hoshen.* 
 
+1. **Refining the optimization target for automatic univariate time series anomaly detection in monitoring services.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.10653)
+
+   *Manqing Dong, Zhanxiang Zhao, Yitong Geng, Wentao Li, Wei Wang, and Huai Jiang.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
@@ -1363,6 +1371,10 @@ Contributed by Chunyang Zhang.
 1. **Zero-shot anomaly detection with pre-trained segmentation models.** VAND, 2023. [paper](https://arxiv.org/abs/2306.09269)
 
    *Matthew Baugh, James Batten, Johanna P. Müller, and Bernhard Kainz.* 
+
+1. **Optimizing PatchCore for few/many-shot anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.10792)
+
+   *João Santos, Triet Tran, and Oliver Rippel.* 
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
@@ -1541,6 +1553,10 @@ Contributed by Chunyang Zhang.
 1. **Unsupervised model selection for time-series anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=gOZ_pKANaPW)
 
    *Mononito Goswami, Cristian Ignacio Challu, Laurent Callot, Lenon Minorics, and Andrey Kan.* 
+
+1. **Fast Unsupervised deep outlier model selection with hypernetworks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.10529)
+
+   *Xueying Ding, Yue Zhao, and Leman Akoglu.* 
 
 ### [Gaussian Process](#content)
 1. **Deep anomaly detection with deviation networks.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330871)
