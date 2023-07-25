@@ -545,7 +545,7 @@ Contributed by Chunyang Zhang.
 
 1. **Generalizable industrial visual anomaly detection with self-induction vision transformer.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12311)
 
-   *Haiming Yao and Xue Wang,.* 
+   *Haiming Yao and Xue Wang.* 
 
 1. **VT-ADL: A vision transformer network for image anomaly detection and localization.** ISIE, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9576231)
 
@@ -566,6 +566,10 @@ Contributed by Chunyang Zhang.
 1. **DCdetector: Dual attention contrastive representation learning for time series anomaly detection.** KDD, 2023. [paper](https://arxiv.org/abs/2306.10347)
 
    *Yiyuan Yang, Chaoli Zhang, Tian Zhou, Qingsong Wen, and Liang Sun.* 
+
+1. **SelFormaly: Towards task-agnostic unified anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12540)
+
+   *Yujin Lee, Harin Lim, and Hyunsoo Yoon.* 
 
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
@@ -1073,6 +1077,10 @@ Contributed by Chunyang Zhang.
 1. **Fascinating supervisory signals and where to find them: Deep anomaly detection with scale learning.** ICML, 2023. [paper](https://arxiv.org/abs/2305.16114)
 
    *Hongzuo Xu, Yijie Wang, Juhui Wei, Songlei Jian, Yizhou Li, and Ning Liu.* 
+
+1. **TabADM: Unsupervised tabular anomaly detection with diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12336)
+
+   *Guy Zamberg, Moshe Salhov, Ofir Lindenbaum, and Amir Averbuch.* 
 
 
 ## [Mechanism](#content)
