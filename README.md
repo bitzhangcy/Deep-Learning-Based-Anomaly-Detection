@@ -1783,6 +1783,10 @@ Contributed by Chunyang Zhang.
 
    *Haolong Xiang, Xuyun Zhang, Hongsheng Hu, Lianyong Qi, Wanchun Dou, Mark Dras, Amin Beheshti, and Xiaolong Xu.*
 
+1. **Deep isolation forest for anomaly detection.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10108034)
+
+   *Hongzuo Xu, Guansong Pang, Yijie Wang, and Yongjun Wang.* 
+
 ### [Multimodal](#content)
 1. **Multimodal industrial anomaly detection via hybrid fusion.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.00601)
 
@@ -1792,9 +1796,9 @@ Contributed by Chunyang Zhang.
 
    *Daehyung Park, Yuuna Hoshi, and Charles C. Kemp.* 
 
-1. **Deep isolation forest for anomaly detection.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10108034)
+1. **EasyNet: An easy network for 3D industrial anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.13925)
 
-   *Hongzuo Xu, Guansong Pang, Yijie Wang, and Yongjun Wang.* 
+   *Ruitao Chen, Guoyang Xie, Jiaqi Liu, Jinbao Wang, Ziqi Luo, Jinfan Wang, and Feng Zheng.* 
 
 ### [Energy Model](#content)
 1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
