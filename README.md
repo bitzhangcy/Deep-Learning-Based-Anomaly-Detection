@@ -1475,6 +1475,10 @@ Contributed by Chunyang Zhang.
 
    *Jie Zhang, Masanori Suganuma, and Takayuki Okatani.* 
 
+1. **Reinforcement learning by guided safe exploration.** ECAI, 2023. [paper](https://arxiv.org/abs/2307.14316)
+
+   *Qisong Yang, Thiago D. Simão, Nils Jansen, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
