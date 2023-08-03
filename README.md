@@ -852,6 +852,10 @@ Contributed by Chunyang Zhang.
 
    *Yu Zheng, Huan Yee Koh, Ming Jin, Lianhua Chi, Khoa T. Phan, Shirui Pan, Yi-Ping Phoebe Chen, and Wei Xiang.*
 
+1. **Graph anomaly detection at group level: A topology pattern enhanced unsupervised approach.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01063)
+
+   *Xing Ai, Jialong Zhou, Yulin Zhu, Gaolei Li, Tomasz P. Michalak, Xiapu Luo, and Kai Zhou.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
