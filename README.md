@@ -87,7 +87,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#optimal-transport">3.23 Optimal Transport</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#causal-inference">3.24 Causal-Inference</a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
@@ -111,6 +111,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 
@@ -1645,6 +1646,10 @@ Contributed by Chunyang Zhang.
 
    *Jaeyoung Kim, Kyuheon Jung, Dongbin Na, Sion Jang, Eunbin Park, and Sungchul Choi.*
 
+1. **Harder synthetic anomalies to improve OOD detection in medical images.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01412)
+
+   *Sergio Naval Marimont and Giacomo Tarroni.*
+
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
 
@@ -1843,6 +1848,11 @@ Contributed by Chunyang Zhang.
 1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
 
    *Yuxin Li, Wenchao Chen, Bo Chen, Dongsheng Wang, Long Tian, and Mingyuan Zhou.*
+
+### [Causal Inference](#content)
+1. **Learning causality-inspired representation consistency for video anomaly detection.** ACM MM, 2023. [paper](https://arxiv.org/abs/2308.01537)
+
+   *Yang Liu, Zhaoyang Xia, Mengyang Zhao, Donglai Wei, Yuzheng Wang, Liu Siao, Bobo Ju, Gaoyun Fang, Jing Liu, and Liang Song.*
 
 
 ## [Application](#content)
