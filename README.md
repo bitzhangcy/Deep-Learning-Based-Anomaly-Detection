@@ -580,6 +580,10 @@ Contributed by Chunyang Zhang.
 
    *Sergio Naval Marimont, Vasilis Siomos, and Giacomo Tarroni.* 
 
+1. **Focus the discrepancy: Intra- and Inter-correlation learning for image anomaly detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.02983)
+
+   *Xincheng Yao, Ruoqi Li, Zefeng Qian, Yan Luo, and Chongyang Zhang.* 
+
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
 
