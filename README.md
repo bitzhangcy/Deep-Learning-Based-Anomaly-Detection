@@ -1830,6 +1830,10 @@ Contributed by Chunyang Zhang.
 
    *Ruitao Chen, Guoyang Xie, Jiaqi Liu, Jinbao Wang, Ziqi Luo, Jinfan Wang, and Feng Zheng.* 
 
+1. **ADMire++: Explainable anomaly detection in the human brain via inductive learning on temporal multiplex networks.** ICML, 2023. [paper](https://openreview.net/pdf?id=t4H8acYudJ)
+
+   *Ali Behrouz and Margo Seltzer.* 
+
 ### [Energy Model](#content)
 1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
 
