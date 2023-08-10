@@ -108,9 +108,10 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#industry-process">4.9 Industry Process</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#astronomy">4.10 Astronomy</a></td>
 </tr>
 </table>
+
 
 
 
@@ -583,6 +584,10 @@ Contributed by Chunyang Zhang.
 1. **Focus the discrepancy: Intra- and Inter-correlation learning for image anomaly detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.02983)
 
    *Xincheng Yao, Ruoqi Li, Zefeng Qian, Yan Luo, and Chongyang Zhang.* 
+
+1. **Sparse binary Transformers for multivariate time series modeling.** KDD, 2023. [paper](https://arxiv.org/abs/2308.04637)
+
+   *Matt Gorbett, Hossein Shirazi, and Indrakshi Ray.* 
 
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
@@ -1401,6 +1406,10 @@ Contributed by Chunyang Zhang.
 
    *João Santos, Triet Tran, and Oliver Rippel.* 
 
+1. **Multi-scale memory comparison for zero-/few-shot anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2308.04789)
+
+   *Chaoqin Huang, Aofan Jiang, Ya Zhang, and Yanfeng Wang.* 
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
@@ -1932,3 +1941,8 @@ Contributed by Chunyang Zhang.
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
 
    *Sebastian Larsen and Paul A. Hooper.* 
+
+### [Astronomy](#content)
+1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
+
+   *Pérez-Carrasco Manuel, Cabrera-Vives Guillermo, Hernández-García Lorena, Forster Francisco, Sánchez-Sáez Paula, Muñoz Arancibia Alejandra, Astorga Nicolás, Bauer Franz, Bayo Amelia, Cádiz-Leyton Martina, and Catelan Marcio.*
