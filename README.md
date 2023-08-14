@@ -1057,6 +1057,10 @@ Contributed by Chunyang Zhang.
 
    *Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, and Bo Han.* 
 
+1. **Out-of-distribution detection for monocular depth estimation.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.06072)
+
+   *Julia Hornauer, Adrian Holzbock, and Vasileios Belagiannis.* 
+
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
