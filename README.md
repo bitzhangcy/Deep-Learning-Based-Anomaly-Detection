@@ -197,6 +197,10 @@ Contributed by Chunyang Zhang.
 
    *Peng Yan, Ahmed Abdulkadir, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann.* 
 
+1. **Survey on video anomaly detection in dynamic scenes with moving cameras.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.07050)
+
+   *Runyu Jiao, Yi Wan, Fabio Poiesi, and Yiming Wang.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
