@@ -1422,6 +1422,10 @@ Contributed by Chunyang Zhang.
 
    *Chaoqin Huang, Aofan Jiang, Ya Zhang, and Yanfeng Wang.* 
 
+1. **AutoML for outlier detection with optimal Ttransport distances.** IJCAI, 2023. [paper](https://www.ijcai.org/proceedings/2023/843)
+
+   *Prabhant Singh and  Joaquin Vanschoren.* 
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
