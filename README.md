@@ -1345,6 +1345,10 @@ Contributed by Chunyang Zhang.
 
    *Manqing Dong, Zhanxiang Zhao, Yitong Geng, Wentao Li, Wei Wang, and Huai Jiang.* 
 
+1. **Beyond sharing: Conflict-aware multivariate time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.08915)
+
+   *Haotian Si, Changhua Pei, Zhihan Li, Yadong Zhao, Jingjing Li, Haiming Zhang, Zulong Diao, Jianhui Li, Gaogang Xie, and Dan Pei.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
@@ -1595,6 +1599,10 @@ Contributed by Chunyang Zhang.
 
    *Xiaochen Zheng, Xingyu Chen, Manuel Schürch, Amina Mollaysa, Ahmed Allam, and Michael Krauthammer.*
 
+1. **CARLA: A self-supervised contrastive representation learning approach for time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09296)
+
+   *Zahra Zamanzadeh Darban, Geoffrey I. Webb, Shirui Pan, and Mahsa Salehi.*
+
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
 
@@ -1682,6 +1690,10 @@ Contributed by Chunyang Zhang.
 1. **Harder synthetic anomalies to improve OOD detection in medical images.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01412)
 
    *Sergio Naval Marimont and Giacomo Tarroni.*
+
+1. **AutoLog: A log sequence synthesis framework for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09324)
+
+   *Yintong Huo, Yichen Li, Yuxin Su, Pinjia He, Zifan Xie, and Michael R. Lyu.*
 
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
@@ -1849,6 +1861,10 @@ Contributed by Chunyang Zhang.
 1. **ADMire++: Explainable anomaly detection in the human brain via inductive learning on temporal multiplex networks.** ICML, 2023. [paper](https://openreview.net/pdf?id=t4H8acYudJ)
 
    *Ali Behrouz and Margo Seltzer.* 
+
+1. **Improving anomaly segmentation with multi-granularity cross-domain alignment.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.08696)
+
+   *Ji Zhang, Xiao Wu, Zhi-Qi Cheng, Qi He, and Wei Li.* 
 
 ### [Energy Model](#content)
 1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
