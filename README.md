@@ -1240,6 +1240,10 @@ Contributed by Chunyang Zhang.
 
    *Ido Galil, Mohammed Dabbah, and Ran El-Yaniv.* 
 
+1. **A large-scale benchmark for log parsing.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.10828)
+
+   *Zhihan Jiang, Jinyang Liu, Junjie Huang, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu, and Michael R. Lyu.* 
+
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
 
@@ -1602,6 +1606,10 @@ Contributed by Chunyang Zhang.
 1. **CARLA: A self-supervised contrastive representation learning approach for time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09296)
 
    *Zahra Zamanzadeh Darban, Geoffrey I. Webb, Shirui Pan, and Mahsa Salehi.*
+
+1. **Unilaterally aggregated contrastive learning with hierarchical augmentation for anomaly detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.10155)
+
+   *Guodong Wang, Yunhong Wang, Jie Qin, Dongming Zhang, Xiuguo Bao, and Di Huang.*
 
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
