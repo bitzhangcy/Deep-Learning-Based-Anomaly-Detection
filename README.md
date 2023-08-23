@@ -1065,6 +1065,10 @@ Contributed by Chunyang Zhang.
 
    *Julia Hornauer, Adrian Holzbock, and Vasileios Belagiannis.* 
 
+1. **Expecting the unexpected: Towards broad out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.11480)
+
+   *Charles Guille-Escuret, Pierre-André Noël, Ioannis Mitliagkas, David Vazquez, and Joao Monteiro.* 
+
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
