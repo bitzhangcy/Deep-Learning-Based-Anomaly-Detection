@@ -1615,6 +1615,14 @@ Contributed by Chunyang Zhang.
 
    *Guodong Wang, Yunhong Wang, Jie Qin, Dongming Zhang, Xiuguo Bao, and Di Huang.*
 
+1. **Cross-domain graph anomaly detection via anomaly-aware contrastive alignment.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25591)
+
+   *Qizhou Wang, Guansong Pang, Mahsa Salehi, Wray Buntine, and Christopher Leckie.*
+
+1. **Robust fraud detection via supervised contrastive learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.10055)
+
+   *Vinay M.S., Shuhan Yuan, and Xintao Wu.*
+
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
 
