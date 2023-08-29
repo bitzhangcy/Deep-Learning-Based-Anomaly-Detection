@@ -1124,6 +1124,10 @@ Contributed by Chunyang Zhang.
 
    *Guy Zamberg, Moshe Salhov, Ofir Lindenbaum, and Amir Averbuch.* 
 
+1. **ATDAD: One-class adversarial learning for tabular data anomaly detection.** Computers & Security, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404823003590)
+
+   *Xiaohui Yang and Xiang Li.* 
+
 
 ## [Mechanism](#content)
 ### [Dataset](#content)
