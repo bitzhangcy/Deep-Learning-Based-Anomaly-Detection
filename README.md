@@ -1397,6 +1397,10 @@ Contributed by Chunyang Zhang.
 
    *Leman Akoglu and Jaemin Yoo.* 
 
+1. **Tackling diverse minorities in imbalanced classification.** CIKM, 2023. [paper](https://arxiv.org/abs/2308.14838)
+
+   *Kwei-Herng Lai, Daochen Zha, Huiyuan Chen, Mangesh Bendre, Yuzhong Chen, Mahashweta Das, Hao Yang, and Xia Hu.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
