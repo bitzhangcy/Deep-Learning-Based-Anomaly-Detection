@@ -1892,6 +1892,10 @@ Contributed by Chunyang Zhang.
 
    *Maximilian B. Toller, Bernhard C. Geiger, and Roman Kern.*
 
+1. **Outlier detection: How to Select k for k-nearest-neighbors-based outlier detectors.** Pattern Recognition Letters, 2023. [paper](https://ieeexplore.ieee.org/document/9511218)
+
+   *Jiawei Yang, Xu Tan, and Sylwan Rahardja.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
