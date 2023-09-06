@@ -1135,6 +1135,10 @@ Contributed by Chunyang Zhang.
 
    *Hanqiu Deng, Zhaoxiang Zhang, Jinan Bao, and Xingyu Li.* 
 
+1. **LogGPT: Exploring ChatGPT for log-based anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01189)
+
+   *Jiaxing Qi, Shaohan Huang, Zhongzhi Luan, Carol Fung, Hailong Yang, and Depei Qian.* 
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1576,6 +1580,10 @@ Contributed by Chunyang Zhang.
 1. **Reinforcement learning by guided safe exploration.** ECAI, 2023. [paper](https://arxiv.org/abs/2307.14316)
 
    *Qisong Yang, Thiago D. Simão, Nils Jansen, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
+
+1. **Prior knowledge guided network for video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01682)
+
+   *Zhewen Deng, Dongyue Chen, and Shizhuo Deng.* 
 
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
