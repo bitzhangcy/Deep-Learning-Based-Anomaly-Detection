@@ -1904,6 +1904,14 @@ Contributed by Chunyang Zhang.
 
    *Jiawei Yang, Xu Tan, and Sylwan Rahardja.*
 
+1. **Improved outlier robust seeding for k-means.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.02710)
+
+   *Amit Deshpande and Rameshwar Pratap.*
+
+1. **Outlier detection using three-way neighborhood characteristic regions and corresponding fusion measurement.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10239460)
+
+   *Xianyong Zhang, Zhong Yuan, and Duoqian Miao.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
