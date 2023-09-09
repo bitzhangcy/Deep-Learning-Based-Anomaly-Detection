@@ -1405,6 +1405,10 @@ Contributed by Chunyang Zhang.
 
    *Kwei-Herng Lai, Daochen Zha, Huiyuan Chen, Mangesh Bendre, Yuzhong Chen, Mahashweta Das, Hao Yang, and Xia Hu.* 
 
+1. **IOMatch: Simplifying open-set semi-supervised learning with joint inliers and outliers utilization.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.13168)
+
+   *Zekun Li, Lei Qi, Yinghuan Shi, and Yang Gao.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
