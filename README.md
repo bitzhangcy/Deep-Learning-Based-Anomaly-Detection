@@ -613,6 +613,10 @@ Contributed by Chunyang Zhang.
 
    *Yiming Huang, Guole Liu, Yaoru Luo, and Ge Yang.* 
 
+1. **Mask2Anomaly: Mask Transformer for universal open-set segmentation.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04573)
+
+   *Shyam Nandan Rai, Fabio Cermelli, Barbara Caputo, and Carlo Masone.* 
+
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
 
@@ -2065,6 +2069,10 @@ Contributed by Chunyang Zhang.
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
 
    *Sebastian Larsen and Paul A. Hooper.* 
+
+1. **Knowledge distillation-empowered digital twin for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04616)
+
+   *Qinghua Xu, Shaukat Ali, Tao Yue, Zaimovic Nedim, and Inderjeet Singh.* 
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
