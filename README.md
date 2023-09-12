@@ -902,6 +902,10 @@ Contributed by Chunyang Zhang.
 
    *Jiaxi Li, Guansong Pang, Ling Chen, Mohammad-Reza and Namazi-Rad.*
 
+1. **Revisiting adversarial attacks on graph neural networks for graph classification.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10243054)
+
+   *Xin Wang, Heng Chang, Beini Xie, Tian Bian, Shiji Zhou, Daixin Wang, Zhiqiang Zhang, and Wenwu Zhu.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
