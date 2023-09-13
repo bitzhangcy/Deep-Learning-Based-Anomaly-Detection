@@ -906,6 +906,10 @@ Contributed by Chunyang Zhang.
 
    *Xin Wang, Heng Chang, Beini Xie, Tian Bian, Shiji Zhou, Daixin Wang, Zhiqiang Zhang, and Wenwu Zhu.*
 
+1. **Normality learning-based graph anomaly detection via multi-scale contrastive learning.** MM, 2023. [paper](https://arxiv.org/abs/2309.06034)
+
+   *Jingcan Duan, Pei Zhang, Siwei Wang, Jingtao Hu, Hu Jin, Jiaxin Zhang, Haifang Zhou, and Haifang Zhou.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
@@ -1096,6 +1100,10 @@ Contributed by Chunyang Zhang.
 1. **Expecting the unexpected: Towards broad out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.11480)
 
    *Charles Guille-Escuret, Pierre-André Noël, Ioannis Mitliagkas, David Vazquez, and Joao Monteiro.* 
+
+1. **ATTA: Anomaly-aware test-time adaptation for out-of-distribution detection in segmentation.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.05994)
+
+   *Zhitong Gao, Shipeng Yan, and Xuming He.* 
 
 ### [RNNs](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
