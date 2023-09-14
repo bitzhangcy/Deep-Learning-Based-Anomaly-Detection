@@ -1155,6 +1155,10 @@ Contributed by Chunyang Zhang.
 
    *Jiaxing Qi, Shaohan Huang, Zhongzhi Luan, Carol Fung, Hailong Yang, and Depei Qian.* 
 
+1. **CLIPN for zero-shot OOD detection: Teaching CLIP to say no.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.12213)
+
+   *Hualiang Wang, Yi Li, Huifeng Yao, and Xiaomeng Li.* 
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
