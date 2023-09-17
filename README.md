@@ -910,6 +910,10 @@ Contributed by Chunyang Zhang.
 
    *Jingcan Duan, Pei Zhang, Siwei Wang, Jingtao Hu, Hu Jin, Jiaxin Zhang, Haifang Zhou, and Haifang Zhou.*
 
+1. **GLAD: Content-aware dynamic graphs for log anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.05953)
+
+   *Yufei Li, Yanchi Liu, Haoyu Wang, Zhengzhang Chen, Wei Cheng, Yuncong Chen, Wenchao Yu, Haifeng Chen, and Cong Liu.*
+
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
 
