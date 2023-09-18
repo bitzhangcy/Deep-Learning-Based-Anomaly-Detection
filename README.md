@@ -1180,6 +1180,10 @@ Contributed by Chunyang Zhang.
 
    *Xiaohui Yang and Xiang Li.* 
 
+1. **Understanding the limitations of self-supervised learning for tabular anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.08374)
+
+   *Kimberly T. Mai, Toby Davies, and Lewis D. Griffin.* 
+
 
 ## [Mechanism](#content)
 ### [Dataset](#content)
