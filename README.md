@@ -6,39 +6,39 @@ Contributed by Chunyang Zhang.
 
 ## [Content](#content)
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#survey">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#methodology">2. Methodology</a></td></tr>
 <tr>
     <td>&ensp;<a href="#autoencoder">2.1 AutoEncoder</a></td>
-    <td>&ensp;<a href="#gan">2.2 GAN</a></td>
+    <td>&ensp;<a href="#generative-adversarial-network">2.2 Generative Adversarial Network</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#flow">2.3 Flow</a></td>
-    <td>&ensp;<a href="#diffusion-model">2.4 Diffusion Model</a></td>
+    <td>&ensp;<a href="#transformer">2.3 Transformer</a></td>
+    <td>&ensp;<a href="#flow">2.4 Flow</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#transformer">2.5 Transformer</a></td>
-    <td>&ensp;<a href="#representation-learning">2.6 Representation Learning</a></td>
+    <td>&ensp;<a href="#diffusion-model">2.5 Diffusion Model</a></td>
+    <td>&ensp;<a href="#convolution">2.6 Convolution</a></td>
+</tr> 
+<tr>
+    <td>&ensp;<a href="#graph-neural-network">2.7 Graph Neural Network</a></td>
+    <td>&ensp;<a href="#time-series">2.8 Time Series</a></td>
+</tr>
+<tr> 
+    <td>&ensp;<a href="#tabular">2.9 Tabular</a></td>
+    <td>&ensp;<a href="#out-of-distribution">2.10 Out of Distribution</a></td>
+</tr>
+<tr> 
+    <td>&ensp;<a href="#large-model">2.11 Large Model</a></td>
+    <td>&ensp;<a href="#reinforcement-learning">2.12 Reinforcement Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#nonparametric-approach">2.7 Nonparametric Approach</a></td>
-    <td>&ensp;<a href="#reinforcement-learning">2.8 Reinforcement Learning</a></td>
+    <td>&ensp;<a href="#representation">2.13 Representation</a></td>
+    <td>&ensp;<a href="#support-vector">2.14 Support Vector</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#cnn">2.9 CNN</a></td>
-    <td>&ensp;<a href="#graph-neural-network">2.10 Graph Neural Network</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#sparse-coding">2.11 Sparse Coding</a></td>
-    <td>&ensp;<a href="#support-vector">2.12 Support Vector</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#ood">2.13 OOD</a></td>
-    <td>&ensp;<a href="#rnns">2.14 RNNs</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#large-model">2.15 Large Model</a></td>
-    <td>&ensp;<a href="#tabular ">2.16 Tabular</a></td>
+    <td>&ensp;<a href="#sparse-coding">2.15 Sparse Coding</a></td>
+    <td>&ensp;<a href="#nonparametric-approach">2.16 Nonparametric Approach</a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -51,43 +51,47 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#loss-function">3.5 Loss Function</a></td>
-    <td>&ensp;<a href="#lifelong-learning">3.6 Lifelong Learning</a></td>
+    <td>&ensp;<a href="#model-selection">3.6 Model Selection</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#knowledge-distillation">3.7 Knowledge Distillation</a></td>
     <td>&ensp;<a href="#data-augmentation">3.8 Data Augmentation</a></td>
 </tr>
 <tr>
-	<td>&ensp;<a href="#contrastive-learning">3.9 Contrastive Learning</a></td>
-    <td>&ensp;<a href="#model-selection">3.10 Model Selection</a></td>
+	<td>&ensp;<a href="#outlier-exposure">3.9 Outlier Exposure</a></td>
+    <td>&ensp;<a href="#contrastive-learning">3.10 Contrastive Learning</a></td>
+</tr>
+<tr> 
+    <td>&ensp;<a href="#continual-learning">3.11 Continual Learning</a></td>
+    <td>&ensp;<a href="#active-learning">3.12 Active Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#gaussian-process">3.11 Gaussian Process</a></td>
-    <td>&ensp;<a href="#multi-task">3.12 Multi Task</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#outlier-exposure">3.13 Outlier Exposure</a></td>
+    <td>&ensp;<a href="#statistics">3.13 Statistics</a></td>
     <td>&ensp;<a href="#density-estimation">3.14 Density Estimation</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#memory-bank">3.15 Memory Bank</a></td>
-    <td>&ensp;<a href="#active-learning">3.16 Active Learning</a></td>
+    <td>&ensp;<a href="#energy-model">3.15 Energy Model</a></td>
+    <td>&ensp;<a href="#memory-bank">3.16 Memory Bank</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#cluster">3.17 Cluster</a></td>
     <td>&ensp;<a href="#isolation">3.18 Isolation</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#multimodal">3.19 Multimodal</a></td>
-    <td>&ensp;<a href="#energy-model">3.20 Energy Model</a></td>
+    <td>&ensp;<a href="#multi-modal">3.19 Multi Modal</a></td>
+    <td>&ensp;<a href="#optimal-transport">3.20 Optimal Transport</a></td>
+</tr>
+<tr>  
+    <td>&ensp;<a href="#causal-inference">3.21 Causal Inference</a></td>
+    <td>&ensp;<a href="#gaussian-process">3.22 Gaussian Process</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#neural-process">3.21 Neural Process</a></td>
-    <td>&ensp;<a href="#online-learning">3.22 Online Learning</a></td>
+    <td>&ensp;<a href="#multi-task">3.23 Multi Task  </a></td>
+    <td>&ensp;<a href="#neural-process">3.24 Neural Process</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#optimal-transport">3.23 Optimal Transport</a></td>
-    <td>&ensp;<a href="#causal-inference">3.24 Causal-Inference</a></td>
+    <td>&ensp;<a href="#online-learning">3.25 Online Learning</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
@@ -95,23 +99,22 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#point-cloud">4.2 Point Cloud</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#hpc">4.3 HPC</a></td>
-    <td>&ensp;<a href="#intrusion">4.4 Intrusion</a></td>
+    <td>&ensp;<a href="#autonomous-driving">4.3 Autonomous Driving</a></td>
+    <td>&ensp;<a href="#robotics">4.4 Robotics</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#diagnosis">4.5 Diagnosis</a></td>
-    <td>&ensp;<a href="#autonomous-driving">4.6 Autonomous Driving</a></td>
+    <td>&ensp;<a href="#intrusion">4.5 Intrusion</a></td>
+    <td>&ensp;<a href="#diagnosis">4.6 Diagnosis</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#physics">4.7 Physics</a></td>
-    <td>&ensp;<a href="#robotics">4.8 Robotics</a></td>
+    <td>&ensp;<a href="#high-performance-computing">4.7 High Performance Computing</a></td>
+    <td>&ensp;<a href="#physics">4.8 Physics</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#industry-process">4.9 Industry Process</a></td>
     <td>&ensp;<a href="#astronomy">4.10 Astronomy</a></td>
 </tr>
 </table>
-
 
 
 
@@ -288,7 +291,7 @@ Contributed by Chunyang Zhang.
 
    *Fabrizio Angiulli, Fabio Fassetti, and Luca Ferragina.*
 
-### [GAN](#content)
+### [Generative Adversarial Network](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
    *Muhammad Zaigham Zaheer, Jin-Ha Lee, Arif Mahmood, Marcella Astri, and Seung-Ik Lee.* 
@@ -368,6 +371,115 @@ Contributed by Chunyang Zhang.
 1. **Truncated affinity maximization: One-class homophily modeling for graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00006)
 
    *Qiao Hezhe and Pang Guansong.*
+
+### [Transformer](#content)
+1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
+
+   *Guodong Shen, Yuqi Ouyang, and Victor Sanchez.* 
+
+1. **TranAD: Deep transformer networks for anomaly detection in multivariate time series data.** VLDB, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3514061.3514067)
+
+   *Shreshth Tuli, Giuliano Casale, and Nicholas R. Jennings.* 
+
+1. **Pixel-level anomaly detection via uncertainty-aware prototypical transformer.** MM, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548082)
+
+   *Chao Huang, Chengliang Liu, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, and Yong Xu.* 
+
+1. **AddGraph: Anomaly detection in dynamic graph using attention-based temporal GCN.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/614)
+
+   *Li Zheng, Zhenpeng Li, Jian Li, Zhao Li, and Jun Gao.* 
+
+1. **Anomaly transformer: Time series anomaly detection with association discrepancy.** ICLR, 2022. [paper](https://openreview.net/pdf?id=LzQQ89U1qm_)
+
+   *Jiehui Xu, Haixu Wu, Jianmin Wang, and Mingsheng Long.* 
+
+1. **Constrained adaptive projection with pretrained features for anomaly detection.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0286.pdf)
+
+   *Xingtai Gui, Di Wu, Yang Chang, and Shicai Fan.* 
+
+1. **Self-training multi-sequence learning with transformer for weakly supervised video anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20028)
+
+   *Shuo Li, Fang Liu, and Licheng Jiao.* 
+
+1. **Beyond outlier detection: Outlier interpretation by attention-guided triplet deviation network.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449868)
+
+   *Hongzuo Xu, Yijie Wang, Songlei Jian, Zhenyu Huang, Yongjun Wang, Ning Liu, and Fei Li.* 
+
+1. **Framing algorithmic recourse for anomaly detection.** KDD, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539344)
+
+   *Debanjan Datta, Feng Chen, and Naren Ramakrishnan.* 
+
+1. **Inpainting transformer for anomaly detection.** ICIAP, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_33)
+
+   *Jonathan Pirnay and Keng Chai.* 
+
+1. **Self-supervised and interpretable anomaly detection using network transformers.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.12997)
+
+   *Daniel L. Marino, Chathurika S. Wickramasinghe, Craig Rieger, and Milos Manic.* 
+
+1. **Anomaly detection in surveillance videos using transformer based attention model.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.01524)
+
+   *Kapil Deshpande, Narinder Singh Punn, Sanjay Kumar Sonbhadra, and Sonali Agarwal.* 
+
+1. **Multi-contextual predictions with vision transformer for video anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.08568?context=cs)
+
+   *Joo-Yeon Lee, Woo-Jeoung Nam, and Seong-Whan Lee.* 
+
+1. **Transformer based models for unsupervised anomaly segmentation in brain MR images.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.02059)
+
+   *Ahmed Ghorbel, Ahmed Aldahdooh, Shadi Albarqouni, and Wassim Hamidouche.* 
+
+1. **HaloAE: An HaloNet based local transformer auto-encoder for anomaly detection and localization.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.03486)
+
+   *E. Mathian, H. Liu, L. Fernandez-Cuesta, D. Samaras, M. Foll, and L. Chen.* 
+
+1. **Generalizable industrial visual anomaly detection with self-induction vision transformer.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12311)
+
+   *Haiming Yao and Xue Wang.* 
+
+1. **VT-ADL: A vision transformer network for image anomaly detection and localization.** ISIE, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9576231)
+
+   *Pankaj Mishra, Riccardo Verk, Daniele Fornasier, Claudio Piciarelli, and Gian Luca Foresti.* 
+
+1. **Video event restoration based on keyframes for video anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2304.05112)
+
+   *Zhiwei Yang, Jing Liu, Zhaoyang Wu, Peng Wu, and Xiaotao Liu.* 
+
+1. **AnomalyBERT: Self-supervised Transformer for time series anomaly detection using data degradation scheme.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.04468)
+
+   *Yungi Jeong, Eunseok Yang, Jung Hyun Ryu, Imseong Park, and Myungjoo Kang.* 
+
+1. **HAN-CAD: Hierarchical attention network for context anomaly detection in multivariate time series.** WWW, 2023. [paper](https://link.springer.com/article/10.1007/s11280-023-01171-1)
+
+   *Haicheng Tao, Jiawei Miao, Lin Zhao, Zhenyu Zhang, Shuming Feng, Shu Wang, and Jie Cao.* 
+
+1. **DCdetector: Dual attention contrastive representation learning for time series anomaly detection.** KDD, 2023. [paper](https://arxiv.org/abs/2306.10347)
+
+   *Yiyuan Yang, Chaoli Zhang, Tian Zhou, Qingsong Wen, and Liang Sun.* 
+
+1. **SelFormaly: Towards task-agnostic unified anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12540)
+
+   *Yujin Lee, Harin Lim, and Hyunsoo Yoon.* 
+
+1. **MIM-OOD: Generative masked image modelling for out-of-distribution detection in medical images.** MICCAI, 2023. [paper](https://arxiv.org/abs/2307.14701)
+
+   *Sergio Naval Marimont, Vasilis Siomos, and Giacomo Tarroni.* 
+
+1. **Focus the discrepancy: Intra- and Inter-correlation learning for image anomaly detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.02983)
+
+   *Xincheng Yao, Ruoqi Li, Zefeng Qian, Yan Luo, and Chongyang Zhang.* 
+
+1. **Sparse binary Transformers for multivariate time series modeling.** KDD, 2023. [paper](https://arxiv.org/abs/2308.04637)
+
+   *Matt Gorbett, Hossein Shirazi, and Indrakshi Ray.* 
+
+1. **ADFA: Attention-augmented differentiable top-k feature adaptation for unsupervised medical anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.15280)
+
+   *Yiming Huang, Guole Liu, Yaoru Luo, and Ge Yang.* 
+
+1. **Mask2Anomaly: Mask Transformer for universal open-set segmentation.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04573)
+
+   *Shyam Nandan Rai, Fabio Cermelli, Barbara Caputo, and Carlo Masone.* 
 
 ### [Flow](#content)
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
@@ -508,223 +620,7 @@ Contributed by Chunyang Zhang.
 
    *Ziyun Liang, Harry Anthony, Felix Wagner, and Konstantinos Kamnitsas.*
 
-### [Transformer](#content)
-1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
-
-   *Guodong Shen, Yuqi Ouyang, and Victor Sanchez.* 
-
-1. **TranAD: Deep transformer networks for anomaly detection in multivariate time series data.** VLDB, 2022. [paper](https://dl.acm.org/doi/abs/10.14778/3514061.3514067)
-
-   *Shreshth Tuli, Giuliano Casale, and Nicholas R. Jennings.* 
-
-1. **Pixel-level anomaly detection via uncertainty-aware prototypical transformer.** MM, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548082)
-
-   *Chao Huang, Chengliang Liu, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, and Yong Xu.* 
-
-1. **AddGraph: Anomaly detection in dynamic graph using attention-based temporal GCN.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/614)
-
-   *Li Zheng, Zhenpeng Li, Jian Li, Zhao Li, and Jun Gao.* 
-
-1. **Anomaly transformer: Time series anomaly detection with association discrepancy.** ICLR, 2022. [paper](https://openreview.net/pdf?id=LzQQ89U1qm_)
-
-   *Jiehui Xu, Haixu Wu, Jianmin Wang, and Mingsheng Long.* 
-
-1. **Constrained adaptive projection with pretrained features for anomaly detection.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0286.pdf)
-
-   *Xingtai Gui, Di Wu, Yang Chang, and Shicai Fan.* 
-
-1. **Self-training multi-sequence learning with transformer for weakly supervised video anomaly detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20028)
-
-   *Shuo Li, Fang Liu, and Licheng Jiao.* 
-
-1. **Beyond outlier detection: Outlier interpretation by attention-guided triplet deviation network.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449868)
-
-   *Hongzuo Xu, Yijie Wang, Songlei Jian, Zhenyu Huang, Yongjun Wang, Ning Liu, and Fei Li.* 
-
-1. **Framing algorithmic recourse for anomaly detection.** KDD, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539344)
-
-   *Debanjan Datta, Feng Chen, and Naren Ramakrishnan.* 
-
-1. **Inpainting transformer for anomaly detection.** ICIAP, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_33)
-
-   *Jonathan Pirnay and Keng Chai.* 
-
-1. **Self-supervised and interpretable anomaly detection using network transformers.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.12997)
-
-   *Daniel L. Marino, Chathurika S. Wickramasinghe, Craig Rieger, and Milos Manic.* 
-
-1. **Anomaly detection in surveillance videos using transformer based attention model.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.01524)
-
-   *Kapil Deshpande, Narinder Singh Punn, Sanjay Kumar Sonbhadra, and Sonali Agarwal.* 
-
-1. **Multi-contextual predictions with vision transformer for video anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.08568?context=cs)
-
-   *Joo-Yeon Lee, Woo-Jeoung Nam, and Seong-Whan Lee.* 
-
-1. **Transformer based models for unsupervised anomaly segmentation in brain MR images.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.02059)
-
-   *Ahmed Ghorbel, Ahmed Aldahdooh, Shadi Albarqouni, and Wassim Hamidouche.* 
-
-1. **HaloAE: An HaloNet based local transformer auto-encoder for anomaly detection and localization.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.03486)
-
-   *E. Mathian, H. Liu, L. Fernandez-Cuesta, D. Samaras, M. Foll, and L. Chen.* 
-
-1. **Generalizable industrial visual anomaly detection with self-induction vision transformer.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12311)
-
-   *Haiming Yao and Xue Wang.* 
-
-1. **VT-ADL: A vision transformer network for image anomaly detection and localization.** ISIE, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9576231)
-
-   *Pankaj Mishra, Riccardo Verk, Daniele Fornasier, Claudio Piciarelli, and Gian Luca Foresti.* 
-
-1. **Video event restoration based on keyframes for video anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2304.05112)
-
-   *Zhiwei Yang, Jing Liu, Zhaoyang Wu, Peng Wu, and Xiaotao Liu.* 
-
-1. **AnomalyBERT: Self-supervised Transformer for time series anomaly detection using data degradation scheme.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.04468)
-
-   *Yungi Jeong, Eunseok Yang, Jung Hyun Ryu, Imseong Park, and Myungjoo Kang.* 
-
-1. **HAN-CAD: Hierarchical attention network for context anomaly detection in multivariate time series.** WWW, 2023. [paper](https://link.springer.com/article/10.1007/s11280-023-01171-1)
-
-   *Haicheng Tao, Jiawei Miao, Lin Zhao, Zhenyu Zhang, Shuming Feng, Shu Wang, and Jie Cao.* 
-
-1. **DCdetector: Dual attention contrastive representation learning for time series anomaly detection.** KDD, 2023. [paper](https://arxiv.org/abs/2306.10347)
-
-   *Yiyuan Yang, Chaoli Zhang, Tian Zhou, Qingsong Wen, and Liang Sun.* 
-
-1. **SelFormaly: Towards task-agnostic unified anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12540)
-
-   *Yujin Lee, Harin Lim, and Hyunsoo Yoon.* 
-
-1. **MIM-OOD: Generative masked image modelling for out-of-distribution detection in medical images.** MICCAI, 2023. [paper](https://arxiv.org/abs/2307.14701)
-
-   *Sergio Naval Marimont, Vasilis Siomos, and Giacomo Tarroni.* 
-
-1. **Focus the discrepancy: Intra- and Inter-correlation learning for image anomaly detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.02983)
-
-   *Xincheng Yao, Ruoqi Li, Zefeng Qian, Yan Luo, and Chongyang Zhang.* 
-
-1. **Sparse binary Transformers for multivariate time series modeling.** KDD, 2023. [paper](https://arxiv.org/abs/2308.04637)
-
-   *Matt Gorbett, Hossein Shirazi, and Indrakshi Ray.* 
-
-1. **ADFA: Attention-augmented differentiable top-k feature adaptation for unsupervised medical anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.15280)
-
-   *Yiming Huang, Guole Liu, Yaoru Luo, and Ge Yang.* 
-
-1. **Mask2Anomaly: Mask Transformer for universal open-set segmentation.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04573)
-
-   *Shyam Nandan Rai, Fabio Cermelli, Barbara Caputo, and Carlo Masone.* 
-
-### [Representation Learning](#content)
-1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
-
-   *Hui Lv, Chuanwei Zhou, Zhen Cui, Chunyan Xu, Yong Li, and Jian Yang.* 
-
-1. **PAC-Wrap: Semi-supervised PAC anomaly detection.** KDD, 2022. [paper](https://arxiv.org/abs/2205.10798)
-
-   *Shuo Li, Xiayan Ji, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
-
-1. **Effective end-to-end unsupervised outlier detection via inlier priority of discriminative network.** NIPS, 2019. [paper](https://proceedings.neurips.cc/paper/2019/hash/6c4bb406b3e7cd5447f7a76fd7008806-Abstract.html)
-
-   *Siqi Wang, Yijie Zeng, Xinwang Liu, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft.* 
-
-1. **AnomalyHop: An SSL-based image anomaly localization method.** ICVCIP, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9675385)
-
-   *Kaitai Zhang, Bin Wang, Wei Wang, Fahad Sohrab, Moncef Gabbouj, and C.-C. Jay Kuo.* 
-
-1. **Learning representations of ultrahigh-dimensional data for random distance-based outlier detection.** KDD, 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220042)
-
-   *Guansong Pang, Longbing Cao, Ling Chen, and Huan Liu.* 
-
-1. **Federated disentangled representation learning for unsupervised brain anomaly detection.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00515-2)
-
-   *Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Shadi Albarqouni.* 
-
-1. **DSR–A dual subspace re-projection network for surface anomaly detection.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_31)
-
-   *Vitjan Zavrtanik, Matej Kristan, and Danijel Skočaj.* 
-
-1. **LGN-Net: Local-global normality network for video anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07454)
-
-   *Mengyang Zhao, Yang Liu, Jing Liu, Di Li, and Xinhua Zeng.* 
-
-1. **Glancing at the patch: Anomaly localization with global and local feature comparison.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Glancing_at_the_Patch_Anomaly_Localization_With_Global_and_Local_CVPR_2021_paper.html)
-
-   *Shenzhi Wang, Liwei Wu, Lei Cui, and Yujun Shen.* 
-
-1. **SPot-the-difference self-supervised pre-training for anomaly detection and segmentation.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_23)
-
-   *Yang Zou, Jongheon Jeong, Latha Pemula, Dongqing Zhang, and Onkar Dabeer.* 
-
-1. **SSD: A unified framework for self-supervised outlier detection.** ICLR, 2021. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
-
-   *Vikash Sehwag, Mung Chiang, and Prateek Mittal.* 
-
-1. **NETS: Extremely fast outlier detection from a data stream via set-based processing.** VLDB, 2019. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
-
-   *Susik Yoon, Jae-Gil Lee, and Byung Suk Lee.* 
-
-1. **XGBOD: Improving supervised outlier detection with unsupervised representation learning.** IJCNN, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8489605)
-
-   *Yue Zhao and Maciej K. Hryniewicki.* 
-
-1. **Red PANDA: Disambiguating anomaly detection by removing nuisance factors.** ICLR, 2023. [paper](https://openreview.net/forum?id=z37tDDHHgi)
-
-   *Niv Cohen, Jonathan Kahana, and Yedid Hoshen.* 
-
-1. **TimesNet: Temporal 2D-variation modeling for general time series analysis.** ICLR, 2023. [paper](https://openreview.net/forum?id=ju_Uqw384Oq)
-
-   *Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, and Mingsheng Long.* 
-
-1. **SimpleNet: A simple network for image anomaly detection and localization.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15140)
-
-   *Zhikang Liu, Yiming Zhou, Yuansheng Xu, and Zilei Wang.* 
-
-1. **Unsupervised anomaly detection via nonlinear manifold learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09441)
-
-   *Amin Yousefpour, Mehdi Shishehbor, Zahra Zanjani Foumani, and Ramin Bostanabad.* 
-
-1. **Representation learning in anomaly detection: Successes, limits and a grand challenge.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11085v1)
-
-   *Yedid Hoshen.* 
-
-### [Nonparametric Approach](#content)
-1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
-
-   *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
-
-1. **Neighborhood structure assisted non-negative matrix factorization and its application in unsupervised point anomaly detection.** JMLR, 2021. [paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546292)
-
-   *Imtiaz Ahmed, Xia Ben Hu, Mithun P. Acharya, and Yu Ding.* 
-
-1. **Bayesian nonparametric submodular video partition for robust anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.html)
-
-   *Hitesh Sapkota and Qi Yu.* 
-
-### [Reinforcement Learning](#content)
-1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
-
-   *Chengqiang Huang, Yulei Wu, Yuan Zuo, Ke Pei, and Geyong Min.* 
-
-1. **Sequential anomaly detection using inverse reinforcement learning.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330932)
-
-   *Min-hwan Oh and Garud Iyengar.* 
-
-1. **Toward deep supervised anomaly detection: Reinforcement learning from partially labeled anomaly data.** KDD, 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467417)
-
-   *Guansong Pang, Anton van den Hengel, Chunhua Shen, and Longbing Cao.* 
-
-1. **Automated anomaly detection via curiosity-guided search and self-imitation learning.** TNNLS, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9526875)
-
-   *Yuening Li, Zhengzhang Chen, Daochen Zha, Kaixiong Zhou, Haifeng Jin, Haifeng Chen, and Xia Hu.* 
-
-1. **Meta-AAD: Active anomaly detection with deep reinforcement learning.** ICDM, 2020. [paper](https://ieeexplore.ieee.org/document/9338270)
-
-   *Daochen Zha, Kwei-Herng Lai, Mingyang Wan, and Xia Hu.* 
-
-### [CNN](#content)
+### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
    *Nicolae-Catalin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, and Mubarak Shah.* 
@@ -914,53 +810,62 @@ Contributed by Chunyang Zhang.
 
    *Yufei Li, Yanchi Liu, Haoyu Wang, Zhengzhang Chen, Wei Cheng, Yuncong Chen, Wenchao Yu, Haifeng Chen, and Cong Liu.*
 
-### [Sparse Coding](#content)
-1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
+### [Time Series](#content)
+1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
-   *Weixin Luo, Wen Liu, Dongze Lian, Jinhui Tang, Lixin Duan, Xi Peng, and Shenghua Gao.* 
+   *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
 
-1. **Self-supervised sparse representation for video anomaly detection.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
+1. **Robust anomaly detection for multivariate time series through stochastic recurrent neural network.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330672)
 
-   *Jhihciang Wu, Heyen Hsieh, Dingjie Chen, Chioushann Fuh, and Tyngluh Liu.* 
+   *Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun, and Dan Pei.* 
 
-1. **A revisit of sparse coding based anomaly detection in stacked RNN framework.** ICCV, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
+1. **DeepLog: Anomaly detection and diagnosis from system logs through deep learning.** CCS, 2017. [paper](https://dl.acm.org/doi/10.1145/3133956.3134015)
 
-   *Weixin Luo, Wen Liu, and Shenghua Gao.* 
+   *Min Du, Feifei Li, Guineng Zheng, and Vivek Srikumar.* 
 
-1. **HashNWalk: Hash and random walk based anomaly detection in hyperedge streams.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0296.pdf)
+1. **Unsupervised anomaly detection with LSTM neural networks.** TNNLS, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8836638)
 
-   *Geon Lee, Minyoung Choe, and Kijung Shin.* 
+   *Tolga Ergen and Suleyman Serdar Kozat.* 
 
-1. **Fast abnormal event detection.** IJCV, 2019. [paper](https://link.springer.com/article/10.1007/s11263-018-1129-8)
+1. **LogAnomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/658)
 
-   *Cewu Lu, Jianping Shi, Weiming Wang, and Jiaya Jia.* 
+   *Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, and Rong Zhou.* 
 
-### [Support Vector](#content)
-1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
+1. **Outlier detection for time series with recurrent autoencoder ensembles.** IJCAI, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
 
-   *Jihun Yi and Sungroh Yoon.* 
+   *Tung Kieu, Bin Yang, Chenjuan Guo, and Christian S. Jensen.* 
 
-1. **Multiclass anomaly detector: The CS++ support vector machine.** JMLR, 2020. [paper](https://dl.acm.org/doi/10.5555/3455716.3455929)
+1. **Learning regularity in skeleton trajectories for anomaly detection in videos.** CVPR, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
 
-   *Alistair Shilton, Sutharshan Rajasegarar, and Marimuthu Palaniswami.* 
+   *Romero Morais, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, and Svetha Venkatesh.* 
 
-1. **Timeseries anomaly detection using temporal hierarchical one-class network.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html)
+1. **LSTM-based encoder-decoder for multi-sensor anomaly detection.** arXiv, 2016. [paper](https://arxiv.org/abs/1607.00148)
 
-   *Lifeng Shen, Zhuocong Li, and James Kwok.* 
+   *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
 
-1. **LOSDD: Leave-out support vector data description for outlier detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.13626)
 
-   *Daniel Boiar, Thomas Liebig, and Erich Schubert.* 
+### [Tabular](#content)
+1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
-1. **Anomaly detection using one-class neural networks.** arXiv, 2018. [paper](https://arxiv.org/abs/1802.06360)
+   *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
 
-   *Raghavendra Chalapathy, Aditya Krishna Menon, and Sanjay Chawla.* 
+1. **Fascinating supervisory signals and where to find them: Deep anomaly detection with scale learning.** ICML, 2023. [paper](https://arxiv.org/abs/2305.16114)
 
-1. **Deep graph stream SVDD: Anomaly detection in cyber-physical systems.** PAKDD, 2023. [paper](https://arxiv.org/pdf/2302.12918)
+   *Hongzuo Xu, Yijie Wang, Juhui Wei, Songlei Jian, Yizhou Li, and Ning Liu.* 
 
-   *Ehtesamul Azim, Dongjie Wang, and Yanjie Fu.* 
+1. **TabADM: Unsupervised tabular anomaly detection with diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12336)
 
-### [OOD](#content)
+   *Guy Zamberg, Moshe Salhov, Ofir Lindenbaum, and Amir Averbuch.* 
+
+1. **ATDAD: One-class adversarial learning for tabular data anomaly detection.** Computers & Security, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404823003590)
+
+   *Xiaohui Yang and Xiang Li.* 
+
+1. **Understanding the limitations of self-supervised learning for tabular anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.08374)
+
+   *Kimberly T. Mai, Toby Davies, and Lewis D. Griffin.* 
+
+### [Out of Distribution](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
 
    *Mohammad Azizmalayeri, Arshia Soltani Moakhar, Arman Zarei, Reihaneh Zohrabi, Mohammad Taghi Manzuri, and Mohammad Hossein Rohban.* 
@@ -1012,10 +917,6 @@ Contributed by Chunyang Zhang.
 1. **Robustness to spurious correlations improves semantic out-of-distribution detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2302.04132)
 
    *Lily H. Zhang and Rajesh Ranganath.* 
-
-1. **Non-parametric outlier synthesis.** ICLR, 2023. [paper](https://openreview.net/forum?id=JHklpEZqduQ)
-
-   *Leitian Tao, Xuefeng Du, Jerry Zhu, and Yixuan Li.* 
 
 1. **Out-of-distribution detection with implicit outlier transformation.** ICLR, 2023. [paper](https://openreview.net/forum?id=hdghx6wbGuD)
 
@@ -1109,39 +1010,6 @@ Contributed by Chunyang Zhang.
 
    *Zhitong Gao, Shipeng Yan, and Xuming He.* 
 
-### [RNNs](#content)
-1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
-
-   *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
-
-1. **Robust anomaly detection for multivariate time series through stochastic recurrent neural network.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330672)
-
-   *Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun, and Dan Pei.* 
-
-1. **DeepLog: Anomaly detection and diagnosis from system logs through deep learning.** CCS, 2017. [paper](https://dl.acm.org/doi/10.1145/3133956.3134015)
-
-   *Min Du, Feifei Li, Guineng Zheng, and Vivek Srikumar.* 
-
-1. **Unsupervised anomaly detection with LSTM neural networks.** TNNLS, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8836638)
-
-   *Tolga Ergen and Suleyman Serdar Kozat.* 
-
-1. **LogAnomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/658)
-
-   *Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, and Rong Zhou.* 
-
-1. **Outlier detection for time series with recurrent autoencoder ensembles.** IJCAI, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
-
-   *Tung Kieu, Bin Yang, Chenjuan Guo, and Christian S. Jensen.* 
-
-1. **Learning regularity in skeleton trajectories for anomaly detection in videos.** CVPR, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
-
-   *Romero Morais, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, and Svetha Venkatesh.* 
-
-1. **LSTM-based encoder-decoder for multi-sensor anomaly detection.** arXiv, 2016. [paper](https://arxiv.org/abs/1607.00148)
-
-   *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
-
 ### [Large Model](#content)
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
@@ -1163,26 +1031,158 @@ Contributed by Chunyang Zhang.
 
    *Hualiang Wang, Yi Li, Huifeng Yao, and Xiaomeng Li.* 
 
-### [Tabular](#content)
-1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
+### [Reinforcement Learning](#content)
+1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
-   *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
+   *Chengqiang Huang, Yulei Wu, Yuan Zuo, Ke Pei, and Geyong Min.* 
 
-1. **Fascinating supervisory signals and where to find them: Deep anomaly detection with scale learning.** ICML, 2023. [paper](https://arxiv.org/abs/2305.16114)
+1. **Sequential anomaly detection using inverse reinforcement learning.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330932)
 
-   *Hongzuo Xu, Yijie Wang, Juhui Wei, Songlei Jian, Yizhou Li, and Ning Liu.* 
+   *Min-hwan Oh and Garud Iyengar.* 
 
-1. **TabADM: Unsupervised tabular anomaly detection with diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12336)
+1. **Toward deep supervised anomaly detection: Reinforcement learning from partially labeled anomaly data.** KDD, 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467417)
 
-   *Guy Zamberg, Moshe Salhov, Ofir Lindenbaum, and Amir Averbuch.* 
+   *Guansong Pang, Anton van den Hengel, Chunhua Shen, and Longbing Cao.* 
 
-1. **ATDAD: One-class adversarial learning for tabular data anomaly detection.** Computers & Security, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404823003590)
+1. **Automated anomaly detection via curiosity-guided search and self-imitation learning.** TNNLS, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9526875)
 
-   *Xiaohui Yang and Xiang Li.* 
+   *Yuening Li, Zhengzhang Chen, Daochen Zha, Kaixiong Zhou, Haifeng Jin, Haifeng Chen, and Xia Hu.* 
 
-1. **Understanding the limitations of self-supervised learning for tabular anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.08374)
+1. **Meta-AAD: Active anomaly detection with deep reinforcement learning.** ICDM, 2020. [paper](https://ieeexplore.ieee.org/document/9338270)
 
-   *Kimberly T. Mai, Toby Davies, and Lewis D. Griffin.* 
+   *Daochen Zha, Kwei-Herng Lai, Mingyang Wan, and Xia Hu.* 
+
+### [Representation](#content)
+1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
+
+   *Hui Lv, Chuanwei Zhou, Zhen Cui, Chunyan Xu, Yong Li, and Jian Yang.* 
+
+1. **PAC-Wrap: Semi-supervised PAC anomaly detection.** KDD, 2022. [paper](https://arxiv.org/abs/2205.10798)
+
+   *Shuo Li, Xiayan Ji, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
+
+1. **Effective end-to-end unsupervised outlier detection via inlier priority of discriminative network.** NIPS, 2019. [paper](https://proceedings.neurips.cc/paper/2019/hash/6c4bb406b3e7cd5447f7a76fd7008806-Abstract.html)
+
+   *Siqi Wang, Yijie Zeng, Xinwang Liu, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft.* 
+
+1. **AnomalyHop: An SSL-based image anomaly localization method.** ICVCIP, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9675385)
+
+   *Kaitai Zhang, Bin Wang, Wei Wang, Fahad Sohrab, Moncef Gabbouj, and C.-C. Jay Kuo.* 
+
+1. **Learning representations of ultrahigh-dimensional data for random distance-based outlier detection.** KDD, 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220042)
+
+   *Guansong Pang, Longbing Cao, Ling Chen, and Huan Liu.* 
+
+1. **Federated disentangled representation learning for unsupervised brain anomaly detection.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00515-2)
+
+   *Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Shadi Albarqouni.* 
+
+1. **DSR–A dual subspace re-projection network for surface anomaly detection.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_31)
+
+   *Vitjan Zavrtanik, Matej Kristan, and Danijel Skočaj.* 
+
+1. **LGN-Net: Local-global normality network for video anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07454)
+
+   *Mengyang Zhao, Yang Liu, Jing Liu, Di Li, and Xinhua Zeng.* 
+
+1. **Glancing at the patch: Anomaly localization with global and local feature comparison.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Glancing_at_the_Patch_Anomaly_Localization_With_Global_and_Local_CVPR_2021_paper.html)
+
+   *Shenzhi Wang, Liwei Wu, Lei Cui, and Yujun Shen.* 
+
+1. **SPot-the-difference self-supervised pre-training for anomaly detection and segmentation.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_23)
+
+   *Yang Zou, Jongheon Jeong, Latha Pemula, Dongqing Zhang, and Onkar Dabeer.* 
+
+1. **SSD: A unified framework for self-supervised outlier detection.** ICLR, 2021. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
+
+   *Vikash Sehwag, Mung Chiang, and Prateek Mittal.* 
+
+1. **NETS: Extremely fast outlier detection from a data stream via set-based processing.** VLDB, 2019. [paper](https://openreview.net/forum?id=v5gjXpmR8J)
+
+   *Susik Yoon, Jae-Gil Lee, and Byung Suk Lee.* 
+
+1. **XGBOD: Improving supervised outlier detection with unsupervised representation learning.** IJCNN, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8489605)
+
+   *Yue Zhao and Maciej K. Hryniewicki.* 
+
+1. **Red PANDA: Disambiguating anomaly detection by removing nuisance factors.** ICLR, 2023. [paper](https://openreview.net/forum?id=z37tDDHHgi)
+
+   *Niv Cohen, Jonathan Kahana, and Yedid Hoshen.* 
+
+1. **TimesNet: Temporal 2D-variation modeling for general time series analysis.** ICLR, 2023. [paper](https://openreview.net/forum?id=ju_Uqw384Oq)
+
+   *Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, and Mingsheng Long.* 
+
+1. **SimpleNet: A simple network for image anomaly detection and localization.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15140)
+
+   *Zhikang Liu, Yiming Zhou, Yuansheng Xu, and Zilei Wang.* 
+
+1. **Unsupervised anomaly detection via nonlinear manifold learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09441)
+
+   *Amin Yousefpour, Mehdi Shishehbor, Zahra Zanjani Foumani, and Ramin Bostanabad.* 
+
+1. **Representation learning in anomaly detection: Successes, limits and a grand challenge.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11085v1)
+
+   *Yedid Hoshen.* 
+
+### [Support Vector](#content)
+1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
+
+   *Jihun Yi and Sungroh Yoon.* 
+
+1. **Multiclass anomaly detector: The CS++ support vector machine.** JMLR, 2020. [paper](https://dl.acm.org/doi/10.5555/3455716.3455929)
+
+   *Alistair Shilton, Sutharshan Rajasegarar, and Marimuthu Palaniswami.* 
+
+1. **Timeseries anomaly detection using temporal hierarchical one-class network.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html)
+
+   *Lifeng Shen, Zhuocong Li, and James Kwok.* 
+
+1. **LOSDD: Leave-out support vector data description for outlier detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.13626)
+
+   *Daniel Boiar, Thomas Liebig, and Erich Schubert.* 
+
+1. **Anomaly detection using one-class neural networks.** arXiv, 2018. [paper](https://arxiv.org/abs/1802.06360)
+
+   *Raghavendra Chalapathy, Aditya Krishna Menon, and Sanjay Chawla.* 
+
+1. **Deep graph stream SVDD: Anomaly detection in cyber-physical systems.** PAKDD, 2023. [paper](https://arxiv.org/pdf/2302.12918)
+
+   *Ehtesamul Azim, Dongjie Wang, and Yanjie Fu.* 
+
+### [Sparse Coding](#content)
+1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
+
+   *Weixin Luo, Wen Liu, Dongze Lian, Jinhui Tang, Lixin Duan, Xi Peng, and Shenghua Gao.* 
+
+1. **Self-supervised sparse representation for video anomaly detection.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
+
+   *Jhihciang Wu, Heyen Hsieh, Dingjie Chen, Chioushann Fuh, and Tyngluh Liu.* 
+
+1. **A revisit of sparse coding based anomaly detection in stacked RNN framework.** ICCV, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
+
+   *Weixin Luo, Wen Liu, and Shenghua Gao.* 
+
+1. **HashNWalk: Hash and random walk based anomaly detection in hyperedge streams.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0296.pdf)
+
+   *Geon Lee, Minyoung Choe, and Kijung Shin.* 
+
+1. **Fast abnormal event detection.** IJCV, 2019. [paper](https://link.springer.com/article/10.1007/s11263-018-1129-8)
+
+   *Cewu Lu, Jianping Shi, Weiming Wang, and Jiaya Jia.* 
+
+### [Nonparametric Approach](#content)
+1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
+
+   *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
+
+1. **Neighborhood structure assisted non-negative matrix factorization and its application in unsupervised point anomaly detection.** JMLR, 2021. [paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546292)
+
+   *Imtiaz Ahmed, Xia Ben Hu, Mithun P. Acharya, and Yu Ding.* 
+
+1. **Bayesian nonparametric submodular video partition for robust anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.html)
+
+   *Hitesh Sapkota and Qi Yu.* 
 
 
 ## [Mechanism](#content)
@@ -1539,38 +1539,22 @@ Contributed by Chunyang Zhang.
 
    *Jaemin Yoo, Yue Zhao, Lingxiao Zhao, and Leman Akoglu.* 
 
-### [Lifelong Learning](#content)
-1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
+### [Model Selection](#content)
+1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
 
-   *Tal Reiss, Niv Cohen, Liron Bergman, and Yedid Hoshen.* 
+   *Yue Zhao, Ryan Rossi, and Leman Akoglu.*
 
-1. **Continual learning for anomaly detection in surveillance videos.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w15/Doshi_Continual_Learning_for_Anomaly_Detection_in_Surveillance_Videos_CVPRW_2020_paper.html)
+1. **Toward unsupervised outlier model selection.** ICDM, 2022. [paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-icdm-elect.pdf)
 
-   *Keval Doshi and Yasin Yilmaz.* 
+   *Yue Zhao, Sean Zhang, and Leman Akoglu.*
 
-1. **Rethinking video anomaly detection-A continual learning approach.** WACV, 2022. [paper](https://openaccess.thecvf.com/content/WACV2022/html/Doshi_Rethinking_Video_Anomaly_Detection_-_A_Continual_Learning_Approach_WACV_2022_paper.html)
+1. **Unsupervised model selection for time-series anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=gOZ_pKANaPW)
 
-   *Keval Doshi and Yasin Yilmaz.* 
+   *Mononito Goswami, Cristian Ignacio Challu, Laurent Callot, Lenon Minorics, and Andrey Kan.* 
 
-1. **Continual learning for anomaly detection with variational autoencoder.** ICASSP, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8682702)
+1. **Fast Unsupervised deep outlier model selection with hypernetworks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.10529)
 
-   *Felix Wiewel and Bin Yang.* 
-
-1. **Lifelong anomaly detection through unlearning.** CCS, 2019. [paper](https://dl.acm.org/doi/10.1145/3319535.3363226)
-
-   *Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, and Dawn Song.* 
-
-1. **xStream: Outlier detection in feature-evolving data streams.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220107)
-
-   *Emaad Manzoor, Hemank Lamba, and Leman Akoglu.* 
-
-1. **Continual learning approaches for anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.11192)
-
-   *Davide Dalle Pezze, Eugenia Anello, Chiara Masiero, and Gian Antonio Susto.* 
-
-1. **Towards lightweight, model-agnostic and diversity-aware active anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=-vKlt84fHs)
-
-   *Xu Zhang, Yuan Zhao, Ziang Cui, Liqun Li, Shilin He, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, and Dongmei Zhang.* 
+   *Xueying Ding, Yue Zhao, and Leman Akoglu.* 
 
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
@@ -1654,6 +1638,51 @@ Contributed by Chunyang Zhang.
 
    *Jaemin Yoo, Lingxiao Zhao, and Leman Akoglu.*
 
+### [Outlier Exposure](#content)
+1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
+
+   *Chen Qiu, Aodong Li, Marius Kloft, Maja Rudolph, and Stephan Mandt.*
+
+1. **Deep anomaly detection with outlier exposure.** ICLR, 2019. [paper](https://openreview.net/forum?id=HyxCxhRcY7)
+
+   *Dan Hendrycks, Mantas Mazeika, and Thomas Dietterich.*
+
+1. **A simple and effective baseline for out-of-distribution detection using abstention.** ICLR, 2021. [paper](https://openreview.net/forum?id=q_Q9MMGwSQu)
+
+   *Sunil Thulasidasan, Sushil Thapa, Sayera Dhaubhadel, Gopinath Chennupati, Tanmoy Bhattacharya, and Jeff Bilmes.*
+
+1. **Does your dermatology classifier know what it doesn’t know? Detecting the long-tail of unseen conditions.** Medical Image Analysis, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003194)
+
+   *Abhijit Guha Roy, Jie Ren, Shekoofeh Azizi, Aaron Loh, Vivek Natarajan, Basil Mustafa, Nick Pawlowski, Jan Freyberg, Yuan Liu, Zach Beaver, Nam Vo, Peggy Bui, Samantha Winter, Patricia MacWilliams, Greg S. Corrado, Umesh Telang, Yun Liu, Taylan Cemgil, Alan Karthikesalingam, Balaji Lakshminarayanan, and Jim Winkens.*
+
+1. **OpenMix: Exploring outlier samples for misclassification detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.17093)
+
+   *Fei Zhu, Zhen Cheng, Xuyao Zhang, and Chenglin Liu.*
+
+1. **VOS: Learning what you don't know by virtual outlier synthesis.** ICLR, 2023. [paper](https://openreview.net/forum?id=TW7d65uYu5M)
+
+   *Xuefeng Du, Zhaoning Wang, Mu Cai, and Yixuan Li.*
+
+1. **Deep anomaly detection under labeling budget constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=VjopP4ejwB)
+
+   *Aodong Li, Chen Qiu, Marius Kloft, Padhraic Smyth, Stephan Mandt, and Maja Rudolph.*
+
+1. **Pseudo outlier exposure for out-of-distribution detection using pretrained Transformers.** ACL, 2023. [paper](https://aclanthology.org/2023.findings-acl.95/)
+
+   *Jaeyoung Kim, Kyuheon Jung, Dongbin Na, Sion Jang, Eunbin Park, and Sungchul Choi.*
+
+1. **Harder synthetic anomalies to improve OOD detection in medical images.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01412)
+
+   *Sergio Naval Marimont and Giacomo Tarroni.*
+
+1. **AutoLog: A log sequence synthesis framework for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09324)
+
+   *Yintong Huo, Yichen Li, Yuxin Su, Pinjia He, Zifan Xie, and Michael R. Lyu.*
+
+1. **Non-parametric outlier synthesis.** ICLR, 2023. [paper](https://openreview.net/forum?id=JHklpEZqduQ)
+
+   *Leitian Tao, Xuefeng Du, Jerry Zhu, and Yixuan Li.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -1707,97 +1736,59 @@ Contributed by Chunyang Zhang.
 
    *Vinay M.S., Shuhan Yuan, and Xintao Wu.*
 
-### [Model Selection](#content)
-1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
+### [Continual Learning](#content)
+1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
 
-   *Yue Zhao, Ryan Rossi, and Leman Akoglu.*
+   *Tal Reiss, Niv Cohen, Liron Bergman, and Yedid Hoshen.* 
 
-1. **Toward unsupervised outlier model selection.** ICDM, 2022. [paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-icdm-elect.pdf)
+1. **Continual learning for anomaly detection in surveillance videos.** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w15/Doshi_Continual_Learning_for_Anomaly_Detection_in_Surveillance_Videos_CVPRW_2020_paper.html)
 
-   *Yue Zhao, Sean Zhang, and Leman Akoglu.*
+   *Keval Doshi and Yasin Yilmaz.* 
 
-1. **Unsupervised model selection for time-series anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=gOZ_pKANaPW)
+1. **Rethinking video anomaly detection-A continual learning approach.** WACV, 2022. [paper](https://openaccess.thecvf.com/content/WACV2022/html/Doshi_Rethinking_Video_Anomaly_Detection_-_A_Continual_Learning_Approach_WACV_2022_paper.html)
 
-   *Mononito Goswami, Cristian Ignacio Challu, Laurent Callot, Lenon Minorics, and Andrey Kan.* 
+   *Keval Doshi and Yasin Yilmaz.* 
 
-1. **Fast Unsupervised deep outlier model selection with hypernetworks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.10529)
+1. **Continual learning for anomaly detection with variational autoencoder.** ICASSP, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8682702)
 
-   *Xueying Ding, Yue Zhao, and Leman Akoglu.* 
+   *Felix Wiewel and Bin Yang.* 
 
-### [Gaussian Process](#content)
-1. **Deep anomaly detection with deviation networks.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330871)
+1. **Lifelong anomaly detection through unlearning.** CCS, 2019. [paper](https://dl.acm.org/doi/10.1145/3319535.3363226)
 
-   *Guansong Pang, Chunhua Shen, and Anton van den Hengel.* 
+   *Min Du, Zhi Chen, Chang Liu, Rajvardhan Oak, and Dawn Song.* 
 
-1. **Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression.** CVPR, 2015. [paper](https://ieeexplore.ieee.org/document/7298909)
+1. **xStream: Outlier detection in feature-evolving data streams.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220107)
 
-   *Kai-Wen Cheng and Yie-Tarng Chen, and Wen-Hsien Fang.* 
+   *Emaad Manzoor, Hemank Lamba, and Leman Akoglu.* 
 
-1. **Multidimensional time series anomaly detection: A GRU-based Gaussian mixture variational autoencoder approach.** ACCV, 2018. [paper](http://proceedings.mlr.press/v95/guo18a.html)
-   
-   *Yifan Guo, Weixian Liao, Qianlong Wang, Lixing Yu, Tianxi Ji, and Pan Li.* 
+1. **Continual learning approaches for anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.11192)
 
-1. **Gaussian process regression-based video anomaly detection and localization with hierarchical feature representation.** TIP, 2015. [paper](https://ieeexplore.ieee.org/abstract/document/7271067)
+   *Davide Dalle Pezze, Eugenia Anello, Chiara Masiero, and Gian Antonio Susto.* 
 
-   *Kaiwen Cheng, Yie-Tarng Chen, and Wen-Hsien Fang.* 
+1. **Towards lightweight, model-agnostic and diversity-aware active anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=-vKlt84fHs)
 
-### [Multi Task](#content)
-1. **Beyond dents and scratches: Logical constraints in unsupervised anomaly detection and localization.** IJCV, 2022. [paper](https://link.springer.com/article/10.1007/s11263-022-01578-9)
+   *Xu Zhang, Yuan Zhao, Ziang Cui, Liqun Li, Shilin He, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, and Dongmei Zhang.* 
 
-   *Paul Bergmann, Kilian Batzner, Michael Fauser, David Sattlegger, and Carsten Steger.*
+1. **An iterative method for unsupervised robust anomaly detection under data contamination.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.09436)
 
-1. **Anomaly detection in video via self-supervised and multi-task learning.** CVPR, 2021. [paper](http://openaccess.thecvf.com/content/CVPR2021/html/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.html)
+   *Minkyung Kim, Jongmin Yu, Junsik Kim, Tae-Hyun Oh, and Jun Kyun Choi.* 
 
-   *Mariana-Iuliana Georgescu, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, and Mubarak Shah.*
+### [Active Learning](#content)
+1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
 
-1. **Detecting semantic anomalies.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5712)
+   *Yue Zhao, Guoqing Zheng, Subhabrata Mukherjee, Robert McCann, and Ahmed Awadallah.* 
 
-   *Faruk Ahmed and Aaron Courville.*
+1. **Incorporating expert feedback into active anomaly discovery.** ICDM, 2016. [paper](https://ieeexplore.ieee.org/document/7837915)
 
-1. **MGADN: A multi-task graph anomaly detection network for multivariate time series.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12141)
+   *Shubhomoy Das, Weng-Keen Wong, Thomas Dietterich, Alan Fern, and Andrew Emmott.* 
 
-   *Weixuan Xiong and Xiaochen Sun.*
+1. **Training ensembles with inliers and outliers for semi-supervised active learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03741)
 
-### [Outlier Exposure](#content)
-1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
+   *Vladan Stojnić, Zakaria Laskar, and Giorgos Tolias.* 
 
-   *Chen Qiu, Aodong Li, Marius Kloft, Maja Rudolph, and Stephan Mandt.*
+1. **Active anomaly detection based on deep one-class classification.** Pattern Recognition Letters, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522003774)
 
-1. **Deep anomaly detection with outlier exposure.** ICLR, 2019. [paper](https://openreview.net/forum?id=HyxCxhRcY7)
-
-   *Dan Hendrycks, Mantas Mazeika, and Thomas Dietterich.*
-
-1. **A simple and effective baseline for out-of-distribution detection using abstention.** ICLR, 2021. [paper](https://openreview.net/forum?id=q_Q9MMGwSQu)
-
-   *Sunil Thulasidasan, Sushil Thapa, Sayera Dhaubhadel, Gopinath Chennupati, Tanmoy Bhattacharya, and Jeff Bilmes.*
-
-1. **Does your dermatology classifier know what it doesn’t know? Detecting the long-tail of unseen conditions.** Medical Image Analysis, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003194)
-
-   *Abhijit Guha Roy, Jie Ren, Shekoofeh Azizi, Aaron Loh, Vivek Natarajan, Basil Mustafa, Nick Pawlowski, Jan Freyberg, Yuan Liu, Zach Beaver, Nam Vo, Peggy Bui, Samantha Winter, Patricia MacWilliams, Greg S. Corrado, Umesh Telang, Yun Liu, Taylan Cemgil, Alan Karthikesalingam, Balaji Lakshminarayanan, and Jim Winkens.*
-
-1. **OpenMix: Exploring outlier samples for misclassification detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.17093)
-
-   *Fei Zhu, Zhen Cheng, Xuyao Zhang, and Chenglin Liu.*
-
-1. **VOS: Learning what you don't know by virtual outlier synthesis.** ICLR, 2023. [paper](https://openreview.net/forum?id=TW7d65uYu5M)
-
-   *Xuefeng Du, Zhaoning Wang, Mu Cai, and Yixuan Li.*
-
-1. **Deep anomaly detection under labeling budget constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=VjopP4ejwB)
-
-   *Aodong Li, Chen Qiu, Marius Kloft, Padhraic Smyth, Stephan Mandt, and Maja Rudolph.*
-
-1. **Pseudo outlier exposure for out-of-distribution detection using pretrained Transformers.** ACL, 2023. [paper](https://aclanthology.org/2023.findings-acl.95/)
-
-   *Jaeyoung Kim, Kyuheon Jung, Dongbin Na, Sion Jang, Eunbin Park, and Sungchul Choi.*
-
-1. **Harder synthetic anomalies to improve OOD detection in medical images.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01412)
-
-   *Sergio Naval Marimont and Giacomo Tarroni.*
-
-1. **AutoLog: A log sequence synthesis framework for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09324)
-
-   *Yintong Huo, Yichen Li, Yuxin Su, Pinjia He, Zifan Xie, and Michael R. Lyu.*
+   *Minkyung Kim, Junsik Kim, Jongmin Yu, and Jun Kyun Choi.* 
 
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
@@ -1873,6 +1864,23 @@ Contributed by Chunyang Zhang.
 
    *Amit Rozner, Barak Battash, Henry Li, Lior Wolf, and Ofir Lindenbaum.* 
 
+### [Energy Model](#content)
+1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
+
+   *Shuangfei Zhai, Yu Cheng, Weining Lu, and Zhongfei Zhang.* 
+
+1. **Energy-based out-of-distribution detection.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
+
+   *Weitang Liu, Xiaoyun Wang, John Owens, and Yixuan Li.* 
+
+1. **Learning neural set functions under the optimal subset oracle.** NIPS, 2022. [paper](https://openreview.net/forum?id=GXOC0zL0ZI)
+
+   *Zijing Ou, Tingyang Xu, Qinliang Su, Yingzhen Li, Peilin Zhao, and Yatao Bian.* 
+
+1. **Energy-based out-of-distribution detection for graph neural networks.** ICLR, 2023. [paper](https://openreview.net/forum?id=zoz7Ze4STUL)
+
+   *Qitian Wu, Yiting Chen, Chenxiao Yang, and Junchi Yan.* 
+
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
 
@@ -1893,19 +1901,6 @@ Contributed by Chunyang Zhang.
 1. **That's BAD: Blind anomaly detection by implicit local feature clustering.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03243)
 
    *Jie Zhang, Masanori Suganuma, and Takayuki Okatani.* 
-
-### [Active Learning](#content)
-1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
-
-   *Yue Zhao, Guoqing Zheng, Subhabrata Mukherjee, Robert McCann, and Ahmed Awadallah.* 
-
-1. **Incorporating expert feedback into active anomaly discovery.** ICDM, 2016. [paper](https://ieeexplore.ieee.org/document/7837915)
-
-   *Shubhomoy Das, Weng-Keen Wong, Thomas Dietterich, Alan Fern, and Andrew Emmott.* 
-
-1. **Training ensembles with inliers and outliers for semi-supervised active learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03741)
-
-   *Vladan Stojnić, Zakaria Laskar, and Giorgos Tolias.* 
 
 ### [Cluster](#content)
 1. **MIDAS: Microcluster-based detector of anomalies in edge streams.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5724)
@@ -1961,7 +1956,7 @@ Contributed by Chunyang Zhang.
 
    *Hongzuo Xu, Guansong Pang, Yijie Wang, and Yongjun Wang.* 
 
-### [Multimodal](#content)
+### [Multi Modal](#content)
 1. **Multimodal industrial anomaly detection via hybrid fusion.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.00601)
 
    *Yue Wang, Jinlong Peng, Jiangning Zhang, Ran Yi, Yabiao Wang, and Chengjie Wang.*
@@ -1982,22 +1977,49 @@ Contributed by Chunyang Zhang.
 
    *Ji Zhang, Xiao Wu, Zhi-Qi Cheng, Qi He, and Wei Li.* 
 
-### [Energy Model](#content)
-1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
+### [Optimal Transport](#content)
+1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
 
-   *Shuangfei Zhai, Yu Cheng, Weining Lu, and Zhongfei Zhang.* 
+   *Yuxin Li, Wenchao Chen, Bo Chen, Dongsheng Wang, Long Tian, and Mingyuan Zhou.*
 
-1. **Energy-based out-of-distribution detection.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
+### [Causal Inference](#content)
+1. **Learning causality-inspired representation consistency for video anomaly detection.** ACM MM, 2023. [paper](https://arxiv.org/abs/2308.01537)
 
-   *Weitang Liu, Xiaoyun Wang, John Owens, and Yixuan Li.* 
+   *Yang Liu, Zhaoyang Xia, Mengyang Zhao, Donglai Wei, Yuzheng Wang, Liu Siao, Bobo Ju, Gaoyun Fang, Jing Liu, and Liang Song.*
 
-1. **Learning neural set functions under the optimal subset oracle.** NIPS, 2022. [paper](https://openreview.net/forum?id=GXOC0zL0ZI)
+### [Gaussian Process](#content)
+1. **Deep anomaly detection with deviation networks.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330871)
 
-   *Zijing Ou, Tingyang Xu, Qinliang Su, Yingzhen Li, Peilin Zhao, and Yatao Bian.* 
+   *Guansong Pang, Chunhua Shen, and Anton van den Hengel.* 
 
-1. **Energy-based out-of-distribution detection for graph neural networks.** ICLR, 2023. [paper](https://openreview.net/forum?id=zoz7Ze4STUL)
+1. **Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression.** CVPR, 2015. [paper](https://ieeexplore.ieee.org/document/7298909)
 
-   *Qitian Wu, Yiting Chen, Chenxiao Yang, and Junchi Yan.* 
+   *Kai-Wen Cheng and Yie-Tarng Chen, and Wen-Hsien Fang.* 
+
+1. **Multidimensional time series anomaly detection: A GRU-based Gaussian mixture variational autoencoder approach.** ACCV, 2018. [paper](http://proceedings.mlr.press/v95/guo18a.html)
+
+   *Yifan Guo, Weixian Liao, Qianlong Wang, Lixing Yu, Tianxi Ji, and Pan Li.* 
+
+1. **Gaussian process regression-based video anomaly detection and localization with hierarchical feature representation.** TIP, 2015. [paper](https://ieeexplore.ieee.org/abstract/document/7271067)
+
+   *Kaiwen Cheng, Yie-Tarng Chen, and Wen-Hsien Fang.* 
+
+### [Multi Task](#content)
+1. **Beyond dents and scratches: Logical constraints in unsupervised anomaly detection and localization.** IJCV, 2022. [paper](https://link.springer.com/article/10.1007/s11263-022-01578-9)
+
+   *Paul Bergmann, Kilian Batzner, Michael Fauser, David Sattlegger, and Carsten Steger.*
+
+1. **Anomaly detection in video via self-supervised and multi-task learning.** CVPR, 2021. [paper](http://openaccess.thecvf.com/content/CVPR2021/html/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.html)
+
+   *Mariana-Iuliana Georgescu, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, and Mubarak Shah.*
+
+1. **Detecting semantic anomalies.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5712)
+
+   *Faruk Ahmed and Aaron Courville.*
+
+1. **MGADN: A multi-task graph anomaly detection network for multivariate time series.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12141)
+
+   *Weixuan Xiong and Xiaochen Sun.*
 
 ### [Neural Process](#content)
 1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
@@ -2012,16 +2034,6 @@ Contributed by Chunyang Zhang.
 1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15652)
 
    *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
-
-### [Optimal Transport](#content)
-1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
-
-   *Yuxin Li, Wenchao Chen, Bo Chen, Dongsheng Wang, Long Tian, and Mingyuan Zhou.*
-
-### [Causal Inference](#content)
-1. **Learning causality-inspired representation consistency for video anomaly detection.** ACM MM, 2023. [paper](https://arxiv.org/abs/2308.01537)
-
-   *Yang Liu, Zhaoyang Xia, Mengyang Zhao, Donglai Wei, Yuzheng Wang, Liu Siao, Bobo Ju, Gaoyun Fang, Jing Liu, and Liang Song.*
 
 
 ## [Application](#content)
@@ -2051,14 +2063,15 @@ Contributed by Chunyang Zhang.
 
    *Lokesh Veeramacheneni and Matias Valdenegro-Toro.* 
 
-### [HPC](#content)
-1. **Anomaly detection using autoencoders in high performance computing systems.** IAAI, 2019. [paper](https://dl.acm.org/doi/10.1609/aaai.v33i01.33019428)
+### [Autonomous Driving](#content)
+1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
 
-   *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
+   *Armstrong Aboah, Ulas Bagci, Abdul Rashid Mussah, Neema Jakisa Owor, and Yaw Adu-Gyamfi.*
 
-1. **MoniLog: An automated log-based anomaly detection system for cloud computing infrastructures.** ICDE, 2023. [paper](https://ieeexplore.ieee.org/document/9458872)
+### [Robotics](#content)
+1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
 
-   *Arthur Vervaet.* 
+   *Tianchen Ji, Arun Narenthiran Sivakumar, Girish Chowdhary, and Katherine Driggs-Campbell.* 
 
 ### [Intrusion](#content)
 1. **Intrusion detection using convolutional neural networks for representation learning.** ICONIP, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_87)
@@ -2074,20 +2087,20 @@ Contributed by Chunyang Zhang.
 
    *Pedro F Da Costa, Jessica Dafflon, Sergio Leonardo Mendes, João Ricardo Sato, M. Jorge Cardoso, Robert Leech, Emily JH Jones, and Walter H.L. Pinaya.* 
 
-### [Autonomous Driving](#content)
-1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
 
-   *Armstrong Aboah, Ulas Bagci, Abdul Rashid Mussah, Neema Jakisa Owor, and Yaw Adu-Gyamfi.* 
+### [High Performance Computing](#content)
+1. **Anomaly detection using autoencoders in high performance computing systems.** IAAI, 2019. [paper](https://dl.acm.org/doi/10.1609/aaai.v33i01.33019428)
+
+   *Andrea Borghesi, Andrea Bartolini, Michele Lombardi, Michela Milano, and Luca Benini.* 
+
+1. **MoniLog: An automated log-based anomaly detection system for cloud computing infrastructures.** ICDE, 2023. [paper](https://ieeexplore.ieee.org/document/9458872)
+
+   *Arthur Vervaet.* 
 
 ### [Physics](#content)
 1. **Anomaly detection under coordinate transformations.** Physical Review D, 2023. [paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
 
    *Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.* 
-
-### [Robotics](#content)
-1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
-
-   *Tianchen Ji, Arun Narenthiran Sivakumar, Girish Chowdhary, and Katherine Driggs-Campbell.* 
 
 ### [Industry Process](#content)
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
