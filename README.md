@@ -117,9 +117,7 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
-
-## [Survey Papers](#content)
+## [Survey](#content)
 1. **A survey of single-scene video anomaly detection.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9271895)
 
    *Bharathkumar Ramachandra, Michael J. Jones, and Ranga Raju Vatsavai.*
@@ -203,6 +201,10 @@ Contributed by Chunyang Zhang.
 1. **Survey on video anomaly detection in dynamic scenes with moving cameras.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.07050)
 
    *Runyu Jiao, Yi Wan, Fabio Poiesi, and Yiming Wang.* 
+
+1. **Physics-informed machine learning for data anomaly detection, classification, localization, and mitigation: A review, challenges, and path forward.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10788)
+
+   *Mehdi Jabbari Zideh, Paroma Chatterjee, and Anurag K. Srivastava.* 
 
 
 ## [Methodology](#content) 
@@ -619,6 +621,10 @@ Contributed by Chunyang Zhang.
 1. **Modality cycles with masked conditional diffusion for unsupervised anomaly segmentation in MRI.** MICCAI, 2023. [paper](https://arxiv.org/abs/2308.16150)
 
    *Ziyun Liang, Harry Anthony, Felix Wagner, and Konstantinos Kamnitsas.*
+
+1. **Controlled graph neural networks with denoising diffusion for anomaly detection.** Expert Systems with Applications, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423020353)
+
+   *Xuan Li, Chunjing Xiao, Ziliang Feng, Shikang Pang, Wenxin Tai, and Fan Zhou .*
 
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
@@ -1881,6 +1887,10 @@ Contributed by Chunyang Zhang.
 
    *Qitian Wu, Yiting Chen, Chenxiao Yang, and Junchi Yan.* 
 
+1. **Latent space energy-based model for fine-grained open set recognition.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10711)
+
+   *Wentao Bao, Qi Yu, and Yu Kong.* 
+
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
 
@@ -2062,6 +2072,10 @@ Contributed by Chunyang Zhang.
 1. **Anomaly detection in 3D point clouds using deep geometric descriptors.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Bergmann_Anomaly_Detection_in_3D_Point_Clouds_Using_Deep_Geometric_Descriptors_WACV_2023_paper.html)
 
    *Lokesh Veeramacheneni and Matias Valdenegro-Toro.* 
+
+1. **Learning point-wise abstaining penalty for point cloud anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10230)
+
+   *Shaocong Xu, Pengfei Li, Xinyu Liu, Qianpu Sun, Yang Li, Shihui Guo, Zhen Wang, Bo Jiang, Rui Wang, Kehua Sheng, Bo Zhang, and Hao Zhao.* 
 
 ### [Autonomous Driving](#content)
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
