@@ -100,8 +100,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#autonomous-driving">4.3 Autonomous Driving</a></td>
-	<td>&ensp;<a href="#medical-image">4.4 Medical Image</a></td>
-
+    <td>&ensp;<a href="#medical-image">4.4 Medical Image</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#robotics">4.5 Robotics</a></td>
