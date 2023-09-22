@@ -2142,3 +2142,7 @@ Contributed by Chunyang Zhang.
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
 
    *Pérez-Carrasco Manuel, Cabrera-Vives Guillermo, Hernández-García Lorena, Forster Francisco, Sánchez-Sáez Paula, Muñoz Arancibia Alejandra, Astorga Nicolás, Bauer Franz, Bayo Amelia, Cádiz-Leyton Martina, and Catelan Marcio.*
+
+1. **GWAK: Gravitational-wave anomalous knowledge with recurrent autoencoders.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.11537)
+
+   *Ryan Raikman, Eric A. Moreno, Ekaterina Govorkova, Ethan J Marx, Alec Gunny, William Benoit, Deep Chatterjee, Rafia Omer, Muhammed Saleem, Dylan S Rankin, Michael W Coughlin, Philip C Harris, and Erik Katsavounidis.*
