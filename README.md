@@ -100,21 +100,27 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#autonomous-driving">4.3 Autonomous Driving</a></td>
-    <td>&ensp;<a href="#robotics">4.4 Robotics</a></td>
+	<td>&ensp;<a href="#medical-image">4.4 Medical Image</a></td>
+
 </tr>
 <tr>
-    <td>&ensp;<a href="#intrusion">4.5 Intrusion</a></td>
-    <td>&ensp;<a href="#diagnosis">4.6 Diagnosis</a></td>
+    <td>&ensp;<a href="#robotics">4.5 Robotics</a></td>
+    <td>&ensp;<a href="#intrusion">4.6 Intrusion</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#high-performance-computing">4.7 High Performance Computing</a></td>
-    <td>&ensp;<a href="#physics">4.8 Physics</a></td>
+    <td>&ensp;<a href="#diagnosis">4.7 Diagnosis</a></td>
+    <td>&ensp;<a href="#high-performance-computing">4.8 High Performance Computing</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#industry-process">4.9 Industry Process</a></td>
-    <td>&ensp;<a href="#astronomy">4.10 Astronomy</a></td>
+    <td>&ensp;<a href="#physics">4.9 Physics</a></td>
+    <td>&ensp;<a href="#industry-process">4.10 Industry Process</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#astronomy">4.11 Astronomy</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 ## [Survey](#content)
@@ -849,6 +855,9 @@ Contributed by Chunyang Zhang.
 
    *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
 
+1. **CrossFuN: Multi-view joint cross fusion network for time series anomaly detection.** TIM, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10254685)
+
+   *Yunfei Bai, Jing Wang, Xueer Zhang, Xiangtai Miao, and Youfang Linf.* 
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -2081,6 +2090,11 @@ Contributed by Chunyang Zhang.
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
 
    *Armstrong Aboah, Ulas Bagci, Abdul Rashid Mussah, Neema Jakisa Owor, and Yaw Adu-Gyamfi.*
+
+### [Medical Image](#content)
+1. **SWSSL: Sliding window-based self-supervised learning for anomaly detection in high-resolution images.** IEEE Transactions on Medical Imaging, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
+
+   *Haoyu Dong, Yifan Zhang, Hanxue Gu, Nicholas Konz, Yixin Zhang, and Maciej A Mazurowskii.*
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
