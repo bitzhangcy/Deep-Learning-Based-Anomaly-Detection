@@ -1024,6 +1024,10 @@ Contributed by Chunyang Zhang.
 
    *Zhitong Gao, Shipeng Yan, and Xuming He.* 
 
+1. **Meta OOD learning for continuously adaptive OOD detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2309.11705)
+
+   *Xinheng Wu, Jie Lu, Zhen Fang, and Guangquan Zhang.* 
+
 ### [Large Model](#content)
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
@@ -1450,6 +1454,10 @@ Contributed by Chunyang Zhang.
 1. **IOMatch: Simplifying open-set semi-supervised learning with joint inliers and outliers utilization.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.13168)
 
    *Zekun Li, Lei Qi, Yinghuan Shi, and Yang Gao.* 
+
+1. **Environment-biased feature ranking for novelty detection robustness.** ICCV, 2024. [paper](https://arxiv.org/abs/2309.12301)
+
+   *Stefan Smeu, Elena Burceanu, Emanuela Haller, and Andrei Liviu Nicolicioiu.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
