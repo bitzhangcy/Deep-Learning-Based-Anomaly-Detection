@@ -1705,6 +1705,10 @@ Contributed by Chunyang Zhang.
 
    *Leitian Tao, Xuefeng Du, Jerry Zhu, and Yixuan Li.* 
 
+1. **Dream the impossible: Outlier imagination with diffusion models.** NIPS, 2023. [paper](https://arxiv.org/pdf/2309.13415.pdf)
+
+   *Xuefeng Du, Yiyou Sun, Xiaojin Zhu, and Yixuan Li.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -2093,6 +2097,10 @@ Contributed by Chunyang Zhang.
 
    *Shaocong Xu, Pengfei Li, Xinyu Liu, Qianpu Sun, Yang Li, Shihui Guo, Zhen Wang, Bo Jiang, Rui Wang, Kehua Sheng, Bo Zhang, and Hao Zhao.* 
 
+1. **Real3D-AD: A dataset of point cloud anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.13226)
+
+   *Jiaqi Liu, Guoyang Xie, Ruitao Chen, Xinpeng Li, Jinbao Wang, Yong Liu, Chengjie Wang, and Feng Zheng.* 
+
 ### [Autonomous Driving](#content)
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
 
@@ -2136,6 +2144,10 @@ Contributed by Chunyang Zhang.
 1. **Anomaly detection under coordinate transformations.** Physical Review D, 2023. [paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
 
    *Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.* 
+
+1. **Back to the roots: Tree-based algorithms for weakly supervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.13111)
+
+   *Thorben Finke, Marie Hein, Gregor Kasieczka, Michael Krämer, Alexander Mück, Parada Prangchaikul, Tobias Quadfasel, David Shih, and Manuel Sommerhalder* 
 
 ### [Industry Process](#content)
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
