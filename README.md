@@ -821,6 +821,10 @@ Contributed by Chunyang Zhang.
 
    *Yufei Li, Yanchi Liu, Haoyu Wang, Zhengzhang Chen, Wei Cheng, Yuncong Chen, Wenchao Yu, Haifeng Chen, and Cong Liu.*
 
+1. **ARISE: Graph anomaly detection on attributed networks via substructure awareness.** TNNLS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10258476)
+
+   *Jingcan Duan, Bin Xiao, Siwei Wang, Haifang Zhou, and Xinwang Liu.*
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1048,6 +1052,10 @@ Contributed by Chunyang Zhang.
 1. **CLIPN for zero-shot OOD detection: Teaching CLIP to say no.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.12213)
 
    *Hualiang Wang, Yi Li, Huifeng Yao, and Xiaomeng Li.* 
+
+1. **LogGPT: Log anomaly detection via GPT.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.14482)
+
+   *Xiao Han, Shuhan Yuan, and Mohamed Trabelsi.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
