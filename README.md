@@ -1586,6 +1586,10 @@ Contributed by Chunyang Zhang.
 
    *Xueying Ding, Yue Zhao, and Leman Akoglu.* 
 
+1. **ADGym: Design choices for deep anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2309.15376)
+
+   *Minqi Jiang, Chaochuan Hou, Ao Zheng, Songqiao Han,Hailiang Huang, Qingsong Wen, Xiyang Hu, and Yue Zha,.* 
+
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
 
@@ -1824,6 +1828,10 @@ Contributed by Chunyang Zhang.
 
    *Minkyung Kim, Junsik Kim, Jongmin Yu, and Jun Kyun Choi.* 
 
+1. **Self-supervised anomaly detection via neural autoregressive flows with active learning.** NIPS, 2021. [paper](https://openreview.net/forum?id=LdWEo5mri6)
+
+   *Jiaxin Zhang, Kyle Saleeby, Thomas Feldhausen, Sirui Bi, Alex Plotkowski, and David Womble.* 
+
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
 
@@ -2014,6 +2022,10 @@ Contributed by Chunyang Zhang.
 1. **Improving anomaly segmentation with multi-granularity cross-domain alignment.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.08696)
 
    *Ji Zhang, Xiao Wu, Zhi-Qi Cheng, Qi He, and Wei Li.* 
+
+1. **SeMAnD: Self-supervised anomaly detection in multimodal geospatial datasets.** ACM SIGSPATIAL, 2023. [paper](https://arxiv.org/abs/2309.15245)
+
+   *Daria Reshetova, Swetava Ganguli, C. V. Krishnakumar Iyer, and Vipul Pandey.* 
 
 ### [Optimal Transport](#content)
 1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
