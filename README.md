@@ -862,6 +862,10 @@ Contributed by Chunyang Zhang.
 
    *Yunfei Bai, Jing Wang, Xueer Zhang, Xiangtai Miao, and Youfang Linf.* 
 
+1. **Unsupervised anomaly detection by densely contrastive learning for time series data.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023005385)
+
+   *Wei Zhu, Weijian Li, E. Ray Dorsey, and Jiebo Luo.* 
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -2181,6 +2185,14 @@ Contributed by Chunyang Zhang.
 1. **Knowledge distillation-empowered digital twin for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04616)
 
    *Qinghua Xu, Shaukat Ali, Tao Yue, Zaimovic Nedim, and Inderjeet Singh.* 
+
+1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.** IEEE Transactions on Consumer Electronics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
+
+   *Huan Zhang, Neeraj Kumar, Sheng Wu, Chunlei Wu, Jian Wang, and Peiying Zhang.* 
+
+1. **FDEPCA: A novel adaptive nonlinear feature extraction method via fruit fly olfactory neural network for iomt anomaly detection.** IEEE Journal of Biomedical and Health Informatics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10262155)
+
+   *Yihan Chen, Zhixia Zeng, Xinhong Lin, Xin Du, Imad Rida, and Ruliang Xiao.* 
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
