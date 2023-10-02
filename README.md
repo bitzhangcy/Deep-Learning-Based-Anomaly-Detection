@@ -866,6 +866,10 @@ Contributed by Chunyang Zhang.
 
    *Wei Zhu, Weijian Li, E. Ray Dorsey, and Jiebo Luo.* 
 
+1. **Algorithmic recourse for anomaly detection in multivariate time series.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16896)
+
+   *Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan.* 
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1064,6 +1068,10 @@ Contributed by Chunyang Zhang.
 1. **Semantic scene difference detection in daily life patroling by mobile robots using pre-trained large-scale vision-language model.** IROS, 2023. [paper](https://arxiv.org/abs/2309.16552)
 
    *Yoshiki Obinata, Kento Kawaharazuka, Naoaki Kanazawa, Naoya Yamaguchi, Naoto Tsukamoto, Iori Yanokura, Shingo Kitagawa, Koki Shinjo, Kei Okada, and Masayuki Inaba.* 
+
+1. **HuntGPT: Integrating machine learning-based anomaly detection and explainable AI with large language models (LLMs).** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16021)
+
+   *Tarek Ali and Panos Kostakos.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
