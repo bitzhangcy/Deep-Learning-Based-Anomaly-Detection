@@ -629,7 +629,11 @@ Contributed by Chunyang Zhang.
 
 1. **Controlled graph neural networks with denoising diffusion for anomaly detection.** Expert Systems with Applications, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423020353)
 
-   *Xuan Li, Chunjing Xiao, Ziliang Feng, Shikang Pang, Wenxin Tai, and Fan Zhou .*
+   *Xuan Li, Chunjing Xiao, Ziliang Feng, Shikang Pang, Wenxin Tai, and Fan Zhou.*
+
+1. **Unsupervised surface anomaly detection with diffusion probabilistic model.**ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
+
+   *Xinyi Zhang, Naiqi Li1, Jiawei Li, Tao Dai, Yong Jiang, and Shutao Xia.*
 
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
@@ -1491,6 +1495,10 @@ Contributed by Chunyang Zhang.
 
    *Sarath Sivaprasad and Mario Fritz.* 
 
+1. **Template-guided hierarchical feature restoration for anomaly detection.** arXiv, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
+
+   *Hewei Guo, Liping Ren, Jingjing Fu, Yuwang Wang, Zhizheng Zhang, Cuiling Lan, Haoqian Wang2, and  Xinwen Hou.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
@@ -1570,7 +1578,11 @@ Contributed by Chunyang Zhang.
 
 1. **AutoML for outlier detection with optimal Ttransport distances.** IJCAI, 2023. [paper](https://www.ijcai.org/proceedings/2023/843)
 
-   *Prabhant Singh and  Joaquin Vanschoren.* 
+   *Prabhant Singh and  Joaquin Vanschoren.*
+
+1. **AutoML for outlier detection with optimal Ttransport distances.** IICV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)
+
+   *Zheng Fang, Xiaoyang Wang, Haocheng Li, Jiejie Liu, Qiugui Hu, and Jimin Xiao.*
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
@@ -1896,6 +1908,10 @@ Contributed by Chunyang Zhang.
 1. **Spatially smoothed robust covariance estimation for local outlier detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.05371)
 
    *Patricia Puchhammer and Peter Filzmoser.* 
+
+1. **Anomaly detection using score-based perturbation resilience.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
+
+   *Woosang Shin,Jonghyeon Lee, Taehan Lee, Sangmoon Lee, and Jong Pil Yun†.* 
 
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
