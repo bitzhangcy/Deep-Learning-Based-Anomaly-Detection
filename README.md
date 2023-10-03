@@ -870,6 +870,10 @@ Contributed by Chunyang Zhang.
 
    *Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan.* 
 
+1. **Unravel anomalies: An end-to-end seasonal-trend decomposition approach for time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00268)
+
+   *Zhenwei Zhang, Ruiqi Wang, Ran Ding, and Yuantao Gu.* 
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1482,6 +1486,10 @@ Contributed by Chunyang Zhang.
 1. **Environment-biased feature ranking for novelty detection robustness.** ICCV, 2024. [paper](https://arxiv.org/abs/2309.12301)
 
    *Stefan Smeu, Elena Burceanu, Emanuela Haller, and Andrei Liviu Nicolicioiu.* 
+
+1. **Going beyond familiar features for deep anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00797)
+
+   *Sarath Sivaprasad and Mario Fritz.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
@@ -2176,6 +2184,10 @@ Contributed by Chunyang Zhang.
 
    *Arthur Vervaet.* 
 
+1. **Self-supervised learning for anomaly detection in computational workflows.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01247)
+
+   *Hongwei Jin, Krishnan Raghavan, George Papadimitriou, Cong Wang, Anirban Mandal, Ewa Deelman, and Prasanna Balaprakash.* 
+
 ### [Physics](#content)
 1. **Anomaly detection under coordinate transformations.** Physical Review D, 2023. [paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
 
@@ -2183,7 +2195,7 @@ Contributed by Chunyang Zhang.
 
 1. **Back to the roots: Tree-based algorithms for weakly supervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.13111)
 
-   *Thorben Finke, Marie Hein, Gregor Kasieczka, Michael Krämer, Alexander Mück, Parada Prangchaikul, Tobias Quadfasel, David Shih, and Manuel Sommerhalder* 
+   *Thorben Finke, Marie Hein, Gregor Kasieczka, Michael Krämer, Alexander Mück, Parada Prangchaikul, Tobias Quadfasel, David Shih, and Manuel Sommerhalder.* 
 
 ### [Industry Process](#content)
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
