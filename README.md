@@ -1946,6 +1946,10 @@ Contributed by Chunyang Zhang.
 
    *Amit Rozner, Barak Battash, Henry Li, Lior Wolf, and Ofir Lindenbaum.* 
 
+1. **Beyond the benchmark: Detecting diverse anomalies in videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01904)
+
+   *Yoav Arad and Michael Werman.* 
+
 ### [Energy Model](#content)
 1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
 
