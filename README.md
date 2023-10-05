@@ -829,6 +829,10 @@ Contributed by Chunyang Zhang.
 
    *Jingcan Duan, Bin Xiao, Siwei Wang, Haifang Zhou, and Xinwang Liu.*
 
+1. **Rayleigh quotient graph neural networks for graph-level anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02861)
+
+   *Xiangyu Dong, Xingyi Zhang, and Sibo Wang.*
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -2070,6 +2074,10 @@ Contributed by Chunyang Zhang.
 1. **SeMAnD: Self-supervised anomaly detection in multimodal geospatial datasets.** ACM SIGSPATIAL, 2023. [paper](https://arxiv.org/abs/2309.15245)
 
    *Daria Reshetova, Swetava Ganguli, C. V. Krishnakumar Iyer, and Vipul Pandey.* 
+
+1. **Improving vision anomaly detection with the guidance of language modality.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02821)
+
+   *Dong Chen, Kaihang Pan, Guoming Wang, Yueting Zhuang, and Siliang Tang.* 
 
 ### [Optimal Transport](#content)
 1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
