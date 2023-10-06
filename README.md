@@ -2183,6 +2183,10 @@ Contributed by Chunyang Zhang.
 
    *Haoyu Dong, Yifan Zhang, Hanxue Gu, Nicholas Konz, Yixin Zhang, and Maciej A Mazurowskii.*
 
+1. **A model-agnostic framework for universal anomaly detection of multi-organ and multi-modal images.** MICCAI, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
+
+   *Yinghao Zhang, Donghuan Lu, Munan Ning, Liansheng Wang, Dong Wei, and Yefeng Zheng .*
+
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
 
