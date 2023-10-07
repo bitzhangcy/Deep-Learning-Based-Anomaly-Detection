@@ -1052,6 +1052,14 @@ Contributed by Chunyang Zhang.
 
    *Xinheng Wu, Jie Lu, Zhen Fang, and Guangquan Zhang.* 
 
+1. **Nearest neighbor guidance for out-of-distribution detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2309.14888)
+
+   *Jaewoo Park, Yoon Gyo Jung, and Andrew Beng Jin Teoh.* 
+
+1. **Can pre-trained networks detect familiar out-of-distribution data?** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00847)
+
+   *Atsuyuki Miyai, Qing Yu, Go Irie, and Kiyoharu Aizawa.* 
+
 ### [Large Model](#content)
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
