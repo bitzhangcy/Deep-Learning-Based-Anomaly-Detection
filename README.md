@@ -880,7 +880,11 @@ Contributed by Chunyang Zhang.
 
 1. **Unravel anomalies: An end-to-end seasonal-trend decomposition approach for time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00268)
 
-   *Zhenwei Zhang, Ruiqi Wang, Ran Ding, and Yuantao Gu.* 
+   *Zhenwei Zhang, Ruiqi Wang, Ran Ding, and Yuantao Gu.*
+
+1. **MAG: A novel approach for effective anomaly detection in spacecraft telemetry data.** TII, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10269707)
+
+   *Bing Yu, Yang Yu, Jiakai Xu, Gang Xiang, and Zhiming Yang.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -1092,6 +1096,10 @@ Contributed by Chunyang Zhang.
 1. **HuntGPT: Integrating machine learning-based anomaly detection and explainable AI with large language models (LLMs).** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16021)
 
    *Tarek Ali and Panos Kostakos.* 
+
+1. **Graph neural architecture search with GPT-4.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01436)
+
+   *Haishuai Wang, Yang Gao, Xin Zheng, Peng Zhang, Hongyang Chen, and Jiajun Bu.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
