@@ -2217,6 +2217,10 @@ Contributed by Chunyang Zhang.
 
    *Zhen Xiang, Zidi Xiong, and Bo Li.* 
 
+1. **Kick bad guys out! Zero-knowledge-proof-based anomaly detection in federated learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.04055)
+
+   *Shanshan Han, Wenxuan Wu, Baturalp Buyukates, Weizhao Jin, Yuhang Yao, Qifan Zhang, Salman Avestimehr, and Chaoyang He.* 
+
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
 
