@@ -298,6 +298,14 @@ Contributed by Chunyang Zhang.
 
    *Fabrizio Angiulli, Fabio Fassetti, and Luca Ferragina.*
 
+1. **LARA: A light and anti-overfitting retraining approach for unsupervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05668)
+
+   *Feiyi Chen, Zhen Qing, Yingying Zhang, Shuiguang Deng, Yi Xiao, Guansong Pang, and Qingsong Wen.*
+
+1. **FMM-Head: Enhancing autoencoder-based ECG anomaly detection with prior knowledge.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05848)
+
+   *Giacomo Verardo, Magnus Boman, Samuel Bruchfeld, Marco Chiesa, Sabine Koch, Gerald Q. Maguire Jr., and Dejan Kostic.*
+
 ### [Generative Adversarial Network](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -1194,6 +1202,10 @@ Contributed by Chunyang Zhang.
 1. **Representation learning in anomaly detection: Successes, limits and a grand challenge.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11085v1)
 
    *Yedid Hoshen.* 
+
+1. **A lightweight video anomaly detection model with weak supervision and adaptive instance selection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05330)
+
+   *Yang Wang, Jiaogen Zhou, and Jihong Guan.* 
 
 ### [Support Vector](#content)
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
