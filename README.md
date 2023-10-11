@@ -1617,9 +1617,13 @@ Contributed by Chunyang Zhang.
 
    *Prabhant Singh and  Joaquin Vanschoren.*
 
-1. **AutoML for outlier detection with optimal Ttransport distances.** IICV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)
+1. **AutoML for outlier detection with optimal Ttransport distances.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)
 
    *Zheng Fang, Xiaoyang Wang, Haocheng Li, Jiejie Liu, Qiugui Hu, and Jimin Xiao.*
+
+1. **Tight rates in supervised outlier transfer learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.04686)
+
+   *Mohammadreza M. Kalan and Samory Kpotufe.*
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
@@ -1990,6 +1994,10 @@ Contributed by Chunyang Zhang.
 1. **Beyond the benchmark: Detecting diverse anomalies in videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01904)
 
    *Yoav Arad and Michael Werman.* 
+
+1. **Quantile-based maximum likelihood training for outlier detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.06085)
+
+   *Masoud Taghikhah, Nishant Kumar, Siniša Šegvić, Abouzar Eslami, and Stefan Gumhold.* 
 
 ### [Energy Model](#content)
 1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
