@@ -841,6 +841,11 @@ Contributed by Chunyang Zhang.
 
    *Xiangyu Dong, Xingyi Zhang, and Sibo Wang.*
 
+1. **Self-discriminative modeling for anomalous graph detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.06261)
+
+   *Jinyu Cai, Yunhe Zhang, and Jicong Fan.*
+
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1636,6 +1641,10 @@ Contributed by Chunyang Zhang.
 1. **DSV: An alignment validation loss for self-supervised outlier model selection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.06534)
 
    *Jaemin Yoo, Yue Zhao, Lingxiao Zhao, and Leman Akoglu.* 
+
+1. **Simple and effective out-of-distribution detection via cosine-based softmax loss.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Noh_Simple_and_Effective_Out-of-Distribution_Detection_via_Cosine-based_Softmax_Loss_ICCV_2023_paper.pdf)
+
+   *SoonCheol Noh, DongEon Jeong, and Jee-Hyong Lee.* 
 
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
