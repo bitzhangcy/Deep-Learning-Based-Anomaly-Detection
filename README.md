@@ -1334,6 +1334,10 @@ Contributed by Chunyang Zhang.
 
    *Jian Zhang, Ge Yang, Miaoju Ban, and Runwei Ding.* 
 
+1. **PAD: A dataset and benchmark for pose-agnostic anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.07716)
+
+   *Qiang Zhou, Weize Li, Lihan Jiang, Guoliang Wang, Guyue Zhou, Shanghang Zhang, and Hao Zhao.* 
+
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
 
@@ -2294,6 +2298,10 @@ Contributed by Chunyang Zhang.
 1. **FDEPCA: A novel adaptive nonlinear feature extraction method via fruit fly olfactory neural network for iomt anomaly detection.** IEEE Journal of Biomedical and Health Informatics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10262155)
 
    *Yihan Chen, Zhixia Zeng, Xinhong Lin, Xin Du, Imad Rida, and Ruliang Xiao.* 
+
+1. **A discrepancy aware framework for robust anomaly detection.** TII, 2023. [paper](https://arxiv.org/abs/2310.07585)
+
+   *Yuxuan Cai, Dingkang Liang, Dongliang Luo, Xinwei He, Xin Yang, and Xiang Bai.* 
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
