@@ -845,6 +845,9 @@ Contributed by Chunyang Zhang.
 
    *Jinyu Cai, Yunhe Zhang, and Jicong Fan.*
 
+1. **CVTGAD: Simplified transformer with cross-view attention for unsupervised graph-level anomaly detection.** ECML PKDD, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11)
+
+   *Jindong Li, Qianli Xing, Qi Wang, and Yi Chang .*
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -2226,6 +2229,10 @@ Contributed by Chunyang Zhang.
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
 
    *Armstrong Aboah, Ulas Bagci, Abdul Rashid Mussah, Neema Jakisa Owor, and Yaw Adu-Gyamfi.*
+
+1. **Multivariate time-series anomaly detection with temporal self-supervision and graphs: Application to vehicle failure prediction.** ECML PKDD, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43430-3_15)
+
+   *Hadi Hojjati, Mohammadreza Sadeghi, and Narges Armanfard.*
 
 ### [Medical Image](#content)
 1. **SWSSL: Sliding window-based self-supervised learning for anomaly detection in high-resolution images.** IEEE Transactions on Medical Imaging, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
