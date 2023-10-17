@@ -569,6 +569,10 @@ Contributed by Chunyang Zhang.
 
    *Yixuan Zhou, Xing Xu, Jingkuan Song, Fumin Shen, and Hengtao Shen.*
 
+1. **PyramidFlow: High-resolution defect contrastive localization using pyramid normalizing flow.** CVPR, 2023. [paper](https://ieeexplore.ieee.org/document/10204306)
+
+   *Jiarui Lei, Xiaobo Hu, Yue Wang, and Dong Liu.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -1676,7 +1680,11 @@ Contributed by Chunyang Zhang.
 
 1. **ADGym: Design choices for deep anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2309.15376)
 
-   *Minqi Jiang, Chaochuan Hou, Ao Zheng, Songqiao Han,Hailiang Huang, Qingsong Wen, Xiyang Hu, and Yue Zha,.* 
+   *Minqi Jiang, Chaochuan Hou, Ao Zheng, Songqiao Han,Hailiang Huang, Qingsong Wen, Xiyang Hu, and Yue Zha.* 
+
+1. **Model selection of anomaly detectors in the absence of labeled validation data.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.10461)
+
+   *Clement Fung, Chen Qiu, Aodong Li, and Maja Rudolph.* 
 
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
