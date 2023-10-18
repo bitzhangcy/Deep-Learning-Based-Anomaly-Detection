@@ -87,11 +87,11 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#multi-task">3.23 Multi Task  </a></td>
-    <td>&ensp;<a href="#neural-process">3.24 Neural Process</a></td>
+    <td>&ensp;<a href="#interpretability">3.24 Interpretability</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#online-learning">3.25 Online Learning</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#neural-process">3.25 Neural Process</a></td>
+    <td>&ensp;<a href="#online-learning">3.26 Online Learning</a></td>
 </tr>
 <tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
 <tr>
@@ -104,7 +104,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#robotics">4.5 Robotics</a></td>
-    <td>&ensp;<a href="#intrusion">4.6 Intrusion</a></td>
+    <td>&ensp;<a href="#cyber-intrusion">4.6 Cyber Intrusion</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#diagnosis">4.7 Diagnosis</a></td>
@@ -2183,6 +2183,11 @@ Contributed by Chunyang Zhang.
 
    *Weixuan Xiong and Xiaochen Sun.*
 
+### [Interpretability](#content)
+1. **Transparent anomaly detection via concept-based explanations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.10702)
+
+   *Laya Rafiee Sevyeri, Ivaxi Sheth, and Farhood Farahnak.*
+
 ### [Neural Process](#content)
 1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
 
@@ -2211,6 +2216,10 @@ Contributed by Chunyang Zhang.
 1. **Financial time series forecasting using CNN and Transformer.** AAAI, 2023. [paper](https://arxiv.org/abs/2304.04912)
 
    *Zhen Zeng, Rachneet Kaur, Suchetha Siddagangappa, Saba Rahimi, Tucker Balch, and Manuela Veloso.* 
+
+1. **WAKE: A weakly supervised business process anomaly detection framework via a pre-trained autoencoder.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10285076)
+
+   *Wei Guan, Jian Cao, Haiyan Zhao, Yang Gu, and Shiyou Qian.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
@@ -2256,7 +2265,7 @@ Contributed by Chunyang Zhang.
 
    *Tianchen Ji, Arun Narenthiran Sivakumar, Girish Chowdhary, and Katherine Driggs-Campbell.* 
 
-### [Intrusion](#content)
+### [Cyber Intrusion](#content)
 1. **Intrusion detection using convolutional neural networks for representation learning.** ICONIP, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_87)
 
    *Hipeng Li, Zheng Qin, Kai Huang, Xiao Yang, and Shuxiong Ye.* 
@@ -2268,6 +2277,10 @@ Contributed by Chunyang Zhang.
 1. **Kick bad guys out! Zero-knowledge-proof-based anomaly detection in federated learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.04055)
 
    *Shanshan Han, Wenxuan Wu, Baturalp Buyukates, Weizhao Jin, Yuhang Yao, Qifan Zhang, Salman Avestimehr, and Chaoyang He.* 
+
+1. **Adaptive-correlation-aware unsupervised deep learning for anomaly detection in cyber-physical systems.** IEEE Transactions on Dependable and Secure Computing, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10265213)
+
+   *Liang Xi, Dehua Miao, Menghan Li, Ruidong Wang, Han Liu, and Xunhua Huang.* 
 
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
@@ -2317,6 +2330,10 @@ Contributed by Chunyang Zhang.
 1. **A discrepancy aware framework for robust anomaly detection.** TII, 2023. [paper](https://arxiv.org/abs/2310.07585)
 
    *Yuxuan Cai, Dingkang Liang, Dongliang Luo, Xinwei He, Xin Yang, and Xiang Bai.* 
+
+1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.** IEEE Transactions on Consumer Electronics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
+
+   *Huan Zhang, Neeraj Kumar, Sheng Wu, Chunlei Wu, Jian Wang, and Peiying Zhang.* 
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
