@@ -211,6 +211,10 @@ Contributed by Chunyang Zhang.
 
    *Mehdi Jabbari Zideh, Paroma Chatterjee, and Anurag K. Srivastava.* 
 
+1. **Detecting and learning out-of-distribution data in the open world: Algorithm and theory.** Thesis, 2023. [Ph.D.](https://arxiv.org/abs/2310.06221)
+
+   *Yiyou Sun.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
@@ -853,6 +857,10 @@ Contributed by Chunyang Zhang.
 
    *Jindong Li, Qianli Xing, Qi Wang, and Yi Chang .*
 
+1. **PREM: A simple yet effective approach for node-level graph anomaly detection.** ICDM, 2023. [paper](https://arxiv.org/abs/2310.11676)
+
+   *Junjun Pan, Yixin Liu, Yizhen Zheng, and Shirui Pan .*
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -926,6 +934,10 @@ Contributed by Chunyang Zhang.
 1. **Understanding the limitations of self-supervised learning for tabular anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.08374)
 
    *Kimberly T. Mai, Toby Davies, and Lewis D. Griffin.* 
+
+1. **Unmasking the chameleons: A benchmark for out-of-distribution detection in medical tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16220)
+
+   *Mohammad Azizmalayeri, Ameen Abu-Hanna, and Giovanni Ciná.* 
 
 ### [Out of Distribution](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
@@ -1084,6 +1096,10 @@ Contributed by Chunyang Zhang.
 
    *Atsuyuki Miyai, Qing Yu, Go Irie, and Kiyoharu Aizawa.* 
 
+1. **Understanding the feature norm for out-of-distribution detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2310.05316)
+
+   *Jaewoo Park, Jacky Chen Long Chai, Jaeho Yoon, and Andrew Beng Jin Teoh.* 
+
 ### [Large Model](#content)
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
@@ -1120,6 +1136,10 @@ Contributed by Chunyang Zhang.
 1. **Graph neural architecture search with GPT-4.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01436)
 
    *Haishuai Wang, Yang Gao, Xin Zheng, Peng Zhang, Hongyang Chen, and Jiajun Bu.* 
+
+1. **Exploring large language models for multi-modal out-of-distribution detection.** EMNLP, 2023. [paper](https://arxiv.org/abs/2310.08027)
+
+   *Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, and Yongbin Li.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
