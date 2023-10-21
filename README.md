@@ -2208,6 +2208,15 @@ Contributed by Chunyang Zhang.
 
    *Laya Rafiee Sevyeri, Ivaxi Sheth, and Farhood Farahnak.*
 
+### [Open Set](#content)
+1. **Anomaly heterogeneity learning for open-set supervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12790)
+
+   *Jiawen Zhu, Choubo Ding, Yu Tian, and Guansong Pang.*
+
+1. **Open-set multivariate time-series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12294)
+
+   *Thomas Lai, Thi Kieu Khanh Ho, and Narges Armanfard.*
+
 ### [Neural Process](#content)
 1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
 
@@ -2216,11 +2225,6 @@ Contributed by Chunyang Zhang.
 1. **Precursor-of-anomaly detection for irregular time series.** KDD, 2023. [paper](https://arxiv.org/abs/2306.15489)
 
    *Sheo Yon Jhin, Jaehoon Lee, and Noseong Park.*
-
-### [Online Learning](#content)
-1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15652)
-
-   *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
 
 ## [Application](#content)
@@ -2354,6 +2358,10 @@ Contributed by Chunyang Zhang.
 1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.** IEEE Transactions on Consumer Electronics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
 
    *Huan Zhang, Neeraj Kumar, Sheng Wu, Chunlei Wu, Jian Wang, and Peiying Zhang.* 
+
+1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15652)
+
+   *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
