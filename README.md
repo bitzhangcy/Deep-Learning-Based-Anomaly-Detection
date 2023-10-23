@@ -1563,9 +1563,13 @@ Contributed by Chunyang Zhang.
 
    *Sarath Sivaprasad and Mario Fritz.* 
 
-1. **Template-guided hierarchical feature restoration for anomaly detection.** arXiv, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
+1. **Template-guided hierarchical feature restoration for anomaly detection.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
 
-   *Hewei Guo, Liping Ren, Jingjing Fu, Yuwang Wang, Zhizheng Zhang, Cuiling Lan, Haoqian Wang2, and  Xinwen Hou.* 
+   *Hewei Guo, Liping Ren, Jingjing Fu, Yuwang Wang, Zhizheng Zhang, Cuiling Lan, Haoqian Wang, and  Xinwen Hou.* 
+
+1. **Anomaly detection in the presence of irrelevant features.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.13057)
+
+   *Marat Freytsis, Maxim Perelstein, and Yik Chuen San.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
