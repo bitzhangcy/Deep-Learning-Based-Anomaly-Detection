@@ -1378,7 +1378,7 @@ Contributed by Chunyang Zhang.
 
    *Yue Zhao, Zain Nasrullah, and Zheng Li.* 
 
-1. **OpenOOD: Benchmarking generalized out-of-distribution detection.** NIPS, 2022. [paper](https://arxiv.org/pdf/2210.07242.pdf)
+1. **OpenOOD: Benchmarking generalized out-of-distribution detection.** NIPS, 2022. [paper](https://arxiv.org/abs/2210.07242)
 
    *Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, and Ziwei Liu.* 
 
@@ -1431,7 +1431,7 @@ Contributed by Chunyang Zhang.
    *Zhihan Jiang, Jinyang Liu, Junjie Huang, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu, and Michael R. Lyu.* 
 
 ### [Analysis](#content)
-1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/pdf/2211.09224.pdf)
+1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09224)
 
    *Alessandro Flaborea, Bardh Prenkaj, Bharti Munjal, Marco Aurelio Sterpa, Dario Aragona, Luca Podo, and Fabio Galasso.* 
 
@@ -1837,9 +1837,13 @@ Contributed by Chunyang Zhang.
 
    *Leitian Tao, Xuefeng Du, Jerry Zhu, and Yixuan Li.* 
 
-1. **Dream the impossible: Outlier imagination with diffusion models.** NIPS, 2023. [paper](https://arxiv.org/pdf/2309.13415.pdf)
+1. **Dream the impossible: Outlier imagination with diffusion models.** NIPS, 2023. [paper](https://arxiv.org/abs/2309.13415)
 
    *Xuefeng Du, Yiyou Sun, Xiaojin Zhu, and Yixuan Li.* 
+
+1. **On the powerfulness of textual outlier exposure for visual OOD detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.16492)
+
+   *Sangha Park, Jisoo Mok, Dahuin Jung, Saehyung Lee, and Sungroh Yoon.* 
 
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
@@ -2211,6 +2215,10 @@ Contributed by Chunyang Zhang.
 1. **Transparent anomaly detection via concept-based explanations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.10702)
 
    *Laya Rafiee Sevyeri, Ivaxi Sheth, and Farhood Farahnak.*
+
+1. **Towards self-interpretable graph-level anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.16520)
+
+   *Yixin Liu, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, and Shirui Pan.*
 
 ### [Open Set](#content)
 1. **Anomaly heterogeneity learning for open-set supervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12790)
