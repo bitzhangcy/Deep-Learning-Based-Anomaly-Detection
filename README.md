@@ -855,11 +855,19 @@ Contributed by Chunyang Zhang.
 
 1. **CVTGAD: Simplified transformer with cross-view attention for unsupervised graph-level anomaly detection.** ECML PKDD, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11)
 
-   *Jindong Li, Qianli Xing, Qi Wang, and Yi Chang .*
+   *Jindong Li, Qianli Xing, Qi Wang, and Yi Chang.*
 
 1. **PREM: A simple yet effective approach for node-level graph anomaly detection.** ICDM, 2023. [paper](https://arxiv.org/abs/2310.11676)
 
-   *Junjun Pan, Yixin Liu, Yizhen Zheng, and Shirui Pan .*
+   *Junjun Pan, Yixin Liu, Yizhen Zheng, and Shirui Pan.*
+
+1. **THGNN: An embedding-based model for anomaly detection in dynamic heterogeneous social networks.** CIKM, 2023. [paper](https://dl.acm.org/doi/10.1145/3583780.3615079)
+
+   *Yilin Li, Jiaqi Zhu, Congcong Zhang, Yi Yang, Jiawen Zhang, Ying Qiao, and Hongan Wang.*
+
+1. **Learning node abnormality with weak supervision.** CIKM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614950)
+
+   *Qinghai Zhou, Kaize Ding, Huan Liu, and Hanghang Tong.*
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -913,6 +921,10 @@ Contributed by Chunyang Zhang.
 1. **MAG: A novel approach for effective anomaly detection in spacecraft telemetry data.** TII, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10269707)
 
    *Bing Yu, Yang Yu, Jiakai Xu, Gang Xiang, and Zhiming Yang.*
+
+1. **Duogat: Dual time-oriented graph attention networks for accurate, efficient and explainable anomaly detection on time-series.** CIKM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614857)
+
+   *Jongsoo Lee, Byeongtae Park, and Dong-Kyu Chae.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -1263,6 +1275,10 @@ Contributed by Chunyang Zhang.
 1. **Deep graph stream SVDD: Anomaly detection in cyber-physical systems.** PAKDD, 2023. [paper](https://arxiv.org/pdf/2302.12918)
 
    *Ehtesamul Azim, Dongjie Wang, and Yanjie Fu.* 
+
+1. **Regression-based hyperparameter learning for support vector machines.** TNNLS, 2023. [paper](https://ieeexplore.ieee.org/document/10286874)
+
+   *Shili Peng, Wenwu Wang, Yinli Chen, Xueling Zhong, and Qinghua Hu.* 
 
 ### [Sparse Coding](#content)
 1. **Video anomaly detection with sparse coding inspired deep neural networks.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8851288/)
@@ -1792,6 +1808,10 @@ Contributed by Chunyang Zhang.
 
    *Jaemin Yoo, Lingxiao Zhao, and Leman Akoglu.*
 
+1. **Data augmentation is a hyperparameter: Cherry-picked self-supervision for unsupervised anomaly detection is creating the illusion of success.** TMLR, 2023. [paper](https://openreview.net/forum?id=HyzCuCV1jH)
+
+   *Jaemin Yoo, Tiancheng Zhao, and Leman Akoglu.*
+
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
 
@@ -2042,6 +2062,10 @@ Contributed by Chunyang Zhang.
 
    *Masoud Taghikhah, Nishant Kumar, Siniša Šegvić, Abouzar Eslami, and Stefan Gumhold.* 
 
+1. **Unsupervised anomaly detection & diagnosis: A Stein variational gradient descent approach.** CIKM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615167)
+
+   *Zhichao Chen, Leilei Ding, Jianmin Huang, Zhixuan Chu, Qingyang Dai, and Hao Wang.* 
+
 ### [Energy Model](#content)
 1. **Deep structured energy based models for anomaly detection.** ICML, 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045507)
 
@@ -2286,6 +2310,10 @@ Contributed by Chunyang Zhang.
 1. **Multivariate time-series anomaly detection with temporal self-supervision and graphs: Application to vehicle failure prediction.** ECML PKDD, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43430-3_15)
 
    *Hadi Hojjati, Mohammadreza Sadeghi, and Narges Armanfard.*
+
+1. **Traffic anomaly detection: Exploiting temporal positioning of flow-density samples.** TITS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10287217)
+
+   *Iman Taheri Sarteshnizi, Saeed Asadi Bagloee, Majid Sarvi, and Neema Nassir.*
 
 ### [Medical Image](#content)
 1. **SWSSL: Sliding window-based self-supervised learning for anomaly detection in high-resolution images.** IEEE Transactions on Medical Imaging, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
