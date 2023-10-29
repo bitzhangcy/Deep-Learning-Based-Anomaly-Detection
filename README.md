@@ -500,6 +500,10 @@ Contributed by Chunyang Zhang.
 
    *Shyam Nandan Rai, Fabio Cermelli, Barbara Caputo, and Carlo Masone.* 
 
+1. **Hierarchical vector quantized Transformer for multi-class unsupervised anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.14228)
+
+   *Ruiying Lu, YuJie Wu, Long Tian, Dongsheng Wang, Bo Chen, Xiyang Liu, and Ruimin Hu.* 
+
 ### [Flow](#content)
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
 
@@ -1152,6 +1156,10 @@ Contributed by Chunyang Zhang.
 1. **Exploring large language models for multi-modal out-of-distribution detection.** EMNLP, 2023. [paper](https://arxiv.org/abs/2310.08027)
 
    *Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, and Yongbin Li.* 
+
+1. **Detecting pretraining data from large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.16789)
+
+   *Weijia Shi, Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu, Terra Blevins, Danqi Chen, and Luke Zettlemoyer.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
@@ -1865,6 +1873,10 @@ Contributed by Chunyang Zhang.
 
    *Sangha Park, Jisoo Mok, Dahuin Jung, Saehyung Lee, and Sungroh Yoon.* 
 
+1. **A coarse-to-fine pseudo-labeling (C2FPL) framework for unsupervised video anomaly detection.** WACV, 2024. [paper](https://arxiv.org/abs/2310.17650)
+
+   *Anas Al-lahham, Nurbek Tastan, Zaigham Zaheer, and Karthik Nandakumar.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -2280,6 +2292,10 @@ Contributed by Chunyang Zhang.
 1. **WAKE: A weakly supervised business process anomaly detection framework via a pre-trained autoencoder.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10285076)
 
    *Wei Guan, Jian Cao, Haiyan Zhao, Yang Gu, and Shiyou Qian.* 
+
+1. **Probabilistic sampling-enhanced temporalspatial GCN: A scalable framework for transaction anomaly detection in Ethereum networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00144)
+
+   *Stefan Kambiz Behfar and Jon Crowcroft.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
