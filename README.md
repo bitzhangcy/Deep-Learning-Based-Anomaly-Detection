@@ -2230,6 +2230,10 @@ Contributed by Chunyang Zhang.
 
    *Kaiwen Cheng, Yie-Tarng Chen, and Wen-Hsien Fang.* 
 
+1. **Adversarial anomaly detection using Gaussian priors and nonlinear anomaly scores.** ICDM, 2023. [paper](https://arxiv.org/abs/2310.18091)
+
+   *Fiete Lüer, Tobias Weber, Maxim Dolgich, and Christian Böhm.*
+
 ### [Multi Task](#content)
 1. **Beyond dents and scratches: Logical constraints in unsupervised anomaly detection and localization.** IJCV, 2022. [paper](https://link.springer.com/article/10.1007/s11263-022-01578-9)
 
@@ -2296,6 +2300,10 @@ Contributed by Chunyang Zhang.
 1. **Probabilistic sampling-enhanced temporalspatial GCN: A scalable framework for transaction anomaly detection in Ethereum networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00144)
 
    *Stefan Kambiz Behfar and Jon Crowcroft.* 
+
+1. **Making the end-user a priority in benchmarking: OrionBench for unsupervised time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17748)
+
+   *Sarah Alnegheimish, Laure Berti-Equille, and Kalyan Veeramachaneni.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
