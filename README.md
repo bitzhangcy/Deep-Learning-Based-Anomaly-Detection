@@ -310,6 +310,10 @@ Contributed by Chunyang Zhang.
 
    *Giacomo Verardo, Magnus Boman, Samuel Bruchfeld, Marco Chiesa, Sabine Koch, Gerald Q. Maguire Jr., and Dejan Kostic.*
 
+1. **Online multi-view anomaly detection with disentangled product-of-experts modeling.** MM, 2023. [paper](https://arxiv.org/abs/2310.18728)
+
+   *Hao Wang, Zhiqi Cheng, Jingdong Sun, Xin Yang, Xiao Wu, Hongyang Chen, and Yan Yang.*
+
 ### [Generative Adversarial Network](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -1160,6 +1164,10 @@ Contributed by Chunyang Zhang.
 1. **Detecting pretraining data from large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.16789)
 
    *Weijia Shi, Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu, Terra Blevins, Danqi Chen, and Luke Zettlemoyer.* 
+
+1. **AnomalyCLIP: Object-agnostic prompt learning for zero-shot anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.18961)
+
+   *Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, and Jiming Chen.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
@@ -2098,6 +2106,10 @@ Contributed by Chunyang Zhang.
 1. **Latent space energy-based model for fine-grained open set recognition.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10711)
 
    *Wentao Bao, Qi Yu, and Yu Kong.* 
+
+1. **Energy-based models for anomaly detection: A manifold diffusion recovery approach.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.18677)
+
+   *Sangwoong Yoon, Young-Uk Jin, Yung-Kyun Noh, and Frank C. Park.* 
 
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
