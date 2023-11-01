@@ -115,10 +115,11 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#industry-process">4.10 Industry Process</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#astronomy">4.11 Astronomy</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#software">4.11 Software</a></td>
+    <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td>    
 </tr>
 </table>
+
 
 
 
@@ -2438,6 +2439,11 @@ Contributed by Chunyang Zhang.
 1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15652)
 
    *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
+
+### [Software](#content)
+1. **Log-based anomaly detection of enterprise software: An empirical study.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.20492)
+
+   *Nadun Wijesinghe and Hadi Hemmati.*
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
