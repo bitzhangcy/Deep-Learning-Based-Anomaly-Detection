@@ -1886,6 +1886,10 @@ Contributed by Chunyang Zhang.
 
    *Anas Al-lahham, Nurbek Tastan, Zaigham Zaheer, and Karthik Nandakumar.* 
 
+1. **Diversified outlier exposure for out-of-distribution detection via informative extrapolation.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.13923)
+
+   *Jianing Zhu, Geng Yu, Jiangchao Yao, Tongliang Liu, Gang Niu, Masashi Sugiyama, and Bo Han.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -1975,6 +1979,10 @@ Contributed by Chunyang Zhang.
 1. **An iterative method for unsupervised robust anomaly detection under data contamination.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.09436)
 
    *Minkyung Kim, Jongmin Yu, Junsik Kim, Tae-Hyun Oh, and Jun Kyun Choi.* 
+
+1. **Look at me, no replay! SurpriseNet: Anomaly detection inspired class incremental learning.** CIKM, 2023. [paper](https://dl.acm.org/doi/10.1145/3583780.3615236)
+
+   *Anton Lee, Yaqian Zhang, Heitor Murilo Gomes, Albert Bifet, and Bernhard Pfahringer.* 
 
 ### [Active Learning](#content)
 1. **DADMoE: Anomaly detection with mixture-of-experts from noisy labels.** AAAI, 2023. [paper](https://arxiv.org/abs/2208.11290)
