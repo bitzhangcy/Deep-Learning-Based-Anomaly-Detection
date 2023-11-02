@@ -1170,6 +1170,10 @@ Contributed by Chunyang Zhang.
 
    *Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, and Jiming Chen.* 
 
+1. **CLIP-AD: A language-guided staged dual-path model for zero-shot anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.00453)
+
+   *Xuhai Chen, Jiangning Zhang, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, and Yong Liu.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
@@ -1828,6 +1832,10 @@ Contributed by Chunyang Zhang.
 1. **Data augmentation is a hyperparameter: Cherry-picked self-supervision for unsupervised anomaly detection is creating the illusion of success.** TMLR, 2023. [paper](https://openreview.net/forum?id=HyzCuCV1jH)
 
    *Jaemin Yoo, Tiancheng Zhao, and Leman Akoglu.*
+
+1. **Diverse data augmentation with diffusions for effective test-time prompt tuning.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.06038)
+
+   *Chunmei Feng, Kai Yu, Yong Liu, Salman Khan, and Wangmeng Zuo.*
 
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
