@@ -2230,7 +2230,11 @@ Contributed by Chunyang Zhang.
 
 1. **Improving vision anomaly detection with the guidance of language modality.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02821)
 
-   *Dong Chen, Kaihang Pan, Guoming Wang, Yueting Zhuang, and Siliang Tang.* 
+   *Dong Chen, Kaihang Pan, Guoming Wang, Yueting Zhuang, and Siliang Tang.*
+
+1. **Debunking free fusion myth: Online multi-view anomaly detection with disentangled product-of-experts modeling.** MM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612487)
+
+   *Hao Wang, Zhiqi Cheng, Jingdong Sun, Xin Yang, Xiao Wu, Hongyang Chen, and Yan Yang.*
 
 ### [Optimal Transport](#content)
 1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
@@ -2353,7 +2357,11 @@ Contributed by Chunyang Zhang.
 
 1. **Real3D-AD: A dataset of point cloud anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.13226)
 
-   *Jiaqi Liu, Guoyang Xie, Ruitao Chen, Xinpeng Li, Jinbao Wang, Yong Liu, Chengjie Wang, and Feng Zheng.* 
+   *Jiaqi Liu, Guoyang Xie, Ruitao Chen, Xinpeng Li, Jinbao Wang, Yong Liu, Chengjie Wang, and Feng Zheng.*
+
+1. **Cheating depth: Enhancing 3D surface anomaly detection via depth simulation.** WACV, 2024. [paper](https://arxiv.org/abs/2311.01117)
+
+   *Vitjan Zavrtanik, Matej Kristan, and Danijel Skocaj.*
 
 ### [Autonomous Driving](#content)
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
@@ -2457,6 +2465,10 @@ Contributed by Chunyang Zhang.
    *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
 ### [Software](#content)
+1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
+
+   *Shiyi Kong, Jun Ai, Minyan Lu, and Yiang Gong.*
+
 1. **Log-based anomaly detection of enterprise software: An empirical study.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.20492)
 
    *Nadun Wijesinghe and Hadi Hemmati.*
