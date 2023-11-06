@@ -1121,6 +1121,14 @@ Contributed by Chunyang Zhang.
 
    *Jaewoo Park, Jacky Chen Long Chai, Jaeho Yoon, and Andrew Beng Jin Teoh.* 
 
+1. **Detecting out-of-distribution through the lens of neural collapse.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.01479)
+
+   *Litian Liu and Yao Qin.* 
+
+1. **Learning to augment distributions for out-of-distribution detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.05316)
+
+   *Qizhou Wang, Zhen Fang, Yonggang Zhang, Feng Liu, Yixuan Li, and Bo Han.* 
+
 ### [Large Model](#content)
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
@@ -2284,6 +2292,10 @@ Contributed by Chunyang Zhang.
 
    *Weixuan Xiong and Xiaochen Sun.*
 
+1. **Holistic representation learning for multitask trajectory anomaly detection.** WACV, 2023. [paper](https://arxiv.org/abs/2311.01851)
+
+   *Alexandros Stergiou, Brent De Weerdt, and Nikos Deligiannis.*
+
 ### [Interpretability](#content)
 1. **Transparent anomaly detection via concept-based explanations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.10702)
 
@@ -2381,9 +2393,13 @@ Contributed by Chunyang Zhang.
 
    *Haoyu Dong, Yifan Zhang, Hanxue Gu, Nicholas Konz, Yixin Zhang, and Maciej A Mazurowskii.*
 
-1. **A model-agnostic framework for universal anomaly detection of multi-organ and multi-modal images.** MICCAI, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
+1. **A model-agnostic framework for universal anomaly detection of multi-organ and multi-modal images.** MICCAI, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_23)
 
    *Yinghao Zhang, Donghuan Lu, Munan Ning, Liansheng Wang, Dong Wei, and Yefeng Zheng .*
+
+1. **Dual conditioned diffusion models for out-of-distribution detection: Application to fetal ultrasound videos.** MICCAI, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_21)
+
+   *Divyanshu Mishra, He Zhao, Pramit Saha, Aris T. Papageorghiou, and J. Alison Noble  .*
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
