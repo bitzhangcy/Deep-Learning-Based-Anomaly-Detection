@@ -2492,6 +2492,10 @@ Contributed by Chunyang Zhang.
 
    *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
+1. **Self-supervised variational graph autoencoder for system-level anomaly detection.** TIM, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10285620)
+
+   *Le Zhang, Wei Cheng, Ji Xing, Xuefeng Chen, Zelin Nie, Shuo Zhang, Junying Hong, and Zhao Xu.*
+
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
 
