@@ -1129,7 +1129,7 @@ Contributed by Chunyang Zhang.
 
    *Litian Liu and Yao Qin.* 
 
-1. **Learning to augment distributions for out-of-distribution detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.05316)
+1. **Learning to augment distributions for out-of-distribution detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.01796)
 
    *Qizhou Wang, Zhen Fang, Yonggang Zhang, Feng Liu, Yixuan Li, and Bo Han.* 
 
@@ -1918,6 +1918,10 @@ Contributed by Chunyang Zhang.
 
    *Jianing Zhu, Geng Yu, Jiangchao Yao, Tongliang Liu, Gang Niu, Masashi Sugiyama, and Bo Han.* 
 
+1. **Out-of-distribution detection learning with unreliable out-of-distribution sources.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.03236)
+
+   *Haotian Zheng, Qizhou Wang, Zhen Fang, Xiaobo Xia, Feng Liu, Tongliang Liu, and Bo Han.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -2386,6 +2390,10 @@ Contributed by Chunyang Zhang.
 1. **Cheating depth: Enhancing 3D surface anomaly detection via depth simulation.** WACV, 2024. [paper](https://arxiv.org/abs/2311.01117)
 
    *Vitjan Zavrtanik, Matej Kristan, and Danijel Skocaj.*
+
+1. **Image-pointcloud fusion based anomaly detection using PD-REAL dataset.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.04095)
+
+   *Jianjian Qin, Chunzhi Gu, Jun Yu, and Chao Zhang.*
 
 ### [Autonomous Driving](#content)
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
