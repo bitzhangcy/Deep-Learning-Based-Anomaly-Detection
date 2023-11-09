@@ -1418,6 +1418,10 @@ Contributed by Chunyang Zhang.
 
    *Qiang Zhou, Weize Li, Lihan Jiang, Guoliang Wang, Guyue Zhou, Shanghang Zhang, and Hao Zhao.* 
 
+1. **The voraus-AD dataset for anomaly detection in robot applications.** TRO, 2023. [paper](https://arxiv.org/abs/2311.04765)
+
+   *Jan Thieß Brockmann, Marco Rudolph, Bodo Rosenhahn, and Bastian Wandt.* 
+
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
 
