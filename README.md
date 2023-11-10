@@ -882,6 +882,10 @@ Contributed by Chunyang Zhang.
 
    *Qinghai Zhou, Kaize Ding, Huan Liu, and Hanghang Tong.*
 
+1. **RustGraph: Robust anomaly detection in dynamic graphs by jointly learning structural-temporal dependency.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10301657)
+
+   *Jianhao Guo, Siliang Tang, Juncheng Li, Kaihang Pan, and Lingfei Wu.*
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1486,6 +1490,10 @@ Contributed by Chunyang Zhang.
 1. **A large-scale benchmark for log parsing.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.10828)
 
    *Zhihan Jiang, Jinyang Liu, Junjie Huang, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu, and Michael R. Lyu.* 
+
+1. **Making the end-user a priority in benchmarking: OrionBench for unsupervised time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17748)
+
+   *Sarah Alnegheimish, Laure Berti-Equille, and Kalyan Veeramachaneni.* 
 
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09224)
@@ -2446,6 +2454,10 @@ Contributed by Chunyang Zhang.
 1. **Adaptive-correlation-aware unsupervised deep learning for anomaly detection in cyber-physical systems.** IEEE Transactions on Dependable and Secure Computing, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10265213)
 
    *Liang Xi, Dehua Miao, Menghan Li, Ruidong Wang, Han Liu, and Xunhua Huang.* 
+
+1. **MTS-DVGAN: Anomaly detection in cyber-physical systems using a dual variational generative adversarial network.** Computers & Security, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404823004807)
+
+   *Haili Sun, Yan Huang, Lansheng Han, Cai Fu, Hongle Liu, and Xiang Long.* 
 
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
