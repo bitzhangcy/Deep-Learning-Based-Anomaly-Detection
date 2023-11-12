@@ -886,6 +886,14 @@ Contributed by Chunyang Zhang.
 
    *Jianhao Guo, Siliang Tang, Juncheng Li, Kaihang Pan, and Lingfei Wu.*
 
+1. **An efficient adaptive multi-kernel learning with safe screening rule for outlier detection.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/document/10310242)
+
+   *Xinye Wang, Lei Duan, Chengxin He, Yuanyuan Chen, and Xindong Wu.*
+
+1. **Anomaly detection in continuous-time temporal provenance graphs.** NIPS, 2023. [paper](https://nips.cc/virtual/2023/76336)
+
+   *Jakub Reha, Giulio Lovisotto, Michele Russo, Alessio Gravina, and Claas Grohnfeldt.*
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -2092,7 +2100,11 @@ Contributed by Chunyang Zhang.
 
 1. **Anomaly detection using score-based perturbation resilience.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
 
-   *Woosang Shin,Jonghyeon Lee, Taehan Lee, Sangmoon Lee, and Jong Pil Yun†.* 
+   *Woosang Shin,Jonghyeon Lee, Taehan Lee, Sangmoon Lee, and Jong Pil Yun.* 
+
+1. **Weighted subspace anomaly detection in high-dimensional space.** Pattern Recognition, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007537)
+
+   *Jiankai Tu, Huan Liu, and Chunguang Li.* 
 
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
