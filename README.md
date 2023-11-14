@@ -906,6 +906,10 @@ Contributed by Chunyang Zhang.
 
    *Konstantinos Sotiropoulos, Lingxiao Zhao, Pierre Jinghong Liang, and Leman Akoglu.* 
 
+1. **Deep joint adversarial learning for anomaly detection on attribute networks.** Information Sciences, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014251)
+
+   *Haoyi Fan, Ruidong Wang, Xunhua Huang, Fengbin Zhang, Zuoyong Li, and Shimei Su.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -962,6 +966,10 @@ Contributed by Chunyang Zhang.
 1. **Duogat: Dual time-oriented graph attention networks for accurate, efficient and explainable anomaly detection on time-series.** CIKM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614857)
 
    *Jongsoo Lee, Byeongtae Park, and Dong-Kyu Chae.*
+
+1. **An enhanced spatio-temporal constraints network for anomaly detection in multivariate time series.** KBS, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512300919X)
+
+   *Di Ge, Zheng Dong, Yuhang Cheng, and Yanwen Wu.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
