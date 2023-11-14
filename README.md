@@ -590,6 +590,10 @@ Contributed by Chunyang Zhang.
 
    *Jiarui Lei, Xiaobo Hu, Yue Wang, and Dong Liu.*
 
+1. **Topology-matching normalizing flows for out-of-distribution detection in robot learning.** CoRL, 2023. [paper](https://openreview.net/forum?id=BzjLaVvr955)
+
+   *Jianxiang Feng, Jongseok Lee, Simon Geisler, Stephan Günnemann, and Rudolph Triebel.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
