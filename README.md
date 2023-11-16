@@ -505,7 +505,7 @@ Contributed by Chunyang Zhang.
 
    *Shyam Nandan Rai, Fabio Cermelli, Barbara Caputo, and Carlo Masone.* 
 
-1. **Hierarchical vector quantized Transformer for multi-class unsupervised anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.14228)
+1. **Hierarchical vector quantized Transformer for multi-class unsupervised anomaly detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=clJTNssgn6)
 
    *Ruiying Lu, YuJie Wu, Long Tian, Dongsheng Wang, Bo Chen, Xiyang Liu, and Ruimin Hu.* 
 
@@ -1161,7 +1161,7 @@ Contributed by Chunyang Zhang.
 
    *Litian Liu and Yao Qin.* 
 
-1. **Learning to augment distributions for out-of-distribution detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.01796)
+1. **Learning to augment distributions for out-of-distribution detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=OtU6VvXJue)
 
    *Qizhou Wang, Zhen Fang, Yonggang Zhang, Feng Liu, Yixuan Li, and Bo Han.* 
 
@@ -1173,7 +1173,23 @@ Contributed by Chunyang Zhang.
 
    *Zhilin Zhao, Longbing Cao, and Yixuan Zhang.* 
 
+1. **Fast trainable projection for robust fine-tuning.** NIPS, 2023. [paper](https://openreview.net/forum?id=Tb7np0MInj)
+
+   *Junjiao Tian, Yencheng Liu, James Seale Smith, and Zsolt Kira.* 
+
+1. **Trainable projected gradient method for robust fine-tuning.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tian_Trainable_Projected_Gradient_Method_for_Robust_Fine-Tuning_CVPR_2023_paper.html)
+
+   *Junjiao Tian, Xiaoliang Dai, Chih-Yao Ma, Zecheng He, Yen-Cheng Liu, and Zsolt Kira.* 
+
+1. **Domain aligned CLIP for few-shot classification.** WACV, 2024. [paper](https://arxiv.org/abs/2311.09191)
+
+   *Muhammad Waleed Gondal, Jochen Gast, Inigo Alonso Ruiz, Richard Droste, Tommaso Macri, Suren Kumar, and Luitpold Staudigl.* 
+
 ### [Large Model](#content)
+1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
+
+   *Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, and Onkar Dabeer.* 
+
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
    *Amine Elhafsi, Rohan Sinha, Christopher Agia, Edward Schmerling, Issa Nesnas, and Marco Pavone.* 
@@ -1233,6 +1249,10 @@ Contributed by Chunyang Zhang.
 1. **Open-vocabulary video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.07042)
 
    *Peng Wu, Xuerong Zhou, Guansong Pang, Yujia Sun, Jing Liu, Peng Wang, and Yanning Zhang.* 
+
+1. **Distilling out-of-distribution robustness from vision-language foundation models.** NIPS, 2023. [paper](https://neurips.cc/virtual/2023/poster/70716)
+
+   *Andy Zhou, Jindong Wang, Yuxiong Wang, and Haohan Wang.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
@@ -1458,7 +1478,7 @@ Contributed by Chunyang Zhang.
 
    *Jian Zhang, Ge Yang, Miaoju Ban, and Runwei Ding.* 
 
-1. **PAD: A dataset and benchmark for pose-agnostic anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.07716)
+1. **PAD: A dataset and benchmark for pose-agnostic anomaly detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=kxFKgqwFNk)
 
    *Qiang Zhou, Weize Li, Lihan Jiang, Guoliang Wang, Guyue Zhou, Shanghang Zhang, and Hao Zhao.* 
 
@@ -1725,10 +1745,6 @@ Contributed by Chunyang Zhang.
 
    *Kwei-Herng Lai, Lan Wang, Huiyuan Chen, Kaixiong Zhou, Fei Wang, Hao Yang, and Xia Hu.* 
 
-1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
-
-   *Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, and Onkar Dabeer.* 
-
 1. **MetaGAD: Learning to meta transfer for few-shot graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.10668)
 
    *Xiongxiao Xu, Kaize Ding, Canyu Chen, and Kai Shu.* 
@@ -1811,7 +1827,7 @@ Contributed by Chunyang Zhang.
 
    *Xueying Ding, Yue Zhao, and Leman Akoglu.* 
 
-1. **ADGym: Design choices for deep anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2309.15376)
+1. **ADGym: Design choices for deep anomaly detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=9CKx9SsSSc)
 
    *Minqi Jiang, Chaochuan Hou, Ao Zheng, Songqiao Han,Hailiang Huang, Qingsong Wen, Xiyang Hu, and Yue Zha.* 
 
@@ -1909,6 +1925,10 @@ Contributed by Chunyang Zhang.
 
    *Chunmei Feng, Kai Yu, Yong Liu, Salman Khan, and Wangmeng Zuo.*
 
+1. **GraphPatcher: Mitigating degree bias for graph neural networks via test-time augmentation.** NIPS, 2023. [paper](https://neurips.cc/virtual/2023/poster/70390)
+
+   *Mingxuan Ju, Tong Zhao, Wenhao Yu, Neil Shah, and Yanfang Ye.*
+
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
 
@@ -1954,7 +1974,7 @@ Contributed by Chunyang Zhang.
 
    *Leitian Tao, Xuefeng Du, Jerry Zhu, and Yixuan Li.* 
 
-1. **Dream the impossible: Outlier imagination with diffusion models.** NIPS, 2023. [paper](https://arxiv.org/abs/2309.13415)
+1. **Dream the impossible: Outlier imagination with diffusion models.** NIPS, 2023. [paper](https://openreview.net/forum?id=tnRboxQIec)
 
    *Xuefeng Du, Yiyou Sun, Xiaojin Zhu, and Yixuan Li.* 
 
@@ -1966,11 +1986,11 @@ Contributed by Chunyang Zhang.
 
    *Anas Al-lahham, Nurbek Tastan, Zaigham Zaheer, and Karthik Nandakumar.* 
 
-1. **Diversified outlier exposure for out-of-distribution detection via informative extrapolation.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.13923)
+1. **Diversified outlier exposure for out-of-distribution detection via informative extrapolation.** NIPS, 2023. [paper](https://openreview.net/forum?id=RuxBLfiEqI)
 
    *Jianing Zhu, Geng Yu, Jiangchao Yao, Tongliang Liu, Gang Niu, Masashi Sugiyama, and Bo Han.* 
 
-1. **Out-of-distribution detection learning with unreliable out-of-distribution sources.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.03236)
+1. **Out-of-distribution detection learning with unreliable out-of-distribution sources.** NIPS, 2023. [paper](https://openreview.net/forum?id=RuxBLfiEqI)
 
    *Haotian Zheng, Qizhou Wang, Zhen Fang, Xiaobo Xia, Feng Liu, Tongliang Liu, and Bo Han.* 
 
@@ -2204,7 +2224,7 @@ Contributed by Chunyang Zhang.
 
    *Wentao Bao, Qi Yu, and Yu Kong.* 
 
-1. **Energy-based models for anomaly detection: A manifold diffusion recovery approach.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.18677)
+1. **Energy-based models for anomaly detection: A manifold diffusion recovery approach.** NIPS, 2023. [paper](https://openreview.net/forum?id=4nSDDokpfK)
 
    *Sangwoong Yoon, Young-Uk Jin, Yung-Kyun Noh, and Frank C. Park.* 
 
@@ -2373,7 +2393,7 @@ Contributed by Chunyang Zhang.
 
    *Laya Rafiee Sevyeri, Ivaxi Sheth, and Farhood Farahnak.*
 
-1. **Towards self-interpretable graph-level anomaly detection.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.16520)
+1. **Towards self-interpretable graph-level anomaly detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=SAzaC8f3cM)
 
    *Yixin Liu, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, and Shirui Pan.*
 
