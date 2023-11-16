@@ -1165,6 +1165,14 @@ Contributed by Chunyang Zhang.
 
    *Qizhou Wang, Zhen Fang, Yonggang Zhang, Feng Liu, Yixuan Li, and Bo Han.* 
 
+1. **Incremental object-based novelty detection with feedback loop.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.09004)
+
+   *Simone Caldarella, Elisa Ricci, and Rahaf Aljundi.* 
+
+1. **Out-of-distribution knowledge distillation via confidence amendment.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.07975)
+
+   *Zhilin Zhao, Longbing Cao, and Yixuan Zhang.* 
+
 ### [Large Model](#content)
 1. **Semantic anomaly detection with large language models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11307)
 
