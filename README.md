@@ -33,7 +33,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#reinforcement-learning">2.12 Reinforcement Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#representation">2.13 Representation</a></td>
+    <td>&ensp;<a href="#representation-learning">2.13 Representation Learning</a></td>
     <td>&ensp;<a href="#nonparametric-approach">2.14 Nonparametric Approach</a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
@@ -119,6 +119,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td>    
 </tr>
 </table>
+
 
 
 
@@ -976,6 +977,10 @@ Contributed by Chunyang Zhang.
 1. **An enhanced spatio-temporal constraints network for anomaly detection in multivariate time series.** KBS, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512300919X)
 
    *Di Ge, Zheng Dong, Yuhang Cheng, and Yanwen Wu.*
+
+1. **Asymmetric autoencoder with SVD regularization for multivariate time series anomaly detection.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006469)
+
+   *Yueyue Yao, Jianghong Ma, Shanshan Feng, and Yunming Ye.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
