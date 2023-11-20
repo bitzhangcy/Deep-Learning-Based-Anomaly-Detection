@@ -917,6 +917,10 @@ Contributed by Chunyang Zhang.
 
    *Haoyi Fan, Ruidong Wang, Xunhua Huang, Fengbin Zhang, Zuoyong Li, and Shimei Su.* 
 
+1. **Few-shot message-enhanced contrastive learning for graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.10370)
+
+   *Fan Xu, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, and Xibin Zhao.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -2419,6 +2423,10 @@ Contributed by Chunyang Zhang.
 1. **Open-set multivariate time-series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12294)
 
    *Thomas Lai, Thi Kieu Khanh Ho, and Narges Armanfard.*
+
+1. **SSB: Simple but strong baseline for boosting performance of open-set semi-supervised learning.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.html)
+
+   *Yue Fan, Anna Kukleva, Dengxin Dai, and Bernt Schiele.*
 
 ### [Neural Process](#content)
 1. **Semi-supervised anomaly detection via neural process.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10102264)
