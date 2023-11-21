@@ -1963,6 +1963,10 @@ Contributed by Chunyang Zhang.
 
    *Haotian Zheng, Qizhou Wang, Zhen Fang, Xiaobo Xia, Feng Liu, Tongliang Liu, and Bo Han.* 
 
+1. **NNG-Mix: Improving semi-supervised anomaly detection with pseudo-anomaly generation.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.11961)
+
+   *Hao Dong, Gaëtan Frusque, Yue Zhao, Eleni Chatzi, and Olga Fink.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
