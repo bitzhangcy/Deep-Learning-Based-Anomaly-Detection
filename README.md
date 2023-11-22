@@ -2419,6 +2419,10 @@ Contributed by Chunyang Zhang.
 
    *Yixin Liu, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, and Shirui Pan.*
 
+1. **Explainable anomaly detection using masked latent generative modeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12550)
+
+   *Daesoo Lee, Sara Malacarne, and Erlend Aune.*
+
 ### [Open Set](#content)
 1. **Anomaly heterogeneity learning for open-set supervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12790)
 
