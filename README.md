@@ -986,6 +986,10 @@ Contributed by Chunyang Zhang.
 
    *Yueyue Yao, Jianghong Ma, Shanshan Feng, and Yunming Ye.*
 
+1. **Unraveling the anomaly in time series anomaly detection: A self-supervised tri-domain solution.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.11235)
+
+   *Yuting Sun, Guansong Pang, Guanhua Ye, Tong Chen, Xia Hu, and Hongzhi Yin.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1203,6 +1207,10 @@ Contributed by Chunyang Zhang.
 1. **Domain aligned CLIP for few-shot classification.** WACV, 2024. [paper](https://arxiv.org/abs/2311.09191)
 
    *Muhammad Waleed Gondal, Jochen Gast, Inigo Alonso Ruiz, Richard Droste, Tommaso Macri, Suren Kumar, and Luitpold Staudigl.* 
+
+1. **Towards few-shot out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12076)
+
+   *Jiuqing Dong, Yongbin Gao, Heng Zhou, Jun Cen, Yifan Yao, Sook Yoon, and Park Dong Sun.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
