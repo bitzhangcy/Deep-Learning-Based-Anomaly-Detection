@@ -1024,10 +1024,6 @@ Contributed by Chunyang Zhang.
 
    *Yixuan Sun and Wei Wang.* 
 
-1. **RankFeat: Rank-1 feature removal for out-of-distribution detection.** AAAI, 2022. [paper](https://arxiv.org/abs/2209.08590)
-
-   *Yue Song, Nicu Sebe, and Wei Wang.* 
-
 1. **Detect, distill and update: Learned DB systems facing out of distribution data.** SIGMOD, 2023. [paper](https://arxiv.org/abs/2210.05508)
 
    *Meghdad Kurmanji and Peter Triantafillou.* 
@@ -1211,6 +1207,10 @@ Contributed by Chunyang Zhang.
 1. **Towards few-shot out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12076)
 
    *Jiuqing Dong, Yongbin Gao, Heng Zhou, Jun Cen, Yifan Yao, Sook Yoon, and Park Dong Sun.* 
+
+1. **RankFeat&RankWeight: Rank-1 feature/weight removal for out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13959)
+
+   *Yue Song, Nicu Sebe, and Wei Wang.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
