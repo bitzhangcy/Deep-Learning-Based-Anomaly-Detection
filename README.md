@@ -1212,6 +1212,10 @@ Contributed by Chunyang Zhang.
 
    *Yue Song, Nicu Sebe, and Wei Wang.* 
 
+1. **ID-like prompt learning for few-shot out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15243)
+
+   *Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, and Qinghua Hu.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
@@ -1532,6 +1536,10 @@ Contributed by Chunyang Zhang.
 
    *Sarah Alnegheimish, Laure Berti-Equille, and Kalyan Veeramachaneni.* 
 
+1. **Towards scalable 3D anomaly detection and localization: A benchmark via 3D anomaly synthesis and a self-supervised learning network.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.14897)
+
+   *Wenqiao Li and Xiaohao Xu.* 
+
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09224)
 
@@ -1672,6 +1680,10 @@ Contributed by Chunyang Zhang.
 1. **Anomaly detection in the presence of irrelevant features.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.13057)
 
    *Marat Freytsis, Maxim Perelstein, and Yik Chuen San.* 
+
+1. **Batchnorm-based weakly supervised video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15367)
+
+   *Yixuan Zhou, Yi Qu, Xing Xu, Fumin Shen, Jingkuan Song, and Hengtao Shen.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
@@ -2183,6 +2195,11 @@ Contributed by Chunyang Zhang.
 1. **Unsupervised anomaly detection & diagnosis: A Stein variational gradient descent approach.** CIKM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615167)
 
    *Zhichao Chen, Leilei Ding, Jianmin Huang, Zhixuan Chu, Qingyang Dai, and Hao Wang.* 
+
+1. **Set features for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.14773)
+
+   *Niv Cohen, Issar Tzachor, and Yedid Hoshen.* 
+
 ### [Support Vector](#content)
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
 
