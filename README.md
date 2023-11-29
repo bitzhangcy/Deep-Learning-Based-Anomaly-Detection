@@ -2151,6 +2151,10 @@ Contributed by Chunyang Zhang.
 
    *Jiankai Tu, Huan Liu, and Chunguang Li.* 
 
+1. **Mutual information maximization for semi-supervised anomaly detection.** KBS, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009462)
+
+   *Shuo Liu and Maozai Tian.* 
+
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
 
@@ -2332,6 +2336,10 @@ Contributed by Chunyang Zhang.
 1. **Outlier detection using three-way neighborhood characteristic regions and corresponding fusion measurement.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10239460)
 
    *Xianyong Zhang, Zhong Yuan, and Duoqian Miao.*
+
+1. **Autonomous anomaly detection for streaming data.** KBS, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009851)
+
+   *Muhammad Yunus Bin Iqbal Basheer, Azliza Mohd Ali, Nurzeatul Hamimah Abdul Hamid, Muhammad Azizi Mohd Ariffin, Rozianawaty Osman, Sharifalillah Nordin, and Xiaowei Gu.*
 
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
@@ -2577,6 +2585,10 @@ Contributed by Chunyang Zhang.
 1. **MTS-DVGAN: Anomaly detection in cyber-physical systems using a dual variational generative adversarial network.** Computers & Security, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404823004807)
 
    *Haili Sun, Yan Huang, Lansheng Han, Cai Fu, Hongle Liu, and Xiang Long.* 
+
+1. **Adversarial attacks against dynamic graph neural networks via node injection.** High-Confidence Computing, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S2667295223000831)
+
+   *Yanan Jiang and Hui Xia.* 
 
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
