@@ -1220,6 +1220,10 @@ Contributed by Chunyang Zhang.
 
    *Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, and Qinghua Hu.* 
 
+1. **Segment every out-of-distribution object.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16516)
+
+   *Wenjie Zhao, Jia Li, Xin Dong, Yu Xiang, and Yunhui Guo1.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
