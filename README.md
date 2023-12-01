@@ -318,6 +318,10 @@ Contributed by Chunyang Zhang.
 
    *Hao Wang, Zhiqi Cheng, Jingdong Sun, Xin Yang, Xiao Wu, Hongyang Chen, and Yan Yang.*
 
+1. **Fast particle-based anomaly detection algorithm with variational autoencoder.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.17162)
+
+   *Ryan Liu, Abhijith Gandrakota, Jennifer Ngadiuba, Maria Spiropulu, and Jean-Roch Vlimant.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -993,6 +997,10 @@ Contributed by Chunyang Zhang.
 1. **Unraveling the anomaly in time series anomaly detection: A self-supervised tri-domain solution.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.11235)
 
    *Yuting Sun, Guansong Pang, Guanhua Ye, Tong Chen, Xia Hu, and Hongzhi Yin.*
+
+1. **A filter-augmented auto-encoder with learnable normalization for robust multivariate time series anomaly detection.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006706)
+
+   *Jiahao Yu, Xin Gao, Baofeng Li, Feng Zhai, Jiansheng Lu, Bing Xue, Shiyuan Fu, and Chun Xiao.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -1832,6 +1840,10 @@ Contributed by Chunyang Zhang.
 
    *Clement Fung, Chen Qiu, Aodong Li, and Maja Rudolph.* 
 
+1. **TransNAS-TSAD: Harnessing transformers for multi-objective neural architecture search in time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.18061)
+
+   *Ijaz Ul Haq and Byung Suk Lee.*
+
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
 
@@ -2597,6 +2609,10 @@ Contributed by Chunyang Zhang.
 1. **Adversarial attacks against dynamic graph neural networks via node injection.** High-Confidence Computing, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S2667295223000831)
 
    *Yanan Jiang and Hui Xia.* 
+
+1. **Hybrid resampling and weighted majority voting for multi-class anomaly detection on imbalanced malware and network traffic data.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623017529)
+
+   *Liang Xue and Tianqing Zhu.* 
 
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
