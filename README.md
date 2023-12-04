@@ -1230,7 +1230,11 @@ Contributed by Chunyang Zhang.
 
 1. **Segment every out-of-distribution object.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16516)
 
-   *Wenjie Zhao, Jia Li, Xin Dong, Yu Xiang, and Yunhui Guo1.* 
+   *Wenjie Zhao, Jia Li, Xin Dong, Yu Xiang, and Yunhui Guo.* 
+
+1. **Raising the Bar of AI-generated image detection with CLIP.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00195)
+
+   *Davide Cozzolino, Giovanni Poggi, Riccardo Corvi, Matthias Nießner, and Luisa Verdoliva.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
