@@ -322,6 +322,10 @@ Contributed by Chunyang Zhang.
 
    *Ryan Liu, Abhijith Gandrakota, Jennifer Ngadiuba, Maria Spiropulu, and Jean-Roch Vlimant.*
 
+1. **Dynamic erasing network based on multi-scale temporal features for weakly supervised video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01764)
+
+   *Chen Zhang, Guorong Li, Yuankai Qi, Hanhua Ye, Laiyun Qing, Ming-Hsuan Yang, and Qingming Huang.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -565,6 +569,10 @@ Contributed by Chunyang Zhang.
 1. **Transfusion -- A transparency-based diffusion model for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.09999)
 
    *Ziyun Liang, Harry Anthony, Felix Wagner, and Konstantinos Kamnitsas.*
+
+1. **Unsupervised anomaly detection using aggregated normative diffusion.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01904)
+
+   *Alexander Frotscher, Jaivardhan Kapoor, Thomas Wolfers, and Christian F. Baumgartner.*
 
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
@@ -929,6 +937,10 @@ Contributed by Chunyang Zhang.
 
    *Fan Xu, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, and Xibin Zhao.* 
 
+1. **OCGEC: One-class graph embedding classification for DNN backdoor detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01585)
+
+   *Haoyu Jiang, Haiyang Yu, Nan Li, and Ping Yi.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1235,6 +1247,10 @@ Contributed by Chunyang Zhang.
 1. **Raising the Bar of AI-generated image detection with CLIP.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00195)
 
    *Davide Cozzolino, Giovanni Poggi, Riccardo Corvi, Matthias Nießner, and Luisa Verdoliva.* 
+
+1. **Likelihood-aware semantic alignment for full-spectrum out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01732)
+
+   *Fan Lu, Kai Zhu, Kecheng Zheng, Wei Zhai, and Yang Cao.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
@@ -1701,9 +1717,13 @@ Contributed by Chunyang Zhang.
 
    *Marat Freytsis, Maxim Perelstein, and Yik Chuen San.* 
 
-1. **Batchnorm-based weakly supervised video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15367)
+1. **BatchNorm-based weakly supervised video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15367)
 
    *Yixuan Zhou, Yi Qu, Xing Xu, Fumin Shen, Jingkuan Song, and Hengtao Shen.* 
+
+1. **ADT: Agent-based dynamic thresholding for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01488)
+
+   *Xue Yang, Enda Howley, and Micheal Schukat.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
@@ -2365,6 +2385,10 @@ Contributed by Chunyang Zhang.
 
    *Muhammad Yunus Bin Iqbal Basheer, Azliza Mohd Ali, Nurzeatul Hamimah Abdul Hamid, Muhammad Azizi Mohd Ariffin, Rozianawaty Osman, Sharifalillah Nordin, and Xiaowei Gu.*
 
+1. **Bagged regularized k-distances for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01046)
+
+   *Yuchao Cai, Yuheng Ma, Hanfang Yang, and Hanyuan Hang.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
@@ -2687,6 +2711,10 @@ Contributed by Chunyang Zhang.
 1. **Log-based anomaly detection of enterprise software: An empirical study.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.20492)
 
    *Nadun Wijesinghe and Hadi Hemmati.*
+
+1. **Efficiency of unsupervised anomaly detection methods on software logs.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01934)
+
+   *Jesse Nyyssölä and Mika Mäntylä.*
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
