@@ -1014,6 +1014,10 @@ Contributed by Chunyang Zhang.
 
    *Jiahao Yu, Xin Gao, Baofeng Li, Feng Zhai, Jiansheng Lu, Bing Xue, Shiyuan Fu, and Chun Xiao.*
 
+1. **MEMTO: Memory-guided Transformer for multivariate time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.02530)
+
+   *Junho Song, Keonwoo Kim, Jeonglyul Oh, and Sungzoon Cho.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1320,6 +1324,10 @@ Contributed by Chunyang Zhang.
 1. **Distilling out-of-distribution robustness from vision-language foundation models.** NIPS, 2023. [paper](https://neurips.cc/virtual/2023/poster/70716)
 
    *Andy Zhou, Jindong Wang, Yuxiong Wang, and Haohan Wang.* 
+
+1. **Weakly supervised detection of gallucinations in LLM activations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.02798)
+
+   *Miriam Rateike, Celia Cintas, John Wamburu, Tanya Akumu, and Skyler Speakman.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
