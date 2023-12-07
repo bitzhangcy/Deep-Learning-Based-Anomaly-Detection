@@ -1818,6 +1818,10 @@ Contributed by Chunyang Zhang.
 
    *Mohammadreza M. Kalan and Samory Kpotufe.*
 
+1. **Few-shot anomaly detection with adversarial loss for robust feature representations.** BMVC, 2023. [paper](https://proceedings.bmvc2023.org/202/)
+
+   *Jae Young Lee, Wonjun Lee, Jaehyun Choi, Yongkwi Lee, Young Seog Yoon, and Samory Kpotufe.*
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
