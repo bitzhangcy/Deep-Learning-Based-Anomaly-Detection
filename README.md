@@ -574,6 +574,14 @@ Contributed by Chunyang Zhang.
 
    *Alexander Frotscher, Jaivardhan Kapoor, Thomas Wolfers, and Christian F. Baumgartner.*
 
+1. **Adversarial denoising diffusion model for unsupervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.04382)
+
+   *Jongmin Yu, Hyeontaek Oh, and Jinhong Yang.*
+
+1. **Guided reconstruction with conditioned diffusion models for unsupervised anomaly detection in brain MRIs.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.04215)
+
+   *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, and Alexander Schlaefer.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -1255,6 +1263,10 @@ Contributed by Chunyang Zhang.
 1. **Likelihood-aware semantic alignment for full-spectrum out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01732)
 
    *Fan Lu, Kai Zhu, Kecheng Zheng, Wei Zhai, and Yang Cao.* 
+
+1. **How low can you go? Surfacing prototypical in-distribution samples for unsupervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.03804)
+
+   *Felix Meissen, Johannes Getzner, Alexander Ziller, Georgios Kaissis, and Daniel Rueckert.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
@@ -2450,6 +2462,10 @@ Contributed by Chunyang Zhang.
 1. **Debunking free fusion myth: Online multi-view anomaly detection with disentangled product-of-experts modeling.** MM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612487)
 
    *Hao Wang, Zhiqi Cheng, Jingdong Sun, Xin Yang, Xiao Wu, Hongyang Chen, and Yan Yang.*
+
+1. **Multimodal industrial anomaly detection by crossmodal feature mapping.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.04521)
+
+   *Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti, and Luigi Di Stefano.*
 
 ### [Optimal Transport](#content)
 1. **Prototype-oriented unsupervised anomaly detection for multivariate time series.** ICML, 2023. [paper](https://openreview.net/forum?id=3vO4lS6PuF)
