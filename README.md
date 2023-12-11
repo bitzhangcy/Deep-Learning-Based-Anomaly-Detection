@@ -2223,6 +2223,10 @@ Contributed by Chunyang Zhang.
 
    *Shuo Liu and Maozai Tian.* 
 
+1. **Sparse anomaly detection across referentials: A rank-based higher criticism approach.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.04924)
+
+   *Ivo V. Stoepker, Rui M. Castro, and Ery Arias-Castro.* 
+
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
 
