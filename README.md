@@ -2425,6 +2425,10 @@ Contributed by Chunyang Zhang.
 
    *Yuchao Cai, Yuheng Ma, Hanfang Yang, and Hanyuan Hang.*
 
+1. **Smoothing outlier scores is all you need to improve outlier detectors.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/document/10347456)
+
+   *Jiawei Yang, Susanto Rahardja, and Pasi Fränti.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
