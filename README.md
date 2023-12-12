@@ -582,6 +582,10 @@ Contributed by Chunyang Zhang.
 
    *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, and Alexander Schlaefer.*
 
+1. **DiAD: A diffusion-based framework for multi-class anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.06607)
+
+   *Haoyang He, Jiangning Zhang, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -948,6 +952,10 @@ Contributed by Chunyang Zhang.
 1. **OCGEC: One-class graph embedding classification for DNN backdoor detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01585)
 
    *Haoyu Jiang, Haiyang Yu, Nan Li, and Ping Yi.* 
+
+1. **Reinforcement neighborhood selection for unsupervised graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05526)
+
+   *Yuanchen Bei, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.* 
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
