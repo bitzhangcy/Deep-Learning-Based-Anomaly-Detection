@@ -1765,6 +1765,10 @@ Contributed by Chunyang Zhang.
 
    *Xue Yang, Enda Howley, and Micheal Schukat.* 
 
+1. **F1-EV Score: Measuring the likelihood of estimating a good decision threshold for semi-supervised anomaly detection.** ICASSP, 2024. [paper](https://arxiv.org/abs/2312.09143)
+
+   *Kevin Wilkinghoff and Keisuke Imoto.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
