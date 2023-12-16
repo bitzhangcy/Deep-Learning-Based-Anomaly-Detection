@@ -1284,6 +1284,10 @@ Contributed by Chunyang Zhang.
 
    *Felix Meissen, Johannes Getzner, Alexander Ziller, Georgios Kaissis, and Daniel Rueckert.* 
 
+1. **EAT: Towards long-tailed out-of-distribution detection.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.08939)
+
+   *Tong Wei, Bolin Wang, and Minling Zhang.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
