@@ -1042,6 +1042,10 @@ Contributed by Chunyang Zhang.
 
    *Junho Song, Keonwoo Kim, Jeonglyul Oh, and Sungzoon Cho.*
 
+1. **Entropy causal graphs for multivariate time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09478)
+
+   *Falih Gozi Febrinanto, Kristen Moore, Chandra Thapa, Mujie Liu, Vidya Saikrishna, Jiangang Ma, and Feng Xia.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
