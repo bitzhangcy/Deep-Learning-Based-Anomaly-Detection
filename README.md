@@ -330,6 +330,10 @@ Contributed by Chunyang Zhang.
 
    *Chen Zhang, Guorong Li, Yuankai Qi, Hanhua Ye, Laiyun Qing, Ming-Hsuan Yang, and Qingming Huang.*
 
+1. **ACVAE: A novel self-adversarial variational auto-encoder combined with contrast learning for time series anomaly detection.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007281)
+
+   *Xiaoxia Zhang, Shang Shi, HaiChao Sun, Degang Chen, Guoyin Wang, and Kesheng Wu.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -1865,6 +1869,14 @@ Contributed by Chunyang Zhang.
 1. **Few-shot anomaly detection with adversarial loss for robust feature representations.** BMVC, 2023. [paper](https://proceedings.bmvc2023.org/202/)
 
    *Jae Young Lee, Wonjun Lee, Jaehyun Choi, Yongkwi Lee, Young Seog Yoon, and Samory Kpotufe.*
+
+1. **When model meets new normals: Test-time adaptation for unsupervised time-series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.11976)
+
+   *Dongmin Kim, Sunghyun Park, and Jaegul Choo.*
+
+1. **Few shot part segmentation reveals compositional logic for industrial anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.13783)
+
+   *Soopil Kim, Sion An, Philip Chikontwe, Myeongkyun Kang, Ehsan Adeli, Kilian M. Pohl, and Sanghyun Park.*
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
