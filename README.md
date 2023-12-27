@@ -1936,6 +1936,10 @@ Contributed by Chunyang Zhang.
 
    *Ijaz Ul Haq and Byung Suk Lee.*
 
+1. **HyperMix: Out-of-distribution detection and classification in few-shot settings.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15086)
+
+   *Nikhil Mehta, Kevin J Liang, Jing Huang, Fujen Chu, Li Yin, and Tal Hassner.* 
+
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
 
@@ -2151,6 +2155,14 @@ Contributed by Chunyang Zhang.
 1. **Robust fraud detection via supervised contrastive learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.10055)
 
    *Vinay M.S., Shuhan Yuan, and Xintao Wu.*
+
+1. **Understanding normalization in contrastive representation learning and out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15288)
+
+   *Tai Le-Gia and Jaehyun Ahn.*
+
+1. **Generating and reweighting dense contrastive patterns for unsupervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15911)
+
+   *Songmin Dai, Yifan Wu, Xiaoqiang Li, and Xiangyang Xue.*
 
 ### [Continual Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
