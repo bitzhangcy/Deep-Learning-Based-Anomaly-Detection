@@ -594,6 +594,10 @@ Contributed by Chunyang Zhang.
 
    *Haoyang He, Jiangning Zhang, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie.*
 
+1. **DATAELIXIR: Purifying poisoned dataset to mitigate backdoor attacks via diffusion models.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.11057)
+
+   *Jiachen Zhou, Peizhuo Lv, Yibing Lan, Guozhu Meng, Kai Chen, and Hualong Ma.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -969,6 +973,10 @@ Contributed by Chunyang Zhang.
 
    *Yuanchen Bei, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.* 
 
+1. **ADA-GAD: Anomaly-denoised autoencoders for graph anomaly detection.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.14535)
+
+   *Junwei He, Qianqian Xu, Yangbangyan Jiang, Zitai Wang, and Qingming Huang.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1074,6 +1082,14 @@ Contributed by Chunyang Zhang.
 1. **Unmasking the chameleons: A benchmark for out-of-distribution detection in medical tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16220)
 
    *Mohammad Azizmalayeri, Ameen Abu-Hanna, and Giovanni Ciná.* 
+
+1. **TDeLTA: A light-weight and robust table detection method based on learning text arrangement.** AAAI, 2024. [paper](https://arxiv.org/abs/2309.16220)
+
+   *Yang Fan, Xiangping Wu, Qingcai Chen, Heng Li, Yan Huang, Zhixiang Cai, and Qitian Wu.* 
+
+1. **How to overcome curse-of-dimensionality for out-of-distribution detection?** AAAI, 2024. [paper](https://arxiv.org/abs/2312.11043)
+
+   *Soumya Suvra Ghosal, Yiyou Sun, and Yixuan Li.* 
 
 ### [Out of Distribution](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
@@ -1295,6 +1311,14 @@ Contributed by Chunyang Zhang.
 1. **EAT: Towards long-tailed out-of-distribution detection.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.08939)
 
    *Tong Wei, Bolin Wang, and Minling Zhang.* 
+
+1. **GROOD: GRadient-aware out-Of-distribution detection in interpolated manifolds.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14427)
+
+   *Mostafa ElAraby, Sabyasachi Sahoo, Yann Pequignot, Paul Novello, and Liam Paull.* 
+
+1. **Out-of-distribution detection in long-tailed recognition with calibrated outlier class learning.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.10686)
+
+   *Wenjun Miao, Guansong Pang, Tianqi Li, Xiao Bai, and Jin Zheng.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
@@ -2034,6 +2058,10 @@ Contributed by Chunyang Zhang.
 
    *Mingxuan Ju, Tong Zhao, Wenhao Yu, Neil Shah, and Yanfang Ye.*
 
+1. **Towards reliable AI model deployments: Multiple input mixup for out-of-distribution detection.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.15514)
+
+   *Dasol Choi and Dongbin Na.*
+
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
 
@@ -2561,6 +2589,10 @@ Contributed by Chunyang Zhang.
 1. **Adversarial anomaly detection using Gaussian priors and nonlinear anomaly scores.** ICDM, 2023. [paper](https://arxiv.org/abs/2310.18091)
 
    *Fiete Lüer, Tobias Weber, Maxim Dolgich, and Christian Böhm.*
+
+1. **Invariant anomaly detection under distribution shifts: A causal perspective.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14329)
+
+   *João B. S. Carvalho, Mengtao Zhang, Robin Geyer, Carlos Cotrini, and Joachim M. Buhmann.*
 
 ### [Multi Task](#content)
 1. **Beyond dents and scratches: Logical constraints in unsupervised anomaly detection and localization.** IJCV, 2022. [paper](https://link.springer.com/article/10.1007/s11263-022-01578-9)
