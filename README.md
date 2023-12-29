@@ -1902,6 +1902,10 @@ Contributed by Chunyang Zhang.
 
    *Soopil Kim, Sion An, Philip Chikontwe, Myeongkyun Kang, Ehsan Adeli, Kilian M. Pohl, and Sanghyun Park.*
 
+1. **METER: A dynamic concept adaptation framework for online anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.16831)
+
+   *Jiaqi Zhu, Shaofeng Cai, Fang Deng, Beng Chin Ooi, and Wenqiao Zhang.*
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
@@ -2793,6 +2797,10 @@ Contributed by Chunyang Zhang.
 1. **Back to the roots: Tree-based algorithms for weakly supervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.13111)
 
    *Thorben Finke, Marie Hein, Gregor Kasieczka, Michael Krämer, Alexander Mück, Parada Prangchaikul, Tobias Quadfasel, David Shih, and Manuel Sommerhalder.* 
+
+1. **A physics-informed variational autoencoder for rapid galaxy inference and anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.16687)
+
+   *Alexander Gagliano and V. Ashley Villar.* 
 
 ### [Industry Process](#content)
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
