@@ -2066,6 +2066,10 @@ Contributed by Chunyang Zhang.
 
    *Dasol Choi and Dongbin Na.*
 
+1. **Data augmentation for supervised graph outlier detection with latent diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.17679)
+
+   *Kay Liu, Hengrui Zhang, Ziqing Hu, Fangxin Wang, and Philip S. Yu.*
+
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
 
