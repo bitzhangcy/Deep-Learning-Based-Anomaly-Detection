@@ -81,12 +81,12 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#multi-modal">3.21 Multi Modal</a></td>
     <td>&ensp;<a href="#optimal-transport">3.22 Optimal Transport</a></td>
 </tr>
-<tr>  
+<tr>
     <td>&ensp;<a href="#causal-inference">3.23 Causal Inference</a></td>
     <td>&ensp;<a href="#gaussian-process">3.24 Gaussian Process</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#multi-task">3.25 Multi Task  </a></td>
+    <td>&ensp;<a href="#multi-task">3.25 Multi Task</a></td>
     <td>&ensp;<a href="#interpretability">3.26 Interpretability</a></td>
 </tr>
 <tr>
@@ -116,14 +116,9 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#software">4.11 Software</a></td>
-    <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td>    
+    <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td> 
 </tr>
 </table>
-
-
-
-
-
 
 
 ## [Survey](#content)
@@ -222,6 +217,10 @@ Contributed by Chunyang Zhang.
 1. **Meta-survey on outlier and anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.07101)
 
    *Madalina Olteanu, Fabrice Rossi, and Florian Yger.* 
+
+1. **Anomaly detection in surveillance videos: A thematic taxonomy of deep models, review and performance analysis.** Artificial Intelligence Review, 2023. [paper](https://link.springer.com/article/10.1007/s10462-022-10258-6)
+
+   *S. Chandrakala, K. Deepak, and G. Revathy .* 
 
 
 ## [Methodology](#content) 
@@ -500,6 +499,14 @@ Contributed by Chunyang Zhang.
 
    *Ayush K. Rai, Tarun Krishna, Feiyan Hu, Alexandru Drimbarean, Kevin McGuinness, Alan F. Smeaton, and Noel E. O'Connor.*
 
+1. **Self-supervised normalizing flows for image anomaly detection and localization.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Chiu_Self-Supervised_Normalizing_Flows_for_Image_Anomaly_Detection_and_Localization_CVPRW_2023_paper.html)
+
+   *Li-Ling Chiu and Shang-Hong Lai.*
+
+1. **Normalizing flows for human pose anomaly detection.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Hirschorn_Normalizing_Flows_for_Human_Pose_Anomaly_Detection_ICCV_2023_paper.html)
+
+   *Or Hirschorn and Shai Avidan.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -594,9 +601,14 @@ Contributed by Chunyang Zhang.
 
    *Haoyang He, Jiangning Zhang, Hongxu Chen, Xuhai Chen, Zhishan Li, Xu Chen, Yabiao Wang, Chengjie Wang, and Lei Xie.*
 
+1. **Feature prediction diffusion model for video anomaly detection.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.html)
+
+   *Cheng Yan, Shiyu Zhang, Yang Liu, Guansong Pang, and Wenjun Wang.*
+
 1. **DATAELIXIR: Purifying poisoned dataset to mitigate backdoor attacks via diffusion models.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.11057)
 
    *Jiachen Zhou, Peizhuo Lv, Yibing Lan, Guozhu Meng, Kai Chen, and Hualong Ma.*
+
 
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
@@ -718,6 +730,10 @@ Contributed by Chunyang Zhang.
 1. **Exploring plain ViT reconstruction for multi-class unsupervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.07495)
 
    *Jiangning Zhang, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, and Dacheng Tao.* 
+
+1. **Self-supervised masked convolutional transformer block for anomaly detection.** TPAMI, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10273635)
+
+   *Neelu Madan, Nicolae-Cătălin Ristea, Radu Tudor Ionescu, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, and Mubarak Shah.* 
 
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
@@ -1393,9 +1409,13 @@ Contributed by Chunyang Zhang.
 
    *Miriam Rateike, Celia Cintas, John Wamburu, Tanya Akumu, and Skyler Speakman.* 
 
-1. **How well does GPT-4v(ision) adapt to distribution shifts? A preliminary investigation.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.07424)
+1. **How well does GPT-4V(ision) adapt to distribution shifts? A preliminary investigation.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.07424)
 
    *Zhongyi Han, Guanglin Zhou, Rundong He, Jindong Wang, Xing Xie, Tailin Wu, Yilong Yin, Salman Khan, Lina Yao, Tongliang Liu, and Kun Zhang.* 
+
+1. **overlooked video classification in weakly supervised video anomaly detection.** WACV, 2024. [paper](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.html)
+
+   *Weijun Tan, Qi Yao, and Jingfeng Liu.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
@@ -1495,6 +1515,10 @@ Contributed by Chunyang Zhang.
 
    *Yang Wang, Jiaogen Zhou, and Jihong Guan.* 
 
+1. **MGFN: Magnitude-contrastive glance-and-focus network for weakly-supervised video anomaly detection.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25112)
+
+   *Yingxian Chen, Zhengzhe Liu, Baoheng Zhang, Wilton Fok, Xiaojuan Qi, and Yik-Chung Wu.* 
+
 ### [Nonparametric Approach](#content)
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
 
@@ -1578,6 +1602,10 @@ Contributed by Chunyang Zhang.
 1. **The voraus-AD dataset for anomaly detection in robot applications.** TRO, 2023. [paper](https://arxiv.org/abs/2311.04765)
 
    *Jan Thieß Brockmann, Marco Rudolph, Bodo Rosenhahn, and Bastian Wandt.* 
+
+1. **A new comprehensive benchmark for semi-supervised video anomaly detection and anticipation.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_A_New_Comprehensive_Benchmark_for_Semi-Supervised_Video_Anomaly_Detection_and_CVPR_2023_paper.html)
+
+   *Congqi Cao, Yue Lu, Peng Wang, and Yanning Zhang.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
@@ -1729,7 +1757,7 @@ Contributed by Chunyang Zhang.
 
    *Aodong Li, Chen Qiu, Padhraic Smyth, Marius Kloft, Stephan Mandt, and Maja Rudolph.* 
 
-1. **Diversity-measurable anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
+1. **Diversity-measurable anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Diversity-Measurable_Anomaly_Detection_CVPR_2023_paper.html)
 
    *Wenrui Liu, Hong Chang, Bingpeng Ma, Shiguang Shan, and Xilin Chen.* 
 
@@ -1800,6 +1828,10 @@ Contributed by Chunyang Zhang.
 1. **ADT: Agent-based dynamic thresholding for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01488)
 
    *Xue Yang, Enda Howley, and Micheal Schukat.* 
+
+1. **Pni : Industrial anomaly detection using position and neighborhood information.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.html)
+
+   *Jaehyeok Bae, Jae-Han Lee, and Seyun Kim.* 
 
 1. **F1-EV Score: Measuring the likelihood of estimating a good decision threshold for semi-supervised anomaly detection.** ICASSP, 2024. [paper](https://arxiv.org/abs/2312.09143)
 
@@ -1906,6 +1938,14 @@ Contributed by Chunyang Zhang.
 
    *Jiaqi Zhu, Shaofeng Cai, Fang Deng, Beng Chin Ooi, and Wenqiao Zhang.*
 
+1. **Zero-shot versus many-shot: Unsupervised texture anomaly detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Aota_Zero-Shot_Versus_Many-Shot_Unsupervised_Texture_Anomaly_Detection_WACV_2023_paper.html)
+
+   *Toshimichi Aota, Lloyd Teh Tzer Tong, and Takayuki Okatani.*
+
+1. **Anomaly detection with domain adaptation.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Yang_Anomaly_Detection_With_Domain_Adaptation_CVPRW_2023_paper.html)
+
+   *Ziyi Yang, Iman Soltani, and Eric Darve.*
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
@@ -1985,7 +2025,7 @@ Contributed by Chunyang Zhang.
 
    *Shinji Yamada, Satoshi Kamiya, and Kazuhiro Hotta.* 
 
-1. **DeSTSeg: Segmentation guided denoising student-teacher for anomaly detection.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.11317)
+1. **DeSTSeg: Segmentation guided denoising student-teacher for anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.html)
 
    *Xuan Zhang, Shiyu Li, Xi Li, Ping Huang, Jiulong Shan, and Ting Chen.* 
 
@@ -2012,6 +2052,22 @@ Contributed by Chunyang Zhang.
 1. **Prior knowledge guided network for video anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01682)
 
    *Zhewen Deng, Dongyue Chen, and Shizhuo Deng.* 
+
+1. **Asymmetric Student-Teacher Networks for Industrial Anomaly Detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Rudolph_Asymmetric_Student-Teacher_Networks_for_Industrial_Anomaly_Detection_WACV_2023_paper.html)
+
+   *Marco Rudolph, Tom Wehrbein, Bodo Rosenhahn, and Bastian Wandt.* 
+
+1. **Attention-conditioned augmentations for self-supervised anomaly detection and localization.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26720)
+
+   *Behzad Bozorgtabar and Dwarikanath Mahapatra.* 
+
+1. **EfficientAD: Accurate visual anomaly detection at millisecond-level latencies.** WACV, 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/html/Batzner_EfficientAD_Accurate_Visual_Anomaly_Detection_at_Millisecond-Level_Latencies_WACV_2024_paper.html)
+
+   *Kilian Batzner, Lars Heckler, and Rebecca König.* 
+
+1. **Revisiting reverse distillation for anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.html)
+
+   *Tran Dinh Tien, Anh Tuan Nguyen, Nguyen Hoang Tran, Ta Duc Huy, Soan T.M. Duong, Chanh D. Tr. Nguyen, and Steven Q. H. Truong.* 
 
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
@@ -2069,6 +2125,14 @@ Contributed by Chunyang Zhang.
 1. **Data augmentation for supervised graph outlier detection with latent diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.17679)
 
    *Kay Liu, Hengrui Zhang, Ziqing Hu, Fangxin Wang, and Philip S. Yu.*
+
+1. **No shifted augmentations (NSA): Compact distributions for robust self-supervised anomaly detection.** WACV, 2023. [paper](https://openaccess.thecvf.com/content/WACV2023/html/Yousef_No_Shifted_Augmentations_NSA_Compact_Distributions_for_Robust_Self-Supervised_Anomaly_WACV_2023_paper.html)
+
+   *Mohamed Yousef, Marcel Ackermann, Unmesh Kurup, and Tom Bishop.*
+
+1. **What makes a good data augmentation for few-shot unsupervised image anomaly detection?** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Zhang_What_Makes_a_Good_Data_Augmentation_for_Few-Shot_Unsupervised_Image_CVPRW_2023_paper.html)
+
+   *Lingrui Zhang, Shuheng Zhang, Guoyang Xie, Jiaqi Liu, Hua Yan, Jinbao Wang, Feng Zheng, and Yaochu Jin.*
 
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
@@ -2139,6 +2203,10 @@ Contributed by Chunyang Zhang.
 
    *Hao Dong, Gaëtan Frusque, Yue Zhao, Eleni Chatzi, and Olga Fink.* 
 
+1. **Exploiting completeness and uncertainty of pseudo labels for weakly supervised video anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Exploiting_Completeness_and_Uncertainty_of_Pseudo_Labels_for_Weakly_Supervised_CVPR_2023_paper.html)
+
+   *Chen Zhang, Guorong Li, Yuankai Qi, Shuhui Wang, Laiyun Qing, Qingming Huang, and Ming-Hsuan Yang.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -2199,6 +2267,14 @@ Contributed by Chunyang Zhang.
 1. **Generating and reweighting dense contrastive patterns for unsupervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15911)
 
    *Songmin Dai, Yifan Wu, Xiaoqiang Li, and Xiangyang Xue.*
+
+1. **Mean-shifted contrastive loss for anomaly detection.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25309)
+
+   *Tal Reiss and Yedid Hoshen.*
+
+1. **Hierarchical semantic contrast for scene-aware video anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Hierarchical_Semantic_Contrast_for_Scene-Aware_Video_Anomaly_Detection_CVPR_2023_paper.html)
+
+   *Shengyang Sun and Xiaojin Gong.*
 
 ### [Continual Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
@@ -2368,6 +2444,10 @@ Contributed by Chunyang Zhang.
 
    *Niv Cohen, Issar Tzachor, and Yedid Hoshen.* 
 
+1. **N-Pad: Neighboring pixel-based industrial anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Jang_N-Pad_Neighboring_Pixel-Based_Industrial_Anomaly_Detection_CVPRW_2023_paper.html)
+
+   *JunKyu Jang, Eugene Hwang, and Sung-Hyuk Park.* 
+
 ### [Support Vector](#content)
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
 
@@ -2513,6 +2593,10 @@ Contributed by Chunyang Zhang.
 
    *Jiawei Yang, Susanto Rahardja, and Pasi Fränti.*
 
+1. **K-NNN: Nearest neighbors of neighbors for anomaly detection.** WACV, 2024. [paper](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/html/Nizan_K-NNN_Nearest_Neighbors_of_Neighbors_for_Anomaly_Detection_WACVW_2024_paper.html)
+
+   *Ori Nizan and Ayellet Tal.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
@@ -2623,6 +2707,10 @@ Contributed by Chunyang Zhang.
 
    *Alexandros Stergiou, Brent De Weerdt, and Nikos Deligiannis.*
 
+1. **Multi-task learning based video anomaly detection with attention.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Baradaran_Multi-Task_Learning_Based_Video_Anomaly_Detection_With_Attention_CVPRW_2023_paper.html)
+
+   *Mohammad Baradaran and Robert Bergevin.*
+
 ### [Interpretability](#content)
 1. **Transparent anomaly detection via concept-based explanations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.10702)
 
@@ -2713,6 +2801,10 @@ Contributed by Chunyang Zhang.
 1. **Image-pointcloud fusion based anomaly detection using PD-REAL dataset.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.04095)
 
    *Jianjian Qin, Chunzhi Gu, Jun Yu, and Chao Zhang.*
+
+1. **Back to the feature: Classical 3D features are (almost) all you need for 3D anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Horwitz_Back_to_the_Feature_Classical_3D_Features_Are_Almost_All_CVPRW_2023_paper.html)
+
+   *Eliahu Horwitz and Yedid Hoshen.*
 
 ### [Autonomous Driving](#content)
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
