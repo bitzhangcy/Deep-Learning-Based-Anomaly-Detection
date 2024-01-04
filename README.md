@@ -2025,6 +2025,10 @@ Contributed by Chunyang Zhang.
 
    *Shinji Yamada, Satoshi Kamiya, and Kazuhiro Hotta.* 
 
+1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
+
+   *Hanqiu Deng and Xingyu Li.* 
+
 1. **DeSTSeg: Segmentation guided denoising student-teacher for anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.html)
 
    *Xuan Zhang, Shiyu Li, Xi Li, Ping Huang, Jiulong Shan, and Ting Chen.* 
