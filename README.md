@@ -93,7 +93,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#neural-process">3.27 Neural Process</a></td>
     <td>&ensp;<a href="#online-learning">3.28 Online Learning</a></td>
 </tr>
-<tr><td colspan="2"><a href="#methods">4. Application</a></td></tr>
+<tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
     <td>&ensp;<a href="#finance">4.1 Finance</a></td>
     <td>&ensp;<a href="#point-cloud">4.2 Point Cloud</a></td>
@@ -119,6 +119,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td> 
 </tr>
 </table>
+
 
 
 ## [Survey](#content)
@@ -522,7 +523,7 @@ Contributed by Chunyang Zhang.
 
 1. **Anomaly detection with conditioned denoising diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15956)
 
-   *Arian Mousakhan, Thomas Brox, and  Jawad Tayyub.* 
+   *Arian Mousakhan, Thomas Brox, and Jawad Tayyub.* 
 
 1. **Unsupervised out-of-distribution detection with diffusion inpainting.** ICML, 2023. [paper](https://openreview.net/forum?id=HiX1ybkFMl)
 
@@ -801,7 +802,7 @@ Contributed by Chunyang Zhang.
 
 1. **Lossy compression for robust unsupervised time-series anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2212.02303)
 
-   *Christopher P. Ley and  Jorge F. Silva.* 
+   *Christopher P. Ley and Jorge F. Silva.* 
 
 1. **Learning second order local anomaly for general face forgery detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.html)
 
@@ -1161,7 +1162,7 @@ Contributed by Chunyang Zhang.
 
 1. **Out-of-distribution detection with implicit outlier transformation.** ICLR, 2023. [paper](https://openreview.net/forum?id=hdghx6wbGuD)
 
-   *Qizhou Wang,  Junjie Ye, Feng Liu, Quanyu Dai, Marcus Kalander, Tongliang Liu, Jianye Hao, and Bo Han.* 
+   *Qizhou Wang, Junjie Ye, Feng Liu, Quanyu Dai, Marcus Kalander, Tongliang Liu, Jianye Hao, and Bo Han.* 
 
 1. **Out-of-distribution representation learning for time series classification.** ICLR, 2023. [paper](https://openreview.net/forum?id=gUZWOE42l6Q)
 
@@ -1835,7 +1836,7 @@ Contributed by Chunyang Zhang.
 
 1. **Template-guided hierarchical feature restoration for anomaly detection.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
 
-   *Hewei Guo, Liping Ren, Jingjing Fu, Yuwang Wang, Zhizheng Zhang, Cuiling Lan, Haoqian Wang, and  Xinwen Hou.* 
+   *Hewei Guo, Liping Ren, Jingjing Fu, Yuwang Wang, Zhizheng Zhang, Cuiling Lan, Haoqian Wang, and Xinwen Hou.* 
 
 1. **Anomaly detection in the presence of irrelevant features.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.13057)
 
@@ -1894,7 +1895,7 @@ Contributed by Chunyang Zhang.
 
    *Aodong Li, Chen Qiu, Marius Kloft, Padhraic Smyth, Maja Rudolph, and Stephan Mandt.* 
 
-1. **Pushing the limits of fewshot anomaly detection in industry vision:  A graphcore.** ICLR, 2023. [paper](https://openreview.net/forum?id=xzmqxHdZAwO)
+1. **Pushing the limits of fewshot anomaly detection in industry vision: A graphcore.** ICLR, 2023. [paper](https://openreview.net/forum?id=xzmqxHdZAwO)
 
    *Guoyang Xie, Jinbao Wang, Jiaqi Liu, Yaochu Jin, and Feng Zheng.* 
 
@@ -1916,7 +1917,7 @@ Contributed by Chunyang Zhang.
 
 1. **A zero-/few-shot anomaly classification and segmentation method for CVPR 2023 VAND workshop challenge tracks 1&2: 1st place on zero-shot AD and 4th place on few-shot AD.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.17382)
 
-   *Xuhai Chen, Yue Han, and  Jiangning Zhang.* 
+   *Xuhai Chen, Yue Han, and Jiangning Zhang.* 
 
 1. **Winning solution for the CVPR2023 visual anomaly and novelty detection challenge: Multimodal prompting for data-centric anomaly detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.09067)
 
@@ -1936,7 +1937,7 @@ Contributed by Chunyang Zhang.
 
 1. **AutoML for outlier detection with optimal Ttransport distances.** IJCAI, 2023. [paper](https://www.ijcai.org/proceedings/2023/843)
 
-   *Prabhant Singh and  Joaquin Vanschoren.*
+   *Prabhant Singh and Joaquin Vanschoren.*
 
 1. **AutoML for outlier detection with optimal Ttransport distances.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)
 
@@ -2795,7 +2796,7 @@ Contributed by Chunyang Zhang.
 
 1. **Adversarial machine learning attacks against video anomaly detection systems.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Mumcu_Adversarial_Machine_Learning_Attacks_Against_Video_Anomaly_Detection_Systems_CVPRW_2022_paper.html)
 
-   *Furkan Mumcu, Keval Doshi,  and Yasin Yilmaz.* 
+   *Furkan Mumcu, Keval Doshi, and Yasin Yilmaz.* 
 
 1. **Financial time series forecasting using CNN and Transformer.** AAAI, 2023. [paper](https://arxiv.org/abs/2304.04912)
 
@@ -2870,7 +2871,7 @@ Contributed by Chunyang Zhang.
 
 1. **Dual conditioned diffusion models for out-of-distribution detection: Application to fetal ultrasound videos.** MICCAI, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_21)
 
-   *Divyanshu Mishra, He Zhao, Pramit Saha, Aris T. Papageorghiou, and J. Alison Noble  .*
+   *Divyanshu Mishra, He Zhao, Pramit Saha, Aris T. Papageorghiou, and J. Alison Noble.*
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
