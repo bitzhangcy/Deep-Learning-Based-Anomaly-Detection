@@ -549,8 +549,7 @@ Contributed by Chunyang Zhang.
 
    *Yuhang Chen, Chaoyun Zhang, Minghua Ma, Yudong Liu, Ruomeng Ding, Bowen Li, Shilin He, Saravan Rajmohan, Qingwei Lin, and Dongmei Zhang.* 
 
-1. **Multimodal motion conditioned diffusion model for skeleton-based video
-   anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07205)
+1. **Multimodal motion conditioned diffusion model for skeleton-based video anomaly detection.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.html)
 
    *Alessandro Flaborea, Luca Collorone, Guido Maria D’Amely di Melendugno, Stefano D’Arrigo, Bardh Prenkaj, and Fabio Galasso.*
 
@@ -578,7 +577,7 @@ Contributed by Chunyang Zhang.
 
    *Xuan Li, Chunjing Xiao, Ziliang Feng, Shikang Pang, Wenxin Tai, and Fan Zhou.*
 
-1. **Unsupervised surface anomaly detection with diffusion probabilistic model.**ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
+1. **Unsupervised surface anomaly detection with diffusion probabilistic model.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
 
    *Matic Fučka, Vitjan Zavrtanik, and Danijel Skočaj.*
 
@@ -1304,6 +1303,10 @@ Contributed by Chunyang Zhang.
 
    *Jiuqing Dong, Yongbin Gao, Heng Zhou, Jun Cen, Yifan Yao, Sook Yoon, and Park Dong Sun.* 
 
+1. **Denoising diffusion models for out-of-distribution detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Graham_Denoising_Diffusion_Models_for_Out-of-Distribution_Detection_CVPRW_2023_paper.html)
+
+   *Mark S. Graham, Walter H.L. Pinaya, Petru-Daniel Tudosiu, Parashkev Nachev, Sebastien Ourselin, and Jorge Cardoso.* 
+
 1. **RankFeat&RankWeight: Rank-1 feature/weight removal for out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13959)
 
    *Yue Song, Nicu Sebe, and Wei Wang.* 
@@ -1700,6 +1703,10 @@ Contributed by Chunyang Zhang.
 1. **Towards scalable 3D anomaly detection and localization: A benchmark via 3D anomaly synthesis and a self-supervised learning network.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.14897)
 
    *Wenqiao Li and Xiaohao Xu.* 
+
+1. **AUPIMO: Redefining visual anomaly detection benchmarks with high speed and low tolerance.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.01984)
+
+   *Joao P. C. Bertoldo, Dick Ameln, Ashwin Vaidya, and Samet Akçay.* 
 
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09224)
@@ -2971,6 +2978,14 @@ Contributed by Chunyang Zhang.
 1. **Self-supervised variational graph autoencoder for system-level anomaly detection.** TIM, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10285620)
 
    *Le Zhang, Wei Cheng, Ji Xing, Xuefeng Chen, Zelin Nie, Shuo Zhang, Junying Hong, and Zhao Xu.*
+
+1. **Distillation-based fabric anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.02287)
+
+   *Simon Thomine and Hichem Snoussi.*
+
+1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2024. [paper](https://arxiv.org/abs/2305.15652)
+
+   *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
