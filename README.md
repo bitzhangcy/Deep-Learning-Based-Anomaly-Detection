@@ -3000,6 +3000,10 @@ Contributed by Chunyang Zhang.
 
    *Jesse Nyyssölä and Mika Mäntylä.*
 
+1. **SpikeLog: Log-based anomaly detection via potential-assisted spiking neuron network.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10375739)
+
+   *Jiaxing Qi, Zhongzhi Luan, Shaohan Huang, Carol Fung, Hailong Yang, and Depei Qian.*
+
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
 
