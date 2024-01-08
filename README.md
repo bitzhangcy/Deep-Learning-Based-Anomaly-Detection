@@ -613,6 +613,10 @@ Contributed by Chunyang Zhang.
 
    *Jiachen Zhou, Peizhuo Lv, Yibing Lan, Guozhu Meng, Kai Chen, and Hualong Ma.*
 
+1. **Controlled graph neural networks with denoising diffusion for anomaly detection.** Expert Systems with Applications, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423020353)
+
+   *Xuan Li, Chunjing Xiao, Ziliang Feng, Shikang Pang, Wenxin Tai, and Fan Zhou.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -2006,6 +2010,10 @@ Contributed by Chunyang Zhang.
 1. **Temporal shift - multi-objective loss function for improved anomaly fall detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.02863)
 
    *Stefan Denkovski, Shehroz S. Khan, and Alex Mihailidis.* 
+
+1. **MOODv2: Masked image modeling for out-of-distribution detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.02611)
+
+   *Jingyao Li, Pengguang Chen, Shaozuo Yu, Shu Liu, and Jiaya Jia.* 
 
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
