@@ -1081,6 +1081,10 @@ Contributed by Chunyang Zhang.
 
    *Falih Gozi Febrinanto, Kristen Moore, Chandra Thapa, Mujie Liu, Vidya Saikrishna, Jiangang Ma, and Feng Xia.*
 
+1. **Label-free multivariate time series anomaly detection.** TKDE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10380724)
+
+   *Qihang Zhou, Shibo He, Haoyu Liu, Jiming Chen, and Wenchao Meng.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
