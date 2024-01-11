@@ -617,6 +617,10 @@ Contributed by Chunyang Zhang.
 
    *Xuan Li, Chunjing Xiao, Ziliang Feng, Shikang Pang, Wenxin Tai, and Fan Zhou.*
 
+1. **D3AD: Dynamic denoising diffusion probabilistic model for anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.04463)
+
+   *Justin Tebbe and Jawad Tayyub.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
