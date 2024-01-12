@@ -1445,6 +1445,10 @@ Contributed by Chunyang Zhang.
 
    *Weijun Tan, Qi Yao, and Jingfeng Liu.* 
 
+1. **Video anomaly detection and explanation via large language models.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.05702)
+
+   *Hui Lv and Qianru Sun.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
