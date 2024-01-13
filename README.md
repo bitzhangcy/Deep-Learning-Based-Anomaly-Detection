@@ -1470,6 +1470,10 @@ Contributed by Chunyang Zhang.
 
    *Daochen Zha, Kwei-Herng Lai, Mingyang Wan, and Xia Hu.* 
 
+1. **Semi-supervised learning via DQN for log anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.03151)
+
+   *Yingying He, Xiaobing Pei, and Lihong Shen.* 
+
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
 
@@ -3006,6 +3010,10 @@ Contributed by Chunyang Zhang.
 1. **Towards total online unsupervised anomaly detection and localization in industrial vision.** arXiv, 2024. [paper](https://arxiv.org/abs/2305.15652)
 
    *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
+
+1. **Adaptable and interpretable framework for anomaly detection in SCADA-based industrial systems.** Expert Systems with Applications, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424000654)
+
+   *Marek Wadinger and Michal Kvasnica.*
 
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
