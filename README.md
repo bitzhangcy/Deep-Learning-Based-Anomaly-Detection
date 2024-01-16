@@ -1089,6 +1089,10 @@ Contributed by Chunyang Zhang.
 
    *Qihang Zhou, Shibo He, Haoyu Liu, Jiming Chen, and Wenchao Meng.*
 
+1. **Quantile-long short term memory: A robust, time series anomaly detection method.** TAI, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10398596)
+
+   *Snehanshu Saha, Jyotirmoy Sarkar, Soma Dhavala, Preyank Mota, and Santonu Sarkar.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1892,6 +1896,10 @@ Contributed by Chunyang Zhang.
 1. **F1-EV Score: Measuring the likelihood of estimating a good decision threshold for semi-supervised anomaly detection.** ICASSP, 2024. [paper](https://arxiv.org/abs/2312.09143)
 
    *Kevin Wilkinghoff and Keisuke Imoto.* 
+
+1. **Can untrained neural networks detect anomalies?** TII, 2024. [paper](https://ieeexplore.ieee.org/document/10391266)
+
+   *Seunghyoung Ryu, Yonggyun Yu, and Hogeon Seo.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
@@ -2849,6 +2857,10 @@ Contributed by Chunyang Zhang.
 
    *Sarah Alnegheimish, Laure Berti-Equille, and Kalyan Veeramachaneni.* 
 
+1. **Graph autoencoder anomaly detection for e-commerce application by contextual integrating contrast with reconstruction and complementarity.** TCE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10388006)
+
+   *Jinjie Wu, Zhipeng Qiu, Zhixia Zeng, Ruliang Xiao, Imad Rida, and Shi Zhang.* 
+
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
 
@@ -2896,7 +2908,7 @@ Contributed by Chunyang Zhang.
    *Iman Taheri Sarteshnizi, Saeed Asadi Bagloee, Majid Sarvi, and Neema Nassir.*
 
 ### [Medical Image](#content)
-1. **SWSSL: Sliding window-based self-supervised learning for anomaly detection in high-resolution images.** IEEE Transactions on Medical Imaging, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
+1. **SWSSL: Sliding window-based self-supervised learning for anomaly detection in high-resolution images.** TMI, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
 
    *Haoyu Dong, Yifan Zhang, Hanxue Gu, Nicholas Konz, Yixin Zhang, and Maciej A Mazurowskii.*
 
@@ -2926,7 +2938,7 @@ Contributed by Chunyang Zhang.
 
    *Shanshan Han, Wenxuan Wu, Baturalp Buyukates, Weizhao Jin, Yuhang Yao, Qifan Zhang, Salman Avestimehr, and Chaoyang He.* 
 
-1. **Adaptive-correlation-aware unsupervised deep learning for anomaly detection in cyber-physical systems.** IEEE Transactions on Dependable and Secure Computing, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10265213)
+1. **Adaptive-correlation-aware unsupervised deep learning for anomaly detection in cyber-physical systems.** TDSC, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10265213)
 
    *Liang Xi, Dehua Miao, Menghan Li, Ruidong Wang, Han Liu, and Xunhua Huang.* 
 
@@ -2983,7 +2995,7 @@ Contributed by Chunyang Zhang.
 
    *Qinghua Xu, Shaukat Ali, Tao Yue, Zaimovic Nedim, and Inderjeet Singh.* 
 
-1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.** IEEE Transactions on Consumer Electronics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
+1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.**TCE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
 
    *Huan Zhang, Neeraj Kumar, Sheng Wu, Chunlei Wu, Jian Wang, and Peiying Zhang.* 
 
@@ -2995,7 +3007,7 @@ Contributed by Chunyang Zhang.
 
    *Yuxuan Cai, Dingkang Liang, Dongliang Luo, Xinwei He, Xin Yang, and Xiang Bai.* 
 
-1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.** IEEE Transactions on Consumer Electronics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
+1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.** TCE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
 
    *Huan Zhang, Neeraj Kumar, Sheng Wu, Chunlei Wu, Jian Wang, and Peiying Zhang.* 
 
@@ -3018,6 +3030,10 @@ Contributed by Chunyang Zhang.
 1. **Adaptable and interpretable framework for anomaly detection in SCADA-based industrial systems.** Expert Systems with Applications, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424000654)
 
    *Marek Wadinger and Michal Kvasnica.*
+
+1. **Graph structure change-based anomaly detection in multivariate time series of industrial processes.** TII, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10391270)
+
+   *Zhen Zhang, Zhiqiang Geng, and Yongming Han.*
 
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
