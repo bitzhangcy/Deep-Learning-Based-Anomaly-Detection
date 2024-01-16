@@ -1728,6 +1728,10 @@ Contributed by Chunyang Zhang.
 
    *Joao P. C. Bertoldo, Dick Ameln, Ashwin Vaidya, and Samet Akçay.* 
 
+1. **MTAD: Tools and benchmarks for multivariate time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.06175)
+
+   *Jinyang Liu, Wenwei Gu, Zhuangbin Chen, Yichen Li, Yuxin Su, and Michael R. Lyu.* 
+
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09224)
 
