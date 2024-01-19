@@ -1093,6 +1093,10 @@ Contributed by Chunyang Zhang.
 
    *Snehanshu Saha, Jyotirmoy Sarkar, Soma Dhavala, Preyank Mota, and Santonu Sarkar.*
 
+1. **Patchad: Patch-based mlp-mixer for time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.09793)
+
+   *Zhijie Zhong, Zhiwen Yu, Yiyuan Yang, Weizheng Wang, and Kaixiang Yang.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
