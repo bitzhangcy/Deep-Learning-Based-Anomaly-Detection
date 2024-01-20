@@ -2092,7 +2092,7 @@ Contributed by Chunyang Zhang.
 
    *Ijaz Ul Haq and Byung Suk Lee.*
 
-1. **HyperMix: Out-of-distribution detection and classification in few-shot settings.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15086)
+1. **HyperMix: Out-of-distribution detection and classification in few-shot settings.** WACV, 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/html/Mehta_HyperMix_Out-of-Distribution_Detection_and_Classification_in_Few-Shot_Settings_WACV_2024_paper.html)
 
    *Nikhil Mehta, Kevin J Liang, Jing Huang, Fujen Chu, Li Yin, and Tal Hassner.* 
 
