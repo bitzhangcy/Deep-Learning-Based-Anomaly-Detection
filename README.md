@@ -529,7 +529,7 @@ Contributed by Chunyang Zhang.
 
    *Zhenzhen Liu, Jin Peng Zhou, Yufan Wang, and Kilian Q. Weinberger.* 
 
-1. **On diffusion modeling for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18593)
+1. **On diffusion modeling for anomaly detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=lR3rk7ysXz)
 
    *Victor Livernoche, Vineet Jain, Yashar Hezaveh, and Siamak Ravanbakhsh.* 
 
@@ -940,7 +940,7 @@ Contributed by Chunyang Zhang.
 
    *Jingcan Duan, Bin Xiao, Siwei Wang, Haifang Zhou, and Xinwang Liu.*
 
-1. **Rayleigh quotient graph neural networks for graph-level anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02861)
+1. **Rayleigh quotient graph neural networks for graph-level anomaly detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=4UIBysXjVq)
 
    *Xiangyu Dong, Xingyi Zhang, and Sibo Wang.*
 
@@ -1003,6 +1003,10 @@ Contributed by Chunyang Zhang.
 1. **ADA-GAD: Anomaly-denoised autoencoders for graph anomaly detection.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.14535)
 
    *Junwei He, Qianqian Xu, Yangbangyan Jiang, Zitai Wang, and Qingming Huang.* 
+
+1. **Boosting graph anomaly detection with adaptive message passing.** ICLR, 2024. [paper](https://openreview.net/forum?id=CanomFZssu)
+
+   *Anonymous authors.* 
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -1129,6 +1133,10 @@ Contributed by Chunyang Zhang.
 1. **How to overcome curse-of-dimensionality for out-of-distribution detection?** AAAI, 2024. [paper](https://arxiv.org/abs/2312.11043)
 
    *Soumya Suvra Ghosal, Yiyou Sun, and Yixuan Li.* 
+
+1. **MCM: Masked cell modeling for anomaly detection in tabular data.** ICLR, 2024. [paper](https://openreview.net/forum?id=lNZJyEDxy4)
+
+   *Anonymous authors.* 
 
 ### [Out of Distribution](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
@@ -1421,7 +1429,7 @@ Contributed by Chunyang Zhang.
 
    *Weijia Shi, Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu, Terra Blevins, Danqi Chen, and Luke Zettlemoyer.* 
 
-1. **AnomalyCLIP: Object-agnostic prompt learning for zero-shot anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.18961)
+1. **AnomalyCLIP: Object-agnostic prompt learning for zero-shot anomaly detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=buC4E91xZE)
 
    *Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, and Jiming Chen.* 
 
@@ -1566,6 +1574,10 @@ Contributed by Chunyang Zhang.
 1. **TeD-SPAD: Temporal distinctiveness for self-supervised privacy-preservation for video anomaly detection.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Fioresi_TeD-SPAD_Temporal_Distinctiveness_for_Self-Supervised_Privacy-Preservation_for_Video_Anomaly_Detection_ICCV_2023_paper.html)
 
    *Joseph Fioresi, Ishan Rajendrakumar Dave, and Mubarak Shah.* 
+
+1. **Deep orthogonal hypersphere compression for anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=cJs4oE4m9Q)
+
+   *Anonymous authors.* 
 
 ### [Nonparametric Approach](#content)
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
@@ -2014,6 +2026,10 @@ Contributed by Chunyang Zhang.
 
    *Ziyi Yang, Iman Soltani, and Eric Darve.*
 
+1. **MuSc: Zero-shot anomaly classification and segmentation by mutual scoring of the unlabeled images.** ICLR, 2024. [paper](https://openreview.net/forum?id=AHgc5SMdtd)
+
+   *Anonymous authors.* 
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
@@ -2213,6 +2229,10 @@ Contributed by Chunyang Zhang.
 1. **What makes a good data augmentation for few-shot unsupervised image anomaly detection?** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Zhang_What_Makes_a_Good_Data_Augmentation_for_Few-Shot_Unsupervised_Image_CVPRW_2023_paper.html)
 
    *Lingrui Zhang, Shuheng Zhang, Guoyang Xie, Jiaqi Liu, Hua Yan, Jinbao Wang, Feng Zheng, and Yaochu Jin.*
+
+1. **Consistency training with learnable data augmentation for graph anomaly detection with limited supervision.** ICLR, 2024. [paper](https://openreview.net/forum?id=elMKXvhhQ9)
+
+   *Anonymous authors.*
 
 ### [Outlier Exposure](#content)
 1. **Latent outlier exposure for anomaly detection with contaminated data.** ICML, 2022. [paper](https://arxiv.org/abs/2202.08088)
