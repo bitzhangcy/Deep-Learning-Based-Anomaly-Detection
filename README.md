@@ -2944,6 +2944,10 @@ Contributed by Chunyang Zhang.
 
    *Divyanshu Mishra, He Zhao, Pramit Saha, Aris T. Papageorghiou, and J. Alison Noble.*
 
+1. **MAEDiff: Masked autoencoder-enhanced diffusion models for unsupervised anomaly detection in brain images.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10561)
+
+   *Rui Xu, Yunke Wang, and Bo Du.* 
+
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
 
