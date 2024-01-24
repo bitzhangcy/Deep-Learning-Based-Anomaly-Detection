@@ -91,7 +91,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#neural-process">3.27 Neural Process</a></td>
-    <td>&ensp;<a href="#online-learning">3.28 Online Learning</a></td>
+    <td>&ensp;<a href="#federated-learning">3.28 Federated Learning</a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -119,6 +119,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td> 
 </tr>
 </table>
+
 
 
 
@@ -1007,6 +1008,10 @@ Contributed by Chunyang Zhang.
 1. **Boosting graph anomaly detection with adaptive message passing.** ICLR, 2024. [paper](https://openreview.net/forum?id=CanomFZssu)
 
    *Anonymous authors.* 
+
+1. **Frequency domain-oriented complex graph neural networks for graph classification.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10409552)
+
+   *Youfa Liu and Bo Du.* 
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -2854,6 +2859,11 @@ Contributed by Chunyang Zhang.
 
    *Sheo Yon Jhin, Jaehoon Lee, and Noseong Park.*
 
+### [Federated Learning](#content)
+1. **FADngs: Federated learning for anomaly detection.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10409269)
+
+   *Boyu Dong, Dong Chen, Yu Wu, Siliang Tang, and Yueting Zhuang.*
+
 
 ## [Application](#content)
 ### [Finance](#content)
@@ -2884,6 +2894,10 @@ Contributed by Chunyang Zhang.
 1. **Graph autoencoder anomaly detection for e-commerce application by contextual integrating contrast with reconstruction and complementarity.** TCE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10388006)
 
    *Jinjie Wu, Zhipeng Qiu, Zhixia Zeng, Ruliang Xiao, Imad Rida, and Shi Zhang.* 
+
+1. **Unsupervised anomaly detection on attributed networks with graph contrastive learning for consumer electronics security.** TCE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10402014)
+
+   *Bo Xu, Jinpeng Wang, Zhehuan Zhao, Hongfei Lin, and Feng Xia.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
