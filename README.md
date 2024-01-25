@@ -1922,6 +1922,10 @@ Contributed by Chunyang Zhang.
 
    *Seunghyoung Ryu, Yonggyun Yu, and Hogeon Seo.* 
 
+1. **Interleaving one-class and weakly-supervised models with adaptive thresholding for unsupervised video anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.13551)
+
+   *Yongwei Nie, Hao Huang, Chengjiang Long, Qing Zhang, Pradipta Maji, and Hongmin Cai.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
@@ -1943,7 +1947,7 @@ Contributed by Chunyang Zhang.
 
    *Vincent Vercruyssen, Wannes Meert, and Jesse Davis.* 
 
-1. **FewSOME: Few shot anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.06957)
+1. **FewSome: Few shot anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.06957)
 
    *Niamh Belton, Misgina Tsighe Hagos, Aonghus Lawlor, and Kathleen M. Curran.* 
 
@@ -2446,6 +2450,10 @@ Contributed by Chunyang Zhang.
 1. **Self-supervised anomaly detection via neural autoregressive flows with active learning.** NIPS, 2021. [paper](https://openreview.net/forum?id=LdWEo5mri6)
 
    *Jiaxin Zhang, Kyle Saleeby, Thomas Feldhausen, Sirui Bi, Alex Plotkowski, and David Womble.* 
+
+1. **Multitask active learning for graph anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.13210)
+
+   *Wenjing Chang, Kay Liu, Kaize Ding, Philip S. Yu, and Jianjun Yu.* 
 
 ### [Statistics](#content)
 1. **(1+ε)-class classification: An anomaly detection method for highly imbalanced or incomplete data sets.** JMLR, 2021. [paper](https://dl.acm.org/doi/10.5555/3455716.3455788)
