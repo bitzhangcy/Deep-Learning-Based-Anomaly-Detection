@@ -1102,9 +1102,13 @@ Contributed by Chunyang Zhang.
 
    *Snehanshu Saha, Jyotirmoy Sarkar, Soma Dhavala, Preyank Mota, and Santonu Sarkar.*
 
-1. **Patchad: Patch-based mlp-mixer for time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.09793)
+1. **PatchAD: Patch-based mlp-mixer for time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.09793)
 
    *Zhijie Zhong, Zhiwen Yu, Yiyuan Yang, Weizheng Wang, and Kaixiang Yang.*
+
+1. **MELODY: Robust semi-supervised hybrid model for entity-level online anomaly detection with multivariate time series.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10338v1)
+
+   *Jingchao Ni, Gauthier Guinet, Peihong Jiang, Laurent Callot, and Andrey Kan.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -3084,6 +3088,10 @@ Contributed by Chunyang Zhang.
 1. **Graph structure change-based anomaly detection in multivariate time series of industrial processes.** TII, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10391270)
 
    *Zhen Zhang, Zhiqiang Geng, and Yongming Han.*
+
+1. **A convolutional neural network approach for image-based anomaly detection in smart agriculture.** Expert Systems with Applications, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424000757)
+
+   *José Mendoza-Bernal, Aurora González-Vidal, and Antonio F. Skarmeta.*
 
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
