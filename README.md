@@ -2393,6 +2393,10 @@ Contributed by Chunyang Zhang.
 
    *Shengyang Sun and Xiaojin Gong.*
 
+1. **Motif-aware Riemannian graph neural network with generative-contrastive learning.** AAAI, 2024. [paper](https://arxiv.org/abs/2401.01232)
+
+   *Li Sun, Zhenhao Huang, Zixi Wang, Feiyang Wang, Hao Peng, and Philip Yu.* 
+
 ### [Continual Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
 
@@ -2734,6 +2738,10 @@ Contributed by Chunyang Zhang.
 1. **Deep isolation forest for anomaly detection.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10108034)
 
    *Hongzuo Xu, Guansong Pang, Yijie Wang, and Yongjun Wang.* 
+
+1. **Self-supervised random forest on transformed distribution for anomaly detection.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10412688)
+
+   *Jiabin Liu, Huadong Wang, Hanyuan Hang, Shumin Ma, Xin Shen, and Yong Shi.* 
 
 ### [Multi Modal](#content)
 1. **Multimodal industrial anomaly detection via hybrid fusion.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.00601)
