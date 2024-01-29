@@ -3048,6 +3048,10 @@ Contributed by Chunyang Zhang.
 
    *Alexander Gagliano and V. Ashley Villar.* 
 
+1. **Towards robust hyperspectral anomaly detection: Decomposing background, anomaly, and mixed noise via convex optimization.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.14814)
+
+   *Koyo Sato and Shunsuke Ono.* 
+
 ### [Industry Process](#content)
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
 
