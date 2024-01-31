@@ -1601,6 +1601,10 @@ Contributed by Chunyang Zhang.
 
    *Hitesh Sapkota and Qi Yu.* 
 
+1. **Making parametric anomaly detection on tabular data non-parametric again.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.17052)
+
+   *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
+
 
 ## [Mechanism](#content)
 ### [Dataset](#content)
