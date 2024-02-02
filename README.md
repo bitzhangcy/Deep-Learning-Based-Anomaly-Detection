@@ -1388,6 +1388,9 @@ Contributed by Chunyang Zhang.
 
    *Wenjun Miao, Guansong Pang, Tianqi Li, Xiao Bai, and Jin Zheng.* 
 
+1. **Towards optimal feature-shaping methods for out-of-distribution detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=dm8e7gsH0d)
+
+   *Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, and Stephen Gould.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
@@ -2181,6 +2184,10 @@ Contributed by Chunyang Zhang.
 1. **Revisiting reverse distillation for anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.html)
 
    *Tran Dinh Tien, Anh Tuan Nguyen, Nguyen Hoang Tran, Ta Duc Huy, Soan T.M. Duong, Chanh D. Tr. Nguyen, and Steven Q. H. Truong.* 
+
+1. **Dual-student knowledge distillation networks for unsupervised anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.00448)
+
+   *Liyi Yao and Shaobing Gao.* 
 
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
