@@ -222,7 +222,11 @@ Contributed by Chunyang Zhang.
 
 1. **Anomaly detection in surveillance videos: A thematic taxonomy of deep models, review and performance analysis.** Artificial Intelligence Review, 2023. [paper](https://link.springer.com/article/10.1007/s10462-022-10258-6)
 
-   *S. Chandrakala, K. Deepak, and G. Revathy .* 
+   *S. Chandrakala, K. Deepak, and G. Revathy.* 
+
+1. **Revisiting VAE for unsupervised time series anomaly detection: A frequency perspective.** WWW, 2024. [paper](https://arxiv.org/abs/2402.02820)
+
+   *Zexin Wang, Changhua Pei, Minghua Ma, Xin Wang, Zhihan Li, Dan Pei, Saravan Rajmohan, Dongmei Zhang, Qingwei Lin, Haiming Zhang, Jianhui Li, and Gaogang Xie.* 
 
 
 ## [Methodology](#content) 
@@ -1391,6 +1395,14 @@ Contributed by Chunyang Zhang.
 1. **Towards optimal feature-shaping methods for out-of-distribution detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=dm8e7gsH0d)
 
    *Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, and Stephen Gould.* 
+
+1. **Learning with mixture of prototypes for out-of-distribution detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=uNkKaD3MCs)
+
+   *Haodong Lu, Dong Gong, Shuo Wang, Jason Xue, Lina Yao, and Kristen Moore.* 
+
+1. **Zero-shot object-level OOD detection with context-aware inpainting.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.03292)
+
+   *Quang-Huy Nguyen, Jin Peng Zhou, Zhenzhen Liu, Khanh-Huyen Bui, Kilian Q. Weinberger, and Dung D. Le.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
