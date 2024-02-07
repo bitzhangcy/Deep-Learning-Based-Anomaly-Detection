@@ -2808,6 +2808,10 @@ Contributed by Chunyang Zhang.
 
    *Yuxin Li, Wenchao Chen, Bo Chen, Dongsheng Wang, Long Tian, and Mingyuan Zhou.*
 
+1. **Weakly supervised anomaly detection via knowledge-data alignment.** WWW, 2024. [paper](https://arxiv.org/abs/2402.03785)
+
+   *Haihong Zhao, Chenyi Zi, Yang Liu, Chen Zhang, Yan Zhou, and Jia Li.*
+
 ### [Causal Inference](#content)
 1. **Learning causality-inspired representation consistency for video anomaly detection.** ACM MM, 2023. [paper](https://arxiv.org/abs/2308.01537)
 
