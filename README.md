@@ -1404,6 +1404,10 @@ Contributed by Chunyang Zhang.
 
    *Quang-Huy Nguyen, Jin Peng Zhou, Zhenzhen Liu, Khanh-Huyen Bui, Kilian Q. Weinberger, and Dung D. Le.* 
 
+1. **How does wild data provably help OOD detection?** ICLR, 2024. [paper](https://openreview.net/forum?id=jlEjB8MVGa)
+
+   *Xuefeng Du, Zhen Fang, Ilias Diakonikolas, and Yixuan Li.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
