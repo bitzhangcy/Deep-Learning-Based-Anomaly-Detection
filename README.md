@@ -1518,6 +1518,10 @@ Contributed by Chunyang Zhang.
 
    *Yingying He, Xiaobing Pei, and Lihong Shen.* 
 
+1. **OIL-AD: An anomaly detection framework for sequential decision sequences.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.04567)
+
+   *Chen Wang, Sarah Erfani, Tansu Alpcan, and Christopher Leckie.* 
+
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
 
@@ -1702,6 +1706,10 @@ Contributed by Chunyang Zhang.
 1. **A new comprehensive benchmark for semi-supervised video anomaly detection and anticipation.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_A_New_Comprehensive_Benchmark_for_Semi-Supervised_Video_Anomaly_Detection_and_CVPR_2023_paper.html)
 
    *Congqi Cao, Yue Lu, Peng Wang, and Yanning Zhang.* 
+
+1. **Advancing anomaly detection: An adaptation model and a new dataset.** arXiv, 2023. [paper](https://arxiv.org/abs/2402.04857)
+
+   *Liyun Zhu, Arjun Raj, and Lei Wang.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
