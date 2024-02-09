@@ -1114,6 +1114,10 @@ Contributed by Chunyang Zhang.
 
    *Jingchao Ni, Gauthier Guinet, Peihong Jiang, Laurent Callot, and Andrey Kan.*
 
+1. **Understanding time series anomaly state detection through one-class classification.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02007v1)
+
+   *Hanxu Zhou, Yuan Zhang, Guangjie Leng, Ruofan Wang, and Zhi-Qin John Xu.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1687,9 +1691,9 @@ Contributed by Chunyang Zhang.
 
    *Teddy Lazebnik and Or Iny.* 
 
-1. **PKU-GoodsAD: A supermarket goods dataset for unsupervised anomaly detection and segmentation.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09930)
+1. **PKU-GoodsAD: A supermarket goods dataset for unsupervised anomaly detection and segmentation.** RAL, 2024. [paper](https://ieeexplore.ieee.org/document/10387569/)
 
-   *Jian Zhang, Ge Yang, Miaoju Ban, and Runwei Ding.* 
+   *Jian Zhang, Runwei Ding, Miaoju Ban, and Linhui Dai.* 
 
 1. **MIAD: A maintenance inspection dataset for unsupervised anomaly detection.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023W/LIMIT/html/Bao_MIAD_A_Maintenance_Inspection_Dataset_for_Unsupervised_Anomaly_Detection_ICCVW_2023_paper.html)
 
@@ -1699,7 +1703,7 @@ Contributed by Chunyang Zhang.
 
    *Qiang Zhou, Weize Li, Lihan Jiang, Guoliang Wang, Guyue Zhou, Shanghang Zhang, and Hao Zhao.* 
 
-1. **The voraus-AD dataset for anomaly detection in robot applications.** TRO, 2023. [paper](https://arxiv.org/abs/2311.04765)
+1. **The voraus-AD dataset for anomaly detection in robot applications.** TRO, 2023. [paper](https://ieeexplore.ieee.org/document/10315239/)
 
    *Jan Thieß Brockmann, Marco Rudolph, Bodo Rosenhahn, and Bastian Wandt.* 
 
@@ -1707,7 +1711,7 @@ Contributed by Chunyang Zhang.
 
    *Congqi Cao, Yue Lu, Peng Wang, and Yanning Zhang.* 
 
-1. **Advancing anomaly detection: An adaptation model and a new dataset.** arXiv, 2023. [paper](https://arxiv.org/abs/2402.04857)
+1. **Advancing anomaly detection: An adaptation model and a new dataset.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.04857)
 
    *Liyun Zhu, Arjun Raj, and Lei Wang.* 
 
