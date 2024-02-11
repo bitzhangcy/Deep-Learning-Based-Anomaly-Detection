@@ -1497,6 +1497,10 @@ Contributed by Chunyang Zhang.
 
    *Hui Lv and Qianru Sun.* 
 
+1. **OVOR: OnePrompt with virtual outlier regularization for rehearsal-free class-incremental learning.** ICLR, 2024. [paper](https://openreview.net/forum?id=FbuyDzZTPt)
+
+   *Weicheng Huang, Chunfu Chen, and Hsiang Hsu.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
