@@ -228,6 +228,10 @@ Contributed by Chunyang Zhang.
 
    *Zexin Wang, Changhua Pei, Minghua Ma, Xin Wang, Zhihan Li, Dan Pei, Saravan Rajmohan, Dongmei Zhang, Qingwei Lin, Haiming Zhang, Jianhui Li, and Gaogang Xie.* 
 
+1. **Can tree based approaches surpass deep learning in anomaly detection? A benchmarking study.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07281)
+
+   *Santonu Sarkar, Shanay Mehta, Nicole Fernandes, Jyotirmoy Sarkar, and Snehanshu Saha.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
