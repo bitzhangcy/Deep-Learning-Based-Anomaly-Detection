@@ -2769,6 +2769,10 @@ Contributed by Chunyang Zhang.
 
    *Ori Nizan and Ayellet Tal.*
 
+1. **Robust multi-kernel nearest neighborhood for outlier detection.** TKDE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10433793)
+
+   *Xinye Wang, Lei Duan, Zhenyang Yu, Chengxin He, and Zhifeng Bao.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
