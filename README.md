@@ -232,6 +232,10 @@ Contributed by Chunyang Zhang.
 
    *Santonu Sarkar, Shanay Mehta, Nicole Fernandes, Jyotirmoy Sarkar, and Snehanshu Saha.* 
 
+1. **Large language models for forecasting and anomaly detection: A systematic literature review.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10350)
+
+   *Jing Su, Chufeng Jiang, Xin Jin, Yuxin Qiao, Tingsong Xiao, Hongda Ma, Rong Wei, Zhi Jing, Jiajun Xu, and Junhong Lin.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
@@ -1722,6 +1726,10 @@ Contributed by Chunyang Zhang.
 1. **Advancing anomaly detection: An adaptation model and a new dataset.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.04857)
 
    *Liyun Zhu, Arjun Raj, and Lei Wang.* 
+
+1. **TimeSeriesBench: An industrial-grade benchmark for time series anomaly detection models.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10802)
+
+   *Haotian Si, Changhua Pei, Hang Cui, Jingwen Yang, Yongqian Sun, Shenglin Zhang, Jingjing Li, Haiming Zhang, Jing Han, Dan Pei, Jianhui Li, and Gaogang Xie.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
