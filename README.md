@@ -1509,6 +1509,10 @@ Contributed by Chunyang Zhang.
 
    *Weicheng Huang, Chunfu Chen, and Hsiang Hsu.* 
 
+1. **Large language model guided knowledge distillation for time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.15123v1)
+
+   *Chen Liu, Shibo He, Qihang Zhou, Shizhong Li, and Wenchao Meng.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
