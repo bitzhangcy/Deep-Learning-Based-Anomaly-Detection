@@ -1025,6 +1025,10 @@ Contributed by Chunyang Zhang.
 
    *Youfa Liu and Bo Du.* 
 
+1. **FGAD: Self-boosted knowledge distillation for an effective federated graph anomaly detection framework.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.12761)
+
+   *Jinyu Cai, Yunhe Zhang, Zhoumin Lu, Wenzhong Guo, and See-kiong Ng.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
