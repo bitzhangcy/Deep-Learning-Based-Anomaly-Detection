@@ -1029,6 +1029,10 @@ Contributed by Chunyang Zhang.
 
    *Jinyu Cai, Yunhe Zhang, Zhoumin Lu, Wenzhong Guo, and See-kiong Ng.* 
 
+1. **Generative semi-supervised graph anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.11887)
+
+   *Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, and Guansong Pang.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -3200,4 +3204,4 @@ Contributed by Chunyang Zhang.
 
 1. **GWAK: Gravitational-wave anomalous knowledge with recurrent autoencoders.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.11537)
 
-   *Ryan Raikman, Eric A. Moreno, Ekaterina Govorkova, Ethan J Marx, Alec Gunny, William Benoit, Deep Chatterjee, Rafia Omer, Muhammed Saleem, Dylan S Rankin, Michael W Coughlin, Philip C Harris, and Erik Katsavounidis.*
+   *Ryan Raikman, Eric A. Moreno, Ekaterina Govorkova, Ethan J Marx, Alec Gunny, William Benoit, Deep Chatterjee, Rafia Omer, Muhammed Saleem, Dylan S Rankin, Michael W Coughlin, Philip C Harris, and Erik Katsavounidis.* 
