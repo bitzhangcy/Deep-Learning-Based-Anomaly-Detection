@@ -1993,6 +1993,10 @@ Contributed by Chunyang Zhang.
 
    *Yongwei Nie, Hao Huang, Chengjiang Long, Qing Zhang, Pradipta Maji, and Hongmin Cai.* 
 
+1. **Reimagining anomalies: What if anomalies were normal?** arXiv, 2024. [paper](https://arxiv.org/abs/2402.14469)
+
+   *Philipp Liznerski, Saurabh Varshneya, Ece Calikus, Sophie Fellenz, and Marius Kloft* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
