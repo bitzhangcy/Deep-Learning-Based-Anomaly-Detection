@@ -1743,6 +1743,10 @@ Contributed by Chunyang Zhang.
 
    *Haotian Si, Changhua Pei, Hang Cui, Jingwen Yang, Yongqian Sun, Shenglin Zhang, Jingjing Li, Haiming Zhang, Jing Han, Dan Pei, Jianhui Li, and Gaogang Xie.* 
 
+1. **Towards fair graph anomaly detection: Problem, new datasets, and evaluation.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15988)
+
+   *Neng Kai Nigel Neo, Yeon-Chang Lee, Yiqiao Jin, Sang-Wook Kim, and Srijan Kumar.* 
+
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
 
