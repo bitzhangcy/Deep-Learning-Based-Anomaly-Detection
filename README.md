@@ -2253,6 +2253,10 @@ Contributed by Chunyang Zhang.
 
    *Liyi Yao and Shaobing Gao.* 
 
+1. **Structural teacher-student normality learning for multi-class anomaly detection and localization.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.17091)
+
+   *Hanqiu Deng and Xingyu Li.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
