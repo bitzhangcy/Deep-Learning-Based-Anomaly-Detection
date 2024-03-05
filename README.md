@@ -759,6 +759,10 @@ Contributed by Chunyang Zhang.
 
    *Neelu Madan, Nicolae-Cătălin Ristea, Radu Tudor Ionescu, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, and Mubarak Shah.* 
 
+1. **Transformer-based multivariate time series anomaly detection using inter-variable attention mechanism.** KBS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10273635)
+
+   *Hyeongwon Kang and Pilsung Kang.* 
+
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
@@ -1133,6 +1137,14 @@ Contributed by Chunyang Zhang.
 1. **Understanding time series anomaly state detection through one-class classification.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02007v1)
 
    *Hanxu Zhou, Yuan Zhang, Guangjie Leng, Ruofan Wang, and Zhi-Qin John Xu.*
+
+1. **Asymptotic consistent graph structure learning for multivariate time-series anomaly detection.** TIM, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10445316)
+
+   *Huaxin Pang, Shikui Wei, Youru Li, Ting Liu, Huaqi Zhang, Ying Qin, and Yao Zhao.*
+
+1. **Anomaly detection via graph attention networks-augmented mask autoregressive flow for multivariate time series.** IoT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10453361)
+
+   *Hao Liu, Wang Luo, Lixin Han, Peng Gao, Weiyong Yang, and Guangjie Han.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
