@@ -236,6 +236,10 @@ Contributed by Chunyang Zhang.
 
    *Jing Su, Chufeng Jiang, Xin Jin, Yuxin Qiao, Tingsong Xiao, Hongda Ma, Rong Wei, Zhi Jing, Jiajun Xu, and Junhong Lin.* 
 
+1. **A survey of graph neural networks in real world: Imbalance, noise, privacy and OOD challenges.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.04468)
+
+   *Wei Ju, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S. Yu, and Ming Zhang.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
@@ -1440,6 +1444,10 @@ Contributed by Chunyang Zhang.
 
    *Xuefeng Du, Zhen Fang, Ilias Diakonikolas, and Yixuan Li.* 
 
+1. **Optimal parameter and neuron pruning for out-of-distribution detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=TtCPFN5fhO&referrer=%5Bthe%20profile%20of%20Ze%20Chen%5D(%2Fprofile%3Fid%3D~Ze_Chen3))
+
+   *Chao Chen, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, and Jieping Ye.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
@@ -1532,6 +1540,10 @@ Contributed by Chunyang Zhang.
 1. **Large language model guided knowledge distillation for time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.15123v1)
 
    *Chen Liu, Shibo He, Qihang Zhou, Shizhong Li, and Wenchao Meng.* 
+
+1. **Toward generalist anomaly detection via in-context residual learning with few-shot sample prompts.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.06495)
+
+   *Jiawen Zhu and Guansong Pang.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
@@ -2415,6 +2427,18 @@ Contributed by Chunyang Zhang.
 
    *Zuhao Liu, Xiaoming Wu, Dian Zheng, Kunyu Lin, and Weishi Zheng.* 
 
+1. **Generating anomalies for video anomaly detection with prompt-based feature mapping.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Generating_Anomalies_for_Video_Anomaly_Detection_With_Prompt-Based_Feature_Mapping_CVPR_2023_paper.html)
+
+   *Zuhao Liu, Xiaoming Wu, Dian Zheng, Kunyu Lin, and Weishi Zheng.* 
+
+1. **Text-guided variational image generation for industrial anomaly detection and segmentation.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.06247)
+
+   *Mingyu Lee and Jongwon Choi.* 
+
+1. **RealNet: A feature selection network with realistic synthetic anomaly for anomaly detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.05897)
+
+   *Ximiao Zhang, Min Xu, and Xiuzhuang Zhou.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -2660,9 +2684,13 @@ Contributed by Chunyang Zhang.
 
    *Niv Cohen, Issar Tzachor, and Yedid Hoshen.* 
 
-1. **N-Pad: Neighboring pixel-based industrial anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Jang_N-Pad_Neighboring_Pixel-Based_Industrial_Anomaly_Detection_CVPRW_2023_paper.html)
+1. **N-PAD: Neighboring pixel-based industrial anomaly detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Jang_N-Pad_Neighboring_Pixel-Based_Industrial_Anomaly_Detection_CVPRW_2023_paper.html)
 
    *JunKyu Jang, Eugene Hwang, and Sung-Hyuk Park.* 
+
+1. **ConjNorm: Tractable density estimation for out-of-distribution detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=1pSL2cXWoz)
+
+   *Bo Peng, Yadan Luo, Yonggang Zhang, Yixuan Li, and Zhen Fang.* 
 
 ### [Support Vector](#content)
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
