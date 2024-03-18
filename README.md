@@ -1150,6 +1150,10 @@ Contributed by Chunyang Zhang.
 
    *Hao Liu, Wang Luo, Lixin Han, Peng Gao, Weiyong Yang, and Guangjie Han.*
 
+1. **From chaos to clarity: Time series anomaly detection in astronomical observations.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.10220)
+
+   *Xinli Hao, Yile Chen, Chen Yang, Zhihui Du, Chaohong Ma, Chao Wu, and Xiaofeng Meng.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
