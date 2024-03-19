@@ -1452,6 +1452,10 @@ Contributed by Chunyang Zhang.
 
    *Chao Chen, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, and Jieping Ye.* 
 
+1. **Out-of-distribution detection should use conformal prediction (and vice-versa?)** arXiv, 2024. [paper](https://arxiv.org/abs/2403.11532)
+
+   *Paul Novello, Joseba Dalmau, and Léo Andeol.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
