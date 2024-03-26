@@ -525,6 +525,10 @@ Contributed by Chunyang Zhang.
 
    *Or Hirschorn and Shai Avidan.*
 
+1. **Hierarchical Gaussian mixture normalizing flow modeling for unified anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.13349v1)
+
+   *Xincheng Yao, Ruoqi Li, Zefeng Qian, Lu Wang, and Chongyang Zhang.*
+
 ### [Diffusion Model](#content)
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
@@ -1553,6 +1557,10 @@ Contributed by Chunyang Zhang.
 
    *Jiawen Zhu and Guansong Pang.* 
 
+1. **Adapting visual-language models for generalizable anomaly detection in medical images.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.12570v1)
+
+   *Chaoqin Huang, Aofan Jiang, Jinghao Feng, Ya Zhang, Xinchao Wang, and Yanfeng Wang.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
@@ -1778,6 +1786,10 @@ Contributed by Chunyang Zhang.
 1. **Towards fair graph anomaly detection: Problem, new datasets, and evaluation.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15988)
 
    *Neng Kai Nigel Neo, Yeon-Chang Lee, Yiqiao Jin, Sang-Wook Kim, and Srijan Kumar.* 
+
+1. **Real-IAD: A real-world multi-view dataset for benchmarking versatile industrial anomaly detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.12580v1)
+
+   *Chengjie Wang, Wenbing Zhu, Binbin Gao, Zhenye Gan, Jianning Zhang, Zhihao Gu, Shuguang Qian, Mingang Chen, and Lizhuang Ma.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
