@@ -1460,6 +1460,10 @@ Contributed by Chunyang Zhang.
 
    *Paul Novello, Joseba Dalmau, and Léo Andeol.* 
 
+1. **Tagfog: Textual anchor guidance and fake outlier generation for visual out-of-distribution detection.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/27871)
+
+   *Jiankang Chen, Tong Zhang, Weishi Zheng, and Ruixuan Wang.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
@@ -2712,6 +2716,10 @@ Contributed by Chunyang Zhang.
 
    *Bo Peng, Yadan Luo, Yonggang Zhang, Yixuan Li, and Zhen Fang.* 
 
+1. **Dense projection for anomaly detection.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28682)
+
+   *Dazhi Fu, Zhao Zhang, nd Jicong Fan.* 
+
 ### [Support Vector](#content)
 1. **Patch SVDD: Patch-level SVDD for anomaly detection and segmentation.** ACCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-69544-6_23)
 
@@ -3268,6 +3276,10 @@ Contributed by Chunyang Zhang.
 1. **SpikeLog: Log-based anomaly detection via potential-assisted spiking neuron network.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10375739)
 
    *Jiaxing Qi, Zhongzhi Luan, Shaohan Huang, Carol Fung, Hailong Yang, and Depei Qian.*
+
+1. **Hilogx: Noise-aware log-based anomaly detection with human feedback.**  The VLDB Journal, 2024. [paper](https://link.springer.com/article/10.1007/s00778-024-00843-2)
+
+   *Tong Jia, Ying Li, Yong Yang, and Gang Huang .*
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
