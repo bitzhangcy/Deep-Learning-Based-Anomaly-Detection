@@ -1795,6 +1795,10 @@ Contributed by Chunyang Zhang.
 
    *Chengjie Wang, Wenbing Zhu, Binbin Gao, Zhenye Gan, Jianning Zhang, Zhihao Gu, Shuguang Qian, Mingang Chen, and Lizhuang Ma.* 
 
+1. **MTMMC: A large-scale real-world multi-modal camera tracking benchmark.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.20225)
+
+   *Sanghyun Woo, Kwanyong Park, Inkyu Shin, Myungchul Kim, and In So Kweon.* 
+
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
 
@@ -2047,7 +2051,11 @@ Contributed by Chunyang Zhang.
 
 1. **Reimagining anomalies: What if anomalies were normal?** arXiv, 2024. [paper](https://arxiv.org/abs/2402.14469)
 
-   *Philipp Liznerski, Saurabh Varshneya, Ece Calikus, Sophie Fellenz, and Marius Kloft* 
+   *Philipp Liznerski, Saurabh Varshneya, Ece Calikus, Sophie Fellenz, and Marius Kloft.* 
+
+1. **Long-tailed anomaly detection with learnable class names.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.20236)
+
+   *Chih-Hui Ho, Kuan-Chuan Peng, and Nuno Vasconcelos.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
@@ -2462,6 +2470,10 @@ Contributed by Chunyang Zhang.
 1. **RealNet: A feature selection network with realistic synthetic anomaly for anomaly detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2403.05897)
 
    *Ximiao Zhang, Min Xu, and Xiuzhuang Zhou.* 
+
+1. **Negative label guided OOD detection with pretrained vision-language models.** ICLR, 2024. [paper](https://openreview.net/forum?id=xUO1HXz4an)
+
+   *Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, and Bo Han.* 
 
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
