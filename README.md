@@ -1464,6 +1464,10 @@ Contributed by Chunyang Zhang.
 
    *Jiankang Chen, Tong Zhang, Weishi Zheng, and Ruixuan Wang.* 
 
+1. **Learning transferable negative prompts for out-of-distribution detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.03248)
+
+   *Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, and Jin Zheng.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
@@ -1571,7 +1575,15 @@ Contributed by Chunyang Zhang.
 
 1. **Collaborative learning of anomalies with privacy (CLAP) for unsupervised video anomaly detection: A new baseline.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.00847)
 
-   *Anas Al-lahham, Muhammad Zaigham Zaheer, Nurbek Tastan, and Karthik Nandakumar* 
+   *Anas Al-lahham, Muhammad Zaigham Zaheer, Nurbek Tastan, and Karthik Nandakumar.* 
+
+1. **PromptAD: Learning prompts with only normal samples for few-shot anomaly detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.05231)
+
+   *Xiaofan Li, Zhizhong Zhang, Xin Tan, Chengwei Chen, Yanyun Qu, Yuan Xie, and Lizhuang Ma.* 
+
+1. **Dynamic distinction learning: Adaptive pseudo anomalies for video anomaly detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.04986)
+
+   *Demetris Lappas, Vasileios Argyriou, and Dimitrios Makris.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
