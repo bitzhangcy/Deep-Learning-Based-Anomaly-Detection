@@ -3139,6 +3139,10 @@ Contributed by Chunyang Zhang.
 
    *Eliahu Horwitz and Yedid Hoshen.*
 
+1. **SplatPose & detect: Pose-agnostic 3D anomaly detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.06832)
+
+   *Mathis Kruse, Marco Rudolph, Dominik Woiwode, and Bodo Rosenhahn.*
+
 ### [Autonomous Driving](#content)
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
 
