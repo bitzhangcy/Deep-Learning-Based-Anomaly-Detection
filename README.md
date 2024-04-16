@@ -1585,6 +1585,18 @@ Contributed by Chunyang Zhang.
 
    *Demetris Lappas, Vasileios Argyriou, and Dimitrios Makris.* 
 
+1. **Your finetuned large language model is already a powerful out-of-distribution detector.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.08679)
+
+   *Andi Zhang, Tim Z. Xiao, Weiyang Liu, Robert Bamler, and Damon Wischik.* 
+
+1. **Do LLMs understand visual anomalies? Uncovering LLM capabilities in zero-shot anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.09654)
+
+   *Jiaqi Zhu, Shaofeng Cai, Fang Deng, and Junran Wu.* 
+
+1. **Text prompt with normality guidance for weakly supervised video anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.08531)
+
+   *Zhiwei Yang, Jing Liu, and Peng Wu.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
@@ -1699,9 +1711,13 @@ Contributed by Chunyang Zhang.
 
    *Joseph Fioresi, Ishan Rajendrakumar Dave, and Mubarak Shah.* 
 
-1. **Deep orthogonal hypersphere compression for anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=cJs4oE4m9Q)
+1. **Deep orthogonal hypersphere compression for anomaly detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=cJs4oE4m9Q)
 
-   *Anonymous authors.* 
+   *Yunhe Zhang, Yan Sun, Jinyu Cai, and Jicong Fan.* 
+
+1. **VI-OOD: A unified representation learning framework for textual out-of-distribution detection.** COLING, 2024. [paper](https://arxiv.org/abs/2404.06217)
+
+   *Yunhe Zhang, Yan Sun, Jinyu Cai, and Jicong Fan.* 
 
 ### [Nonparametric Approach](#content)
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
@@ -2189,6 +2205,10 @@ Contributed by Chunyang Zhang.
 1. **MuSc: Zero-shot anomaly classification and segmentation by mutual scoring of the unlabeled images.** ICLR, 2024. [paper](https://openreview.net/forum?id=AHgc5SMdtd)
 
    *Anonymous authors.* 
+
+1. **Unified entropy optimization for open-set test-time adaptation.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.06065)
+
+   *Zhengqing Gao, Xuyao Zhang, and Chenglin Liu.*
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
@@ -3284,7 +3304,7 @@ Contributed by Chunyang Zhang.
 
    *Han Gao, Huiyuan Luo, Fei Shen, and Zhengtao Zhang.*
 
-1. **Adaptable and interpretable framework for anomaly detection in SCADA-based industrial systems.** Expert Systems with Applications, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424000654)
+1. **Adaptable and interpretable framework for anomaly detection in SCADA-based industrial systems.** ESA, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424000654)
 
    *Marek Wadinger and Michal Kvasnica.*
 
@@ -3292,9 +3312,13 @@ Contributed by Chunyang Zhang.
 
    *Zhen Zhang, Zhiqiang Geng, and Yongming Han.*
 
-1. **A convolutional neural network approach for image-based anomaly detection in smart agriculture.** Expert Systems with Applications, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424000757)
+1. **A convolutional neural network approach for image-based anomaly detection in smart agriculture.** ESA, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424000757)
 
    *José Mendoza-Bernal, Aurora González-Vidal, and Antonio F. Skarmeta.*
+
+1. **Label-free anomaly detection in aerial agricultural images with masked image modeling.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.08931)
+
+   *Sambal Shikhar and Anupam Sobti.*
 
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
