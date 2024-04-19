@@ -1158,6 +1158,10 @@ Contributed by Chunyang Zhang.
 
    *Xinli Hao, Yile Chen, Chen Yang, Zhihui Du, Chaohong Ma, Chao Wu, and Xiaofeng Meng.*
 
+1. **DACAD: Domain adaptation contrastive learning for anomaly detection in multivariate time series.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11269)
+
+   *Zahra Zamanzadeh Darban, Geoffrey I. Webb, and Mahsa Salehi.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
