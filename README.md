@@ -3267,6 +3267,10 @@ Contributed by Chunyang Zhang.
 
    *Koyo Sato and Shunsuke Ono.* 
 
+1. **Detecting out-of-distribution earth observation images with diffusion models.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.12667)
+
+   *Georges Le Bellier and Nicolas Audebert.* 
+
 ### [Industry Process](#content)
 1. **In-situ anomaly detection in additive manufacturing with graph neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.02695)
 
