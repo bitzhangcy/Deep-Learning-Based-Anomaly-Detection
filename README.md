@@ -2365,6 +2365,10 @@ Contributed by Chunyang Zhang.
 
    *Hanqiu Deng and Xingyu Li.* 
 
+1. **Score distillation for anomaly detection.** KBS, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004763)
+
+   *Jeongmin Hong and Seokho Kang.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
