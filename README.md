@@ -1843,6 +1843,10 @@ Contributed by Chunyang Zhang.
 
    *Sanghyun Woo, Kwanyong Park, Inkyu Shin, Myungchul Kim, and In So Kweon.* 
 
+1. **IPAD: Industrial process anomaly detection dataset.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.04857)
+
+   *Jinfan Liu, Yichao Yan, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, and Xiaokang Yang.* 
+
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
 
@@ -3133,6 +3137,10 @@ Contributed by Chunyang Zhang.
 1. **Unsupervised anomaly detection on attributed networks with graph contrastive learning for consumer electronics security.** TCE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10402014)
 
    *Bo Xu, Jinpeng Wang, Zhehuan Zhao, Hongfei Lin, and Feng Xia.* 
+
+1. **Fin-Fed-OD: Federated outlier detection on financial tabular data.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.14933)
+
+   *Dayananda Herurkar, Sebastian Palacio, Ahmed Anwar, Joern Hees, and Andreas Dengel.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
