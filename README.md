@@ -1472,6 +1472,10 @@ Contributed by Chunyang Zhang.
 
    *Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, and Jin Zheng.* 
 
+1. **Unexplored faces of robustness and out-of-distribution: Covariate shifts in environment and sensor domains.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.15882)
+
+   *Eunsu Baek, Keondo Park, Jiyoon Kim, and Hyung-Sin Kim.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
@@ -3212,6 +3216,10 @@ Contributed by Chunyang Zhang.
 1. **MAEDiff: Masked autoencoder-enhanced diffusion models for unsupervised anomaly detection in brain images.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10561)
 
    *Rui Xu, Yunke Wang, and Bo Du.* 
+
+1. **Domain adaptive and fine-grained anomaly detection for single-cell sequencing data and beyond.** IJCAI, 2024. [paper](https://arxiv.org/abs/2404.17454)
+
+   *Kaichen Xu, Yueyang Ding, Suyang Hou, Weiqiang Zhan, Nisang Chen, Jun Wang, and Xiaobo Sun.* 
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
