@@ -771,6 +771,10 @@ Contributed by Chunyang Zhang.
 
    *Hyeongwon Kang and Pilsung Kang.* 
 
+1. **Sub-adjacent Transformer: Improving time series anomaly detection with reconstruction error from sub-adjacent neighborhoods.** IJCAI, 2024. [paper](https://arxiv.org/abs/2404.18948)
+
+   *Wenzhen Yue, Xianghua Ying, Ruohao Guo, DongDong Chen, Ji Shi, Bowei Xing, Yuqing Zhu, and Taiyan Chen.* 
+
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
