@@ -351,6 +351,10 @@ Contributed by Chunyang Zhang.
 
    *Xiaoxia Zhang, Shang Shi, HaiChao Sun, Degang Chen, Guoyin Wang, and Kesheng Wu.*
 
+1. **Dual-constraint autoencoder and adaptive weighted similarity spatial attention for unsupervised anomaly detection.** TII, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10504620)
+
+   *Ruifan Zhang, Hao Wang, Mingyao Feng, Yikun Liu, and Gongping Yang.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -1165,6 +1169,10 @@ Contributed by Chunyang Zhang.
 1. **DACAD: Domain adaptation contrastive learning for anomaly detection in multivariate time series.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11269)
 
    *Zahra Zamanzadeh Darban, Geoffrey I. Webb, and Mahsa Salehi.*
+
+1. **Variate associated domain adaptation for unsupervised multivariate time series anomaly detection.** TKDD, 2024. [paper](https://dl.acm.org/doi/10.1145/3663573)
+
+   *Yifan He, Yatao Bian, Xi Ding, Bingzhe Wu, Jihong Guan, Ji Zhang, and Shuigeng Zhou.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -3355,6 +3363,10 @@ Contributed by Chunyang Zhang.
 1. **Label-free anomaly detection in aerial agricultural images with masked image modeling.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.08931)
 
    *Sambal Shikhar and Anupam Sobti.*
+
+1. **Prioritized local matching network for cross-category few-shot anomaly detection.** TAI, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10494062)
+
+   *Huilin Deng, Hongchen Luo, Wei Zhai, Yang Cao, and Yu Kang.*
 
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
