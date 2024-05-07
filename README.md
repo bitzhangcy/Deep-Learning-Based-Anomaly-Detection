@@ -1174,6 +1174,10 @@ Contributed by Chunyang Zhang.
 
    *Yifan He, Yatao Bian, Xi Ding, Bingzhe Wu, Jihong Guan, Ji Zhang, and Shuigeng Zhou.*
 
+1. **Quo vadis, unsupervised time series anomaly detection?** ICML, 2024. [paper](https://arxiv.org/abs/2405.02678)
+
+   *M. Saquib Sarfraz, Meiyen Chen, Lukas Layer, Kunyu Peng, and Marios Koulakis.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
