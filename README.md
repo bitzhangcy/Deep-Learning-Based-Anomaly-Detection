@@ -240,6 +240,10 @@ Contributed by Chunyang Zhang.
 
    *Wei Ju, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S. Yu, and Ming Zhang.* 
 
+1. **Anomaly detection in graph structured data: A survey.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.06172)
+
+   *Prabin B Lamichhane and William Eberle.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
