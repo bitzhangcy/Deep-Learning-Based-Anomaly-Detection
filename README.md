@@ -1182,6 +1182,10 @@ Contributed by Chunyang Zhang.
 
    *M. Saquib Sarfraz, Meiyen Chen, Lukas Layer, Kunyu Peng, and Marios Koulakis.*
 
+1. **SiET: Spatial information enhanced transformer for multivariate time series anomaly detection.** KBS, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005628)
+
+   *Weixuan Xiong, Peng Wang, Xiaochen Sun, and Jun Wang.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
