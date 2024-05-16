@@ -1186,6 +1186,10 @@ Contributed by Chunyang Zhang.
 
    *Weixuan Xiong, Peng Wang, Xiaochen Sun, and Jun Wang.*
 
+1. **Disentangled anomaly detection for multivariate time seriesn.** WWW, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3589335.3651492)
+
+   *Xin Jie, Xixi Zhou, Chanfei Su, Zijun Zhou, Yuqing Yuan, Jiajun Bu, and Haishuai Wang.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
