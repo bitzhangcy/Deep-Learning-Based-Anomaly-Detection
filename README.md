@@ -3254,6 +3254,10 @@ Contributed by Chunyang Zhang.
 
    *Tianchen Ji, Arun Narenthiran Sivakumar, Girish Chowdhary, and Katherine Driggs-Campbell.* 
 
+1. **Multi-channel anomaly detection for spacecraft time series using MAP estimation.** TAES, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10530457)
+
+   *Tianyu Li, Sriram Baireddy, Mary Comer, Edward Delp, Sundip R. Desai, Richard H. Foster, and Moses W. Chan.* 
+
 ### [Cyber Intrusion](#content)
 1. **Intrusion detection using convolutional neural networks for representation learning.** ICONIP, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_87)
 
