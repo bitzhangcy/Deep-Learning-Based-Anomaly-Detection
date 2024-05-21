@@ -1190,6 +1190,10 @@ Contributed by Chunyang Zhang.
 
    *Xin Jie, Xixi Zhou, Chanfei Su, Zijun Zhou, Yuqing Yuan, Jiajun Bu, and Haishuai Wang.*
 
+1. **PATE: Proximity-aware time series anomaly evaluation.** KDD, 2024. [paper](https://arxiv.org/abs/2405.12096)
+
+   *Ramin Ghorbani, Marcel J.T. Reinders, and David M.J. Tax.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1488,7 +1492,7 @@ Contributed by Chunyang Zhang.
 
    *Chao Chen, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, and Jieping Ye.* 
 
-1. **Out-of-distribution detection should use conformal prediction (and vice-versa?)** arXiv, 2024. [paper](https://arxiv.org/abs/2403.11532)
+1. **Out-of-distribution detection should use conformal prediction (and vice-versa)?** arXiv, 2024. [paper](https://arxiv.org/abs/2403.11532)
 
    *Paul Novello, Joseba Dalmau, and Léo Andeol.* 
 
@@ -1500,7 +1504,11 @@ Contributed by Chunyang Zhang.
 
    *Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, and Jin Zheng.* 
 
-1. **Unexplored faces of robustness and out-of-distribution: Covariate shifts in environment and sensor domains.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.15882)
+1. **Unexplored faces of robustness and out-of-distribution: Covariate shifts in environment and sensor domains.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.15882)
+
+   *Alvin Heng, Alexandre H. Thiery, and Harold Soh.* 
+
+1. **Out-of-distribution detection with a single unconditional diffusion model.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.11881)
 
    *Eunsu Baek, Keondo Park, Jiyoon Kim, and Hyung-Sin Kim.* 
 
@@ -3248,6 +3256,14 @@ Contributed by Chunyang Zhang.
 1. **Domain adaptive and fine-grained anomaly detection for single-cell sequencing data and beyond.** IJCAI, 2024. [paper](https://arxiv.org/abs/2404.17454)
 
    *Kaichen Xu, Yueyang Ding, Suyang Hou, Weiqiang Zhan, Nisang Chen, Jun Wang, and Xiaobo Sun.* 
+
+1. **Position-guided prompt learning for anomaly detection in chest X-rays.** MICCAI, 2024. [paper](https://arxiv.org/abs/2405.11976)
+
+   *Zhichao Sun, Yuliang Gu, Yepeng Liu, Zerui Zhang, Zhou Zhao, and Yongchao Xu.* 
+
+1. **MediCLIP: Adapting CLIP for few-shot medical image anomaly detection.** MICCAI, 2024. [paper](https://arxiv.org/abs/2405.11315)
+
+   *Ximiao Zhang, Min Xu, Dehui Qiu, Ruixin Yan, Ning Lang, and Xiuzhuang Zhou.* 
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
