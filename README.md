@@ -3265,6 +3265,10 @@ Contributed by Chunyang Zhang.
 
    *Ximiao Zhang, Min Xu, Dehui Qiu, Ruixin Yan, Ning Lang, and Xiuzhuang Zhou.* 
 
+1. **Spatial-aware attention generative adversarial network for semi-supervised anomaly detection in medical image.** MICCAI, 2024. [paper](https://arxiv.org/abs/2405.12872)
+
+   *Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, Rui Yu, Zhou Zhao, and Yongchao Xu.* 
+
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
 
