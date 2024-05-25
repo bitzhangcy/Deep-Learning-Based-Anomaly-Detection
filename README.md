@@ -650,6 +650,10 @@ Contributed by Chunyang Zhang.
 
    *Justin Tebbe and Jawad Tayyub.*
 
+1. **TauAD: MRI-free Tau anomaly detection in PET imaging via conditioned diffusion models.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13199)
+
+   *Lujia Zhong, Shuo Huang, Jiaxin Yue, Jianwei Zhang, Zhiwei Deng, Wenhao Chi, and Yonggang Shi.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -782,6 +786,10 @@ Contributed by Chunyang Zhang.
 1. **Sub-adjacent Transformer: Improving time series anomaly detection with reconstruction error from sub-adjacent neighborhoods.** IJCAI, 2024. [paper](https://arxiv.org/abs/2404.18948)
 
    *Wenzhen Yue, Xianghua Ying, Ruohao Guo, DongDong Chen, Ji Shi, Bowei Xing, Yuqing Zhu, and Taiyan Chen.* 
+
+1. **Dinomaly: The less is more philosophy in multi-class unsupervised anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.14325)
+
+   *Jia Guo, Shuai Lu, Weihang Zhang, and Huiqi Li.* 
 
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
@@ -1194,9 +1202,17 @@ Contributed by Chunyang Zhang.
 
    *Ramin Ghorbani, Marcel J.T. Reinders, and David M.J. Tax.*
 
+1. **Large language models can be zero-shot anomaly detectors for time series?** KDD, 2024. [paper](https://arxiv.org/abs/2405.14755)
+
+   *Sarah Alnegheimish, Linh Nguyen, Laure Berti-Equille, and Kalyan Veeramachaneni.*
+
 1. **LARA: A light and anti-overfitting retraining approach for unsupervised time series anomaly detection.** WWW, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645472)
 
    *Feiyi Chen, Zhen Qin, Mengchu Zhou, Yingying Zhang, Shuiguang Deng, Lunting Fan, Guansong Pang, and Qingsong Wen.*
+
+1. **Variate associated domain adaptation for unsupervised multivariate time series anomaly detection.** TKDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3663573)
+
+   *Yifan He, Yatao Bian, Xi Ding, Bingzhe Wu, Jihong Guan, Ji Zhang, and Shuigeng Zhou.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -1648,6 +1664,10 @@ Contributed by Chunyang Zhang.
 1. **FiLo: Zero-shot anomaly detection by fine-grained description and high-quality localization.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.08531)
 
    *Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Hao Li, Ming Tang, and Jinqiao Wang.* 
+
+1. **AnomalyDINO: Boosting patch-based few-shot anomaly detection with DINOv2.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.14529)
+
+   *Simon Damm, Mike Laszkiewicz, Johannes Lederer, and Asja Fischer.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
