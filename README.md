@@ -440,6 +440,10 @@ Contributed by Chunyang Zhang.
 
    *Qiao Hezhe and Pang Guansong.*
 
+1. **Anomaly detection under contaminated data with contamination-immune bidirectional GANs.** TKDE, 2024. [paper](https://www.computer.org/csdl/journal/tk/5555/01/10536641/1X9vdwpnhO8)
+
+   *Qinliang Su, Bowen Tian, Hai Wan, and Jian Yin.*
+
 ### [Flow](#content)
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
 
@@ -3350,7 +3354,11 @@ Contributed by Chunyang Zhang.
 
    *Hongwei Jin, Krishnan Raghavan, George Papadimitriou, Cong Wang, Anirban Mandal, Ewa Deelman, and Prasanna Balaprakash.* 
 
-### [Physics](#content)
+1. **Local outlier factor for anomaly detection in HPCC systems.** Journal of Parallel and Distributed Computing, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S074373152400087X)
+
+   *Arya Adesh, Shobha G, Jyoti Shetty, and Lili Xu.* 
+
+###[Physics](#content)
 1. **Anomaly detection under coordinate transformations.** Physical Review D, 2023. [paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
 
    *Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.* 
