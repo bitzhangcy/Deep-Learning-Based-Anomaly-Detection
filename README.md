@@ -1069,6 +1069,10 @@ Contributed by Chunyang Zhang.
 
    *Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, and Guansong Pang.* 
 
+1. **Graph structure reshaping against adversarial attacks on graph neural networks.** TKDE, 2024. [paper](https://www.computer.org/csdl/journal/tk/5555/01/10538390/1XcOSbOdJD2)
+
+   *Haibo Wang, Chuan Zhou, Xin Chen, Jia Wu, Shirui Pan, Zhao Li, Jilong Wang, and Philip S. Yu.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -1217,6 +1221,18 @@ Contributed by Chunyang Zhang.
 1. **Variate associated domain adaptation for unsupervised multivariate time series anomaly detection.** TKDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3663573)
 
    *Yifan He, Yatao Bian, Xi Ding, Bingzhe Wu, Jihong Guan, Ji Zhang, and Shuigeng Zhou.*
+
+1. **Uni-directional graph structure learning-based multivariate time series anomaly detection with dynamic prior knowledge.** International Journal of Machine Learning and Cybernetics, 2024. [paper](https://link.springer.com/article/10.1007/s13042-024-02212-5)
+
+   *Shiming He, Genxin Li, Jin Wang, Kun Xie, and Pradip Kumar Sharma.*
+
+1. **Towards a general time series anomaly detector with adaptive bottlenecks and dual adversarial decoders.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15273)
+
+   *Qichao Shentu, Beibu Li, Kai Zhao, Yang shu, Zhongwen Rao, Lujia Pan, Bin Yang, and Chenjuan Guo.*
+
+1. **USD: Unsupervised soft contrastive learning for fault detection in multivariate time series.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.16258)
+
+   *Hong Liu, Xiuxiu Qiu, Yiming Shi, and Zelin Zang.*
 
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
@@ -1672,6 +1688,18 @@ Contributed by Chunyang Zhang.
 1. **AnomalyDINO: Boosting patch-based few-shot anomaly detection with DINOv2.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.14529)
 
    *Simon Damm, Mike Laszkiewicz, Johannes Lederer, and Asja Fischer.* 
+
+1. **Large language models can deliver accurate and interpretable time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15370)
+
+   *Jiaqi Tang, Hao Lu, Ruizheng Wu, Xiaogang Xu, Ke Ma, Cheng Fang, Bin Guo, Jiangbo Lu, Qifeng Chen, and Ying-Cong Chen.* 
+
+1. **Hawk: Learning to understand open-world video anomalies.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15370)
+
+   *Jun Liu, Chaoyun Zhang, Jiaxu Qian, Minghua Ma, Si Qin, Chetan Bansal, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang.* 
+
+1. **ARC: A generalist graph anomaly detector with in-context learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.16771)
+
+   *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, and Shirui Pan.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
