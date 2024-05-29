@@ -795,6 +795,10 @@ Contributed by Chunyang Zhang.
 
    *Jia Guo, Shuai Lu, Weihang Zhang, and Huiqi Li.* 
 
+1. **How to train your ViT for OOD Detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17447)
+
+   *Maximilian Mueller and Matthias Hein.* 
+
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
@@ -1072,6 +1076,14 @@ Contributed by Chunyang Zhang.
 1. **Graph structure reshaping against adversarial attacks on graph neural networks.** TKDE, 2024. [paper](https://www.computer.org/csdl/journal/tk/5555/01/10538390/1XcOSbOdJD2)
 
    *Haibo Wang, Chuan Zhou, Xin Chen, Jia Wu, Shirui Pan, Zhao Li, Jilong Wang, and Philip S. Yu.* 
+
+1. **SmoothGNN: Smoothing-based GNN for unsupervised node anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17525)
+
+   *Xiangyu Dong, Xingyi Zhang, Yanni Sun, Lei Chen, Mingxuan Yuan, and Sibo Wang.* 
+
+1. **Learning-based link anomaly detection in continuous-time dynamic graphs.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18050)
+
+   *Tim Poštuvan, Claas Grohnfeldt, Michele Russo, and Giulio Lovisotto.* 
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -1551,6 +1563,10 @@ Contributed by Chunyang Zhang.
 1. **Out-of-distribution detection with a single unconditional diffusion model.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.11881)
 
    *Eunsu Baek, Keondo Park, Jiyoon Kim, and Hyung-Sin Kim.* 
+
+1. **MultiOOD: Scaling out-of-distribution detection for multiple modalities.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17419)
+
+   *Hao Dong, Yue Zhao, Eleni Chatzi, and Olga Fink.* 
 
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
@@ -3197,6 +3213,10 @@ Contributed by Chunyang Zhang.
 1. **Precursor-of-anomaly detection for irregular time series.** KDD, 2023. [paper](https://arxiv.org/abs/2306.15489)
 
    *Sheo Yon Jhin, Jaehoon Lee, and Noseong Park.*
+
+1. **Pursuing feature separation based on neural collapse for out-of-distribution detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17816)
+
+   *Yingwen Wu, Ruiji Yu, Xinwen Cheng, Zhengbao He, and Xiaolin Huang.*
 
 ### [Federated Learning](#content)
 1. **FADngs: Federated learning for anomaly detection.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10409269)
