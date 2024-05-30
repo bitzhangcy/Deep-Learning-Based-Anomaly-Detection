@@ -1568,6 +1568,10 @@ Contributed by Chunyang Zhang.
 
    *Hao Dong, Yue Zhao, Eleni Chatzi, and Olga Fink.* 
 
+1. **When and how does in-distribution label help out-of-distribution detection?** ICML, 2024. [paper](https://arxiv.org/abs/2405.18635)
+
+   *Xuefeng Du, Yiyou Sun, and Yixuan Li.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
