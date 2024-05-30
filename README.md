@@ -2221,6 +2221,10 @@ Contributed by Chunyang Zhang.
 
    *Chih-Hui Ho, Kuan-Chuan Peng, and Nuno Vasconcelos.* 
 
+1. **Anomaly detection by context contrasting.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18848)
+
+   *Alain Ryser, Thomas M. Sutter, Alexander Marx, and Julia E. Vogt.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
