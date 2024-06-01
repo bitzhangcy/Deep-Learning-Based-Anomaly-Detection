@@ -2225,6 +2225,10 @@ Contributed by Chunyang Zhang.
 
    *Alain Ryser, Thomas M. Sutter, Alexander Marx, and Julia E. Vogt.* 
 
+1. **From zero to hero: Cold-start anomaly detection.** ACL, 2024. [paper](https://arxiv.org/abs/2405.20341)
+
+   *Tal Reiss, George Kour, Naama Zwerdling, Ateret Anaby-Tavor, and Yedid Hoshen.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
@@ -3327,7 +3331,7 @@ Contributed by Chunyang Zhang.
 
 1. **A model-agnostic framework for universal anomaly detection of multi-organ and multi-modal images.** MICCAI, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_23)
 
-   *Yinghao Zhang, Donghuan Lu, Munan Ning, Liansheng Wang, Dong Wei, and Yefeng Zheng .*
+   *Yinghao Zhang, Donghuan Lu, Munan Ning, Liansheng Wang, Dong Wei, and Yefeng Zheng.*
 
 1. **Dual conditioned diffusion models for out-of-distribution detection: Application to fetal ultrasound videos.** MICCAI, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_21)
 
@@ -3515,7 +3519,7 @@ Contributed by Chunyang Zhang.
 
 1. **Hilogx: Noise-aware log-based anomaly detection with human feedback.**  The VLDB Journal, 2024. [paper](https://link.springer.com/article/10.1007/s00778-024-00843-2)
 
-   *Tong Jia, Ying Li, Yong Yang, and Gang Huang .*
+   *Tong Jia, Ying Li, Yong Yang, and Gang Huang.*
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
