@@ -3234,6 +3234,9 @@ Contributed by Chunyang Zhang.
 1. **FADngs: Federated learning for anomaly detection.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10409269)
 
    *Boyu Dong, Dong Chen, Yu Wu, Siliang Tang, and Yueting Zhuang.*
+1. **PeFAD: A parameter-efficient federated framework for time series anomaly detection.** SIGKDD, 2024. [paper](https://arxiv.org/abs/2406.02318)
+
+   *Ronghui Xu, Hao Miao, Senzhang Wang, Philip S. Yu, and Jianxin Wang.*
 
 
 ## [Application](#content)
