@@ -1246,6 +1246,10 @@ Contributed by Chunyang Zhang.
 
    *Hong Liu, Xiuxiu Qiu, Yiming Shi, and Zelin Zang.*
 
+1. **LARA: A light and anti-overfitting retraining approach for unsupervised time series anomaly detection.** WWW, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645472)
+
+   *Feiyi Chen, Zhen Qin, Mengchu Zhou, Yingying Zhang, Shuiguang Deng, Lunting Fan, Guansong Pang, and Qingsong Wen.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
@@ -1962,6 +1966,14 @@ Contributed by Chunyang Zhang.
 1. **IPAD: Industrial process anomaly detection dataset.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.04857)
 
    *Jinfan Liu, Yichao Yan, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, and Xiaokang Yang.* 
+
+1. **Supervised anomaly detection for complex industrial images.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.04953)
+
+   *Aimira Baitieva, David Hurych, Victor Besnier, and Olivier Bernard.* 
+
+1. **ADer: A comprehensive benchmark for multi-class visual anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.03262)
+
+   *Jiangning Zhang, Haoyang He, Zhenye Gan, Qingdong He, Yuxuan Cai, Zhucun Xue, Yabiao Wang, Chengjie Wang, Lei Xie, and Yong Liu.* 
 
 ### [Library](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
@@ -3503,6 +3515,10 @@ Contributed by Chunyang Zhang.
 1. **Prioritized local matching network for cross-category few-shot anomaly detection.** TAI, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10494062)
 
    *Huilin Deng, Hongchen Luo, Wei Zhai, Yang Cao, and Yu Kang.*
+
+1. **Outlier-probability-based feature adaptation for robust unsupervised anomaly detection on contaminated training data.** TCSVT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10542974)
+
+   *Jianxiong Zhou and Ying Wu.*
 
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
