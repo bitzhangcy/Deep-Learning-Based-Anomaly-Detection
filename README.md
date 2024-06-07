@@ -2667,6 +2667,10 @@ Contributed by Chunyang Zhang.
 
    *Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, and Bo Han.* 
 
+1. **Envisioning outlier exposure by large language models for out-of-distribution detection.** ICML, 2024. [paper](https://arxiv.org/abs/2406.00806)
+
+   *Chentao Cao, Zhun Zhong, Zhanke Zhou, Yang Liu, Tongliang Liu, and Bo Han.* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
@@ -3077,6 +3081,10 @@ Contributed by Chunyang Zhang.
 
    *Xinye Wang, Lei Duan, Zhenyang Yu, Chengxin He, and Zhifeng Bao.*
 
+1. **Towards a unified framework of clustering-based anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.00452)
+
+   *Zeyu Fang, Ming Gu, Sheng Zhou, Jiawei Chen, Qiaoyu Tan, Haishuai Wang, and Jiajun Bu.*
+
 ### [Isolation](#content)
 1. **Isolation distributional kernel: A new tool for kernel based anomaly detection.** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403062)
 
@@ -3289,6 +3297,10 @@ Contributed by Chunyang Zhang.
 1. **Fin-Fed-OD: Federated outlier detection on financial tabular data.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.14933)
 
    *Dayananda Herurkar, Sebastian Palacio, Ahmed Anwar, Joern Hees, and Andreas Dengel.* 
+
+1. **Advancing anomaly detection: Non-semantic financial data encoding with LLMs.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.03614)
+
+   *Alexander Bakumenko, Kateřina Hlaváčková-Schindler, Claudia Plant, and Nina C. Hubig.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
