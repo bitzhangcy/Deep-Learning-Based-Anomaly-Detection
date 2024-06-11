@@ -2744,6 +2744,10 @@ Contributed by Chunyang Zhang.
 
    *Li Sun, Zhenhao Huang, Zixi Wang, Feiyang Wang, Hao Peng, and Philip Yu.* 
 
+1. **UAC-AD: Unsupervised adversarial contrastive learning for anomaly detection on multi-modal data in microservice systems** TSC, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10552111)
+
+   *Hongyi Liu, Xiaosong Huang, Mengxi Jia, Tong Jia, Jing Han, Ying Li, and Zhonghai Wu.* 
+
 ### [Continual Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
 
@@ -3259,6 +3263,10 @@ Contributed by Chunyang Zhang.
 
    *Ronghui Xu, Hao Miao, Senzhang Wang, Philip S. Yu, and Jianxin Wang.*
 
+1. **Weakly Supervised anomaly detection with privacy preservation under a bi-Level federated learning framework.** ESA, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424013162)
+
+   *Wei Guo and Pingyu Jiang.*
+
 
 ## [Application](#content)
 ### [Finance](#content)
@@ -3301,6 +3309,11 @@ Contributed by Chunyang Zhang.
 1. **Advancing anomaly detection: Non-semantic financial data encoding with LLMs.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.03614)
 
    *Alexander Bakumenko, Kateřina Hlaváčková-Schindler, Claudia Plant, and Nina C. Hubig.* 
+
+1. **Automated financial time series anomaly detection via curiosity-guided exploration and self-imitation learning** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624008212)
+
+   *Feifei Cao and Xitong Guo.* 
+
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
