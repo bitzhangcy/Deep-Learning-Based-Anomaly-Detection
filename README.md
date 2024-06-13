@@ -3566,6 +3566,10 @@ Contributed by Chunyang Zhang.
 
    *Tong Jia, Ying Li, Yong Yang, and Gang Huang.*
 
+1. **Multivariate log-based anomaly detection for distributed database.**  KDD, 2024. [paper](https://arxiv.org/abs/2406.07976)
+
+   *Lingzhe Zhang, Tong Jia, Mengxi Jia, Ying Li, Yong Yang, and Zhonghai Wu.*
+
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
 
