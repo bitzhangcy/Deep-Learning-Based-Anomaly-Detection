@@ -33,8 +33,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#reinforcement-learning">2.12 Reinforcement Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#representation-learning">2.13 Representation Learning</a></td>
-    <td>&ensp;<a href="#nonparametric-approach">2.14 Nonparametric Approach</a></td>
+    <td>&ensp;<a href="#in-context-learning">2.13 In-Context Learning</a></td>
+    <td>&ensp;<a href="#representation-learning">2.14 Representation Learning</a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -91,7 +91,11 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#neural-process">3.27 Neural Process</a></td>
-    <td>&ensp;<a href="#federated-learning">3.28 Federated Learning</a></td>
+    <td>&ensp;<a href="#nonparametric-approach">3.28 Nonparametric Approach</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#federated-learning">3.29 Federated Learning</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -119,6 +123,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td> 
 </tr>
 </table>
+
 
 
 
@@ -164,7 +169,7 @@ Contributed by Chunyang Zhang.
 
    *Yuan Luo, Ya Xiao, Long Cheng, Guojun Peng, and Danfeng (Daphne) Yao.* 
 
-1. **GAN-based anomaly detection: A review.** Neurocomputing, 2022. [paper](https://dl.acm.org/doi/10.1145/3453155)
+1. **GAN-based anomaly detection: A review.** Neurocomputing, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019482)
 
    *Xuan Xia, Xizhou Pan, Nan Lia, Xing He, Lin Ma, Xiaoguang Zhang, and Ning Ding.* 
 
@@ -1576,6 +1581,10 @@ Contributed by Chunyang Zhang.
 
    *Xuefeng Du, Yiyou Sun, and Yixuan Li.* 
 
+1. **Test-time linear out-of-distribution detection.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_Test-Time_Linear_Out-of-Distribution_Detection_CVPR_2024_paper.html)
+
+   *Ke Fan, Tong Liu, Xingyu Qiu, Yikai Wang, Lian Huai, Zeyu Shangguan, Shuang Gou, Fengjian Liu, Yuqian Fu, Yanwei Fu, and Xingqun Jiang.* 
+
 ### [Large Model](#content)
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
@@ -1754,6 +1763,11 @@ Contributed by Chunyang Zhang.
 
    *Chen Wang, Sarah Erfani, Tansu Alpcan, and Christopher Leckie.* 
 
+### [In-Context Learning](#content)
+1. **Prompt-enhanced multiple instance learning for weakly supervised video anomaly detection.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.html)
+
+   *Junxi Chen, Liang Li, Li Su, Zheng-jun Zha, and Qingming Huang.* 
+
 ### [Representation Learning](#content)
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
 
@@ -1847,22 +1861,7 @@ Contributed by Chunyang Zhang.
 
    *Yunhe Zhang, Yan Sun, Jinyu Cai, and Jicong Fan.* 
 
-### [Nonparametric Approach](#content)
-1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
 
-   *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
-
-1. **Neighborhood structure assisted non-negative matrix factorization and its application in unsupervised point anomaly detection.** JMLR, 2021. [paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546292)
-
-   *Imtiaz Ahmed, Xia Ben Hu, Mithun P. Acharya, and Yu Ding.* 
-
-1. **Bayesian nonparametric submodular video partition for robust anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.html)
-
-   *Hitesh Sapkota and Qi Yu.* 
-
-1. **Making parametric anomaly detection on tabular data non-parametric again.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.17052)
-
-   *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
 
 
 ## [Mechanism](#content)
@@ -2744,9 +2743,17 @@ Contributed by Chunyang Zhang.
 
    *Li Sun, Zhenhao Huang, Zixi Wang, Feiyang Wang, Hao Peng, and Philip Yu.* 
 
-1. **UAC-AD: Unsupervised adversarial contrastive learning for anomaly detection on multi-modal data in microservice systems** TSC, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10552111)
+1. **UAC-AD: Unsupervised adversarial contrastive learning for anomaly detection on multi-modal data in microservice systems.** TSC, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10552111)
 
    *Hongyi Liu, Xiaosong Huang, Mengxi Jia, Tong Jia, Jing Han, Ying Li, and Zhonghai Wu.* 
+
+1. **Model-guided contrastive fine-tuning for industrial anomaly detection.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024W/VAND/html/Artola_Model-guided_Contrastive_Fine-tuning_for_Industrial_Anomaly_Detection_CVPRW_2024_paper.html)
+
+   *Aitor Artola, Yannis Kolodziej, Jean-Michel Morel, and Thibaud Ehret.* 
+
+1. **Universal novelty detection through adaptive contrastive learning.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Mirzaei_Universal_Novelty_Detection_Through_Adaptive_Contrastive_Learning_CVPR_2024_paper.html)
+
+   *Hossein Mirzaei, Mojtaba Nafez, Mohammad Jafari, Mohammad Bagher Soltani, Mohammad Azizmalayeri, Jafar Habibi, Mohammad Sabokrou, and Mohammad Hossein Rohban.* 
 
 ### [Continual Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
@@ -2870,6 +2877,10 @@ Contributed by Chunyang Zhang.
 1. **Sparse anomaly detection across referentials: A rank-based higher criticism approach.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.04924)
 
    *Ivo V. Stoepker, Rui M. Castro, and Ery Arias-Castro.* 
+
+1. **Hyperbolic anomaly detection.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Hyperbolic_Anomaly_Detection_CVPR_2024_paper.html)
+
+   *Huimin Li, Zhentao Chen, Yunhao Xu, and Junlin Hu.* 
 
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
@@ -3253,6 +3264,23 @@ Contributed by Chunyang Zhang.
 1. **Pursuing feature separation based on neural collapse for out-of-distribution detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17816)
 
    *Yingwen Wu, Ruiji Yu, Xinwen Cheng, Zhengbao He, and Xiaolin Huang.*
+
+### [Nonparametric Approach](#content)
+1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
+
+   *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
+
+1. **Neighborhood structure assisted non-negative matrix factorization and its application in unsupervised point anomaly detection.** JMLR, 2021. [paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546292)
+
+   *Imtiaz Ahmed, Xia Ben Hu, Mithun P. Acharya, and Yu Ding.* 
+
+1. **Bayesian nonparametric submodular video partition for robust anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.html)
+
+   *Hitesh Sapkota and Qi Yu.* 
+
+1. **Making parametric anomaly detection on tabular data non-parametric again.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.17052)
+
+   *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
 
 ### [Federated Learning](#content)
 1. **FADngs: Federated learning for anomaly detection.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10409269)
