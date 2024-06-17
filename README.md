@@ -1255,6 +1255,10 @@ Contributed by Chunyang Zhang.
 
    *Feiyi Chen, Zhen Qin, Mengchu Zhou, Yingying Zhang, Shuiguang Deng, Lunting Fan, Guansong Pang, and Qingsong Wen.*
 
+1. **Unraveling anomalies in time: Unsupervised discovery and isolation of anomalous behavior in bio-regenerative life support system telemetry.** ECML PKDD, 2024. [paper](https://arxiv.org/abs/2406.09825)
+
+   *Ferdinand Rewicki, Jakob Gawlikowski, Julia Niebling, and Joachim Denzler.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
