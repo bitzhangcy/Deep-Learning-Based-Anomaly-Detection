@@ -2244,6 +2244,10 @@ Contributed by Chunyang Zhang.
 
    *Tal Reiss, George Kour, Naama Zwerdling, Ateret Anaby-Tavor, and Yedid Hoshen.* 
 
+1. **Contamination-resilient anomaly detection via adversarial learning on partially-observed normal and anomalous data.** ICML, 2024. [paper](https://openreview.net/forum?id=6PTiCmGcNx)
+
+   *Wenxi Lv, Qinliang Su, Hai Wan, Hongteng Xu, and Wenchao Xu.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
