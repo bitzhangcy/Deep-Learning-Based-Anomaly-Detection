@@ -2059,6 +2059,10 @@ Contributed by Chunyang Zhang.
 
    *Jinyang Liu, Wenwei Gu, Zhuangbin Chen, Yichen Li, Yuxin Su, and Michael R. Lyu.* 
 
+1. **Vane-Bench: Video anomaly evaluation benchmark for conversational LMMs.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.10326)
+
+   *Rohit Bharadwaj, Hanan Gani, Muzammal Naseer, Fahad Shahbaz Khan, and Salman Khan.* 
+
 ### [Analysis](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09224)
 
@@ -3433,6 +3437,10 @@ Contributed by Chunyang Zhang.
 1. **Spatial-aware attention generative adversarial network for semi-supervised anomaly detection in medical image.** MICCAI, 2024. [paper](https://arxiv.org/abs/2405.12872)
 
    *Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, Rui Yu, Zhou Zhao, and Yongchao Xu.* 
+
+1. **Make your home safe: Time-aware unsupervised user behavior anomaly detection in smart homes via loss-guided mask.** MICCAI, 2024. [paper](https://arxiv.org/abs/2406.10928)
+
+   *Xiao Jingyu, Xu Zhiyao, Zou Qingsong, Li Qing, Zhao Dan, Fang Dong, Li Ruoyu, Tang Wenxin, Li Kang, Zuo Xudong, Hu Penghui, Jiang Yong, Weng Zixuan, and Lyv.R Michael.* 
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
