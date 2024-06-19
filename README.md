@@ -3589,6 +3589,10 @@ Contributed by Chunyang Zhang.
 
    *Jianxiong Zhou and Ying Wu.*
 
+1. **Prior normality prompt transformer for multi-class industrial image anomaly detection.** TII, 2024. [paper](https://arxiv.org/abs/2406.11507)
+
+   *Haiming Yao, Yunkang Cao, Wei Luo, Weihang Zhang, Wenyong Yu, and Weiming Shen.*
+
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
 
