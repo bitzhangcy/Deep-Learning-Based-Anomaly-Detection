@@ -3593,6 +3593,10 @@ Contributed by Chunyang Zhang.
 
    *Haiming Yao, Yunkang Cao, Wei Luo, Weihang Zhang, Wenyong Yu, and Weiming Shen.*
 
+1. **Masked memory network for semi-supervised anomaly detection in internet of things.** JIOT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10556614)
+
+   *Jiaxin Yin, Yuanyuan Qiao, Zunkai Dai, Zitang Zhou, Xiangchao Wang, Wenhui Lin, and Jie Yang.*
+
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
 
