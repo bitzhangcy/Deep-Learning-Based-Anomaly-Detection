@@ -2252,6 +2252,10 @@ Contributed by Chunyang Zhang.
 
    *Wenxi Lv, Qinliang Su, Hai Wan, Hongteng Xu, and Wenchao Xu.* 
 
+1. **Self-cognitive denoising in the presence of multiple noisy label sources.** ICML, 2024. [paper](https://openreview.net/forum?id=CG44RLeXt1)
+
+   *Yixuan Sun, Yalin Zhang, Bin Han, Longfei Li, and Jun Zhou.* 
+
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
 
@@ -2893,6 +2897,10 @@ Contributed by Chunyang Zhang.
 1. **Hyperbolic anomaly detection.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Hyperbolic_Anomaly_Detection_CVPR_2024_paper.html)
 
    *Huimin Li, Zhentao Chen, Yunhao Xu, and Junlin Hu.* 
+
+1. **Outlier-probability-based feature adaptation for robust unsupervised anomaly detection on contaminated training data.** TCSVT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10542974)
+
+   *Jianxiong Zhou and Ying Wu.* 
 
 ### [Density Estimation](#content)
 1. **DenseHybrid: Hybrid anomaly detection for dense open-set recognition.** ECCV, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_29)
