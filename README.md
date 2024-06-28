@@ -3516,10 +3516,6 @@ Contributed by Chunyang Zhang.
 
    *Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, Rui Yu, Zhou Zhao, and Yongchao Xu.* 
 
-1. **Make your home safe: Time-aware unsupervised user behavior anomaly detection in smart homes via loss-guided mask.** MICCAI, 2024. [paper](https://arxiv.org/abs/2406.10928)
-
-   *Xiao Jingyu, Xu Zhiyao, Zou Qingsong, Li Qing, Zhao Dan, Fang Dong, Li Ruoyu, Tang Wenxin, Li Kang, Zuo Xudong, Hu Penghui, Jiang Yong, Weng Zixuan, and Lyv.R Michael.* 
-
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
 
@@ -3561,6 +3557,10 @@ Contributed by Chunyang Zhang.
 1. **Illusory attacks: Information-theoretic detectability matters in adversarial attacks.** ICLR, 2024. [paper](https://openreview.net/forum?id=F5dhGCdyYh)
 
    *Tim Franzmeyer, Stephen Marcus McAleer, Joao F. Henriques, Jakob Nicolaus Foerster, Philip Torr, Adel Bibi, and Christian Schroeder de Witt.* 
+
+1. **Make your home safe: Time-aware unsupervised user behavior anomaly detection in smart homes via loss-guided mask.** KDD, 2024. [paper](https://arxiv.org/abs/2406.10928)
+
+   *Xiao Jingyu, Xu Zhiyao, Zou Qingsong, Li Qing, Zhao Dan, Fang Dong, Li Ruoyu, Tang Wenxin, Li Kang, Zuo Xudong, Hu Penghui, Jiang Yong, Weng Zixuan, and Lyv.R Michael.* 
 
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
