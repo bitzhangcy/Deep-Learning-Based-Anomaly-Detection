@@ -671,6 +671,10 @@ Contributed by Chunyang Zhang.
 
    *Yuxin Li, Yaoxuan Feng, Bo Chen, Wenchao Chen, Yubiao Wang, Xinyue Hu, baolin sun, Chunhui Qu, and Mingyuan Zhou.*
 
+1. **Counterfactual data augmentation with denoising diffusion for graph anomaly detection.** TCSS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10564850)
+
+   *Chunjing Xiao, Shikang Pang, Xovee Xu, Xuan Li, Goce Trajcevski, and Fan Zhou.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -3367,6 +3371,10 @@ Contributed by Chunyang Zhang.
 1. **Weakly Supervised anomaly detection with privacy preservation under a bi-Level federated learning framework.** ESA, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424013162)
 
    *Wei Guo and Pingyu Jiang.*
+
+1. **Federated graph anomaly detection via contrastive self-supervised learning.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10566052)
+
+   *Xiangjie Kong, Wenyi Zhang, Hui Wang, Mingliang Hou, Xin Chen, Xiaoran Yan, and Sajal K. Das.*
 
 ### [Onlie Learning](#content)
 1. **Online adaptive anomaly thresholding with confidence sequences.** ICML, 2024. [paper](https://openreview.net/forum?id=hbsKxUEreL)
