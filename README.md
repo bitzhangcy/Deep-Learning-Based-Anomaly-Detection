@@ -1762,6 +1762,10 @@ Contributed by Chunyang Zhang.
 
    *Keke Tang, Chao Hou, Weilong Peng, Runnan Chen, Peican Zhu, Wenping Wang, and Zhihong Tian.* 
 
+1. **Visual out-of-distribution detection in open-set noisy environments.** IJCV, 2024. [paper](https://link.springer.com/article/10.1007/s11263-024-02139-y)
+
+   *Rundong He, Zhongyi Han, Xiushan Nie, Yilong Yin, and Xiaojun Chang .* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
