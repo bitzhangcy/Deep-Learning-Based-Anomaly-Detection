@@ -2109,6 +2109,10 @@ Contributed by Chunyang Zhang.
 
    *Hang Du, Sicheng Zhang, Binzhu Xie, Guoshun Nan, Jiayang Zhang, Junrui Xu, Hangyu Liu, Sicong Leng, Jiangming Liu, Hehe Fan, Dajiu Huang, Jing Feng, Linli Chen, Can Zhang, Xuhuan Li, Hao Zhang, Jianhang Chen, Qimei Cui, and Xiaofeng Tao.* 
 
+1. **OpenCIL: Benchmarking out-of-distribution detection in class-incremental learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.06045)
+
+   *Wenjun Miao, Guansong Pang, Trong-Tung Nguyen, Ruohang Fang, Jin Zheng, and Xiao Bai.* 
+
 ### [Investigation](#content)
 1. **Are we certain it’s anomalous?** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09224)
 
@@ -2488,6 +2492,10 @@ Contributed by Chunyang Zhang.
 1. **HyperMix: Out-of-distribution detection and classification in few-shot settings.** WACV, 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/html/Mehta_HyperMix_Out-of-Distribution_Detection_and_Classification_in_Few-Shot_Settings_WACV_2024_paper.html)
 
    *Nikhil Mehta, Kevin J Liang, Jing Huang, Fujen Chu, Li Yin, and Tal Hassner.* 
+
+1. **A general framework for the assessment of detectors of anomalies in time series.** TII, 2024. [paper](https://ieeexplore.ieee.org/document/10583949)
+
+   *Andriy Enttsel, Silvia Onofri, Alex Marchioni, Mauro Mangia, Gianluca Setti, and Riccardo Rovatti.* 
 
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
