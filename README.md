@@ -122,13 +122,11 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#software">4.11 Software</a></td>
     <td>&ensp;<a href="#astronomy">4.12 Astronomy</a></td> 
 </tr>
+<tr>
+    <td>&ensp;<a href="#human">4.11 Human</a></td>
+    <td>&ensp;<a href="#"></a></td> 
+</tr>
 </table>
-
-
-
-
-
-
 
 
 
@@ -3444,7 +3442,6 @@ Contributed by Chunyang Zhang.
 
    *Feifei Cao and Xitong Guo.* 
 
-
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
 
@@ -3727,4 +3724,9 @@ Contributed by Chunyang Zhang.
 
 1. **GWAK: Gravitational-wave anomalous knowledge with recurrent autoencoders.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.11537)
 
-   *Ryan Raikman, Eric A. Moreno, Ekaterina Govorkova, Ethan J Marx, Alec Gunny, William Benoit, Deep Chatterjee, Rafia Omer, Muhammed Saleem, Dylan S Rankin, Michael W Coughlin, Philip C Harris, and Erik Katsavounidis.* 
+   *Ryan Raikman, Eric A. Moreno, Ekaterina Govorkova, Ethan J Marx, Alec Gunny, William Benoit, Deep Chatterjee, Rafia Omer, Muhammed Saleem, Dylan S Rankin, Michael W Coughlin, Philip C Harris, and Erik Katsavounidis.*
+
+### [Human](#content)
+1. **HumanRefiner: Benchmarking abnormal human generation and refining with coarse-to-fine pose-reversible guidance.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.06937)
+
+   *Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, Zutao Jiang, Hang Xu, Shengcai Liao, and Xiaodan Liang.*
