@@ -366,6 +366,10 @@ Contributed by Chunyang Zhang.
 
    *Ruifan Zhang, Hao Wang, Mingyao Feng, Yikun Liu, and Gongping Yang.*
 
+1. **Integrating adversarial training strategies into deep autoencoders: A novel aeroengine anomaly detection framework.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624010145)
+
+   *Lin Lin, Lizheng Zu, Song Fu, Yikun Liu, Sihao Zhang, Shiwei Suo, and Changsheng Tong.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
@@ -621,7 +625,7 @@ Contributed by Chunyang Zhang.
 
    *Matic Fučka, Vitjan Zavrtanik, and Danijel Skočaj.*
 
-1. **Transfusion -- A transparency-based diffusion model for anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.09999)
+1. **Transfusion -- A transparency-based diffusion model for anomaly detection.** ECCV, 2024. [paper](https://arxiv.org/abs/2311.09999)
 
    *Ziyun Liang, Harry Anthony, Felix Wagner, and Konstantinos Kamnitsas.*
 
