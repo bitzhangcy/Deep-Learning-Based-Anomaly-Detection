@@ -677,6 +677,10 @@ Contributed by Chunyang Zhang.
 
    *Chunjing Xiao, Shikang Pang, Xovee Xu, Xuan Li, Goce Trajcevski, and Fan Zhou.*
 
+1. **R3D-AD: Reconstruction via diffusion for 3D anomaly detection.** ECCV, 2024. [paper](https://arxiv.org/abs/2407.10862)
+
+   *Zheyuan Zhou, Le Wang, Naiyu Fang, Zili Wang, Lemiao Qiu, and Shuyou Zhang.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
