@@ -822,6 +822,10 @@ Contributed by Chunyang Zhang.
 
    *Maximilian Mueller and Matthias Hein.* 
 
+1. **GeneralAD: Anomaly detection across domains by attending to distorted features.** ECCV, 2024. [paper](https://arxiv.org/abs/2407.12427)
+
+   *Luc P.J. Sträter, Mohammadreza Salehi, Efstratios Gavves, Cees G. M. Snoek, and Yuki M. Asano.* 
+
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
@@ -3537,6 +3541,10 @@ Contributed by Chunyang Zhang.
 
    *Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, Rui Yu, Zhou Zhao, and Yongchao Xu.* 
 
+1. **Leveraging the mahalanobis distance to enhance unsupervised brain MRI anomaly  detection.** MICCAI, 2024. [paper](https://arxiv.org/abs/2407.12474)
+
+   *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, and lexander Schlaefer.* 
+
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
 
@@ -3724,6 +3732,10 @@ Contributed by Chunyang Zhang.
 1. **Multivariate log-based anomaly detection for distributed database.**  KDD, 2024. [paper](https://arxiv.org/abs/2406.07976)
 
    *Lingzhe Zhang, Tong Jia, Mengxi Jia, Ying Li, Yong Yang, and Zhonghai Wu.*
+
+1. **Diner: Interpretable anomaly detection for seasonal time series in web services.**  TSC, 2024. [paper](https://ieeexplore.ieee.org/document/10596055)
+
+   *Yuhan Jing, Jingyu Wang, Ji Qi, Qi Qi, Bo He, Zirui Zhuang, Naixing Wu, and Jianxin Liao.*
 
 ### [Astronomy](#content)
 1. **Multi-class deep SVDD: Anomaly detection approach in astronomy with distinct inlier categories.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05011)
