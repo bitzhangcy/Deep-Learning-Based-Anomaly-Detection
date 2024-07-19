@@ -1112,6 +1112,10 @@ Contributed by Chunyang Zhang.
 
    *Tim Poštuvan, Claas Grohnfeldt, Michele Russo, and Giulio Lovisotto.* 
 
+1. **Motif-consistent counterfactuals with adversarial refinement for graph-level anomaly detection.** KDD, 2024. [paper](https://arxiv.org/abs/2407.13251)
+
+   *Chunjing Xiao, Shikang Pang, Wenxin Tai, Yanlong Huang, Goce Trajcevski, and Fan Zhou.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -2436,6 +2440,10 @@ Contributed by Chunyang Zhang.
 1. **Unified entropy optimization for open-set test-time adaptation.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.06065)
 
    *Zhengqing Gao, Xuyao Zhang, and Chenglin Liu.*
+
+1. **Deep domain-adversarial anomaly detection with robust one-class transfer learning.** KBS, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124008591)
+
+   *Jingkai Chi and Zhizhong Mao.*
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
