@@ -2445,6 +2445,10 @@ Contributed by Chunyang Zhang.
 
    *Jingkai Chi and Zhizhong Mao.*
 
+1. **AdaCLIP: Adapting CLIP with hybrid learnable prompts for zero-shot anomaly detection.** ECCV, 2024. [paper](https://arxiv.org/abs/2407.15795)
+
+   *Yunkang Cao, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen, and Giacomo Boracchi*
+
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
 
@@ -2765,6 +2769,10 @@ Contributed by Chunyang Zhang.
 1. **Envisioning outlier exposure by large language models for out-of-distribution detection.** ICML, 2024. [paper](https://arxiv.org/abs/2406.00806)
 
    *Chentao Cao, Zhun Zhong, Zhanke Zhou, Yang Liu, Tongliang Liu, and Bo Han.* 
+
+1. **Towards open-world object-based anomaly detection via self-supervised outlier synthesis.** ECCV, 2024. [paper](https://arxiv.org/abs/2407.15763)
+
+   *Brian K. S. Isaac-Medina, Yona Falinie A. Gaus, Neelanjan Bhowmik, and Toby P. Breckon.* 
 
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
@@ -3552,6 +3560,10 @@ Contributed by Chunyang Zhang.
 1. **Leveraging the mahalanobis distance to enhance unsupervised brain MRI anomaly  detection.** MICCAI, 2024. [paper](https://arxiv.org/abs/2407.12474)
 
    *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, and lexander Schlaefer.* 
+
+1. **Motif-consistent counterfactuals with adversarial refinement for graph-level anomaly detection.** KDD, 2024. [paper](https://arxiv.org/abs/2407.13251)
+
+   *Chunjing Xiao, Shikang Pang, Wenxin Tai, Yanlong Huang, Goce Trajcevski, and Fan Zhou.* 
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
