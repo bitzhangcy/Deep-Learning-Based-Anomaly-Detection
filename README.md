@@ -1475,6 +1475,10 @@ Contributed by Chunyang Zhang.
 
    *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, and Shirui Pan.* 
 
+1. **Weakly supervised video anomaly detection and localization with spatio-temporal prompts.** MM, 2024. [paper](https://openreview.net/forum?id=2es1ojI14x)
+
+   *Peng Wu, Xuerong Zhou, Guansong Pang, Zhiwei Yang, Qingsen Yan, Peng Wang, and Yanning Zhang.* 
+
 ### [Out of Distribution](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
 
@@ -2863,6 +2867,10 @@ Contributed by Chunyang Zhang.
 
    *Hossein Mirzaei, Mojtaba Nafez, Mohammad Jafari, Mohammad Bagher Soltani, Mohammad Azizmalayeri, Jafar Habibi, Mohammad Sabokrou, and Mohammad Hossein Rohban.* 
 
+1. **Regularized contrastive partial multi-view outlier detection.** MM, 2024. [paper](https://openreview.net/forum?id=9udVudwIw8)
+
+   *Yijia Wang, Qianqian Xu, Yangbangyan Jiang, Siran Dai, and Qingming Huang* 
+
 ### [Continual Learning](#content)
 1. **PANDA: Adapting pretrained features for anomaly detection and segmentation.** CVPR, 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html)
 
@@ -3417,6 +3425,10 @@ Contributed by Chunyang Zhang.
 1. **Federated graph anomaly detection via contrastive self-supervised learning.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10566052)
 
    *Xiangjie Kong, Wenyi Zhang, Hui Wang, Mingliang Hou, Xin Chen, Xiaoran Yan, and Sajal K. Das.*
+
+1. **Towards effective federated graph anomaly detection via self-boosted knowledge distillation.** MM, 2024. [paper](https://openreview.net/forum?id=Mj1yycahqi)
+
+   *Jinyu Cai, Yunhe Zhang, Zhoumin Lu, Wenzhong Guo, and See-Kiong Ng.*
 
 ### [Onlie Learning](#content)
 1. **Online adaptive anomaly thresholding with confidence sequences.** ICML, 2024. [paper](https://openreview.net/forum?id=hbsKxUEreL)
