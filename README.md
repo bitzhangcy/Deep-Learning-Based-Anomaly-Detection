@@ -2604,6 +2604,10 @@ Contributed by Chunyang Zhang.
 
    *Jeongmin Hong and Seokho Kang.* 
 
+1. **Dual-modeling decouple distillation for unsupervised anomaly detection.** MM, 2024. [paper](https://arxiv.org/abs/2408.03888)
+
+   *Xinyue Liu, Jianyuan Wang, Biao Leng, and Shuo Zhang.* 
+
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
 
