@@ -124,9 +124,10 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#human">4.11 Human</a></td>
-    <td>&ensp;<a href="#"></a></td> 
+    <td>&ensp;<a href="#climate">4.12 Climate</a></td> 
 </tr>
 </table>
+
 
 
 
@@ -3786,3 +3787,8 @@ Contributed by Chunyang Zhang.
 1. **HumanRefiner: Benchmarking abnormal human generation and refining with coarse-to-fine pose-reversible guidance.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.06937)
 
    *Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, Zutao Jiang, Hang Xu, Shengcai Liao, and Xiaodan Liang.*
+
+### [Climate](#content)
+1. **Generating fine-grained causality in climate time series data for forecasting and anomaly detection.** ICML, 2024. [paper](https://arxiv.org/abs/2408.04254)
+
+   *Dongqi Fu, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, and Jingrui He*
