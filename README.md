@@ -371,6 +371,10 @@ Contributed by Chunyang Zhang.
 
    *Lin Lin, Lizheng Zu, Song Fu, Yikun Liu, Sihao Zhang, Shiwei Suo, and Changsheng Tong.*
 
+1. **An outlier-resilient autoencoder for representing high-dimensional and incomplete data.** TETCI, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10634222)
+
+   *Di Wu, Yuanpeng Hu, Kechen Liu, Jing Li, Xianmin Wang, Song Deng, Nenggan Zheng, and Xin Luo.*
+
 ### [GAN](#content)
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
