@@ -2787,6 +2787,10 @@ Contributed by Chunyang Zhang.
 
    *Brian K. S. Isaac-Medina, Yona Falinie A. Gaus, Neelanjan Bhowmik, and Toby P. Breckon.* 
 
+1. **Out-of-distribution detection with virtual outlier smoothing.** IJCV, 2024. [paper](https://link.springer.com/article/10.1007/s11263-024-02210-8)
+
+   *Jun Nie, Yadan Luo, Shanshan Ye, Yonggang Zhang, Xinmei Tian, and Zhen Fang .* 
+
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
 
