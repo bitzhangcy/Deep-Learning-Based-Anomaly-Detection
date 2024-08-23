@@ -2039,6 +2039,10 @@ Contributed by Chunyang Zhang.
 
    *Austin Coursey, Junyi Ji, Marcos Quinones-Grueiro, William Barbour, Yuhang Zhang, Tyler Derr, and Gautam Biswas.* 
 
+1. **UMAD: University of Macau anomaly detection benchmark dataset.** IROS, 2024. [paper](https://arxiv.org/abs/2408.12527)
+
+   *Dong Li, Lineng Chen, Cheng-Zhong Xu, and Hui Kong.* 
+
 ### [Benchmark](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
 
