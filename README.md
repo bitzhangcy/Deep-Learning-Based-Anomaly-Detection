@@ -2041,7 +2041,11 @@ Contributed by Chunyang Zhang.
 
 1. **UMAD: University of Macau anomaly detection benchmark dataset.** IROS, 2024. [paper](https://arxiv.org/abs/2408.12527)
 
-   *Dong Li, Lineng Chen, Cheng-Zhong Xu, and Hui Kong.* 
+   *Dong Li, Lineng Chen, Chengzhong Xu, and Hui Kong.* 
+
+1. **PHEVA: A privacy-preserving human-centric video anomaly detection dataset.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.14329)
+
+   *Ghazal Alinezhad Noghre, Shanle Yao, Armin Danesh Pazho, Babak Rahimi Ardabili, Vinit Katariya, and Hamed Tabkhi* 
 
 ### [Benchmark](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
