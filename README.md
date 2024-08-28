@@ -3761,6 +3761,10 @@ Contributed by Chunyang Zhang.
 
    *Jiaxin Yin, Yuanyuan Qiao, Zunkai Dai, Zitang Zhou, Xiangchao Wang, Wenhui Lin, and Jie Yang.*
 
+1. **AnomalousPatchCore: Exploring the use of anomalous samples in industrial anomaly detection.** ECCV, 2024. [paper](https://arxiv.org/abs/2408.15113v1)
+
+   *Mykhailo Koshil, Tilman Wegener, Detlef Mentrup, Simone Frintrop, and Christian Wilms.*
+
 ### [Software](#content)
 1. **GRAND: GAN-based software runtime anomaly detection method using trace information.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0893608023005919)
 
