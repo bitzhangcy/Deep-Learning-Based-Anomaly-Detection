@@ -1298,6 +1298,14 @@ Contributed by Chunyang Zhang.
 
    *Archibald Felix Fraikin, Adrien Bennetot, and Stephanie Allassonniere.*
 
+1. **SensitiveHUE: Multivariate time series anomaly detection by enhancing the sensitivity to normal patterns.** KDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671919)
+
+   *Yuye Feng, Wei Zhang, Yao Fu, Weihao Jiang, Jiang Zhu, and Wenqi Ren.*
+
+1. **CutAddPaste: Time series anomaly detection by exploiting abnormal knowledge.** KDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671739)
+
+   *Rui Wang, Xudong Mou, Renyu Yang, Kai Gao, Pin Liu, Chongwei Liu, Tianyu Wo, and Xudong Liu.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** ICML, 2024. [paper](https://openreview.net/forum?id=chDpBp2P6b)
 
@@ -2464,7 +2472,11 @@ Contributed by Chunyang Zhang.
 
 1. **AdaCLIP: Adapting CLIP with hybrid learnable prompts for zero-shot anomaly detection.** ECCV, 2024. [paper](https://arxiv.org/abs/2407.15795)
 
-   *Yunkang Cao, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen, and Giacomo Boracchi*
+   *Yunkang Cao, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen, and Giacomo Boracchi.*
+
+1. **Graph anomaly detection with few labels: A data-centric approach.** KDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671929)
+
+   *Xiaoxiao Ma, Ruikun Li, Fanzhen Liu, Kaize Ding, Jian Yang, and Jia Wu.*
 
 ### [Loss Function](#content)
 1. **Detecting regions of maximal divergence for spatio-temporal anomaly detection.** TPAMI, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8352745)
@@ -3166,6 +3178,10 @@ Contributed by Chunyang Zhang.
 1. **Energy-based models for anomaly detection: A manifold diffusion recovery approach.** NIPS, 2023. [paper](https://openreview.net/forum?id=4nSDDokpfK)
 
    *Sangwoong Yoon, Young-Uk Jin, Yung-Kyun Noh, and Frank C. Park.* 
+
+1. **An energy-centric framework for category-free out-of-distribution node detection in graphs.** KDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671939)
+
+   *Zheng Gong and Ying Sun* 
 
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
