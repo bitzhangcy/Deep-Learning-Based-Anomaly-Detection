@@ -1306,6 +1306,10 @@ Contributed by Chunyang Zhang.
 
    *Rui Wang, Xudong Mou, Renyu Yang, Kai Gao, Pin Liu, Chongwei Liu, Tianyu Wo, and Xudong Liu.*
 
+1. **ALAD: A new unsupervised time series anomaly detection paradigm based on activation learning.** TBDATA, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10663916)
+
+   *Fengqian Ding, Bo Li, Xianye Ben, Jia Zhao, and Hongchao Zhou.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** ICML, 2024. [paper](https://openreview.net/forum?id=chDpBp2P6b)
 
@@ -2347,7 +2351,11 @@ Contributed by Chunyang Zhang.
 
 1. **Anomaly score: Evaluating generative models and individual generated images based on complexity and vulnerability.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hwang_Anomaly_Score_Evaluating_Generative_Models_and_Individual_Generated_Images_based_CVPR_2024_paper.html)
 
-   *aehui Hwang, Junghyuk Lee, and Jong-Seok Lee.* 
+   *Jaehui Hwang, Junghyuk Lee, and Jong-Seok Lee.* 
+
+1. **RTOD: Efficient outlier detection with ray tracing cores.** TKDE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10663704)
+
+   *Ziming Wang, Kai Zhang, Yangming Lv, Yinglong Wang, Zhigang Zhao, Zhenying He, Yinan Jing, and X. Sean Wang.* 
 
 ### [Domain Adaptation](#content)
 1. **Few-shot domain-adaptive anomaly detection for cross-site brain imagess.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9606561)
