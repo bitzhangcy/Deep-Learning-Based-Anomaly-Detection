@@ -1799,7 +1799,19 @@ Contributed by Chunyang Zhang.
 
 1. **Visual out-of-distribution detection in open-set noisy environments.** IJCV, 2024. [paper](https://link.springer.com/article/10.1007/s11263-024-02139-y)
 
-   *Rundong He, Zhongyi Han, Xiushan Nie, Yilong Yin, and Xiaojun Chang .* 
+   *Rundong He, Zhongyi Han, Xiushan Nie, Yilong Yin, and Xiaojun Chang.* 
+
+1. **Can OOD object detectors learn from foundation models?** ECCV, 2024. [paper](https://arxiv.org/abs/2409.04708)
+
+   *N Navaneeth, Tushar, and Souvik Chakraborty.* 
+
+1. **Can your generative model detect out-of-distribution covariate shift?** ECCV, 2024. [paper](https://arxiv.org/abs/2409.03043)
+
+   *Christiaan Viviers, Amaan Valiuddin, Francisco Caetano, Lemar Abdi, Lena Filatova, Peter de With, and Fons van der Sommen.* 
+
+1. **Can your generative model detect out-of-distribution covariate shift?** IJCV, 2024. [paper](https://arxiv.org/abs/2408.16757)
+
+   *Hongjun Wang, Sagar Vaze, and Kai Han.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
