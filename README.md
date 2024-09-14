@@ -252,6 +252,10 @@ Contributed by Chunyang Zhang.
 
    *Prabin B Lamichhane and William Eberle.* 
 
+1. **Deep learning for video anomaly detection: A review.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.05383)
+
+   *Peng Wu, Chengyu Pan, Yuting Yan, Guansong Pang, Peng Wang, and Yanning Zhang.* 
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
