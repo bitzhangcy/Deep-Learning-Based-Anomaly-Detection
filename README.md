@@ -1314,6 +1314,10 @@ Contributed by Chunyang Zhang.
 
    *Fengqian Ding, Bo Li, Xianye Ben, Jia Zhao, and Hongchao Zhou.*
 
+1. **Fusion graph structure learning-based multivariate time series anomaly detection with structured prior knowledge.** TIFS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10679558)
+
+   *Shiming He, Genxin Li, Kun Xie, and Pradip Kumar Sharma.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** ICML, 2024. [paper](https://openreview.net/forum?id=chDpBp2P6b)
 
