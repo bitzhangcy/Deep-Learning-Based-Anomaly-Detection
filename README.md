@@ -1318,6 +1318,10 @@ Contributed by Chunyang Zhang.
 
    *Shiming He, Genxin Li, Kun Xie, and Pradip Kumar Sharma.*
 
+1. **Rethinking robust multivariate time series anomaly detection: A hierarchical spatio-temporal variational perspective.** TKDE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10689345)
+
+   *Xiao Zhang, Shuqing Xu, Huashan Chen, Zekai Chen, Fuzhen Zhuang, Hui Xiong, and Dongxiao Yu.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** ICML, 2024. [paper](https://openreview.net/forum?id=chDpBp2P6b)
 
