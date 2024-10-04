@@ -3592,6 +3592,10 @@ Contributed by Chunyang Zhang.
 
    *Ankan Bhunia, Changjian Li, and Hakan Bilen.*
 
+1. **PointAD: Comprehending 3D anomalies from points and pixels for zero-shot 3D anomaly detection.** NIPS, 2024. [paper](https://arxiv.org/abs/2410.00320)
+
+   *Qihang Zhou, Jiangtao Yan, Shibo He, Wenchao Meng, and Jiming Chen.*
+
 ### [Autonomous Driving](#content)
 1. **DeepSegmenter: Temporal action localization for detecting anomalies in untrimmed naturalistic driving videos.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.08261)
 
