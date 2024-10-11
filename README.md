@@ -2580,6 +2580,10 @@ Contributed by Chunyang Zhang.
 
    *Andriy Enttsel, Silvia Onofri, Alex Marchioni, Mauro Mangia, Gianluca Setti, and Riccardo Rovatti.* 
 
+1. **MetaOOD: Automatic selection of OOD detection models.** KDD, 2024. [paper](https://arxiv.org/abs/2410.03074)
+
+   *Yuehan Qin, Yichi Zhang, Yi Nian, Xueying Ding, and Yue Zhao.* 
+
 ### [Knowledge Distillation](#content)
 1. **Anomaly detection via reverse distillation from one-class embedding.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html)
 
