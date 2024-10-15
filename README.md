@@ -1825,6 +1825,10 @@ Contributed by Chunyang Zhang.
 
    *Hongjun Wang, Sagar Vaze, and Kai Han.* 
 
+1. **Prototype-based optimal transport for out-of-distribution detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.07617)
+
+   *Ao Ke, Wenlong Chen, Chuanwen Feng, Yukun Cao, Xike Xie, S.Kevin Zhou, and Lei Feng.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
