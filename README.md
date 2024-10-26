@@ -1125,6 +1125,10 @@ Contributed by Chunyang Zhang.
 
    *Chunjing Xiao, Shikang Pang, Wenxin Tai, Yanlong Huang, Goce Trajcevski, and Fan Zhou.* 
 
+1. **Chongqing GZOO: Black-box node injection attack on graph neural networks via zeroth-order optimization.** KDD, 2024. [paper](https://ieeexplore.ieee.org/document/10726692)
+
+   *Hao Yu, Ke Liang, Dayu Hu, Wenxuan Tu, Chuan Ma, and Sihang Zhou.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
