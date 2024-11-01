@@ -1833,6 +1833,10 @@ Contributed by Chunyang Zhang.
 
    *Ao Ke, Wenlong Chen, Chuanwen Feng, Yukun Cao, Xike Xie, S.Kevin Zhou, and Lei Feng.* 
 
+1. **Improving out-of-distribution detection with disentangled foreground and background features.** MM, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681614)
+
+   *Choubo Ding and Guansong Pang* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
