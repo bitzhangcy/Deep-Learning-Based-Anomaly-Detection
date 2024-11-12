@@ -1129,6 +1129,10 @@ Contributed by Chunyang Zhang.
 
    *Hao Yu, Ke Liang, Dayu Hu, Wenxuan Tu, Chuan Ma, and Sihang Zhou.* 
 
+1. **Graph local homophily network for anomaly detection.** CIKM, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679785)
+
+   *Ronghui Guo, Minghui Zou, Sai Zhang, Xiaowang Zhang, Zhizhi Yu, and Zhiyong Feng.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
@@ -3451,6 +3455,10 @@ Contributed by Chunyang Zhang.
 
    *Ashish Singh, Michael J. Jones, and Erik G. Learned-Miller.*
 
+1. **Dissect black box: Interpreting for rule-based explanations in unsupervised anomaly detection.** NIPS, 2024. [paper](https://openreview.net/forum?id=h6o6qXLmHZ)
+
+   *Yu Zhang, Ruoyu Li, Nengwu Wu, Qing Li, Xinhan Lin, Yang Hu, Tao Li, and Yong Jiang.*
+
 ### [Open Set](#content)
 1. **Anomaly heterogeneity learning for open-set supervised anomaly detection.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Anomaly_Heterogeneity_Learning_for_Open-set_Supervised_Anomaly_Detection_CVPR_2024_paper.html)
 
@@ -3563,9 +3571,13 @@ Contributed by Chunyang Zhang.
 
    *Alexander Bakumenko, Kateřina Hlaváčková-Schindler, Claudia Plant, and Nina C. Hubig.* 
 
-1. **Automated financial time series anomaly detection via curiosity-guided exploration and self-imitation learning** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624008212)
+1. **Automated financial time series anomaly detection via curiosity-guided exploration and self-imitation learning.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624008212)
 
    *Feifei Cao and Xitong Guo.* 
+
+1. **Survey and benchmark of anomaly detection in business processes.** TKDE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10738505)
+
+   *Wei Guan, Jian Cao, Haiyan Zhao, Yang Gu, and Shiyou Qian.* 
 
 ### [Point Cloud](#content)
 1. **Teacher-student network for 3D point cloud anomaly detection with few normal samples.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.17258)
