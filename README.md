@@ -1133,6 +1133,10 @@ Contributed by Chunyang Zhang.
 
    *Ronghui Guo, Minghui Zou, Sai Zhang, Xiaowang Zhang, Zhizhi Yu, and Zhiyong Feng.* 
 
+1. **UniGAD: Unifying multi-level graph anomaly detection.** NIPS, 2024. [paper](https://openreview.net/forum?id=sRILMnkkQd)
+
+   *Yiqing Lin, Jianheng Tang, Chenyi Zi, H. Vicky Zhao, Yuan Yao, and Jia Li.* 
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
