@@ -1843,7 +1843,11 @@ Contributed by Chunyang Zhang.
 
 1. **Improving out-of-distribution detection with disentangled foreground and background features.** MM, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681614)
 
-   *Choubo Ding and Guansong Pang* 
+   *Choubo Ding and Guansong Pang.* 
+
+1. **Revisiting score propagation in graph out-of-distribution detection.** NIPS, 2024. [paper](https://openreview.net/forum?id=jb5qN3212b)
+
+   *Longfei Ma, Yiyou Sun, Kaize Ding, Zemin Liu, and Fei Wu.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
