@@ -1849,6 +1849,10 @@ Contributed by Chunyang Zhang.
 
    *Longfei Ma, Yiyou Sun, Kaize Ding, Zemin Liu, and Fei Wu.* 
 
+1. **Learning to shape in-distribution feature space for out-of-distribution detection.** NIPS, 2024. [paper](https://openreview.net/forum?id=1Du3mMP5YN)
+
+   *Yonggang Zhang, Jie Lu, Bo Peng, Zhen Fang, and Yiuming Cheung.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
