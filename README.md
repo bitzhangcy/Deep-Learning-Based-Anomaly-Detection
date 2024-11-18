@@ -1334,6 +1334,10 @@ Contributed by Chunyang Zhang.
 
    *Xiao Zhang, Shuqing Xu, Huashan Chen, Zekai Chen, Fuzhen Zhuang, Hui Xiong, and Dongxiao Yu.*
 
+1. **Enhancing multivariate time series anomaly detection with an inference stacked recurrent-autoencoder in strong mechanistic contexts.** TII, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10752835)
+
+   *Tianming Xie, Zhiwei Gao, Qifa Xu, Cuixia Jiang, and Aihua Zhang.*
+
 ### [Tabular](#content)
 1. **Beyond individual input for deep anomaly detection on tabular data.** ICML, 2024. [paper](https://openreview.net/forum?id=chDpBp2P6b)
 
@@ -1852,6 +1856,14 @@ Contributed by Chunyang Zhang.
 1. **Learning to shape in-distribution feature space for out-of-distribution detection.** NIPS, 2024. [paper](https://openreview.net/forum?id=1Du3mMP5YN)
 
    *Yonggang Zhang, Jie Lu, Bo Peng, Zhen Fang, and Yiuming Cheung.* 
+
+1. **Out-of-distribution detection with diversification (provably).** NIPS, 2024. [paper](https://openreview.net/forum?id=C1hiRbzEH9)
+
+   *Haiyun Yao, Zongbo Han, Huazhu Fu, Xi Peng, Qinghua Hu, and Changqing Zhang.* 
+
+1. **DPU: Dynamic prototype updating for multimodal out-of-distribution detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2411.08227)
+
+   *Shawn Li, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, and Yue Zhao.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
