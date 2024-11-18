@@ -1865,6 +1865,10 @@ Contributed by Chunyang Zhang.
 
    *Shawn Li, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, and Yue Zhao.* 
 
+1. **Enhancing few-shot out-of-distribution detection with pre-trained model features.** TIP, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10735106)
+
+   *Jiuqing Dong, Yifan Yao, Wei Jin, Heng Zhou, Yongbin Gao, and Zhijun Fang.* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
