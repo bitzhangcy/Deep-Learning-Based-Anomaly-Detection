@@ -690,6 +690,10 @@ Contributed by Chunyang Zhang.
 
    *Zheyuan Zhou, Le Wang, Naiyu Fang, Zili Wang, Lemiao Qiu, and Shuyou Zhang.*
 
+1. **Video anomaly detection with motion and appearance guided patch diffusion model.** AAAI, 2025. [paper](https://arxiv.org/abs/2407.10862)
+
+   *Hang Zhou, Jiale Cai, Yuteng Ye, Yonghui Feng, Chenxing Gao, Junqing Yu, Zikai Song, and Wei Yang.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -2712,6 +2716,10 @@ Contributed by Chunyang Zhang.
 1. **Dual-modeling decouple distillation for unsupervised anomaly detection.** MM, 2024. [paper](https://arxiv.org/abs/2408.03888)
 
    *Xinyue Liu, Jianyuan Wang, Biao Leng, and Shuo Zhang.* 
+
+1. **Filter or compensate: Towards invariant representation from distribution shift for anomaly detection.** AAAI, 2025. [paper](https://arxiv.org/abs/2412.10115)
+
+   *Zining Chen, Xingshuang Luo, Weiqiu Wang, Zhicheng Zhao, Fei Su, and Aidong Men.* 
 
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
