@@ -2897,7 +2897,11 @@ Contributed by Chunyang Zhang.
 
 1. **Out-of-distribution detection with virtual outlier smoothing.** IJCV, 2024. [paper](https://link.springer.com/article/10.1007/s11263-024-02210-8)
 
-   *Jun Nie, Yadan Luo, Shanshan Ye, Yonggang Zhang, Xinmei Tian, and Zhen Fang .* 
+   *Jun Nie, Yadan Luo, Shanshan Ye, Yonggang Zhang, Xinmei Tian, and Zhen Fang.* 
+
+1. **W-DOE: Wasserstein distribution-agnostic outlier exposure.** TPAMI, 2025. [paper](https://ieeexplore.ieee.org/document/10844561)
+
+   *Qizhou Wang, Bo Han, Yang Liu, Chen Gong, Tongliang Liu, and Jiming Liu.* 
 
 ### [Contrastive Learning](#content)
 1. **Graph anomaly detection via multi-scale contrastive learning networks with augmented view.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.00535)
