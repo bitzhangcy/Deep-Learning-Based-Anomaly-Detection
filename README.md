@@ -1873,6 +1873,10 @@ Contributed by Chunyang Zhang.
 
    *Jiuqing Dong, Yifan Yao, Wei Jin, Heng Zhou, Yongbin Gao, and Zhijun Fang.* 
 
+1. **GL-MCM: Global and local maximum concept matching for zero-shot out-of-distribution detection.** IJCV, 2025. [paper](https://link.springer.com/article/10.1007/s11263-025-02356-z)
+
+   *Atsuyuki Miyai, Qing Yu, Go Irie, and Kiyoharu Aizawa .* 
+
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
