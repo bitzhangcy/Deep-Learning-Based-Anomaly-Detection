@@ -2133,7 +2133,11 @@ Contributed by Chunyang Zhang.
 
 1. **PHEVA: A privacy-preserving human-centric video anomaly detection dataset.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.14329)
 
-   *Ghazal Alinezhad Noghre, Shanle Yao, Armin Danesh Pazho, Babak Rahimi Ardabili, Vinit Katariya, and Hamed Tabkhi* 
+   *Ghazal Alinezhad Noghre, Shanle Yao, Armin Danesh Pazho, Babak Rahimi Ardabili, Vinit Katariya, and Hamed Tabkhi.* 
+
+1. **3CAD: A large-scale real-world 3C product dataset for unsupervised anomaly.** AAAI, 2025. [paper](https://arxiv.org/abs/2408.14329)
+
+   *Enquan Yang, Peng Xing, Hanyang Sun, Wenbo Guo, Yuanwei Ma, Zechao Li, and Dan Zeng.* 
 
 ### [Benchmark](#content)
 1. **ADBench: Anomaly detection benchmark.** NIPS, 2022. [paper](https://openreview.net/forum?id=foA_SFQ9zo0)
