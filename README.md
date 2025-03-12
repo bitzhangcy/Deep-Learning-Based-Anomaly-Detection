@@ -694,6 +694,10 @@ Contributed by Chunyang Zhang.
 
    *Hang Zhou, Jiale Cai, Yuteng Ye, Yonghui Feng, Chenxing Gao, Junqing Yu, Zikai Song, and Wei Yang.*
 
+1. **Distribution prototype diffusion learning for open-set supervised anomaly detection.** ICLR, 2025. [paper](https://arxiv.org/abs/2502.20981)
+
+   *Hang Zhou, Jiale Cai, Yuteng Ye, Yonghui Feng, Chenxing Gao, Junqing Yu, Zikai Song, and Wei Yang.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -2599,6 +2603,10 @@ Contributed by Chunyang Zhang.
 
    *Jingyao Li, Pengguang Chen, Shaozuo Yu, Shu Liu, and Jiaya Jia.* 
 
+1. **MOODv2: Masked image modeling for out-of-distribution detection.** ICLR, 2025. [paper](https://arxiv.org/abs/2503.02424)
+
+   *Wei Luo, Yunkang Cao, Haiming Yao, Xiaotian Zhang, Jianan Lou, Yuqi Cheng, Weiming Shen, and Wenyong Yu.* 
+
 ### [Model Selection](#content)
 1. **Automatic unsupervised outlier model selection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/23c894276a2c5a16470e6a31f4618d73-Abstract.html)
 
@@ -3684,6 +3692,10 @@ Contributed by Chunyang Zhang.
 1. **Traffic anomaly detection: Exploiting temporal positioning of flow-density samples.** TITS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10287217)
 
    *Iman Taheri Sarteshnizi, Saeed Asadi Bagloee, Majid Sarvi, and Neema Nassir.*
+
+1. **An expert ensemble for detecting anomalous scenes, interactions, and behaviors in autonomous driving.** IJRR, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10287217)
+
+   *Tianchen Ji, Neeloy Chakraborty, Andre Schreiber, and Katherine Driggs-Campbell.*
 
 ### [Medical Image](#content)
 1. **SWSSL: Sliding window-based self-supervised learning for anomaly detection in high-resolution images.** TMI, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
