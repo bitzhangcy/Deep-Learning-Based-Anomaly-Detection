@@ -698,6 +698,10 @@ Contributed by Chunyang Zhang.
 
    *Hang Zhou, Jiale Cai, Yuteng Ye, Yonghui Feng, Chenxing Gao, Junqing Yu, Zikai Song, and Wei Yang.*
 
+1. **Correcting deviations from normality: A reformulated diffusion model for multi-class unsupervised anomaly detection.** CVPR, 2025. [paper](https://arxiv.org/abs/2503.19357)
+
+   *Farzad Beizaee, Gregory A. Lodygensky, Christian Desrosiers, and Jose Dolz.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -1531,6 +1535,10 @@ Contributed by Chunyang Zhang.
 1. **Weakly supervised video anomaly detection and localization with spatio-temporal prompts.** MM, 2024. [paper](https://openreview.net/forum?id=2es1ojI14x)
 
    *Peng Wu, Xuerong Zhou, Guansong Pang, Zhiwei Yang, Qingsen Yan, Peng Wang, and Yanning Zhang.* 
+
+1. **Towards training-free anomaly detection with vision and language foundation models.** CVPR, 2025. [paper](https://arxiv.org/abs/2503.18325)
+
+   *PJinjin Zhang, Guodong Wang, Yizhou Jin, and Di Huang.* 
 
 ### [Out of Distribution](#content)
 1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
@@ -2736,6 +2744,10 @@ Contributed by Chunyang Zhang.
 1. **Filter or compensate: Towards invariant representation from distribution shift for anomaly detection.** AAAI, 2025. [paper](https://arxiv.org/abs/2412.10115)
 
    *Zining Chen, Xingshuang Luo, Weiqiu Wang, Zhicheng Zhao, Fei Su, and Aidong Men.* 
+
+1. **Scale-aware contrastive reverse distillation for unsupervised medical anomaly detection.** ICLR, 2025. [paper](https://openreview.net/forum?id=HNOo4UNPBF)
+
+   *Chunlei Li, Yilei Shi, Jingliang Hu, Xiao Xiang Zhu, and Lichao Mou.* 
 
 ### [Data Augmentation](#content)
 1. **Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/sipple20a.html)
