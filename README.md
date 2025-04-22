@@ -1181,6 +1181,15 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Yiqing Lin, Jianheng Tang, Chenyi Zi, H. Vicky Zhao, Yuan Yao, and Jia Li.* 
 
+1. **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** Arxiv, 2024. [paper](https://arxiv.org/abs/2410.14886)
+
+   *Chaoxi Niu, Hezhe Qiao, Changlu Chen, Ling Chen, Guansong Pang.* 
+
+1. **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** Arxiv, 2024. [paper](https://arxiv.org/abs/2502.09254)
+
+   *Hezhe Qiao, Chaoxi Niu, Ling Chen, Guansong Pang.* 
+
+
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
