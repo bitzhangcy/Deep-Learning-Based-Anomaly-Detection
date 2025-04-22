@@ -271,6 +271,11 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Peng Wu, Chengyu Pan, Yuting Yan, Guansong Pang, Peng Wang, and Yanning Zhang.* 
 
+1. **Deep Graph Anomaly Detection: A Survey and New Perspectives.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.09957)
+
+   *Hezhe Qiao, Hanghang Tong, Bo An, Irwin King, Charu Aggarwal, Guansong Pang.* 
+
+
 
 ## [Methodology](#content) 
 ### [AutoEncoder](#content)
