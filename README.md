@@ -874,6 +874,10 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Luc P.J. Sträter, Mohammadreza Salehi, Efstratios Gavves, Cees G. M. Snoek, and Yuki M. Asano.* 
 
+1. **PatchGuard: Adversarially robust anomaly detection and localization through vision transformers and pseudo anomalies.** CVPR, 2025. [paper](https://arxiv.org/abs/2506.09237)
+
+   *Mojtaba Nafez, Amirhossein Koochakian, Arad Maleki, Jafar Habibi, and Mohammad Hossein Rohban.* 
+
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
@@ -3374,6 +3378,10 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 1. **That's BAD: Blind anomaly detection by implicit local feature clustering.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03243)
 
    *Jie Zhang, Masanori Suganuma, and Takayuki Okatani.* 
+
+1. **Learning event completeness for weakly supervised video anomaly detection.** ICML, 2025. [paper](https://arxiv.org/abs/2506.13095)
+
+   *Yu Wang and Shiwei Chen.* 
 
 ### [Cluster](#content)
 1. **MIDAS: Microcluster-based detector of anomalies in edge streams.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5724)
