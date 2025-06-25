@@ -271,7 +271,7 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Peng Wu, Chengyu Pan, Yuting Yan, Guansong Pang, Peng Wang, and Yanning Zhang.* 
 
-1. **Deep Graph Anomaly Detection: A Survey and New Perspectives.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.09957)
+1. **Deep Graph Anomaly Detection: A Survey and New Perspectives.** TKDE, 2025. [paper](https://arxiv.org/abs/2409.09957)
 
    *Hezhe Qiao, Hanghang Tong, Bo An, Irwin King, Charu Aggarwal, Guansong Pang.* 
 
@@ -1189,13 +1189,15 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Yiqing Lin, Jianheng Tang, Chenyi Zi, H. Vicky Zhao, Yuan Yao, and Jia Li.* 
 
-1. **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** Arxiv, 2024. [paper](https://arxiv.org/abs/2410.14886)
+1. **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** IJCAI, 2025. [paper](https://arxiv.org/abs/2410.14886)
 
    *Chaoxi Niu, Hezhe Qiao, Changlu Chen, Ling Chen, Guansong Pang.* 
 
-1. **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** Arxiv, 2024. [paper](https://arxiv.org/abs/2502.09254)
+1. **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** KDD, 2025. [paper](https://arxiv.org/abs/2502.09254)
 
-   *Hezhe Qiao, Chaoxi Niu, Ling Chen, Guansong Pang.* 
+   *Hezhe Qiao, Chaoxi Niu, Ling Chen, Guansong Pang.*
+
+
 
 
 ### [Time Series](#content)
