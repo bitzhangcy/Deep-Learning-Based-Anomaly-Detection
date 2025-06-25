@@ -734,6 +734,10 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Ying Jin, Jinlong Peng, Qingdong He, Teng Hu, Hao Chen, Jiafu Wu, Wenbing Zhu, Mingmin Chi, Jun Liu, Yabiao Wang, and Chengjie Wang.*
 
+1. **Leveraging diffusion model as pseudo-anomalous graph generator for graph-level anomaly detection.** ICML, 2025. [paper](https://openreview.net/forum?id=Zm2M92TZyO)
+
+   *Jinyu Cai, Yunhe Zhang, Fusheng Liu, and See-Kiong Ng.*
+
 ### [Transformer](#content)
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -878,6 +882,10 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 1. **GeneralAD: Anomaly detection across domains by attending to distorted features.** ECCV, 2024. [paper](https://arxiv.org/abs/2407.12427)
 
    *Luc P.J. Sträter, Mohammadreza Salehi, Efstratios Gavves, Cees G. M. Snoek, and Yuki M. Asano.* 
+
+1. **PatchGuard: Adversarially robust anomaly detection and localization through vision transformers and pseudo anomalies.** CVPR, 2025. [paper](https://arxiv.org/abs/2506.09237)
+
+   *Mojtaba Nafez, Amirhossein Koochakian, Arad Maleki, Jafar Habibi, and Mohammad Hossein Rohban.* 
 
 ### [Convolution](#content)
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
@@ -3389,6 +3397,10 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Jie Zhang, Masanori Suganuma, and Takayuki Okatani.* 
 
+1. **Learning event completeness for weakly supervised video anomaly detection.** ICML, 2025. [paper](https://arxiv.org/abs/2506.13095)
+
+   *Yu Wang and Shiwei Chen.* 
+
 ### [Cluster](#content)
 1. **MIDAS: Microcluster-based detector of anomalies in edge streams.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5724)
 
@@ -3777,6 +3789,10 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 1. **An expert ensemble for detecting anomalous scenes, interactions, and behaviors in autonomous driving.** IJRR, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10287217)
 
    *Tianchen Ji, Neeloy Chakraborty, Andre Schreiber, and Katherine Driggs-Campbell.*
+
+1. **When every millisecond counts: Real-time anomaly detection via the multimodal asynchronous hybrid network.** ICML, 2025. [paper](https://openreview.net/forum?id=oYyaVSqEFu)
+
+   *Dong Xiao, Guangyao Chen, Peixi Peng, Yangru Huang, Yifan Zhao, Yongxing Dai, and Yonghong Tian.*
 
 ### [Medical Image](#content)
 1. **SWSSL: Sliding window-based self-supervised learning for anomaly detection in high-resolution images.** TMI, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247020)
