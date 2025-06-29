@@ -1197,6 +1197,9 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Hezhe Qiao, Chaoxi Niu, Ling Chen, Guansong Pang.*
 
+1. **Semi-supervised Graph Anomaly Detection via Robust Homophily Learning** Arxiv, 2025. [paper](https://arxiv.org/abs/2506.15448)
+
+   *Guoguo Ai, Hezhe Qiao, Hui Yan, Guansong Pang.*
 
 
 
