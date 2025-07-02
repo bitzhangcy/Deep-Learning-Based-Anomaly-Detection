@@ -267,14 +267,9 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Prabin B Lamichhane and William Eberle.* 
 
-1. **Deep learning for video anomaly detection: A review.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.05383)
+1. **Deep graph anomaly detection: A survey and new perspectives.** TKDE, 2025. [paper](https://ieeexplore.ieee.org/document/11048498)
 
-   *Peng Wu, Chengyu Pan, Yuting Yan, Guansong Pang, Peng Wang, and Yanning Zhang.* 
-
-1. **Deep Graph Anomaly Detection: A Survey and New Perspectives.** TKDE, 2025. [paper](https://arxiv.org/abs/2409.09957)
-
-   *Hezhe Qiao, Hanghang Tong, Bo An, Irwin King, Charu Aggarwal, Guansong Pang.* 
-
+   *Hezhe Qiao, Hanghang Tong, Bo An, Irwin King, Charu Aggarwal, and Guansong Pang.* 
 
 
 ## [Methodology](#content) 
@@ -475,10 +470,6 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 1. **RGI: Robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection.** ICLR, 2023. [paper](https://openreview.net/forum?id=1UbNwQC89a)
 
    *Shancong Mou, Xiaoyi Gu, Meng Cao, Haoping Bai, Ping Huang, Jiulong Shan, and Jianjun Shi.*
-
-1. **Truncated affinity maximization: One-class homophily modeling for graph anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00006)
-
-   *Qiao Hezhe and Pang Guansong.*
 
 1. **Anomaly detection under contaminated data with contamination-immune bidirectional GANs.** TKDE, 2024. [paper](https://www.computer.org/csdl/journal/tk/5555/01/10536641/1X9vdwpnhO8)
 
@@ -1041,10 +1032,6 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Yihan Ma, Zhikun Zhang, Ning Yu, Xinlei He, Michael Backes, Yun Shen, and Yang Zhang.*
 
-1. **Graph-level anomaly detection via hierarchical memory networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00755)
-
-   *Chaoxi Niu, Guansong Pang, and Ling Chen.*
-
 1. **CSCLog: A component subsequence correlation-aware log anomaly detection method.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.03359)
 
    *Ling Chen, Chaodu Song, Xu Wang, Dachao Fu, and Feifei Li.*
@@ -1060,10 +1047,6 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 1. **Graph anomaly detection at group level: A topology pattern enhanced unsupervised approach.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01063)
 
    *Xing Ai, Jialong Zhou, Yulin Zhu, Gaolei Li, Tomasz P. Michalak, Xiapu Luo, and Kai Zhou.*
-
-1. **HRGCN: Heterogeneous graph-level anomaly detection with hierarchical relation-augmented graph neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.14340)
-
-   *Jiaxi Li, Guansong Pang, Ling Chen, Mohammad-Reza and Namazi-Rad.*
 
 1. **Revisiting adversarial attacks on graph neural networks for graph classification.** TKDE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10243054)
 
@@ -1117,10 +1100,6 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Jakub Reha, Giulio Lovisotto, Michele Russo, Alessio Gravina, and Claas Grohnfeldt.*
 
-1. **Open-set graph anomaly detection via normal structure regularisation.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.06835)
-
-   *Qizhou Wang, Guansong Pang, Mahsa Salehi, Wray Buntine, and Christopher Leckie.* 
-
 1. **ADAMM: Anomaly detection of attributed multi-graphs with metadata: A unified neural network approach.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.07355)
 
    *Konstantinos Sotiropoulos, Lingxiao Zhao, Pierre Jinghong Liang, and Leman Akoglu.* 
@@ -1157,10 +1136,6 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Jinyu Cai, Yunhe Zhang, Zhoumin Lu, Wenzhong Guo, and See-kiong Ng.* 
 
-1. **Generative semi-supervised graph anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.11887)
-
-   *Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, and Guansong Pang.* 
-
 1. **Graph structure reshaping against adversarial attacks on graph neural networks.** TKDE, 2024. [paper](https://www.computer.org/csdl/journal/tk/5555/01/10538390/1XcOSbOdJD2)
 
    *Haibo Wang, Chuan Zhou, Xin Chen, Jia Wu, Shirui Pan, Zhao Li, Jilong Wang, and Philip S. Yu.* 
@@ -1191,17 +1166,11 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
 1. **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** IJCAI, 2025. [paper](https://arxiv.org/abs/2410.14886)
 
-   *Chaoxi Niu, Hezhe Qiao, Changlu Chen, Ling Chen, Guansong Pang.* 
+   *Chaoxi Niu, Hezhe Qiao, Changlu Chen, Ling Chen, and Guansong Pang.* 
 
 1. **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** KDD, 2025. [paper](https://arxiv.org/abs/2502.09254)
 
-   *Hezhe Qiao, Chaoxi Niu, Ling Chen, Guansong Pang.*
-
-1. **Semi-supervised Graph Anomaly Detection via Robust Homophily Learning** Arxiv, 2025. [paper](https://arxiv.org/abs/2506.15448)
-
-   *Guoguo Ai, Hezhe Qiao, Hui Yan, Guansong Pang.*
-
-
+   *Hezhe Qiao, Chaoxi Niu, Ling Chen, and Guansong Pang.*
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
@@ -1949,7 +1918,7 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
 1. **GL-MCM: Global and local maximum concept matching for zero-shot out-of-distribution detection.** IJCV, 2025. [paper](https://link.springer.com/article/10.1007/s11263-025-02356-z)
 
-   *Atsuyuki Miyai, Qing Yu, Go Irie, and Kiyoharu Aizawa .* 
+   *Atsuyuki Miyai, Qing Yu, Go Irie, and Kiyoharu Aizawa.* 
 
 ### [Reinforcement Learning](#content)
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
@@ -3379,7 +3348,11 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
 1. **An energy-centric framework for category-free out-of-distribution node detection in graphs.** KDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671939)
 
-   *Zheng Gong and Ying Sun* 
+   *Zheng Gong and Ying Sun.* 
+
+1. **Dual energy-based model with open-world uncertainty estimation for out-of-distribution detection.** CVPR, 2025. [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Dual_Energy-Based_Model_with_Open-World_Uncertainty_Estimation_for_Out-of-distribution_Detection_CVPR_2025_paper.html)
+
+   *Qi Chen and Hu Ding.* 
 
 ### [Memory Bank](#content)
 1. **Towards total recall in industrial anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)
