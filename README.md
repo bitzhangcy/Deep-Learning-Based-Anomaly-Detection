@@ -3490,10 +3490,11 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Hao Wang, Zhiqi Cheng, Jingdong Sun, Xin Yang, Xiao Wu, Hongyang Chen, and Yan Yang.*
 
-1. **Multimodal industrial anomaly detection by crossmodal feature mapping.** CVPR, 2024. [paper](
-1. **Multimodal industrial anomaly detection by crossmodal feature mapping.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.04521)
+1. **Multimodal industrial anomaly detection by crossmodal feature mapping.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Costanzino_Multimodal_Industrial_Anomaly_Detection_by_Crossmodal_Feature_Mapping_CVPR_2024_paper.pdf) 
 
-   *Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti, and Luigi Di Stefano.*)
+   *Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti, and Luigi Di Stefano.*
+
+1. **Multimodal industrial anomaly detection by crossmodal feature mapping.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.04521)
 
    *Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti, and Luigi Di Stefano.*
 
@@ -3882,7 +3883,7 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Arya Adesh, Shobha G, Jyoti Shetty, and Lili Xu.* 
 
-###[Physics](#content)
+### [Physics](#content)
 1. **Anomaly detection under coordinate transformations.** Physical Review D, 2023. [paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.015009)
 
    *Gregor Kasieczka, Radha Mastandrea, Vinicius Mikuni, Benjamin Nachman, Mariel Pettee, and David Shih.* 
@@ -3912,7 +3913,7 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Qinghua Xu, Shaukat Ali, Tao Yue, Zaimovic Nedim, and Inderjeet Singh.* 
 
-1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.**TCE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
+1. **Anomaly detection with memory-augmented adversarial autoencoder networks for industry 5.0.** TCE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10263623)
 
    *Huan Zhang, Neeraj Kumar, Sheng Wu, Chunlei Wu, Jian Wang, and Peiying Zhang.* 
 
