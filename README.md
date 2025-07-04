@@ -1183,7 +1183,7 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
 1. **Generative Semi-supervised Graph Anomaly Detection.** NIPS, 2024. [paper](https://arxiv.org/abs/2402.11887)
    
-   *Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, Guansong Pang.*
+   *Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, and Guansong Pang.*
 
 1. **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** IJCAI, 2025. [paper](https://arxiv.org/abs/2410.14886)
 
