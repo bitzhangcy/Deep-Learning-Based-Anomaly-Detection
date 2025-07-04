@@ -1123,6 +1123,15 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 1.  **Cross-Domain Graph Anomaly Detection via Anomaly-aware Contrastive Alignment** AAAI, 2023.  [paper](https://arxiv.org/abs/2212.01096)
 
     *Qizhou Wang, Guansong Pang, Mahsa Salehi, Wray Buntine, Christopher Leckie.*
+
+1. **Graph-level anomaly detection via hierarchical memory networks.** ECML PKDD, 2023. [paper](https://arxiv.org/abs/2307.00755)
+
+   *Chaoxi Niu, Guansong Pang, and Ling Chen.*
+
+1. **HRGCN: Heterogeneous graph-level anomaly detection with hierarchical relation-augmented graph neural networks.** DSAA, 2023. [paper](https://arxiv.org/abs/2308.14340)
+
+   *Jiaxi Li, Guansong Pang, Ling Chen, Mohammad-Reza and Namazi-Rad.*
+   
    
 1.  **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection.** NeurIPS, 2023. [paper](https://arxiv.org/abs/2306.00006)
 
