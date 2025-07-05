@@ -1132,7 +1132,6 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Jiaxi Li, Guansong Pang, Ling Chen, Mohammad-Reza and Namazi-Rad.*
    
-   
 1.  **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection.** NeurIPS, 2023. [paper](https://arxiv.org/abs/2306.00006)
 
     *Hezhe Qiao and Guansong Pang.*
@@ -1181,23 +1180,21 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 
    *Yiqing Lin, Jianheng Tang, Chenyi Zi, H. Vicky Zhao, Yuan Yao, and Jia Li.*
 
-1. **Generative Semi-supervised Graph Anomaly Detection.** NIPS, 2024. [paper](https://arxiv.org/abs/2402.11887)
+1. **Generative semi-supervised graph anomaly detection.** NIPS, 2024. [paper](https://openreview.net/forum?id=zqLAMwVLkt&referrer)
    
    *Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, and Guansong Pang.*
 
-1. **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** IJCAI, 2025. [paper](https://arxiv.org/abs/2410.14886)
+1. **Zero-shot generalist graph anomaly detection with unified neighborhood prompts.** IJCAI, 2025. [paper](https://arxiv.org/abs/2410.14886)
 
    *Chaoxi Niu, Hezhe Qiao, Changlu Chen, Ling Chen, and Guansong Pang.* 
 
-1. **AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection** KDD, 2025. [paper](https://arxiv.org/abs/2502.09254)
+1. **AnomalyGFM: Graph foundation model for zero/few-shot anomaly detection.** KDD, 2025. [paper](https://arxiv.org/abs/2502.09254)
 
    *Hezhe Qiao, Chaoxi Niu, Ling Chen, and Guansong Pang.*
    
-1. **Open-Set Graph Anomaly Detection via Normal Structure Regularisation** ICLR，2025. [paper](https://arxiv.org/abs/2311.06835)
+1. **Open-set graph anomaly detection via normal structure regularisation.** ICLR，2025. [paper](https://openreview.net/forum?id=kSvoX0xdlO)
    
    *Qizhou Wang, Guansong Pang, Mahsa Salehi, Wray Buntine, and Christopher Leckie.*
-
-
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
