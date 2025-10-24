@@ -1195,6 +1195,14 @@ If you are interested in deep learning for anomaly detection, feel free to submi
 1. **Open-set graph anomaly detection via normal structure regularisation.** ICLR，2025. [paper](https://openreview.net/forum?id=kSvoX0xdlO)
    
    *Qizhou Wang, Guansong Pang, Mahsa Salehi, Wray Buntine, and Christopher Leckie.*
+   
+1. **Semi-supervised Graph Anomaly Detection via Robust Homophily Learning.** NeurIPS, 2025. [paper](https://arxiv.org/abs/2506.15448)
+
+   *Guoguo Ai, Hezhe Qiao, Hui Yan, and Guansong Pang.*
+
+1. **Normality Calibration in Semi-supervised Graph Anomaly Detection.** arXiv, 2025. [paper](https://arxiv.org/abs/2510.02014)
+
+   *Guolei Zeng, Hezhe Qiao, Guoguo Ai, Jinsong Guo, Guansong Pang.*
 
 ### [Time Series](#content)
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
